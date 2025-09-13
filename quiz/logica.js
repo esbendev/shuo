@@ -6,6 +6,8 @@ let currentId = 1;
 // get filename from URL params
 const urlParams = new URLSearchParams(window.location.search);
 const filename = urlParams.get('file') || '';
+const tituloQuiz = document.querySelector('.titulo-quiz');
+const instrucciones = document.querySelector('.instrucciones');
 
 if (filename == '') {
     // redirect to ../index.html if no file param
@@ -22,11 +24,11 @@ fetch(`../contenido/preguntas/${filename}.json`)
     pregunta = data.preguntas.find(p => p.id === currentId);
     if (!pregunta || !pregunta.input_chars_aceptados) return;
 
-    const tituloQuiz = document.querySelector('.titulo-quiz');
     tituloQuiz.textContent = data.titulo;
 
-    const instrucciones = document.querySelector('.instrucciones');
-    instrucciones.textContent = data.instrucciones;
+    instrucciones.textContent = pregunta.instrucciones;
+    
+    cargarBotonAudio();
 
     const keys = pregunta.input_chars_aceptados;
     const keyboard = document.querySelector('.teclado-respuestas');
@@ -62,14 +64,26 @@ function actualizarListaDePreguntas() {
     }
 }
 
+function cargarBotonAudio() {
+    const botonAudio = document.querySelector('.boton-audio');
+    if (pregunta && pregunta.archivo_audio === '') {
+        botonAudio.classList.add('boton-audio--esconder');
+    } else {
+        botonAudio.classList.remove('boton-audio--esconder');
+    }
+}
+
+
 function proximaPregunta() {
     if (!pregunta) return;
     if (pregunta.id < cantidadPreguntas) {
         currentId = pregunta.id + 1;
-        fetch('../contenido/preguntas/tubh1_1.json')
+        fetch(`../contenido/preguntas/${filename}.json`)
         .then(response => response.json())
         .then(data => {
             pregunta = data.preguntas.find(p => p.id === currentId);
+            cargarBotonAudio();
+            instrucciones.textContent = pregunta.instrucciones;
             actualizarListaDePreguntas();
             playAudio();
         });

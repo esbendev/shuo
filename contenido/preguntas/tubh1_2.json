@@ -1,78 +1,103 @@
 {
     "titulo": "Day 2",
-    "instrucciones": "Listen to the audio and choose the correct tone.",
     "preguntas": [
         {
             "id": 1,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio1.mp3",
-            "respuesta_correcta": "3rd (ˇ )",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 零 (líng)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "0",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 2,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio2.mp3",
-            "respuesta_correcta": "3rd (ˇ )",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 三 (sān)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "3",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 3,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio3.mp3",
-            "respuesta_correcta": "1st (ˉ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 一 (yī)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "1",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 4,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio4.mp3",
-            "respuesta_correcta": "4th (ˋ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 四 (sì)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "4",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 5,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio5.mp3",
-            "respuesta_correcta": "2nd (ˊ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 二 (èr)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "2",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 6,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio6.mp3",
-            "respuesta_correcta": "1st (ˉ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 五 (wǔ)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "5",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 7,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio7.mp3",
-            "respuesta_correcta": "4th (ˋ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 七 (qī)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "7",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 8,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio8.mp3",
-            "respuesta_correcta": "2nd (ˊ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 八 (bā)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "8",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 9,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio9.mp3",
-            "respuesta_correcta": "4th (ˋ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 九 (jiǔ)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "9",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 10,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio10.mp3",
-            "respuesta_correcta": "3rd (ˇ )",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 六 (liù)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "6",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 11,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio11.mp3",
-            "respuesta_correcta": "1st (ˉ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 十 (shí)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "10",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 12,
-            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio12.mp3",
-            "respuesta_correcta": "3rd (ˇ )",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "instrucciones": "What number is 十一 (shí yī)?",
+            "archivo_audio": "",
+            "respuesta_correcta": "11",
+            "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
+        },
+        {
+            "id": 13,
+            "instrucciones": "How do you say 28 in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "二十八",
+            "input_chars_aceptados": ["零","一", "二", "三", "四", "五", "六", "七", "八", "九", "十"]
+        },
+        {
+            "id": 14,
+            "instrucciones": "How do you say the year 1994 in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "一九九四",
+            "input_chars_aceptados": ["零","一", "二", "三", "四", "五", "六", "七", "八", "九", "十"]
         }
     ]
 }
