@@ -3,8 +3,17 @@ let cantidadPreguntas = 0;
 let preguntasEstado = [];
 let currentId = 1;
 
+// get filename from URL params
+const urlParams = new URLSearchParams(window.location.search);
+const filename = urlParams.get('file') || '';
+
+if (filename == '') {
+    // redirect to ../index.html if no file param
+    window.location.href = '../index.html';``
+}
+
 // cargo archivo con audio, respuesta correcta y teclado
-fetch('../contenido/preguntas/tubh1_1.json')
+fetch(`../contenido/preguntas/${filename}.json`)
 .then(response => response.json())
 .then(data => {
     preguntasEstado = data.preguntas.map(p => ({ id: p.id, value: 0 }));
@@ -12,6 +21,9 @@ fetch('../contenido/preguntas/tubh1_1.json')
     // Use currentId instead of hardcoded 1
     pregunta = data.preguntas.find(p => p.id === currentId);
     if (!pregunta || !pregunta.input_chars_aceptados) return;
+
+    const tituloQuiz = document.querySelector('.titulo-quiz');
+    tituloQuiz.textContent = data.titulo;
 
     const instrucciones = document.querySelector('.instrucciones');
     instrucciones.textContent = data.instrucciones;

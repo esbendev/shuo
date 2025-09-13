@@ -1,0 +1,78 @@
+{
+    "titulo": "Day 2",
+    "instrucciones": "Listen to the audio and choose the correct tone.",
+    "preguntas": [
+        {
+            "id": 1,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio1.mp3",
+            "respuesta_correcta": "3rd (ˇ )",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 2,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio2.mp3",
+            "respuesta_correcta": "3rd (ˇ )",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 3,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio3.mp3",
+            "respuesta_correcta": "1st (ˉ)",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 4,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio4.mp3",
+            "respuesta_correcta": "4th (ˋ)",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 5,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio5.mp3",
+            "respuesta_correcta": "2nd (ˊ)",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 6,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio6.mp3",
+            "respuesta_correcta": "1st (ˉ)",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 7,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio7.mp3",
+            "respuesta_correcta": "4th (ˋ)",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 8,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio8.mp3",
+            "respuesta_correcta": "2nd (ˊ)",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 9,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio9.mp3",
+            "respuesta_correcta": "4th (ˋ)",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 10,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio10.mp3",
+            "respuesta_correcta": "3rd (ˇ )",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 11,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio11.mp3",
+            "respuesta_correcta": "1st (ˉ)",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        },
+        {
+            "id": 12,
+            "archivo_audio": "../contenido/audio/tubh/1/day-2/audio12.mp3",
+            "respuesta_correcta": "3rd (ˇ )",
+            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+        }
+    ]
+}
