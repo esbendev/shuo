@@ -30,17 +30,7 @@ fetch(`../contenido/preguntas/${filename}.json`)
     
     cargarBotonAudio();
 
-    const keys = pregunta.input_chars_aceptados;
-    const keyboard = document.querySelector('.teclado-respuestas');
-    keys.forEach(key => {
-        const btn = document.createElement('button');
-        btn.className = 'teclado-tecla';
-        btn.textContent = key;
-        btn.addEventListener('click', () => {
-            document.querySelector('.input-respuesta').value += key;
-        });
-        keyboard.appendChild(btn);
-    });
+    actualizarTeclado();
 
     cantidadPreguntas = data.preguntas.length;
     actualizarListaDePreguntas();
@@ -64,6 +54,22 @@ function actualizarListaDePreguntas() {
     }
 }
 
+function actualizarTeclado() {
+    if (!pregunta || !pregunta.input_chars_aceptados) return;
+    const keys = pregunta.input_chars_aceptados;
+    const keyboard = document.querySelector('.teclado-respuestas');
+    keyboard.innerHTML = '';
+    keys.forEach(key => {
+        const btn = document.createElement('button');
+        btn.className = 'teclado-tecla';
+        btn.textContent = key;
+        btn.addEventListener('click', () => {
+            document.querySelector('.input-respuesta').value += key;
+        });
+        keyboard.appendChild(btn);
+    });
+}
+
 function cargarBotonAudio() {
     const botonAudio = document.querySelector('.boton-audio');
     if (pregunta && pregunta.archivo_audio === '') {
@@ -85,6 +91,7 @@ function proximaPregunta() {
             cargarBotonAudio();
             instrucciones.textContent = pregunta.instrucciones;
             actualizarListaDePreguntas();
+            actualizarTeclado();
             playAudio();
         });
     } else {

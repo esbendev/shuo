@@ -16,7 +16,7 @@ body {
     text-align: center;
 }
 .lista-de-preguntas {
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
 }
 
 a.back-button {
@@ -44,15 +44,20 @@ a.back-button {
     border-radius: 4px;
 }
 .teclado-respuestas {
-    margin-bottom: 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 90%;
+    gap: .4rem;
 }
 .teclado-tecla {
     display: inline-block;
-    margin: 3px;
-    padding: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
     cursor: pointer;
+    font-size: 1.5rem;
+    width: 3rem;
+    height: 3rem;
 }
 
 .submit-button {
@@ -112,4 +117,10 @@ a.boton-quiz {
     color: white;
     text-decoration: none;
     cursor: pointer;
+}
+
+.instrucciones {
+    margin: 20px 0;
+    font-size: 1.1em;
+    min-height: 40px;
 }
