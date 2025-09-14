@@ -114,6 +114,13 @@ function proximaPregunta() {
     }
 }
 
+// on enter key press in input.respuesta, trigger submit button click
+document.querySelector('.input-respuesta').addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+        document.querySelector('.submit-button').click();
+    }
+});
+
 document.querySelector('.submit-button').addEventListener('click', () => {
     const userInput = document.querySelector('.input-respuesta').value;
     if (pregunta) {
