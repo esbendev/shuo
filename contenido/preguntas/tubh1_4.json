@@ -1,0 +1,68 @@
+{
+    "titulo": "Day 4",
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say 'hello' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "你好",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say 'lesson 1' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "第一课",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say 'good morning' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "早上好",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say 'good evening' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "晚上好",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say 'good bye' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "再见",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say 'what is your name?' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "你叫什么名字？",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say 'My name is' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "我叫",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say 'how old are you?' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "你多大了？",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say 'i'm 34 years old' in chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "我三十四岁。",
+            "input_chars_aceptados": []
+        }
+    ]
+}

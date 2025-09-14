@@ -68,6 +68,16 @@ function actualizarTeclado() {
         });
         keyboard.appendChild(btn);
     });
+
+    // if there are no keys, remove inputmode none from input-respuesta
+    const input = document.querySelector('.input-respuesta');
+    if (keys.length === 0) {
+        input.removeAttribute('inputmode');
+        input.removeAttribute('readonly');
+    } else {
+        input.setAttribute('inputmode', 'none');
+        input.setAttribute('readonly', 'true');
+    }
 }
 
 function cargarBotonAudio() {
