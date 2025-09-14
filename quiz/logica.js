@@ -14,13 +14,22 @@ if (filename == '') {
     window.location.href = '../index.html';``
 }
 
+// Check localStorage for existing currentId for this filename
+const storageKey = `quiz_currentId_${filename}`;
+const storedId = localStorage.getItem(storageKey);
+if (storedId) {
+    currentId = parseInt(storedId, 10);
+}
+
 // cargo archivo con audio, respuesta correcta y teclado
 fetch(`../contenido/preguntas/${filename}.json`)
 .then(response => response.json())
 .then(data => {
-    preguntasEstado = data.preguntas.map(p => ({ id: p.id, value: 0 }));
+    preguntasEstado = data.preguntas.map(p => ({
+        id: p.id,
+        value: p.id < currentId ? 1 : 0
+    }));
 
-    // Use currentId instead of hardcoded 1
     pregunta = data.preguntas.find(p => p.id === currentId);
     if (!pregunta || !pregunta.input_chars_aceptados) return;
 
@@ -52,6 +61,8 @@ function actualizarListaDePreguntas() {
         }
         lista.appendChild(item);
     }
+    // Save currentId to localStorage for this filename
+    localStorage.setItem(`quiz_currentId_${filename}`, currentId);
 }
 
 function actualizarTeclado() {
@@ -94,6 +105,7 @@ function proximaPregunta() {
     if (!pregunta) return;
     if (pregunta.id < cantidadPreguntas) {
         currentId = pregunta.id + 1;
+
         fetch(`../contenido/preguntas/${filename}.json`)
         .then(response => response.json())
         .then(data => {
