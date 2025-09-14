@@ -1,0 +1,138 @@
+{
+    "titulo": "Day 6 Vocabulary",
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say 'I, me' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "我",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say 'you' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "你",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say 'he, him' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "他",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say 'she, her' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "她",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say 'you (polite)' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "您",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say 'good' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "好",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say 'to be called' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "叫",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say 'years old' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "岁",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say 'which' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "哪",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "How do you say 'country' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "国",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "How do you say 'person, people' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "人",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "How do you say 'very' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "很",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "How do you say 'also' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "也",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "How do you say 'morning' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "早上",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "How do you say 'evening, night' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "晚上",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "How do you say 'what' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "什么",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "How do you say 'name' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "名字",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 18,
+            "instrucciones": "How do you say 'happy' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "高兴",
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 19,
+            "instrucciones": "How do you say 'to know, to recognize' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": "认识",
+            "input_chars_aceptados": []
+        }
+    ]
+}
