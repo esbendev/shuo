@@ -112,6 +112,7 @@ a.back-button {
 
 a.boton-quiz {
     display: inline-block;
+    position: relative;
     margin: 10px;
     padding: 10px 20px;
     border: none;
@@ -120,6 +121,26 @@ a.boton-quiz {
     color: white;
     text-decoration: none;
     cursor: pointer;
+}
+
+a.boton-quiz--completado::after {
+    content: "✅";
+    font-size: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 6px;
+    right: 6px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 2px solid white;
+    box-sizing: border-box;
+}
+
+a.boton-quiz--completado::after {
+    background: #28a745; /* green */
 }
 
 .instrucciones {

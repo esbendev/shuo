@@ -42,6 +42,9 @@ fetch(`../contenido/preguntas/${filename}.json`)
     actualizarTeclado();
 
     cantidadPreguntas = data.preguntas.length;
+
+    // save cantidadPreguntas to localStorage for this filename
+    localStorage.setItem(`quiz_cantidadPreguntas_${filename}`, cantidadPreguntas);
     actualizarListaDePreguntas();
 });
 
