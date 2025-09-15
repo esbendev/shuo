@@ -5,14 +5,14 @@
             "id": 1,
             "instrucciones": "How do you say 'hello' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "你好",
+            "respuesta_correcta": ["你好", "ni3hao3", "nǐhǎo"],
             "input_chars_aceptados": []
         },
         {
             "id": 2,
             "instrucciones": "How do you say 'lesson 1' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "第一课",
+            "respuesta_correcta": ["第一课", "dìyīkè", "di4yi1ke4"],
             "input_chars_aceptados": []
         },
         {

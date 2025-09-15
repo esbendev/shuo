@@ -11,7 +11,7 @@ const instrucciones = document.querySelector('.instrucciones');
 
 if (filename == '') {
     // redirect to ../index.html if no file param
-    window.location.href = '../index.html';``
+    window.location.href = '../index.html';
 }
 
 // Check localStorage for existing currentId for this filename
@@ -23,30 +23,30 @@ if (storedId) {
 
 // cargo archivo con audio, respuesta correcta y teclado
 fetch(`../contenido/preguntas/${filename}.json`)
-.then(response => response.json())
-.then(data => {
-    preguntasEstado = data.preguntas.map(p => ({
-        id: p.id,
-        value: p.id < currentId ? 1 : 0
-    }));
+    .then(response => response.json())
+    .then(data => {
+        preguntasEstado = data.preguntas.map(p => ({
+            id: p.id,
+            value: p.id < currentId ? 1 : 0
+        }));
 
-    pregunta = data.preguntas.find(p => p.id === currentId);
-    if (!pregunta || !pregunta.input_chars_aceptados) return;
+        pregunta = data.preguntas.find(p => p.id === currentId);
+        if (!pregunta || !pregunta.input_chars_aceptados) return;
 
-    tituloQuiz.textContent = data.titulo;
+        tituloQuiz.textContent = data.titulo;
 
-    instrucciones.textContent = pregunta.instrucciones;
-    
-    cargarBotonAudio();
+        instrucciones.textContent = pregunta.instrucciones;
 
-    actualizarTeclado();
+        cargarBotonAudio();
 
-    cantidadPreguntas = data.preguntas.length;
+        actualizarTeclado();
 
-    // save cantidadPreguntas to localStorage for this filename
-    localStorage.setItem(`quiz_cantidadPreguntas_${filename}`, cantidadPreguntas);
-    actualizarListaDePreguntas();
-});
+        cantidadPreguntas = data.preguntas.length;
+
+        // save cantidadPreguntas to localStorage for this filename
+        localStorage.setItem(`quiz_cantidadPreguntas_${filename}`, cantidadPreguntas);
+        actualizarListaDePreguntas();
+    });
 
 function actualizarListaDePreguntas() {
     const lista = document.querySelector('.lista-de-preguntas');
@@ -110,15 +110,15 @@ function proximaPregunta() {
         currentId = pregunta.id + 1;
 
         fetch(`../contenido/preguntas/${filename}.json`)
-        .then(response => response.json())
-        .then(data => {
-            pregunta = data.preguntas.find(p => p.id === currentId);
-            cargarBotonAudio();
-            instrucciones.textContent = pregunta.instrucciones;
-            actualizarListaDePreguntas();
-            actualizarTeclado();
-            playAudio();
-        });
+            .then(response => response.json())
+            .then(data => {
+                pregunta = data.preguntas.find(p => p.id === currentId);
+                cargarBotonAudio();
+                instrucciones.textContent = pregunta.instrucciones;
+                actualizarListaDePreguntas();
+                actualizarTeclado();
+                playAudio();
+            });
     } else {
         // Quiz completed
         const resultadoDiv = document.querySelector('.resultado-respuesta');
@@ -137,21 +137,37 @@ document.querySelector('.input-respuesta').addEventListener('keydown', (e) => {
 });
 
 document.querySelector('.submit-button').addEventListener('click', () => {
-    const userInput = document.querySelector('.input-respuesta').value;
+    let userInput = document.querySelector('.input-respuesta').value;
+    userInput = userInput.trim().replace(/\s+/g, "");
+    console.log('User input: |', userInput , '|');
     if (pregunta) {
         // Find the state object for this pregunta
         const estado = preguntasEstado.find(p => p.id === pregunta.id);
         const resultadoDiv = document.querySelector('.resultado-respuesta');
-        if (userInput === pregunta.respuesta_correcta) {
-            resultadoDiv.textContent = 'Correct!';
-            resultadoDiv.className = 'resultado-respuesta correcto';
-            if (estado) estado.value = 1;
-            proximaPregunta();
+        if (Array.isArray(pregunta.respuesta_correcta)) {
+            if (pregunta.respuesta_correcta.some(ans => ans === userInput)) {
+                resultadoDiv.textContent = 'Correct!';
+                resultadoDiv.className = 'resultado-respuesta correcto';
+                if (estado) estado.value = 1;
+                proximaPregunta();
+            } else {
+                resultadoDiv.textContent = 'That was incorrect, please try again.';
+                resultadoDiv.className = 'resultado-respuesta incorrecto';
+                if (estado) estado.value = 0;
+                playAudio();
+            }
         } else {
-            resultadoDiv.textContent = 'That was incorrect, please try again.';
-            resultadoDiv.className = 'resultado-respuesta incorrecto';
-            if (estado) estado.value = 0;
-            playAudio();
+            if (pregunta.respuesta_correcta === userInput) {
+                resultadoDiv.textContent = 'Correct!';
+                resultadoDiv.className = 'resultado-respuesta correcto';
+                if (estado) estado.value = 1;
+                proximaPregunta();
+            } else {
+                resultadoDiv.textContent = 'That was incorrect, please try again.';
+                resultadoDiv.className = 'resultado-respuesta incorrecto';
+                if (estado) estado.value = 0;
+                playAudio();
+            }
         }
     }
     console.log(preguntasEstado);
