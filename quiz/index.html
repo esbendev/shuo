@@ -38,14 +38,19 @@
             text-align: right;
         }
 
-        .help-button {
+        .boton-ayuda {
+            display: inline-block;
             font-size: 16px;
             padding: 5px 10px;
             cursor: pointer;
             margin: 10px;
         }
 
-        .back-button {
+        .boton-ayuda--esconder {
+            display: none;
+        }
+
+        .boton-atras {
             font-size: 16px;
             padding: 5px 10px;
             cursor: pointer;
@@ -70,8 +75,8 @@
         </div>
     </div>
     <main class="quiz-container">
-        <a href="../index.html" class="back-button">Back to main menu</a>
-        <button class="help-button" onclick="openHelpPopup()">Help</button>
+        <a href="../index.html" class="boton-atras">Back to main menu</a>
+        <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
         <h1 class="titulo-quiz"></h1>
         <div class="lista-de-preguntas"></div>
         <div class="instrucciones"></div>

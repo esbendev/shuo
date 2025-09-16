@@ -1,5 +1,6 @@
 {
     "titulo": "Day 6 Vocabulary",
+    "showHelp": true,
     "preguntas": [
         {
             "id": 1,
@@ -94,42 +95,42 @@
         },
         {
             "id": 14,
-            "instrucciones": "How do you say 'morning' in Chinese?",
+            "instrucciones": "How do you say <strong>'morning'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "早上",
             "input_chars_aceptados": []
         },
         {
             "id": 15,
-            "instrucciones": "How do you say 'evening, night' in Chinese?",
+            "instrucciones": "How do you say <strong>'evening, night'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "晚上",
             "input_chars_aceptados": []
         },
         {
             "id": 16,
-            "instrucciones": "How do you say 'what' in Chinese?",
+            "instrucciones": "How do you say <strong>'what'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "什么",
             "input_chars_aceptados": []
         },
         {
             "id": 17,
-            "instrucciones": "How do you say 'name' in Chinese?",
+            "instrucciones": "How do you say <strong>'name'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "名字",
             "input_chars_aceptados": []
         },
         {
             "id": 18,
-            "instrucciones": "How do you say 'happy' in Chinese?",
+            "instrucciones": "How do you say <strong>'happy'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "高兴",
             "input_chars_aceptados": []
         },
         {
             "id": 19,
-            "instrucciones": "How do you say 'to know, to recognize' in Chinese?",
+            "instrucciones": "How do you say <strong>'to know, to recognize'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "认识",
             "input_chars_aceptados": []

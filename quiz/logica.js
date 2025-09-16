@@ -8,6 +8,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const filename = urlParams.get('file') || '';
 const tituloQuiz = document.querySelector('.titulo-quiz');
 const instrucciones = document.querySelector('.instrucciones');
+const botonAyuda = document.querySelector('.boton-ayuda');
 
 if (filename == '') {
     // redirect to ../index.html if no file param
@@ -38,6 +39,7 @@ fetch(`../contenido/preguntas/${filename}.json`)
         instrucciones.innerHTML = pregunta.instrucciones;
 
         cargarBotonAudio();
+        mostrarBotonAyuda(data.showHelp);
 
         actualizarTeclado();
 
@@ -47,6 +49,14 @@ fetch(`../contenido/preguntas/${filename}.json`)
         localStorage.setItem(`quiz_cantidadPreguntas_${filename}`, cantidadPreguntas);
         actualizarListaDePreguntas();
     });
+
+function mostrarBotonAyuda(mostrar) {
+    if (mostrar) {
+        botonAyuda.classList.remove('boton-ayuda--esconder');
+    } else {
+        botonAyuda.classList.add('boton-ayuda--esconder');
+    }
+}
 
 function actualizarListaDePreguntas() {
     const lista = document.querySelector('.lista-de-preguntas');

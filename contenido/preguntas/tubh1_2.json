@@ -1,5 +1,6 @@
 {
     "titulo": "Day 2",
+    "showHelp": false,
     "preguntas": [
         {
             "id": 1,
@@ -87,14 +88,14 @@
         },
         {
             "id": 13,
-            "instrucciones": "How do you say <p>'28'</p> in chinese?",
+            "instrucciones": "How do you say <strong>'28'</strong> in chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "二十八",
             "input_chars_aceptados": ["零","一", "二", "三", "四", "五", "六", "七", "八", "九", "十"]
         },
         {
             "id": 14,
-            "instrucciones": "How do you say the year <p>'1994'</p> in chinese?",
+            "instrucciones": "How do you say the year <strong>'1994'</strong> in chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "一九九四",
             "input_chars_aceptados": ["零","一", "二", "三", "四", "五", "六", "七", "八", "九", "十"]
