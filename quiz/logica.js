@@ -139,11 +139,22 @@ function proximaPregunta() {
     }
 }
 
-function limpiarString(str) {
-    str = str.trim().replace(/\s+/g, "");
-    // remove .?!。？！
-    str = str.replace(/[.?!。？！]/g, "");
-    return str;
+function limpiarString(input) {
+    if (Array.isArray(input)) {
+        // If input is an array, clean each string in the array
+        return input.map(str => {
+            str = String(str);
+            str = str.trim().replace(/\s+/g, "");
+            str = str.replace(/[.?!。？！]/g, "");
+            return str.toLowerCase();
+        });
+    } else {
+        // If input is a string, clean the string
+        input = String(input);
+        input = input.trim().replace(/\s+/g, "");
+        input = input.replace(/[.?!。？！]/g, "");
+        return input.toLowerCase();
+    }
 }
 
 // on enter key press in input.respuesta, trigger submit button click
@@ -161,29 +172,36 @@ document.querySelector('.submit-button').addEventListener('click', () => {
         // Find the state object for this pregunta
         const estado = preguntasEstado.find(p => p.id === pregunta.id);
         const resultadoDiv = document.querySelector('.resultado-respuesta');
-        if (Array.isArray(pregunta.respuesta_correcta)) {
-            // console.log('Checking against multiple correct answers:', pregunta.respuesta_correcta);
-            if (pregunta.respuesta_correcta.some(ans => limpiarString(ans) === userInput)) {
+        const respuestaCorrecta = limpiarString(pregunta.respuesta_correcta);
+        console.log('Correct answer(s):', respuestaCorrecta);
+        console.log('User input after cleaning and normalization:', userInput);
+        if (Array.isArray(respuestaCorrecta)) {
+            // console.log('Checking against multiple correct answers:', respuestaCorrecta);
+            if (respuestaCorrecta.some(ans => ans === userInput)) {
                 resultadoDiv.textContent = 'Correct!';
                 resultadoDiv.className = 'resultado-respuesta correcto';
                 if (estado) estado.value = 1;
+                console.log('Correct answer given, moving to next question.');
                 proximaPregunta();
             } else {
                 resultadoDiv.textContent = 'That was incorrect, please try again.';
                 resultadoDiv.className = 'resultado-respuesta incorrecto';
                 if (estado) estado.value = 0;
+                console.log('Incorrect answer, prompting user to try again.');
                 playAudio();
             }
         } else {
-            if (pregunta.respuesta_correcta === userInput) {
+            if (respuestaCorrecta === userInput) {
                 resultadoDiv.textContent = 'Correct!';
                 resultadoDiv.className = 'resultado-respuesta correcto';
                 if (estado) estado.value = 1;
+                console.log('Correct answer given, moving to next question.');
                 proximaPregunta();
             } else {
                 resultadoDiv.textContent = 'That was incorrect, please try again.';
                 resultadoDiv.className = 'resultado-respuesta incorrecto';
                 if (estado) estado.value = 0;
+                console.log('Incorrect answer, prompting user to try again.');
                 playAudio();
             }
         }
