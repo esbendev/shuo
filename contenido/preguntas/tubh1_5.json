@@ -6,28 +6,28 @@
             "id": 1,
             "instrucciones": "How do you say <strong>'What country are you from?'</strong> in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "你是哪国人？",
+            "respuesta_correcta": ["你是哪国人？", "nǐ shì nǎ guó rén?", "ni3 shi4 na3 guo2 ren2?"],
             "input_chars_aceptados": []
         },
         {
             "id": 2,
             "instrucciones": "How do you say <strong>'I am Chinese'</strong> in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "我是中国人。",
+            "respuesta_correcta": ["我是中国人。", "wǒ shì zhōngguó rén.", "wo3 shi4 zhong1guo2 ren2."],
             "input_chars_aceptados": []
         },
         {
             "id": 3,
             "instrucciones": "How do you say <strong>'Nice to meet you'</strong> in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "很高兴认识你。",
+            "respuesta_correcta": ["很高兴认识你。", "hěn gāoxìng rènshì nǐ.", "hen3 gao1xing4 ren4shi4 ni3."],
             "input_chars_aceptados": []
         },
         {
             "id": 4,
             "instrucciones": "How do you say <strong>'Me too!'</strong> in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "我也是！",
+            "respuesta_correcta": ["我也是！", "wǒ yě shì!", "wo3 ye3 shi4!"],
             "input_chars_aceptados": []
         }
     ]
