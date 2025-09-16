@@ -1,0 +1,97 @@
+{
+    "titulo": "Day 8 Sentences",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say <strong>'I have a question.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我有一个问题", "wǒ yǒu yī gè wèn tí", "wo3 you3 yi1 ge4 wen4 ti2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say <strong>'Do you like her?'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["你喜欢她吗？", "nǐ xǐ huān tā ma?", "ni3 xi3 huan1 ta1 ma5"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say <strong>'What country are you from?'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["你是哪国人？", "nǐ shì nǎ guó rén?", "ni3 shi4 na3 guo2 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say <strong>'I am American.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我是美国人", "wǒ shì měi guó rén", "wo3 shi4 mei3 guo2 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say <strong>'I am Chinese.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我是中国人", "wǒ shì zhōng guó rén", "wo3 shi4 zhong1 guo2 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say <strong>'I am English.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我是英国人", "wǒ shì yīng guó rén", "wo3 shi4 ying1 guo2 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say <strong>'Are you Chinese?'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["你是中国人吗？", "nǐ shì zhōng guó rén ma?", "ni3 shi4 zhong1 guo2 ren2 ma5"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say <strong>'I am not English.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我不是英国人", "wǒ bù shì yīng guó rén", "wo3 bu4 shi4 ying1 guo2 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say <strong>'I am Spanish.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我是西班牙人。", "wǒ shì xī bān yá rén", "wo3 shi4 xi1 ban1 ya2 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "How do you say <strong>'I am German.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我是德国人", "wǒ shì dé guó rén", "wo3 shi4 de2 guo2 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "How do you say <strong>'I am French.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我是法国人", "wǒ shì fǎ guó rén", "wo3 shi4 fa3 guo2 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "How do you say <strong>'I am Japanese.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["我是日本人", "wǒ shì rì běn rén", "wo3 shi4 ri4 ben3 ren2"],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "How do you say <strong>'Do you know Japanese people?'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": ["你认识日本人吗？", "nǐ rènshì rìběn rén ma?", "ni3 ren4shi4 ri4ben3 ren2 ma5"],
+            "input_chars_aceptados": []
+        }
+    ]
+}
