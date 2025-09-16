@@ -6,8 +6,11 @@ body {
     height: 100vh;
     margin: 0;
     background-color: #f0f0f0;
+    flex-direction: column;
 }
-.quiz-container, .menu-container {
+
+.quiz-container,
+.menu-container {
     background: white;
     padding: 20px;
     border-radius: 8px;
@@ -15,6 +18,7 @@ body {
     width: 300px;
     text-align: center;
 }
+
 .lista-de-preguntas {
     /* margin-bottom: 20px; */
 }
@@ -28,6 +32,7 @@ body {
     border-radius: 4px;
     color: gray;
 }
+
 .input-respuesta {
     width: calc(100% - 22px);
     padding: 10px;
@@ -35,6 +40,7 @@ body {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
+
 .teclado-respuestas {
     margin: 0 auto;
     display: flex;
@@ -42,6 +48,7 @@ body {
     gap: .4rem;
     justify-content: center;
 }
+
 .teclado-tecla {
     display: inline-block;
     border: 1px solid #ccc;
@@ -82,22 +89,27 @@ body {
     background-color: #d4edda;
     border-color: #c3e6cb;
 }
+
 .pregunta-item--actual {
     border: 2px solid #007bff;
     background-color: #f0f8ff;
     font-weight: bold;
     color: black;
 }
+
 .resultado-respuesta {
     font-weight: bold;
     padding: 10px 0;
 }
+
 .resultado-respuesta.correcto {
     color: green;
 }
+
 .resultado-respuesta.incorrecto {
     color: red;
 }
+
 .resultado-respuesta.completado {
     color: blue;
 }
@@ -132,11 +144,78 @@ a.boton-quiz--completado::after {
 }
 
 a.boton-quiz--completado::after {
-    background: #28a745; /* green */
+    background: #28a745;
+    /* green */
 }
 
 .instrucciones {
     margin: 20px 0;
     font-size: 1.1em;
     min-height: 40px;
+}
+
+/* popup */
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+}
+
+.popup-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    width: 80%;
+    max-width: 500px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.close-button {
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: auto;
+    display: block;
+    text-align: right;
+}
+
+.boton-ayuda {
+    display: inline-block;
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.boton-ayuda--esconder {
+    display: none;
+}
+
+.boton-atras {
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
 }
