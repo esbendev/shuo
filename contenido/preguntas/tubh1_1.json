@@ -1,5 +1,6 @@
 {
     "titulo": "Day 1",
+    "helpOption": 1,
     "preguntas": [
         {
             "id": 1,

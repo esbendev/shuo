@@ -1,14 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shuo Quiz</title>
     <link rel="stylesheet" href="../estilos/estiloGeneral.css">
+    <style>
+        /* popup */
+        .popup {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+        }
+
+        .popup-content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            width: 80%;
+            max-width: 500px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .close-button {
+            font-size: 20px;
+            cursor: pointer;
+            margin-left: auto;
+            display: block;
+            text-align: right;
+        }
+
+        .help-button {
+            font-size: 16px;
+            padding: 5px 10px;
+            cursor: pointer;
+            margin: 10px;
+        }
+
+        .back-button {
+            font-size: 16px;
+            padding: 5px 10px;
+            cursor: pointer;
+            margin: 10px;
+        }
+    </style>
 </head>
+
 <body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Type your answer in chinese.</p>
+            <p>The following are acceptable formats:</p>
+            <ul>
+                <li>Chinese characters such as <strong>你好</strong></li>
+                <li>Pinyin such as <strong>nǐ hǎo</strong></li>
+                <li>Pinyin using numbers such as <strong>ni3 hao3</strong></li>
+            </ul>
+            (Also, don't worry about spaces and punctuation marks.)
+        </div>
+    </div>
     <main class="quiz-container">
         <a href="../index.html" class="back-button">Back to main menu</a>
+        <button class="help-button" onclick="openHelpPopup()">Help</button>
         <h1 class="titulo-quiz"></h1>
         <div class="lista-de-preguntas"></div>
         <div class="instrucciones"></div>
@@ -19,5 +82,16 @@
         <button class="submit-button">Submit</button>
     </main>
     <script src="logica.js"></script>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
 </body>
+
 </html>

@@ -19,49 +19,49 @@
             "id": 3,
             "instrucciones": "How do you say 'good morning' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "早上好",
+            "respuesta_correcta": ["早上好", "zǎoshàng hǎo", "zao3shang4 hao3"],
             "input_chars_aceptados": []
         },
         {
             "id": 4,
             "instrucciones": "How do you say 'good evening' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "晚上好",
+            "respuesta_correcta": ["晚上好", "wǎnshàng hǎo", "wan3shang4 hao3"],
             "input_chars_aceptados": []
         },
         {
             "id": 5,
             "instrucciones": "How do you say 'good bye' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "再见",
+            "respuesta_correcta": ["再见", "zàijiàn", "zai4jian4"],
             "input_chars_aceptados": []
         },
         {
             "id": 6,
             "instrucciones": "How do you say 'what is your name?' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "你叫什么名字？",
+            "respuesta_correcta": ["你叫什么名字？", "nǐ jiào shénme míngzì?", "ni3 jiao4 shen2me ming2zi4?"],
             "input_chars_aceptados": []
         },
         {
             "id": 7,
             "instrucciones": "How do you say 'My name is' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "我叫",
+            "respuesta_correcta": ["我叫", "wǒ jiào", "wo3 jiao4"],
             "input_chars_aceptados": []
         },
         {
             "id": 8,
             "instrucciones": "How do you say 'how old are you?' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "你多大了？",
+            "respuesta_correcta": ["你多大了？", "nǐ duōdàle?", "ni3 duo1da4le?"],
             "input_chars_aceptados": []
         },
         {
             "id": 9,
             "instrucciones": "How do you say 'i'm 34 years old' in chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": "我三十四岁。",
+            "respuesta_correcta": ["我三十四岁。", "wǒ sānshísì suì.", "wo3 san1shi2si4 sui4."],
             "input_chars_aceptados": []
         }
     ]

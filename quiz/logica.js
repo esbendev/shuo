@@ -35,7 +35,7 @@ fetch(`../contenido/preguntas/${filename}.json`)
 
         tituloQuiz.textContent = data.titulo;
 
-        instrucciones.textContent = pregunta.instrucciones;
+        instrucciones.innerHTML = pregunta.instrucciones;
 
         cargarBotonAudio();
 
@@ -114,7 +114,7 @@ function proximaPregunta() {
             .then(data => {
                 pregunta = data.preguntas.find(p => p.id === currentId);
                 cargarBotonAudio();
-                instrucciones.textContent = pregunta.instrucciones;
+                instrucciones.innerHTML = pregunta.instrucciones;
                 actualizarListaDePreguntas();
                 actualizarTeclado();
                 playAudio();
@@ -129,6 +129,13 @@ function proximaPregunta() {
     }
 }
 
+function limpiarString(str) {
+    str = str.trim().replace(/\s+/g, "");
+    // remove .?!。？！
+    str = str.replace(/[.?!。？！]/g, "");
+    return str;
+}
+
 // on enter key press in input.respuesta, trigger submit button click
 document.querySelector('.input-respuesta').addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
@@ -138,14 +145,15 @@ document.querySelector('.input-respuesta').addEventListener('keydown', (e) => {
 
 document.querySelector('.submit-button').addEventListener('click', () => {
     let userInput = document.querySelector('.input-respuesta').value;
-    userInput = userInput.trim().replace(/\s+/g, "");
-    console.log('User input: |', userInput , '|');
+    userInput = limpiarString(userInput);
+    // console.log('User input: |', userInput, '|');
     if (pregunta) {
         // Find the state object for this pregunta
         const estado = preguntasEstado.find(p => p.id === pregunta.id);
         const resultadoDiv = document.querySelector('.resultado-respuesta');
         if (Array.isArray(pregunta.respuesta_correcta)) {
-            if (pregunta.respuesta_correcta.some(ans => ans === userInput)) {
+            // console.log('Checking against multiple correct answers:', pregunta.respuesta_correcta);
+            if (pregunta.respuesta_correcta.some(ans => limpiarString(ans) === userInput)) {
                 resultadoDiv.textContent = 'Correct!';
                 resultadoDiv.className = 'resultado-respuesta correcto';
                 if (estado) estado.value = 1;
