@@ -3,133 +3,133 @@
     "preguntas": [
         {
             "id": 1,
-            "instrucciones": "How do you say 'I am American.' in Chinese?",
+            "instrucciones": "How do you say <strong>'I am American.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我是美国人。",
             "input_chars_aceptados": []
         },
         {
             "id": 2,
-            "instrucciones": "How do you say 'I like you.' in Chinese?",
+            "instrucciones": "How do you say <strong>'I like you.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我喜欢你。",
             "input_chars_aceptados": []
         },
         {
             "id": 3,
-            "instrucciones": "How do you say 'He is a teacher.' in Chinese?",
+            "instrucciones": "How do you say <strong>'He is a teacher.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "他是老师。",
             "input_chars_aceptados": []
         },
         {
             "id": 4,
-            "instrucciones": "How do you say 'She is not a teacher.' in Chinese?",
+            "instrucciones": "How do you say <strong>'She is not a teacher.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "她不是老师。",
             "input_chars_aceptados": []
         },
         {
             "id": 5,
-            "instrucciones": "How do you say 'Hello (polite form)!' in Chinese?",
+            "instrucciones": "How do you say <strong>'Hello (polite form)!'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "您好！",
             "input_chars_aceptados": []
         },
         {
             "id": 6,
-            "instrucciones": "How do you say 'Very good!' in Chinese?",
+            "instrucciones": "How do you say <strong>'Very good!'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "很好！",
             "input_chars_aceptados": []
         },
         {
             "id": 7,
-            "instrucciones": "How do you say 'What is your name?' in Chinese?",
+            "instrucciones": "How do you say <strong>'What is your name?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "你叫什么名字？",
             "input_chars_aceptados": []
         },
         {
             "id": 8,
-            "instrucciones": "How do you say 'I am 20 years old.' in Chinese?",
+            "instrucciones": "How do you say <strong>'I am 20 years old.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我20岁。",
             "input_chars_aceptados": []
         },
         {
             "id": 9,
-            "instrucciones": "How do you say 'Which country are you from?' in Chinese?",
+            "instrucciones": "How do you say <strong>'Which country are you from?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "你是哪国人？",
             "input_chars_aceptados": []
         },
         {
             "id": 10,
-            "instrucciones": "How do you say 'He is American.' in Chinese?",
+            "instrucciones": "How do you say <strong>'He is American.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "他是美国人。",
             "input_chars_aceptados": []
         },
         {
             "id": 11,
-            "instrucciones": "How do you say 'They are not good people.' in Chinese?",
+            "instrucciones": "How do you say <strong>'They are not good people.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "他们不是好人。",
             "input_chars_aceptados": []
         },
         {
             "id": 12,
-            "instrucciones": "How do you say 'I am very happy.' in Chinese?",
+            "instrucciones": "How do you say <strong>'I am very happy.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我很高兴。",
             "input_chars_aceptados": []
         },
         {
             "id": 13,
-            "instrucciones": "How do you say 'The teacher is also very happy.' in Chinese?",
+            "instrucciones": "How do you say <strong>'The teacher is also very happy.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "老师也很高兴。",
             "input_chars_aceptados": []
         },
         {
             "id": 14,
-            "instrucciones": "How do you say 'Good morning!' in Chinese?",
+            "instrucciones": "How do you say <strong>'Good morning!'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "早上好！",
             "input_chars_aceptados": []
         },
         {
             "id": 15,
-            "instrucciones": "How do you say 'I don’t like the evenings.' in Chinese?",
+            "instrucciones": "How do you say <strong>'I don’t like the evenings.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我不喜欢晚上。",
             "input_chars_aceptados": []
         },
         {
             "id": 16,
-            "instrucciones": "How do you say 'What do you like?' in Chinese?",
+            "instrucciones": "How do you say <strong>'What do you like?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "你喜欢什么？",
             "input_chars_aceptados": []
         },
         {
             "id": 17,
-            "instrucciones": "How do you say 'I like your name.' in Chinese?",
+            "instrucciones": "How do you say <strong>'I like your name.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我喜欢你的名字。",
             "input_chars_aceptados": []
         },
         {
             "id": 18,
-            "instrucciones": "How do you say 'Is he happy?' in Chinese?",
+            "instrucciones": "How do you say <strong>'Is he happy?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "他高兴吗？",
             "input_chars_aceptados": []
         },
         {
             "id": 19,
-            "instrucciones": "How do you say 'I don’t know Chinese people.' in Chinese?",
+            "instrucciones": "How do you say <strong>'I don’t know Chinese people.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我不认识中国人。",
             "input_chars_aceptados": []

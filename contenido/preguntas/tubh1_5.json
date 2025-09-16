@@ -3,28 +3,28 @@
     "preguntas": [
         {
             "id": 1,
-            "instrucciones": "How do you say 'What country are you from?' in chinese?",
+            "instrucciones": "How do you say <strong>'What country are you from?'</strong> in chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "你是哪国人？",
             "input_chars_aceptados": []
         },
         {
             "id": 2,
-            "instrucciones": "How do you say 'I am Chinese' in chinese?",
+            "instrucciones": "How do you say <strong>'I am Chinese'</strong> in chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我是中国人。",
             "input_chars_aceptados": []
         },
         {
             "id": 3,
-            "instrucciones": "How do you say 'Nice to meet you' in chinese?",
+            "instrucciones": "How do you say <strong>'Nice to meet you'</strong> in chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "很高兴认识你。",
             "input_chars_aceptados": []
         },
         {
             "id": 4,
-            "instrucciones": "How do you say 'Me too!' in chinese?",
+            "instrucciones": "How do you say <strong>'Me too!'</strong> in chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我也是！",
             "input_chars_aceptados": []

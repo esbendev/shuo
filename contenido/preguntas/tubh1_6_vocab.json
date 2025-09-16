@@ -3,91 +3,91 @@
     "preguntas": [
         {
             "id": 1,
-            "instrucciones": "How do you say 'I, me' in Chinese?",
+            "instrucciones": "How do you say <strong>'I, me'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "我",
             "input_chars_aceptados": []
         },
         {
             "id": 2,
-            "instrucciones": "How do you say 'you' in Chinese?",
+            "instrucciones": "How do you say <strong>'you'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "你",
             "input_chars_aceptados": []
         },
         {
             "id": 3,
-            "instrucciones": "How do you say 'he, him' in Chinese?",
+            "instrucciones": "How do you say <strong>'he, him'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "他",
             "input_chars_aceptados": []
         },
         {
             "id": 4,
-            "instrucciones": "How do you say 'she, her' in Chinese?",
+            "instrucciones": "How do you say <strong>'she, her'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "她",
             "input_chars_aceptados": []
         },
         {
             "id": 5,
-            "instrucciones": "How do you say 'you (polite)' in Chinese?",
+            "instrucciones": "How do you say <strong>'you (polite)'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "您",
             "input_chars_aceptados": []
         },
         {
             "id": 6,
-            "instrucciones": "How do you say 'good' in Chinese?",
+            "instrucciones": "How do you say <strong>'good'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "好",
             "input_chars_aceptados": []
         },
         {
             "id": 7,
-            "instrucciones": "How do you say 'to be called' in Chinese?",
+            "instrucciones": "How do you say <strong>'to be called'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "叫",
             "input_chars_aceptados": []
         },
         {
             "id": 8,
-            "instrucciones": "How do you say 'years old' in Chinese?",
+            "instrucciones": "How do you say <strong>'years old'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "岁",
             "input_chars_aceptados": []
         },
         {
             "id": 9,
-            "instrucciones": "How do you say 'which' in Chinese?",
+            "instrucciones": "How do you say <strong>'which'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "哪",
             "input_chars_aceptados": []
         },
         {
             "id": 10,
-            "instrucciones": "How do you say 'country' in Chinese?",
+            "instrucciones": "How do you say <strong>'country'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "国",
             "input_chars_aceptados": []
         },
         {
             "id": 11,
-            "instrucciones": "How do you say 'person, people' in Chinese?",
+            "instrucciones": "How do you say <strong>'person, people'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "人",
             "input_chars_aceptados": []
         },
         {
             "id": 12,
-            "instrucciones": "How do you say 'very' in Chinese?",
+            "instrucciones": "How do you say <strong>'very'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "很",
             "input_chars_aceptados": []
         },
         {
             "id": 13,
-            "instrucciones": "How do you say 'also' in Chinese?",
+            "instrucciones": "How do you say <strong>'also'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "也",
             "input_chars_aceptados": []

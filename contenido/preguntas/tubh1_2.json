@@ -3,14 +3,14 @@
     "preguntas": [
         {
             "id": 1,
-            "instrucciones": "What number is 零 (líng)?",
+            "instrucciones": "What number is <strong>零 (líng)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "0",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 2,
-            "instrucciones": "What number is 三 (sān)?",
+            "instrucciones": "What number is <strong>三 (sān)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "3",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
@@ -24,77 +24,77 @@
         },
         {
             "id": 4,
-            "instrucciones": "What number is 四 (sì)?",
+            "instrucciones": "What number is <strong>四 (sì)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "4",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 5,
-            "instrucciones": "What number is 二 (èr)?",
+            "instrucciones": "What number is <strong>二 (èr)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "2",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 6,
-            "instrucciones": "What number is 五 (wǔ)?",
+            "instrucciones": "What number is <strong>五 (wǔ)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "5",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 7,
-            "instrucciones": "What number is 七 (qī)?",
+            "instrucciones": "What number is <strong>七 (qī)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "7",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 8,
-            "instrucciones": "What number is 八 (bā)?",
+            "instrucciones": "What number is <strong>八 (bā)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "8",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 9,
-            "instrucciones": "What number is 九 (jiǔ)?",
+            "instrucciones": "What number is <strong>九 (jiǔ)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "9",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 10,
-            "instrucciones": "What number is 六 (liù)?",
+            "instrucciones": "What number is <strong>六 (liù)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "6",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 11,
-            "instrucciones": "What number is 十 (shí)?",
+            "instrucciones": "What number is <strong>十 (shí)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "10",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 12,
-            "instrucciones": "What number is 十一 (shí yī)?",
+            "instrucciones": "What number is <strong>十一 (shí yī)</strong>?",
             "archivo_audio": "",
             "respuesta_correcta": "11",
             "input_chars_aceptados": ["0","1", "2", "3", "4", "5", "6", "7", "8", "9"]
         },
         {
             "id": 13,
-            "instrucciones": "How do you say 28 in chinese?",
+            "instrucciones": "How do you say <p>'28'</p> in chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "二十八",
             "input_chars_aceptados": ["零","一", "二", "三", "四", "五", "六", "七", "八", "九", "十"]
         },
         {
             "id": 14,
-            "instrucciones": "How do you say the year 1994 in chinese?",
+            "instrucciones": "How do you say the year <p>'1994'</p> in chinese?",
             "archivo_audio": "",
             "respuesta_correcta": "一九九四",
             "input_chars_aceptados": ["零","一", "二", "三", "四", "五", "六", "七", "八", "九", "十"]
