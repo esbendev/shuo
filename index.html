@@ -1,14 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shuo Shuo Chinese Practice Content</title>
     <link rel="stylesheet" href="./estilos/estiloIndex.css">
+    <link rel="stylesheet" href="./estilos/estiloPopup.css">
 </head>
+
 <body>
     <main class="menu-container">
         <h1>Shuo Shuo Chinese Practice Content</h1>
+        <div id="about-popup" class="popup" style="display: none;">
+            <div class="popup-content">
+                <span class="close-button" onclick="closeAboutPopup()">&times;</span>
+                <h2>About</h2>
+                <p>This is some practice material I use for my Chinese studies, specifically as aids for <a
+                        href="https://shuoshuochinese.teachable.com/">The Ultimate Beginner’s Handbook (I)</a> by <a
+                        href="https://www.shuoshuochinese.com/">Shuo Shuo Chinese</a>.</p>
+
+                <p><strong>Click the
+                        buttons</strong> to access
+                    quizzes for each day. Some days are greyed out because I didn't think there was anything I could add
+                    on top
+                    of what the course already offered, and <strong>if there are days missing it's probably because I
+                        haven't gotten that far in the course yet!</strong></p>
+                <p>Having said that, if you find any
+                    errors, have any suggestions or feedback, please let me know!</p>
+            </div>
+        </div>
+        <button class="boton-acerca-de" onclick="openAboutPopup()">What is this?</button>
         <div class="container-botones">
             <a href="./quiz/index.html?file=tubh1_1" id="tubh1_1" class="boton-quiz">Day 1</a>
             <a href="./quiz/index.html?file=tubh1_2" id="tubh1_2" class="boton-quiz">Day 2</a>
@@ -16,18 +38,33 @@
             <a href="./quiz/index.html?file=tubh1_4" id="tubh1_4" class="boton-quiz">Day 4</a>
             <a href="./quiz/index.html?file=tubh1_5" id="tubh1_5" class="boton-quiz">Day 5</a>
             <a href="./quiz/index.html?file=tubh1_6_vocab" id="tubh1_6_vocab" class="boton-quiz">Day 6<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_6_sentences" id="tubh1_6_sentences" class="boton-quiz">Day 6<br>Sentences</a>
+            <a href="./quiz/index.html?file=tubh1_6_sentences" id="tubh1_6_sentences" class="boton-quiz">Day
+                6<br>Sentences</a>
             <a href="#" id="tubh1_7" class="boton-quiz boton-quiz--nada">Day 7</a>
             <a href="./quiz/index.html?file=tubh1_8_vocab" id="tubh1_8_vocab" class="boton-quiz">Day 8<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_8_sentences" id="tubh1_8_sentences" class="boton-quiz">Day 8<br>Sentences</a>
+            <a href="./quiz/index.html?file=tubh1_8_sentences" id="tubh1_8_sentences" class="boton-quiz">Day
+                8<br>Sentences</a>
             <a href="./quiz/index.html?file=tubh1_9" id="tubh1_9" class="boton-quiz">Day 9</a>
-            <a href="./quiz/index.html?file=tubh1_10_vocab" id="tubh1_10_vocab" class="boton-quiz">Day 10<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_10_sentences" id="tubh1_10_sentences" class="boton-quiz">Day 10<br>Sentences</a>
+            <a href="./quiz/index.html?file=tubh1_10_vocab" id="tubh1_10_vocab" class="boton-quiz">Day
+                10<br>Vocabulary</a>
+            <a href="./quiz/index.html?file=tubh1_10_sentences" id="tubh1_10_sentences" class="boton-quiz">Day
+                10<br>Sentences</a>
         </div>
     </main>
     <script src="./actualizarMenu.js"></script>
+    <script>
+        // About popup functions
+        function openAboutPopup() {
+            document.getElementById('about-popup').style.display = 'flex';
+        }
+
+        function closeAboutPopup() {
+            document.getElementById('about-popup').style.display = 'none';
+        }
+    </script>
     <footer>
         <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
     </footer>
 </body>
+
 </html>
