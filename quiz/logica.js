@@ -2,6 +2,7 @@ let pregunta; // Declare pregunta in the outer scope
 let cantidadPreguntas = 0;
 let preguntasEstado = [];
 let currentId = 1;
+let audioActual = 0;
 
 // get filename from URL params
 const urlParams = new URLSearchParams(window.location.search);
@@ -37,7 +38,7 @@ fetch(`../contenido/preguntas/${filename}.json`)
         tituloQuiz.textContent = data.titulo;
 
         instrucciones.innerHTML = pregunta.instrucciones;
-
+        audioActual = 0;
         cargarBotonAudio();
         mostrarBotonAyuda(data.showHelp);
 
@@ -127,6 +128,7 @@ function proximaPregunta() {
                 instrucciones.innerHTML = pregunta.instrucciones;
                 actualizarListaDePreguntas();
                 actualizarTeclado();
+                audioActual = 0;
                 playAudio();
             });
     } else {
@@ -214,21 +216,10 @@ function playAudio() {
     if (pregunta && pregunta.archivo_audio) {
         console.log('pregunta', pregunta);
         if (Array.isArray(pregunta.archivo_audio)) {
-            console.log('Playing audio files:', pregunta.archivo_audio);
-            let audioIndex = 0;
-
-            const playNextAudio = () => {
-                if (audioIndex < pregunta.archivo_audio.length) {
-                    const audio = new Audio(pregunta.archivo_audio[audioIndex]);
-                    audio.play();
-                    audio.addEventListener('ended', () => {
-                        audioIndex++;
-                        playNextAudio();
-                    });
-                }
-            };
-
-            playNextAudio();
+            console.log('Playing audio from array:', pregunta.archivo_audio[audioActual]);
+            const audio = new Audio(pregunta.archivo_audio[audioActual]);
+            audio.play();
+            audioActual = (audioActual + 1) % pregunta.archivo_audio.length;
         } else {
             console.log('Playing audio:', pregunta.archivo_audio);
             const audio = new Audio(pregunta.archivo_audio);
