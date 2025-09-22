@@ -6,63 +6,99 @@
             "id": 1,
             "instrucciones": "How do you say <strong>'to have'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["有", "yǒu", "you3"],
+            "respuesta_correcta": [
+                "有",
+                "yǒu",
+                "you3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 2,
             "instrucciones": "How do you say <strong>'question'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["问题", "wèntí", "wen4ti2"],
+            "respuesta_correcta": [
+                "问题",
+                "wèntí",
+                "wen4ti2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 3,
             "instrucciones": "How do you say <strong>'America (United States)'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["美国", "měi guó", "mei3 guo2"],
+            "respuesta_correcta": [
+                "美国",
+                "měi guó",
+                "mei3 guo2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 4,
             "instrucciones": "How do you say <strong>'China'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["中国", "zhōng guó", "zhong1 guo2"],
+            "respuesta_correcta": [
+                "中国",
+                "zhōng guó",
+                "zhong1 guo2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 5,
             "instrucciones": "How do you say <strong>'England'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["英国", "yīng guó", "ying1 guo2"],
+            "respuesta_correcta": [
+                "英国",
+                "yīng guó",
+                "ying1 guo2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 6,
             "instrucciones": "How do you say <strong>'Germany'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["德国", "dé guó", "de2 guo2"],
+            "respuesta_correcta": [
+                "德国",
+                "dé guó",
+                "de2 guo2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 7,
             "instrucciones": "How do you say <strong>'France'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["法国", "fǎ guó", "fa3 guo2"],
+            "respuesta_correcta": [
+                "法国",
+                "fǎ guó",
+                "fa3 guo2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 8,
             "instrucciones": "How do you say <strong>'Spain'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["西班牙", "xī bān yá", "xi1 ban1 ya2"],
+            "respuesta_correcta": [
+                "西班牙",
+                "xī bān yá",
+                "xi1 ban1 ya2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 9,
             "instrucciones": "How do you say <strong>'Japan'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["日本", "rì běn", "ri4 ben3"],
+            "respuesta_correcta": [
+                "日本",
+                "rì běn",
+                "ri4 ben3"
+            ],
             "input_chars_aceptados": []
         }
     ]

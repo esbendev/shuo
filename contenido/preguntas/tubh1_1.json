@@ -7,84 +7,144 @@
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio1.mp3",
             "respuesta_correcta": "3rd (ˇ )",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 2,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio2.mp3",
             "respuesta_correcta": "3rd (ˇ )",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 3,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio3.mp3",
             "respuesta_correcta": "1st (ˉ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 4,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio4.mp3",
             "respuesta_correcta": "4th (ˋ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 5,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio5.mp3",
             "respuesta_correcta": "2nd (ˊ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 6,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio6.mp3",
             "respuesta_correcta": "1st (ˉ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 7,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio7.mp3",
             "respuesta_correcta": "4th (ˋ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 8,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio8.mp3",
             "respuesta_correcta": "2nd (ˊ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 9,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio9.mp3",
             "respuesta_correcta": "4th (ˋ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 10,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio10.mp3",
             "respuesta_correcta": "3rd (ˇ )",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 11,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio11.mp3",
             "respuesta_correcta": "1st (ˉ)",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         },
         {
             "id": 12,
             "instrucciones": "Listen to the audio and choose the correct tone.",
             "archivo_audio": "../contenido/audio/tubh/1/day-1/audio12.mp3",
             "respuesta_correcta": "3rd (ˇ )",
-            "input_chars_aceptados": ["1st (ˉ)","2nd (ˊ)","3rd (ˇ )","4th (ˋ)"]
+            "input_chars_aceptados": [
+                "1st (ˉ)",
+                "2nd (ˊ)",
+                "3rd (ˇ )",
+                "4th (ˋ)"
+            ]
         }
     ]
 }

@@ -6,98 +6,155 @@
             "id": 1,
             "instrucciones": "How do you say <strong>'lesson 2'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["第二课", "dì èr kè", "di4 er4 ke4"],
+            "respuesta_correcta": [
+                "第二课",
+                "dì èr kè",
+                "di4 er4 ke4"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 2,
             "instrucciones": "How do you say <strong>'what is this?'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是什么？", "zhè shì shén me?", "zhe4 shi4 shen2 me?"],
+            "respuesta_correcta": [
+                "这是什么？",
+                "zhè shì shén me?",
+                "zhe4 shi4 shen2 me?"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 3,
             "instrucciones": "How do you say <strong>'this is a book'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是书", "zhè shì shū", "zhe4 shi4 shu1"],
+            "respuesta_correcta": [
+                "这是书",
+                "zhè shì shū",
+                "zhe4 shi4 shu1"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 4,
             "instrucciones": "How do you say <strong>'that is a pen'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["那是笔", "nà shì bǐ", "na4 shi4 bi3"],
+            "respuesta_correcta": [
+                "那是笔",
+                "nà shì bǐ",
+                "na4 shi4 bi3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 5,
             "instrucciones": "How do you say <strong>'this is a notebook'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是本子", "zhè shì běn zi", "zhe4 shi4 ben3 zi"],
+            "respuesta_correcta": [
+                "这是本子",
+                "zhè shì běn zi",
+                "zhe4 shi4 ben3 zi"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 6,
             "instrucciones": "How do you say <strong>'that is a cup'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["那是杯子", "nà shì bēi zi", "na4 shi4 bei1 zi"],
+            "respuesta_correcta": [
+                "那是杯子",
+                "nà shì bēi zi",
+                "na4 shi4 bei1 zi"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 7,
             "instrucciones": "How do you say <strong>'this is a cellphone'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是手机", "zhè shì shǒu jī", "zhe4 shi4 shou3 ji1"],
+            "respuesta_correcta": [
+                "这是手机",
+                "zhè shì shǒu jī",
+                "zhe4 shi4 shou3 ji1"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 8,
             "instrucciones": "How do you say <strong>'that is a computer'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["那是电脑", "nà shì diàn nǎo", "na4 shi4 dian4 nao3"],
+            "respuesta_correcta": [
+                "那是电脑",
+                "nà shì diàn nǎo",
+                "na4 shi4 dian4 nao3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 9,
             "instrucciones": "How do you say <strong>'this is an apple'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是苹果", "zhè shì píng guǒ", "zhe4 shi4 ping2 guo3"],
+            "respuesta_correcta": [
+                "这是苹果",
+                "zhè shì píng guǒ",
+                "zhe4 shi4 ping2 guo3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 10,
             "instrucciones": "How do you say <strong>'that is a chicken egg'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["那是鸡蛋", "nà shì jī dàn", "na4 shi4 ji1 dan4"],
+            "respuesta_correcta": [
+                "那是鸡蛋",
+                "nà shì jī dàn",
+                "na4 shi4 ji1 dan4"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 11,
             "instrucciones": "How do you say <strong>'this is an iphone'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是苹果手机", "zhè shì píng guǒ shǒu jī", "zhe4 shi4 ping2 guo3 shou3 ji1"],
+            "respuesta_correcta": [
+                "这是苹果手机",
+                "zhè shì píng guǒ shǒu jī",
+                "zhe4 shi4 ping2 guo3 shou3 ji1"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 12,
             "instrucciones": "How do you say <strong>'that is a macbook'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["那是苹果电脑", "nà shì píng guǒ diàn nǎo", "na4 shi4 ping2 guo3 dian4 nao3"],
+            "respuesta_correcta": [
+                "那是苹果电脑",
+                "nà shì píng guǒ diàn nǎo",
+                "na4 shi4 ping2 guo3 dian4 nao3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 13,
             "instrucciones": "How do you say <strong>'this is the iphone 15'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是苹果手机15", "这是苹果手机十五", "zhè shì píng guǒ shǒu jī shí wǔ", "zhe4 shi4 ping2 guo3 shou3 ji1 shi2 wu3"],
+            "respuesta_correcta": [
+                "这是苹果手机15",
+                "这是苹果手机十五",
+                "zhè shì píng guǒ shǒu jī shí wǔ",
+                "zhe4 shi4 ping2 guo3 shou3 ji1 shi2 wu3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 14,
             "instrucciones": "How do you say <strong>'I don't like chicken eggs'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["我不喜欢鸡蛋", "wǒ bù xǐ huān jī dàn", "wo3 bu4 xi3 huan1 ji1 dan4"],
+            "respuesta_correcta": [
+                "我不喜欢鸡蛋",
+                "wǒ bù xǐ huān jī dàn",
+                "wo3 bu4 xi3 huan1 ji1 dan4"
+            ],
             "input_chars_aceptados": []
         }
     ]

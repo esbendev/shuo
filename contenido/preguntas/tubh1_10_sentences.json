@@ -6,105 +6,165 @@
             "id": 1,
             "instrucciones": "Translate the following sentence: <strong>'She is not British.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["她不是英国人。", "tā bú shì Yīngguó rén.", "ta1 bu2 shi4 Ying1guo2 ren2"],
+            "respuesta_correcta": [
+                "她不是英国人。",
+                "tā bú shì Yīngguó rén.",
+                "ta1 bu2 shi4 Ying1guo2 ren2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 2,
             "instrucciones": "Translate the following sentence: <strong>'I know a German person; his name is Felix.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["我认识德国人，他叫 Felix。", "wǒ rènshi Déguó rén, tā jiào Felix.", "wo3 ren4shi De2guo2 ren2, ta1 jiao4 Felix"],
+            "respuesta_correcta": [
+                "我认识德国人，他叫 Felix。",
+                "wǒ rènshi Déguó rén, tā jiào Felix.",
+                "wo3 ren4shi De2guo2 ren2, ta1 jiao4 Felix"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 3,
             "instrucciones": "Translate the following sentence: <strong>'We don’t know any French people.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["我们不认识法国人。", "wǒmen bú rènshi Fǎguó rén.", "wo3men bu2 ren4shi Fa3guo2 ren2"],
+            "respuesta_correcta": [
+                "我们不认识法国人。",
+                "wǒmen bú rènshi Fǎguó rén.",
+                "wo3men bu2 ren4shi Fa3guo2 ren2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 4,
             "instrucciones": "Translate the following sentence: <strong>'They are Japanese.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["他们是日本人。", "tāmen shì Rìběn rén.", "ta1men shi4 Ri4ben3 ren2"],
+            "respuesta_correcta": [
+                "他们是日本人。",
+                "tāmen shì Rìběn rén.",
+                "ta1men shi4 Ri4ben3 ren2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 5,
             "instrucciones": "Translate the following sentence: <strong>'The teacher is Spanish.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["老师是西班牙人。", "lǎoshī shì Xībānyá rén.", "lao3shi1 shi4 Xi1ban1ya2 ren2"],
+            "respuesta_correcta": [
+                "老师是西班牙人。",
+                "lǎoshī shì Xībānyá rén.",
+                "lao3shi1 shi4 Xi1ban1ya2 ren2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 6,
             "instrucciones": "Translate the following sentence: <strong>'What is this?'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是什么？", "zhè shì shénme?", "zhe4 shi4 shen2me"],
+            "respuesta_correcta": [
+                "这是什么？",
+                "zhè shì shénme?",
+                "zhe4 shi4 shen2me"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 7,
             "instrucciones": "Translate the following sentence: <strong>'Is that a computer?'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["那是电脑吗？", "nà shì diànnǎo ma?", "na4 shi4 dian4nao3 ma"],
+            "respuesta_correcta": [
+                "那是电脑吗？",
+                "nà shì diànnǎo ma?",
+                "na4 shi4 dian4nao3 ma"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 8,
             "instrucciones": "Translate the following sentence: <strong>'This is a Chinese book.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是中文书。", "zhè shì Zhōngwén shū.", "zhe4 shi4 Zhong1wen2 shu1"],
+            "respuesta_correcta": [
+                "这是中文书。",
+                "zhè shì Zhōngwén shū.",
+                "zhe4 shi4 Zhong1wen2 shu1"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 9,
             "instrucciones": "Translate the following sentence: <strong>'This is not a pen.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["这不是笔。", "zhè bú shì bǐ.", "zhe4 bu2 shi4 bi3"],
+            "respuesta_correcta": [
+                "这不是笔。",
+                "zhè bú shì bǐ.",
+                "zhe4 bu2 shi4 bi3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 10,
             "instrucciones": "Translate the following sentence: <strong>'I have a notebook.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["我有本子。", "wǒ yǒu běnzi.", "wo3 you3 ben3zi"],
+            "respuesta_correcta": [
+                "我有本子。",
+                "wǒ yǒu běnzi.",
+                "wo3 you3 ben3zi"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 11,
             "instrucciones": "Translate the following sentence: <strong>'This is a cup.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["这是杯子。", "zhè shì bēizi.", "zhe4 shi4 bei1zi"],
+            "respuesta_correcta": [
+                "这是杯子。",
+                "zhè shì bēizi.",
+                "zhe4 shi4 bei1zi"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 12,
             "instrucciones": "Translate the following sentence: <strong>'Iphones are very good.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["苹果手机很好。", "Píngguǒ shǒujī hěn hǎo.", "Ping2guo3 shou3ji1 hen3 hao3"],
+            "respuesta_correcta": [
+                "苹果手机很好。",
+                "Píngguǒ shǒujī hěn hǎo.",
+                "Ping2guo3 shou3ji1 hen3 hao3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 13,
             "instrucciones": "Translate the following sentence: <strong>'Do you have a Macbook?'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["你有苹果电脑吗？", "nǐ yǒu Píngguǒ diànnǎo ma?", "ni3 you3 Ping2guo3 dian4nao3 ma"],
+            "respuesta_correcta": [
+                "你有苹果电脑吗？",
+                "nǐ yǒu Píngguǒ diànnǎo ma?",
+                "ni3 you3 Ping2guo3 dian4nao3 ma"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 14,
             "instrucciones": "Translate the following sentence: <strong>'The teacher has an Apple phone.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["老师有苹果手机。", "lǎoshī yǒu Píngguǒ shǒujī.", "lao3shi1 you3 Ping2guo3 shou3ji1"],
+            "respuesta_correcta": [
+                "老师有苹果手机。",
+                "lǎoshī yǒu Píngguǒ shǒujī.",
+                "lao3shi1 you3 Ping2guo3 shou3ji1"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 15,
             "instrucciones": "Translate the following sentence: <strong>'I don’t like eggs.'</strong>",
             "archivo_audio": "",
-            "respuesta_correcta": ["我不喜欢鸡蛋。", "wǒ bù xǐhuan jīdàn.", "wo3 bu4 xi3huan ji1dan4"],
+            "respuesta_correcta": [
+                "我不喜欢鸡蛋。",
+                "wǒ bù xǐhuan jīdàn.",
+                "wo3 bu4 xi3huan ji1dan4"
+            ],
             "input_chars_aceptados": []
         }
     ]

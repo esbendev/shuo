@@ -6,133 +6,209 @@
             "id": 1,
             "instrucciones": "How do you say <strong>'United Kingdom'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["英国", "Yīngguó", "Ying1guo2"],
+            "respuesta_correcta": [
+                "英国",
+                "Yīngguó",
+                "Ying1guo2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 2,
             "instrucciones": "How do you say <strong>'Germany'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["德国", "Déguó", "De2guo2"],
+            "respuesta_correcta": [
+                "德国",
+                "Déguó",
+                "De2guo2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 3,
             "instrucciones": "How do you say <strong>'France'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["法国", "Fǎguó", "Fa3guo2"],
+            "respuesta_correcta": [
+                "法国",
+                "Fǎguó",
+                "Fa3guo2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 4,
             "instrucciones": "How do you say <strong>'Japan'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["日本", "Rìběn", "Ri4ben3"],
+            "respuesta_correcta": [
+                "日本",
+                "Rìběn",
+                "Ri4ben3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 5,
             "instrucciones": "How do you say <strong>'Spain'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["西班牙", "Xībānyá", "Xi1banya2"],
+            "respuesta_correcta": [
+                "西班牙",
+                "Xībānyá",
+                "Xi1banya2"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 6,
             "instrucciones": "How do you say <strong>'this'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["这", "zhè", "zhe4"],
+            "respuesta_correcta": [
+                "这",
+                "zhè",
+                "zhe4"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 7,
             "instrucciones": "How do you say <strong>'that'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["那", "nà", "na4"],
+            "respuesta_correcta": [
+                "那",
+                "nà",
+                "na4"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 8,
             "instrucciones": "How do you say <strong>'book'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["书", "shū", "shu1"],
+            "respuesta_correcta": [
+                "书",
+                "shū",
+                "shu1"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 9,
             "instrucciones": "How do you say <strong>'pen'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["笔", "bǐ", "bi3"],
+            "respuesta_correcta": [
+                "笔",
+                "bǐ",
+                "bi3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 10,
             "instrucciones": "How do you say <strong>'notebook'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["本子", "běnzi", "ben3zi"],
+            "respuesta_correcta": [
+                "本子",
+                "běnzi",
+                "ben3zi"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 11,
             "instrucciones": "How do you say <strong>'cup; glass'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["杯子", "bēizi", "bei1zi"],
+            "respuesta_correcta": [
+                "杯子",
+                "bēizi",
+                "bei1zi"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 12,
             "instrucciones": "How do you say <strong>'mobile phone'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["手机", "shǒujī", "shou3ji1"],
+            "respuesta_correcta": [
+                "手机",
+                "shǒujī",
+                "shou3ji1"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 13,
             "instrucciones": "How do you say <strong>'computer'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["电脑", "diànnǎo", "dian4nao3"],
+            "respuesta_correcta": [
+                "电脑",
+                "diànnǎo",
+                "dian4nao3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 14,
             "instrucciones": "How do you say <strong>'apple'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["苹果", "píngguǒ", "ping2guo3"],
+            "respuesta_correcta": [
+                "苹果",
+                "píngguǒ",
+                "ping2guo3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 15,
             "instrucciones": "How do you say <strong>'egg'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["鸡蛋", "jīdàn", "ji1dan4"],
+            "respuesta_correcta": [
+                "鸡蛋",
+                "jīdàn",
+                "ji1dan4"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 16,
             "instrucciones": "How do you say <strong>'hand'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["手", "shǒu", "shou3"],
+            "respuesta_correcta": [
+                "手",
+                "shǒu",
+                "shou3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 17,
             "instrucciones": "How do you say <strong>'electricity'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["电", "diàn", "dian4"],
+            "respuesta_correcta": [
+                "电",
+                "diàn",
+                "dian4"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 18,
             "instrucciones": "How do you say <strong>'brain'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["脑", "nǎo", "nao3"],
+            "respuesta_correcta": [
+                "脑",
+                "nǎo",
+                "nao3"
+            ],
             "input_chars_aceptados": []
         },
         {
             "id": 19,
             "instrucciones": "How do you say <strong>'chicken'</strong> in Chinese?",
             "archivo_audio": "",
-            "respuesta_correcta": ["鸡", "jī", "ji1"],
+            "respuesta_correcta": [
+                "鸡",
+                "jī",
+                "ji1"
+            ],
             "input_chars_aceptados": []
         }
     ]
