@@ -20,7 +20,8 @@
             "respuesta_correcta": [
                 "你喜欢她吗？",
                 "nǐ xǐ huān tā ma?",
-                "ni3 xi3 huan1 ta1 ma5"
+                "ni3 xi3 huan1 ta1 ma5",
+                "ni3 xi3 huan1 ta1 ma"
             ],
             "input_chars_aceptados": []
         },
@@ -75,7 +76,8 @@
             "respuesta_correcta": [
                 "你是中国人吗？",
                 "nǐ shì zhōng guó rén ma?",
-                "ni3 shi4 zhong1 guo2 ren2 ma5"
+                "ni3 shi4 zhong1 guo2 ren2 ma5",
+                "ni3 shi4 zhong1 guo2 ren2 ma"
             ],
             "input_chars_aceptados": []
         },
@@ -141,7 +143,8 @@
             "respuesta_correcta": [
                 "你认识日本人吗？",
                 "nǐ rènshì rìběn rén ma?",
-                "ni3 ren4shi4 ri4ben3 ren2 ma5"
+                "ni3 ren4shi4 ri4ben3 ren2 ma5",
+                "ni3 ren4shi4 ri4ben3 ren2 ma"
             ],
             "input_chars_aceptados": []
         }
