@@ -1,0 +1,194 @@
+{
+    "titulo": "Day 11 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/1.mp3",
+            "respuesta_correcta": [
+                "第二课",
+                "dì èr kè",
+                "di4 er4 ke4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/2.mp3",
+            "respuesta_correcta": [
+                "这是什么？",
+                "zhè shì shén me?",
+                "zhe4 shi4 shen2 me?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/3.mp3",
+            "respuesta_correcta": [
+                "那是什么？",
+                "nà shì shén me?",
+                "na4 shi4 shen2 me?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/4.mp3",
+            "respuesta_correcta": [
+                "书",
+                "shū",
+                "shu1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/5.mp3",
+            "respuesta_correcta": [
+                "笔",
+                "bǐ",
+                "bi3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/6.mp3",
+            "respuesta_correcta": [
+                "本子",
+                "běn zi",
+                "ben3 zi5"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/7.mp3",
+            "respuesta_correcta": [
+                "杯子",
+                "bēi zi",
+                "bei1 zi5"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/8.mp3",
+            "respuesta_correcta": [
+                "手机",
+                "shǒu jī",
+                "shou3 ji1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/9.mp3",
+            "respuesta_correcta": [
+                "电脑",
+                "diàn nǎo",
+                "dian4 nao3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/10.mp3",
+            "respuesta_correcta": [
+                "苹果",
+                "píng guǒ",
+                "ping2 guo3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/11.mp3",
+            "respuesta_correcta": [
+                "鸡蛋",
+                "jī dàn",
+                "ji1 dan4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/12.mp3",
+            "respuesta_correcta": [
+                "中文书",
+                "zhōng wén shū",
+                "zhong1 wen2 shu1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/13.mp3",
+            "respuesta_correcta": [
+                "汉语书",
+                "hàn yǔ shū",
+                "han4 yu3 shu1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/14.mp3",
+            "respuesta_correcta": [
+                "英文书",
+                "yīng wén shū",
+                "ying1 wen2 shu1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/15.mp3",
+            "respuesta_correcta": [
+                "这是什么书？",
+                "zhè shì shén me shū?",
+                "zhe4 shi4 shen2 me shu1?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/16.mp3",
+            "respuesta_correcta": [
+                "这是西班牙文书",
+                "zhè shì xī bān yá wén shū",
+                "zhe4 shi4 xi1 ban1 ya2 wen2 shu1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-11/17.mp3",
+            "respuesta_correcta": [
+                "这是西班牙语书",
+                "zhè shì xī bān yá yǔ shū",
+                "zhe4 shi4 xi1 ban1 ya2 yu3 shu1"
+            ],
+            "input_chars_aceptados": []
+        }
+
+    ]
+}

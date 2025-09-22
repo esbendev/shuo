@@ -213,9 +213,27 @@ document.querySelector('.submit-button').addEventListener('click', () => {
 function playAudio() {
     if (pregunta && pregunta.archivo_audio) {
         console.log('pregunta', pregunta);
-        console.log('Playing audio:', pregunta.archivo_audio);
-        const audio = new Audio(pregunta.archivo_audio);
-        audio.play();
+        if (Array.isArray(pregunta.archivo_audio)) {
+            console.log('Playing audio files:', pregunta.archivo_audio);
+            let audioIndex = 0;
+
+            const playNextAudio = () => {
+                if (audioIndex < pregunta.archivo_audio.length) {
+                    const audio = new Audio(pregunta.archivo_audio[audioIndex]);
+                    audio.play();
+                    audio.addEventListener('ended', () => {
+                        audioIndex++;
+                        playNextAudio();
+                    });
+                }
+            };
+
+            playNextAudio();
+        } else {
+            console.log('Playing audio:', pregunta.archivo_audio);
+            const audio = new Audio(pregunta.archivo_audio);
+            audio.play();
+        }
     }
 }
 
