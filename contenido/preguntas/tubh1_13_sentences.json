@@ -4,118 +4,203 @@
     "preguntas": [
         {
             "id": 1,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'Where are you?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "你在哪里？",
+                "Nǐ zài nǎlǐ?",
+                "Ni3 zai4 na3li3."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 2,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'Where are you from?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "你是那里人？",
+                "Nǐ shì nǎlǐ rén?",
+                "Ni3 shi4 na3li3 ren2."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 3,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'I’m not going to China.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "我不去中国。",
+                "Wǒ bú qù Zhōngguó.",
+                "Wo3 bu2 qu4 Zhong1guo2."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 4,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'I am at home.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "我在家。",
+                "Wǒ zài jiā.",
+                "Wo3 zai4 jia1."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 5,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'This is a Chinese school.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "这是中文学校。",
+                "Zhè shì Zhōngwén xuéxiào.",
+                "Zhe4 shi4 Zhong1wen2 xue2xiao4.",
+                "这是汉语学校。",
+                "Zhè shì Hànyǔ xuéxiào.",
+                "Zhe4 shi4 Han4yu3 xue2xiao4."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 6,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'Apple Inc. is in the U.S.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "苹果公司在美国。",
+                "Píngguǒ gōngsī zài Měiguó.",
+                "Ping2guo3 gong1si1 zai4 Mei3guo2."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 7,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'Where is the restroom?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "厕所在哪里？",
+                "Cèsuǒ zài nǎli?",
+                "Ce4suo3 zai4 na3li3."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 8,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'I am going to the store.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "我去商店。",
+                "Wǒ qù shāngdiàn.",
+                "Wo3 qu4 shang1dian4."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 9,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'We are not going to the mall.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "我们不去商场。",
+                "Wǒmen bú qù shāngchǎng.",
+                "Wo3men bu2 qu4 shang1chang3."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 10,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'I like going to Chinese restaurants.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "我喜欢去中国饭店。",
+                "Wǒ xǐhuān qù Zhōngguó fàndiàn.",
+                "Wo3 xi3huan1 qu4 Zhong1guo2 fan4dian4."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 11,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'This is an American coffee shop.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "这是美国咖啡店。",
+                "Zhè shì Měiguó kāfēidiàn.",
+                "Zhe4 shi4 Mei3guo2 ka1fei1dian4."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 12,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'Today, I am going to the company.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "今天我去公司。",
+                "Jīntiān wǒ qù gōngsī.",
+                "Jin1tian1 wo3 qu4 gong1si1."
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 13,
-            "instrucciones": "How do you say <strong>''</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'Yesterday, I didn’t go to the store.'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
-                "",
+                "昨天我没有去商店。",
+                "Zuótiān wǒ méiyǒu qù shāngdiàn.",
+                "Zuo2tian1 wo3 mei2you3 qu4 shang1dian4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "How do you say <strong>'Are you going to the café tomorrow?'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "明天你去咖啡店吗？",
+                "Míngtiān nǐ qù kāfēidiàn ma?",
+                "Ming2tian1 ni3 qu4 ka1fei1dian4 ma5."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "How do you say <strong>'I am in the restroom now.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "现在我在厕所。",
+                "Xiànzài wǒ zài cèsuǒ.",
+                "Xian4zai4 wo3 zai4 ce4suo3."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "How do you say <strong>'Yesterday, he went to the French school.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "昨天他去了法语学校。",
+                "Zuótiān tā qùle Fǎyǔ xuéxiào.",
+                "Zuo2tian1 ta1 qu4le Fa3yu3 xue2xiao4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "How do you say <strong>'Tomorrow, the teacher will go to the bookstore.'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "明天老师要去书店。",
+                "Míngtiān lǎoshī yào qù shūdiàn.",
+                "Ming2tian1 lao3shi1 yao4 qu4 shu1dian4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 18,
+            "instrucciones": "How do you say <strong>'How do you say?'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "怎么说？",
+                "Zěnme shuō?",
+                "Zen3me5 shuo1?",
+                "Zen3me shuo1?"
             ],
             "input_chars_aceptados": []
         }

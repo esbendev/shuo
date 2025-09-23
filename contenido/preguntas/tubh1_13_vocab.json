@@ -56,6 +56,27 @@
                 "qu4"
             ],
             "input_chars_aceptados": []
-        }
-    ]
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say <strong>'(particle indicating completed action or change)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "了",
+                "le",
+                "le5"
+            ],  
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say <strong>'will'</strong> or <strong>'be going to'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "要",
+                "yào",
+                "yao4"
+            ],
+            "input_chars_aceptados": []
+        },
 }
