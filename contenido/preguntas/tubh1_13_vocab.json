@@ -1,0 +1,61 @@
+{
+    "titulo": "Day 12 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say <strong>'yesterday'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "昨天",
+                "zuótiān",
+                "zuo2tian1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say <strong>'right now'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "现在",
+                "xiànzài",
+                "xian4zai4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say <strong>'today'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "今天",
+                "jīntiān",
+                "jin1tian1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say <strong>'tomorrow'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "明天",
+                "míngtiān",
+                "ming2tian1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say <strong>'to go'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "去",
+                "qù",
+                "qu4"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}

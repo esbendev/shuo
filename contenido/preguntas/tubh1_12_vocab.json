@@ -111,6 +111,28 @@
                 "ka1fei1dian4"
             ],
             "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "How do you say <strong>'airplane'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "飞机",
+                "fēijī",
+                "fei1ji1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "How do you say <strong>'airport'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "飞机场",
+                "fēijīchǎng",
+                "fei1ji1chang3"
+            ],
+            "input_chars_aceptados": []
         }
     ]
 }
