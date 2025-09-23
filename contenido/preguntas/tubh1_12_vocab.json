@@ -1,0 +1,116 @@
+{
+    "titulo": "Day 12 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say <strong>'Lesson 3'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "第三课",
+                "dì sān kè",
+                "di4 san1 ke4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say <strong>'Where are you?'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "你在哪里？",
+                "nǐ zài nǎ lǐ?",
+                "ni3 zai4 na3 li3?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say <strong>'home'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "家",
+                "jiā",
+                "jia1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say <strong>'school'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "学校",
+                "xuéxiào",
+                "xue2xiao4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say <strong>'office'</strong> or <strong>'work'</strong> or <strong>'company'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "公司",
+                "gōngsī",
+                "gong1si1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say <strong>'restroom'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "厕所",
+                "cèsuǒ",
+                "ce4suo3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say <strong>'store'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "商店",
+                "shāngdiàn",
+                "shang1dian4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say <strong>'shopping mall'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "商场",
+                "shāngchǎng",
+                "shang1chang3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say <strong>'restaurant'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "饭店",
+                "fàndiàn",
+                "fan4dian4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "How do you say <strong>'coffee shop'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "咖啡店",   
+                "kāfēidiàn",
+                "ka1fei1dian4"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
