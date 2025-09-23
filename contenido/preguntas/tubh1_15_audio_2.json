@@ -1,0 +1,149 @@
+{
+    "titulo": "Day 15 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "现在你在哪里？",
+                "xiàn zài nǐ zài nǎ lǐ?",
+                "xian4 zai4 ni3 zai4 na3 li3?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "现在我在公司。",
+                "xiàn zài wǒ zài gōng sī.",
+                "xian4 zai4 wo3 zai4 gong1 si1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天早上我在咖啡店。",
+                "zuó tiān zǎo shang wǒ zài kā fēi diàn.",
+                "zuo2 tian1 zao3 shang4 wo3 zai4 ka1 fei1 dian4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天你要去哪里？",
+                "míng tiān nǐ yào qù nǎ lǐ?",
+                "ming2 tian1 ni3 yao4 qu4 na3 li3?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天早上她要去商店。",
+                "明天早上他要去商店。",
+                "míng tiān zǎo shang tā yào qù shāng diàn.",
+                "ming2 tian1 zao3 shang4 ta1 yao4 qu4 shang1 dian4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天你要去中国饭店吗？",
+                "míng tiān nǐ yào qù zhōng guó fàn diàn ma?",
+                "ming2 tian1 ni3 yao4 qu4 zhong1 guo2 fan4 dian4 ma?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天晚上你去了商场吗？",
+                "zuó tiān wǎn shang nǐ qù le shāng chǎng ma?",
+                "zuo2 tian1 wan3 shang4 ni qu4 le shang1 chang3 ma?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天我没有去厕所。",
+                "zuó tiān wǒ méi yǒu qù cè suǒ.",
+                "zuo2 tian1 wo3 mei2 you3 qu4 ce4 suo3."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天她也没有去学校。",
+                "昨天他也没有去学校。",
+                "zuó tiān tā yě méi yǒu qù xué xiào.",
+                "zuo2 tian1 ta1 ye3 mei2 you3 qu4 xue2 xiao4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "今天她很不高兴。",
+                "今天他很不高兴。",
+                "jīn tiān tā hěn bù gāo xìng.",
+                "jin1 tian1 ta1 hen3 bu4 gao1 xing4."
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
