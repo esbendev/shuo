@@ -1,0 +1,94 @@
+{
+    "titulo": "Day 12 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say <strong>'to sleep'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "睡觉",
+                "shuìjiào",
+                "shui4jiao4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say <strong>'to study'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "学习",
+                "xuéxí",
+                "xue2xi2"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say <strong>'to work'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "工作",
+                "gōngzuò",
+                "gong1zuo4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say <strong>'go to the restroom'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "上厕所",
+                "shàng cè suǒ",
+                "shang4ce4suo3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say <strong>'to buy things'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "买东西",
+                "mǎi dōng xī",
+                "mai3dong1xi1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say <strong>'to read books'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "看书",
+                "kàn shū",
+                "kan4shu1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say <strong>'eat food'</strong> or <strong>'be going to'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "吃饭",
+                "chī fàn",
+                "chi1fan4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say <strong>'to drink coffee'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "喝咖啡",
+                "hē kā fēi",
+                "he1ka1fei1"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
