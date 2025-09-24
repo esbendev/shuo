@@ -1,0 +1,171 @@
+{
+    "titulo": "Day 11 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/1.mp3",
+            "respuesta_correcta": [
+                "第三课",
+                "dì sān kè",
+                "di4 san1 ke4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/2.mp3",
+            "respuesta_correcta": [
+                "你在哪里？",
+                "nǐ zài nǎ lǐ?",
+                "ni3 zai4 na3 li3?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/3.mp3",
+            "respuesta_correcta": [
+                "家",
+                "jiā",
+                "jia1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/4.mp3",
+            "respuesta_correcta": [
+                "学校",
+                "xué xiào",
+                "xue2 xiao4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/5.mp3",
+            "respuesta_correcta": [
+                "公司",
+                "gōng sī",
+                "gong1 si1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/6.mp3",
+            "respuesta_correcta": [
+                "厕所",
+                "cè suǒ",
+                "ce4 suo3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/7.mp3",
+            "respuesta_correcta": [
+                "商店",
+                "shāng diàn",
+                "shang1 dian4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/8.mp3",
+            "respuesta_correcta": [
+                "商场",
+                "shāng chǎng",
+                "shang1 chang3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/9.mp3",
+            "respuesta_correcta": [
+                "饭店",
+                "fàn diàn",
+                "fan4 dian4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/10.mp3",
+            "respuesta_correcta": [
+                "咖啡店",
+                "kā fēi diàn",
+                "ka1 fei1 dian4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/11.mp3",
+            "respuesta_correcta": [
+                "昨天",
+                "zuó tiān",
+                "zuo2 tian1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/12.mp3",
+            "respuesta_correcta": [
+                "现在",
+                "xiàn zài",
+                "xian4 zai4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/13.mp3",
+            "respuesta_correcta": [
+                "今天",
+                "jīn tiān",
+                "jin1 tian1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/14.mp3",
+            "respuesta_correcta": [
+                "明天",
+                "míng tiān",
+                "ming2 tian1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-15/1/15.mp3",
+            "respuesta_correcta": [
+                "去",
+                "qù",
+                "qu4"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
