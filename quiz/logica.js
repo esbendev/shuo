@@ -258,3 +258,10 @@ function resetProgress() {
 document.querySelector('.boton-reset').addEventListener('click', () => {
     resetProgress();
 });
+
+// as soon as i type in input.respuesta, clear resultado-respuesta text
+document.querySelector('.input-respuesta').addEventListener('input', () => {
+    const resultadoDiv = document.querySelector('.resultado-respuesta');
+    resultadoDiv.textContent = '';
+    resultadoDiv.className = 'resultado-respuesta';
+});
