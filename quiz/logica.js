@@ -231,3 +231,30 @@ function playAudio() {
 document.querySelector('.boton-audio').addEventListener('click', () => {
     playAudio();
 });
+
+function resetProgress() {
+    if (confirm('Are you sure you want to reset your progress for this quiz?')) {
+        currentId = 1;
+        localStorage.removeItem(`quiz_currentId_${filename}`);
+        preguntasEstado = preguntasEstado.map(p => ({ id: p.id, value: 0 }));
+        fetch(`../contenido/preguntas/${filename}.json`)
+            .then(response => response.json())
+            .then(data => {
+                pregunta = data.preguntas.find(p => p.id === currentId);
+                if (!pregunta || !pregunta.input_chars_aceptados) return;
+
+                instrucciones.innerHTML = pregunta.instrucciones;
+                audioActual = 0;
+                cargarBotonAudio();
+                actualizarTeclado();
+                const resultadoDiv = document.querySelector('.resultado-respuesta');
+                resultadoDiv.textContent = '';
+                resultadoDiv.className = 'resultado-respuesta';
+                actualizarListaDePreguntas();
+            });
+    }
+}
+
+document.querySelector('.boton-reset').addEventListener('click', () => {
+    resetProgress();
+});
