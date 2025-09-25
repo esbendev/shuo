@@ -70,7 +70,7 @@
         },
         {
             "id": 7,
-            "instrucciones": "How do you say <strong>'eat food'</strong> or <strong>'be going to'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'eat food'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "吃饭",
