@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentence Builder (based on day 17 lesson)</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #f4f4f4;
+            color: #333;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        button {
+            margin-top: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .coloresWhen {
+            background-color: #ECDCC4;
+            color: #74634E;
+        }
+
+        .coloresWho {
+            background-color: #EBCEC9;
+            color: #735853;
+        }
+
+        .coloresAt {
+            background-color: #D9DDCA;
+            color: #626451;
+        }
+
+        .coloresWhere {
+            background-color: #CEE7FA;
+            color: #485A6A;
+        }
+
+        .coloresDoingWhat {
+            background-color: #DADEFD;
+            color: #62677F;
+        }
+
+        p#pResult span {
+            font-weight: bold;
+            padding: .4rem .6rem;
+            border-radius: 4px;
+        }
+
+        .alerta {
+            background-color: red;
+            color: white;
+            padding: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Sentence Builder (based on day 17 lesson)</h1>
+    <p class="alerta">THIS IS A WORK IN PROGRESS, STILL NEED TO ADD LOGIC FOR 要，没有，不 and 了.</p>
+    <table>
+        <thead>
+            <tr>
+                <th class="coloresWhen">WHEN</th>
+                <th class="coloresWho">WHO</th>
+                <th class="coloresAt">AT</th>
+                <th class="coloresWhere">WHERE</th>
+                <th class="coloresDoingWhat">DOING WHAT</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+        <button onclick="buildSentence()">Build Sentence</button>
+        <p id="pResult"></p>
+
+    </table>
+
+    <script>
+        const when = ["早上", "晚上", "昨天", "今天", "明天", "现在"];
+        const who = ["我", "你", "他", "她", "您", "老师", "爸爸", "妈妈"];
+        const at = ["在", "去", "来", "回"];
+        const where = ["家", "学校", "公司", "厕所", "商店", "商场", "饭店", "咖啡店", "中国", "哪里"];
+        const doingWhat = ["睡觉。", "看书。", "学习。", "工作。", "上厕所。", "买东西。", "吃饭。", "喝咖啡。", "做什么？"];
+
+        // Function to create a table cell
+        function createCell(content) {
+            const td = document.createElement("td");
+            td.textContent = content || ""; // empty if out of bounds
+            return td;
+        }
+
+        // Populate tbody with rows and columns
+        const tbody = document.querySelector("tbody");
+        const maxLength = Math.max(when.length, who.length, at.length, where.length, doingWhat.length);
+        for (let i = 0; i < maxLength; i++) {
+            const tr = document.createElement("tr");
+            tr.appendChild(createCell(when[i]));
+            tr.appendChild(createCell(who[i]));
+            tr.appendChild(createCell(at[i]));
+            tr.appendChild(createCell(where[i]));
+            tr.appendChild(createCell(doingWhat[i]));
+            tbody.appendChild(tr);
+        }
+
+        // Function to build a random sentence
+        function buildSentence() {
+            const randomWhen = when[Math.floor(Math.random() * when.length)];
+            const randomWho = who[Math.floor(Math.random() * who.length)];
+            const randomAt = at[Math.floor(Math.random() * at.length)];
+            const randomWhere = where[Math.floor(Math.random() * where.length)];
+            const randomDoingWhat = doingWhat[Math.floor(Math.random() * doingWhat.length)];
+            const sentence = `${randomWhen} ${randomWho} ${randomAt} ${randomWhere} ${randomDoingWhat}`;
+            const resultElement = document.getElementById("pResult");
+            resultElement.innerHTML = `
+                <span id="resultSpanWhen" class="coloresWhen">${randomWhen}</span> 
+                <span id="resultSpanWho" class="coloresWho">${randomWho}</span> 
+                <span id="resultSpanAt" class="coloresAt">${randomAt}</span> 
+                <span id="resultSpanWhere" class="coloresWhere">${randomWhere}</span> 
+                <span id="resultSpanDoingWhat" class="coloresDoingWhat">${randomDoingWhat}</span>
+            `;
+            // also mark the selected words in the table
+            Array.from(tbody.rows).forEach(row => {
+                Array.from(row.cells).forEach((cell, index) => {
+                    cell.className = ""; // reset all
+                    if (cell.textContent === randomWhen && index === 0) cell.classList.add("coloresWhen");
+                    if (cell.textContent === randomWho && index === 1) cell.classList.add("coloresWho");
+                    if (cell.textContent === randomAt && index === 2) cell.classList.add("coloresAt");
+                    if (cell.textContent === randomWhere && index === 3) cell.classList.add("coloresWhere");
+                    if (cell.textContent === randomDoingWhat && index === 4) cell.classList.add("coloresDoingWhat");
+                });
+            });
+        }
+    </script>
+</body>
+
+</html>
