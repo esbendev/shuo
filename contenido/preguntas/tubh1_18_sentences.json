@@ -1,0 +1,149 @@
+{
+    "titulo": "Day 18 Sentences",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say 'I like to sleep' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我喜欢睡觉",
+                "Wǒ xǐhuān shuìjiào",
+                "Wo3 xi3huan1 shui4jiao4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say 'Right now I am studying Chinese' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "现在我在学习中文",
+                "Xiànzài wǒ zài xuéxí zhōngwén",
+                "Xian4zai4 wo3 zai4 xue2xi2 zhong1wen2"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say 'Tomorrow I will go to work' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "明天我要去工作",
+                "Míngtiān wǒ yào qù gōngzuò",
+                "Ming2tian1 wo3 yao4 qu4 gong1zuo4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say 'I am using the bathroom' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我在上厕所",
+                "Wǒ zài shàng cè suǒ",
+                "Wo3 zai4 shang4 ce4 suo3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say 'I go to the store to buy things' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我去商店买东西",
+                "Wǒ qù shāngdiàn mǎi dōngxi",
+                "Wo3 qu4 shang1dian4 mai3 dong1xi"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say 'I am reading a book at home' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我在家看书",
+                "Wǒ zài jiā kàn shū",
+                "Wo3 zai4 jia1 kan4 shu1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say 'I go to the restaurant to eat' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我去饭店吃饭",
+                "Wǒ qù fàndiàn chī fàn",
+                "Wo3 qu4 fan4dian4 chi1 fan4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say 'I like to drink coffee at home' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我喜欢在家喝咖啡",
+                "Wǒ xǐhuān zài jiā hē kāfēi",
+                "Wo3 xi3huan1 zai4 jia1 he1 ka1fei1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say 'Yesterday he didn’t return home' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "昨天他没有回家",
+                "Zuótiān tā méiyǒu huí jiā",
+                "Zuo2tian1 ta1 mei2you3 hui2 jia1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "How do you say 'The teacher comes to school to eat' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "老师来学校吃饭",
+                "Lǎoshī lái xuéxiào chī fàn",
+                "Lao3shi1 lai2 xue2xiao4 chi1 fan4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "How do you say 'I don’t like to cook, I like to buy food' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我不喜欢做饭，我喜欢买饭",
+                "Wǒ bù xǐhuān zuò fàn, wǒ xǐhuān mǎi fàn",
+                "Wo3 bu4 xi3huan1 zuo4 fan4, wo3 xi3huan1 mai3 fan4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "How do you say 'What are you doing now?' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "现在你在做什么",
+                "Xiànzài nǐ zài zuò shénme",
+                "Xian4zai4 ni3 zai4 zuo4 shen2me"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "How do you say 'Yesterday, what did you do?' in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "昨天，你做了什么",
+                "Zuótiān, nǐ zuòle shénme",
+                "Zuo2tian1, ni3 zuo4le shen2me"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}

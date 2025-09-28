@@ -1,43 +1,43 @@
 {
-    "titulo": "Day 12 Vocabulary",
+    "titulo": "Day 18 Vocabulary",
     "showHelp": true,
     "preguntas": [
         {
             "id": 1,
-            "instrucciones": "How do you say <strong>'to sleep'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'sleep'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "睡觉",
-                "shuìjiào",
+                "shuì jiào",
                 "shui4jiao4"
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 2,
-            "instrucciones": "How do you say <strong>'to study'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'study'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "学习",
-                "xuéxí",
+                "xué xí",
                 "xue2xi2"
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 3,
-            "instrucciones": "How do you say <strong>'to work'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'work'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "工作",
-                "gōngzuò",
+                "gōng zuò",
                 "gong1zuo4"
             ],
             "input_chars_aceptados": []
         },
         {
             "id": 4,
-            "instrucciones": "How do you say <strong>'go to the restroom'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'go to the bathroom'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "上厕所",
@@ -48,7 +48,7 @@
         },
         {
             "id": 5,
-            "instrucciones": "How do you say <strong>'to buy things'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'buy things'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "买东西",
@@ -59,7 +59,7 @@
         },
         {
             "id": 6,
-            "instrucciones": "How do you say <strong>'to read books'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'read books'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "看书",
@@ -70,7 +70,7 @@
         },
         {
             "id": 7,
-            "instrucciones": "How do you say <strong>'eat food'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'eat meals'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "吃饭",
@@ -81,12 +81,56 @@
         },
         {
             "id": 8,
-            "instrucciones": "How do you say <strong>'to drink coffee'</strong> in Chinese?",
+            "instrucciones": "How do you say <strong>'drink coffee'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "喝咖啡",
                 "hē kā fēi",
                 "he1ka1fei1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say <strong>'return'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "回",
+                "huí",
+                "hui2"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "How do you say <strong>'come'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "来",
+                "lái",
+                "lai2"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "How do you say <strong>'do'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "做",
+                "zuò",
+                "zuo4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "How do you say <strong>'do what'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "做什么",
+                "zuò shén me",
+                "zuo4shen2me"
             ],
             "input_chars_aceptados": []
         }
