@@ -1,0 +1,193 @@
+{
+    "titulo": "Day 18 Sentences",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say <strong>'This is my dad'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "这是我的爸爸",
+                "Zhè shì wǒ de bàba",
+                "Zhe4 shi4 wo3 de ba4ba"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say <strong>'That is my mom'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "那是我的妈妈",
+                "Nà shì wǒ de māma",
+                "Na4 shi4 wo3 de ma1ma"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say <strong>'He is my older brother'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "他是我的哥哥",
+                "Tā shì wǒ de gēge",
+                "Ta1 shi4 wo3 de ge1ge"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say <strong>'She is my older sister'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "她是我的姐姐",
+                "Tā shì wǒ de jiějie",
+                "Ta1 shi4 wo3 de jie3jie"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say <strong>'Yesterday, my younger brother didn’t come home'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "昨天我的弟弟没有回家",
+                "Zuótiān wǒ de dìdi méiyǒu huíjiā",
+                "Zuo2tian1 wo3 de di4di mei2you3 hui2jia1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say <strong>'My younger sister is at school now'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "现在我的妹妹在学校",
+                "Xiànzài wǒ de mèimei zài xuéxiào",
+                "Xian4zai4 wo3 de mei4mei zai4 xue2xiao4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say <strong>'I don’t have Chinese friends'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我没有中国朋友",
+                "Wǒ méiyǒu Zhōngguó péngyǒu",
+                "Wo3 mei2you3 Zhong1guo2 peng2you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say <strong>'My boyfriend is reading'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我的男朋友在看书",
+                "Wǒ de nánpéngyǒu zài kànshū",
+                "Wo3 de nan2peng2you3 zai4 kan4shu1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say <strong>'His girlfriend is drinking coffee'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "他的女朋友在喝咖啡",
+                "Tā de nǚpéngyǒu zài hē kāfēi",
+                "Ta1 de nv3peng2you3 zai4 he1 ka1fei1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "How do you say <strong>'He has a younger brother and also a younger sister'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "他有弟弟，也有妹妹",
+                "Tā yǒu dìdi, yě yǒu mèimei",
+                "Ta1 you3 di4di, ye3 you3 mei4mei"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "How do you say <strong>'This is an Apple Watch'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "这是苹果手表",
+                "Zhè shì Píngguǒ shǒubiǎo",
+                "Zhe4 shi4 Ping2guo3 shou3biao3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "How do you say <strong>'She really likes children'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "她很喜欢孩子",
+                "Tā hěn xǐhuān háizi",
+                "Ta1 hen3 xi3huan1 hai2zi"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "How do you say <strong>'My dog likes going to the mall'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我的狗喜欢去商场",
+                "Wǒ de gǒu xǐhuān qù shāngchǎng",
+                "Wo3 de gou3 xi3huan1 qu4 shang1chang3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "How do you say <strong>'I have a cat, but not a dog'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我有猫，没有狗",
+                "Wǒ yǒu māo, méiyǒu gǒu",
+                "Wo3 you3 mao1, mei2you3 gou3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "How do you say <strong>'I have a German car'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "我有德国车",
+                "Wǒ yǒu Déguó chē",
+                "Wo3 you3 De2guo2 che1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "How do you say <strong>'This is Chinese money'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "这是中国的钱",
+                "Zhè shì Zhōngguó de qián",
+                "Zhe4 shi4 Zhong1guo2 de qian2"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "How do you say <strong>'Who are you?'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "你是谁",
+                "Nǐ shì shéi",
+                "Ni3 shi4 shei2"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}

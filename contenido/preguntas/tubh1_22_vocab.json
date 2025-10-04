@@ -1,0 +1,195 @@
+{
+    "titulo": "Day 18 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say <strong>'dad/father'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "爸爸",
+                "bàba",
+                "ba4ba"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say <strong>'mom/mother'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "妈妈",
+                "māma",
+                "ma1ma"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say <strong>'older brother'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "哥哥",
+                "gēge",
+                "ge1ge"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say <strong>'older sister'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "姐姐",
+                "jiějie",
+                "jie3jie"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say <strong>'younger brother'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "弟弟",
+                "dìdi",
+                "di4di"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say <strong>'younger sister'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "妹妹",
+                "mèimei",
+                "mei4mei"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say <strong>'friend'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "朋友",
+                "péngyǒu",
+                "peng2you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say <strong>'boyfriend'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "男朋友",
+                "nán péngyǒu",
+                "nan2peng2you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say <strong>'girlfriend'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "女朋友",
+                "nǚ péngyǒu",
+                "nv3peng2you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "How do you say <strong>'to have'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "有",
+                "yǒu",
+                "you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "How do you say <strong>'watch'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "手表",
+                "shǒubiǎo",
+                "shou3biao3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "How do you say <strong>'child'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "孩子",
+                "háizi",
+                "hai2zi"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "How do you say <strong>'dog'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "狗",
+                "gǒu",
+                "gou3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "How do you say <strong>'cat'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "猫",
+                "māo",
+                "mao1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "How do you say <strong>'car'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "车",
+                "chē",
+                "che1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "How do you say <strong>'money'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "钱",
+                "qián",
+                "qian2"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "How do you say <strong>'who'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "谁",
+                "shéi",
+                "shuí",
+                "shei2",
+                "shui2"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
