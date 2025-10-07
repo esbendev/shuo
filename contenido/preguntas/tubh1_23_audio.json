@@ -1,0 +1,247 @@
+{
+    "titulo": "Day 23 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/1.m4a",
+            "respuesta_correcta": [
+                "第五课",
+                "dì wǔ kè",
+                "di4 wu3 ke4"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/2.m4a",
+            "respuesta_correcta": [
+                "这是谁的笔？",
+                "zhè shì shéi de bǐ?",
+                "zhe4 shi4 shei2 de5 bi3?",
+                "zhe4 shi4 shei2 de bi3?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/3.m4a",
+            "respuesta_correcta": [
+                "妈妈",
+                "mā ma",
+                "ma1 ma5",
+                "ma1 ma"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/4.m4a",
+            "respuesta_correcta": [
+                "爸爸",
+                "bà ba",
+                "ba4 ba5",
+                "ba4 ba"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/5.m4a",
+            "respuesta_correcta": [
+                "哥哥",
+                "gē ge",
+                "ge1 ge5",
+                "ge1 ge"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/6.m4a",
+            "respuesta_correcta": [
+                "姐姐",
+                "jiě jie",
+                "jie3 jie5",
+                "jie3 jie"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/7.m4a",
+            "respuesta_correcta": [
+                "弟弟",
+                "dì di",
+                "di4 di5",
+                "di4 di"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/8.m4a",
+            "respuesta_correcta": [
+                "妹妹",
+                "mèi mei",
+                "mei4 mei5",
+                "mei4 mei"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/9.m4a",
+            "respuesta_correcta": [
+                "朋友",
+                "péng yǒu",
+                "peng2 you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/10.m4a",
+            "respuesta_correcta": [
+                "男朋友",
+                "nán péng yǒu",
+                "nan2 peng2 you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/11.m4a",
+            "respuesta_correcta": [
+                "女朋友",
+                "nǚ péng yǒu",
+                "nv3 peng2 you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/12.m4a",
+            "respuesta_correcta": [
+                "有",
+                "yǒu",
+                "you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/13.m4a",
+            "respuesta_correcta": [
+                "没有",
+                "méi yǒu",
+                "mei2 you3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/14.m4a",
+            "respuesta_correcta": [
+                "手表",
+                "shǒu biǎo",
+                "shou3 biao3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/15.m4a",
+            "respuesta_correcta": [
+                "孩子",
+                "hái zi",
+                "hai2 zi5",
+                "hai2 zi"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/16.m4a",
+            "respuesta_correcta": [
+                "狗",
+                "gǒu",
+                "gou3"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/17.m4a",
+            "respuesta_correcta": [
+                "猫",
+                "māo",
+                "mao1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 18,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/18.m4a",
+            "respuesta_correcta": [
+                "车",
+                "chē",
+                "che1"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 19,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/19.m4a",
+            "respuesta_correcta": [
+                "钱",
+                "qián",
+                "qian2"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 20,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/20.m4a",
+            "respuesta_correcta": [
+                "谁",
+                "shéi",
+                "shei2"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 21,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-23/21.m4a",
+            "respuesta_correcta": [
+                "谁的",
+                "shéi de",
+                "shei2 de5",
+                "shei2 de"
+            ],
+            "input_chars_aceptados": []
+        }
+    
+    ]
+}
