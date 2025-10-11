@@ -1,0 +1,23 @@
+.card {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Modern, clean font */
+    font-size: 1.25rem; /* Relative to the root font size */
+    line-height: 1.6; /* Improved line spacing for clarity */
+    text-align: center; /* Keeps the text centered */
+    padding: 1rem; /* Adds space around the content (16px) */
+    max-width: 100%; /* Ensures the card doesn't exceed the screen width */
+    box-sizing: border-box; /* Includes padding in the element's total width/height */
+    overflow-wrap: break-word; /* Prevents long words from overflowing */
+}
+
+.chineseChars {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.answer {
+  font-size: 1.5rem;
+}
+
+.english {
+  font-weight: bold;
+}

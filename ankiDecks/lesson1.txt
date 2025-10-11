@@ -1,0 +1,19 @@
+<div class="chineseChars">我</div>|<div class="answer">wǒ <span class="english">I, me</span></div>
+<div class="chineseChars">你</div>|<div class="answer">nǐ <span class="english">you</span></div>
+<div class="chineseChars">他</div>|<div class="answer">tā <span class="english">he, him</span></div>
+<div class="chineseChars">她</div>|<div class="answer">tā <span class="english">she, her</span></div>
+<div class="chineseChars">您</div>|<div class="answer">nín <span class="english">you (polite)</span></div>
+<div class="chineseChars">好</div>|<div class="answer">hǎo <span class="english">good</span></div>
+<div class="chineseChars">叫</div>|<div class="answer">jiào <span class="english">to be called</span></div>
+<div class="chineseChars">岁</div>|<div class="answer">suì <span class="english">years old</span></div>
+<div class="chineseChars">哪</div>|<div class="answer">nǎ <span class="english">which</span></div>
+<div class="chineseChars">国</div>|<div class="answer">guó <span class="english">country</span></div>
+<div class="chineseChars">⼈</div>|<div class="answer">rén <span class="english">person, people</span></div>
+<div class="chineseChars">很</div>|<div class="answer">hěn <span class="english">very</span></div>
+<div class="chineseChars">也</div>|<div class="answer">yě <span class="english">also</span></div>
+<div class="chineseChars">早上</div>|<div class="answer">zǎoshàng <span class="english">morning</span></div>
+<div class="chineseChars">晚上</div>|<div class="answer">wǎnshàng <span class="english">evening, night</span></div>
+<div class="chineseChars">什么</div>|<div class="answer">shénme <span class="english">what</span></div>
+<div class="chineseChars">名字</div>|<div class="answer">míngzi <span class="english">name</span></div>
+<div class="chineseChars">⾼兴</div>|<div class="answer">gāoxìng <span class="english">happy</span></div>
+<div class="chineseChars">认识</div>|<div class="answer">rènshi <span class="english">to know, to recognize</span></div>
