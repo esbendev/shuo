@@ -1,0 +1,19 @@
+<div class="chineseChars">英国</div>|<div class="answer">Yīngguó <span class="english">United Kingdom</span></div>
+<div class="chineseChars">德国</div>|<div class="answer">Déguó <span class="english">Germany</span></div>
+<div class="chineseChars">法国</div>|<div class="answer">Fǎguó <span class="english">France</span></div>
+<div class="chineseChars">⽇本</div>|<div class="answer">Rìběn <span class="english">Japan</span></div>
+<div class="chineseChars">西班⽛</div>|<div class="answer">Xībānyá <span class="english">Spain</span></div>
+<div class="chineseChars">这</div>|<div class="answer">zhè <span class="english">this</span></div>
+<div class="chineseChars">那</div>|<div class="answer">nà <span class="english">that</span></div>
+<div class="chineseChars">书</div>|<div class="answer">shū <span class="english">book</span></div>
+<div class="chineseChars">笔</div>|<div class="answer">bǐ <span class="english">pen</span></div>
+<div class="chineseChars">本⼦</div>|<div class="answer">běnzi <span class="english">notebook</span></div>
+<div class="chineseChars">杯⼦</div>|<div class="answer">bēizi <span class="english">cup; glass</span></div>
+<div class="chineseChars">⼿机</div>|<div class="answer">shǒujī <span class="english">mobile phone</span></div>
+<div class="chineseChars">电脑</div>|<div class="answer">diànnǎo <span class="english">computer</span></div>
+<div class="chineseChars">苹果</div>|<div class="answer">píngguǒ <span class="english">apple</span></div>
+<div class="chineseChars">鸡蛋</div>|<div class="answer">jīdàn <span class="english">egg</span></div>
+<div class="chineseChars">⼿</div>|<div class="answer">shǒu <span class="english">hand</span></div>
+<div class="chineseChars">电</div>|<div class="answer">diàn <span class="english">electricity</span></div>
+<div class="chineseChars">脑</div>|<div class="answer">nǎo <span class="english">brain</span></div>
+<div class="chineseChars">鸡</div>|<div class="answer">jī <span class="english">chicken</span></div>
