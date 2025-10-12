@@ -1,0 +1,17 @@
+<div class="chineseChars">爸爸</div>|<div class="answer">bàba <span class="english">dad/father</span></div>
+<div class="chineseChars">妈妈</div>|<div class="answer">māma <span class="english">mom/mother</span></div>
+<div class="chineseChars">哥哥</div>|<div class="answer">gēge <span class="english">older brother</span></div>
+<div class="chineseChars">姐姐</div>|<div class="answer">jiějie <span class="english">older sister</span></div>
+<div class="chineseChars">弟弟</div>|<div class="answer">dìdi <span class="english">younger brother</span></div>
+<div class="chineseChars">妹妹</div>|<div class="answer">mèimei <span class="english">younger sister</span></div>
+<div class="chineseChars">朋友</div>|<div class="answer">péngyǒu <span class="english">friend</span></div>
+<div class="chineseChars">男朋友</div>|<div class="answer">nán péngyǒu <span class="english">boyfriend</span></div>
+<div class="chineseChars">⼥朋友</div>|<div class="answer">nǚ péngyǒu <span class="english">girlfriend</span></div>
+<div class="chineseChars">有</div>|<div class="answer">yǒu <span class="english">to have</span></div>
+<div class="chineseChars">⼿表</div>|<div class="answer">shǒubiǎo <span class="english">watch</span></div>
+<div class="chineseChars">孩⼦</div>|<div class="answer">háizi <span class="english">child</span></div>
+<div class="chineseChars">狗</div>|<div class="answer">gǒu <span class="english">dog</span></div>
+<div class="chineseChars">猫</div>|<div class="answer">māo <span class="english">cat</span></div>
+<div class="chineseChars">车</div>|<div class="answer">chē <span class="english">car</span></div>
+<div class="chineseChars">钱</div>|<div class="answer">qián <span class="english">money</span></div>
+<div class="chineseChars">谁</div>|<div class="answer">shéi/shuí <span class="english">who</span></div>
