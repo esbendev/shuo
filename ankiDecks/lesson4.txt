@@ -1,0 +1,11 @@
+<div class="chineseChars">睡觉</div>|<div class="answer">shuì jiào <span class="english">sleep</span></div>
+<div class="chineseChars">学习</div>|<div class="answer">xué xí <span class="english">study</span></div>
+<div class="chineseChars">⼯作</div>|<div class="answer">gōng zuò <span class="english">work</span></div>
+<div class="chineseChars">上厕所</div>|<div class="answer">shàng cè suǒ <span class="english">go to the bathroom</span></div>
+<div class="chineseChars">买东西</div>|<div class="answer">mǎi dōng xī <span class="english">buy things</span></div>
+<div class="chineseChars">看书</div>|<div class="answer">kàn shū <span class="english">read books</span></div>
+<div class="chineseChars">吃饭</div>|<div class="answer">chī fàn <span class="english">eat meals</span></div>
+<div class="chineseChars">喝咖啡</div>|<div class="answer">hē kā fēi <span class="english">drink coffee</span></div>
+<div class="chineseChars">回</div>|<div class="answer">huí <span class="english">return</span></div>
+<div class="chineseChars">来</div>|<div class="answer">lái <span class="english">come</span></div>
+<div class="chineseChars">做</div>|<div class="answer">zuò <span class="english">do</span></div>
