@@ -1,0 +1,35 @@
+<div class="chineseChars">亻</div>|<div class="answer">rén <span class="english">person</span> - 你 you (<span class="example">nǐ</span>)</div>
+<div class="chineseChars">彳</div>|<div class="answer">chì <span class="english">road, walking</span> - 街 street (<span class="example">jiē</span>), 往 toward (<span class="example">wǎng</span>)</div>
+<div class="chineseChars">氵</div>|<div class="answer">shuǐ <span class="english">water</span> - 河 river (<span class="example">hé</span>), 洗 wash (<span class="example">xǐ</span>)</div>
+<div class="chineseChars">冫</div>|<div class="answer">bīng <span class="english">ice</span> - 冰 ice (<span class="example">bīng</span>), 冻 freeze (<span class="example">dòng</span>)</div>
+<div class="chineseChars">火</div>|<div class="answer">huǒ <span class="english">fire / burning</span> - 灯 lamp (<span class="example">dēng</span>), 烧 burn (<span class="example">shāo</span>)</div>
+<div class="chineseChars">灬</div>|<div class="answer">huǒ <span class="english">fire / fire from below</span> - 蒸 steam (<span class="example">zhēng</span>), 热 hot (<span class="example">rè</span>)</div>
+<div class="chineseChars">日</div>|<div class="answer">rì <span class="english">day, sun, time</span> - 时 time (<span class="example">shí</span>), 晴 sunny (<span class="example">qíng</span>)</div>
+<div class="chineseChars">月</div>|<div class="answer">yuè <span class="english">moon, month</span> - 明 tomorrow (<span class="example">míng</span>), 服 clothes (<span class="example">fú</span>)</div>
+<div class="chineseChars">门 (門)</div>|<div class="answer">mén <span class="english">door</span> - 间 room (<span class="example">jiān</span>), 闭 shut (<span class="example">bì</span>)</div>
+<div class="chineseChars">女</div>|<div class="answer">nǚ <span class="english">female, woman</span> - 好 good (<span class="example">hǎo</span>), 妈 mother (<span class="example">mā</span>)</div>
+<div class="chineseChars">子</div>|<div class="answer">zǐ <span class="english">child</span> - 孩 child (<span class="example">hái</span>), 孙 grandchild (<span class="example">sūn</span>)</div>
+<div class="chineseChars">扌</div>|<div class="answer">shǒu <span class="english">hand</span> - 推 push (<span class="example">tuī</span>), 拉 pull (<span class="example">lā</span>)</div>
+<div class="chineseChars">讠(訁)</div>|<div class="answer">yán <span class="english">word, language, speech</span> - 说 say (<span class="example">shuō</span>), 语 language (<span class="example">yǔ</span>)</div>
+<div class="chineseChars">艹</div>|<div class="answer">cǎo <span class="english">grass</span> - 花 flower (<span class="example">huā</span>), 菜 vegetable (<span class="example">cài</span>)</div>
+<div class="chineseChars">土</div>|<div class="answer">tǔ <span class="english">earth, soil</span> - 地 ground (<span class="example">dì</span>), 場 field (<span class="example">chǎng</span>)</div>
+<div class="chineseChars">钅(釒)</div>|<div class="answer">jīn <span class="english">metal</span> - 银 silver (<span class="example">yín</span>), 铁 iron (<span class="example">tiě</span>)</div>
+<div class="chineseChars">饣(飠)</div>|<div class="answer">shí <span class="english">food, eat</span> - 饭 rice/meal (<span class="example">fàn</span>), 饮 drink (<span class="example">yǐn</span>)</div>
+<div class="chineseChars">木</div>|<div class="answer">mù <span class="english">tree, wood</span> - 林 forest (<span class="example">lín</span>), 树 tree (<span class="example">shù</span>)</div>
+<div class="chineseChars">⺮</div>|<div class="answer">zhú <span class="english">bamboo</span> - 笔 pen (<span class="example">bǐ</span>), 简 simple (<span class="example">jiǎn</span>)</div>
+<div class="chineseChars">⻊</div>|<div class="answer">zú <span class="english">foot</span> - 踢 kick (<span class="example">tī</span>), 跑 run (<span class="example">pǎo</span>)</div>
+<div class="chineseChars">⻌</div>|<div class="answer">chuò / zouzhi <span class="english">walk, action, period of time</span> - 進 enter (<span class="example">jìn</span>), 远 far (<span class="example">yuǎn</span>)</div>
+<div class="chineseChars">纟(糹)</div>|<div class="answer">mì <span class="english">silk, thread, string</span> - 线 thread (<span class="example">xiàn</span>), 丝 silk (<span class="example">sī</span>)</div>
+<div class="chineseChars">宀</div>|<div class="answer">mián <span class="english">roof</span> - 家 home/family (<span class="example">jiā</span>), 室 room (<span class="example">shì</span>)</div>
+<div class="chineseChars">口</div>|<div class="answer">kǒu <span class="english">mouth, opening</span> - 唱 sing (<span class="example">chàng</span>), 和 and (<span class="example">hé</span>)</div>
+<div class="chineseChars">囗</div>|<div class="answer">wéi <span class="english">boundary, enclosure</span> - 国 country (<span class="example">guó</span>), 园 garden (<span class="example">yuán</span>)</div>
+<div class="chineseChars">衤</div>|<div class="answer">yī <span class="english">clothes</span> - 裙 skirt (<span class="example">qún</span>), 衫 shirt (<span class="example">shān</span>)</div>
+<div class="chineseChars">疒</div>|<div class="answer">nè <span class="english">sickness</span> - 病 disease (<span class="example">bìng</span>), 痛 pain (<span class="example">tòng</span>)</div>
+<div class="chineseChars">阝</div>|<div class="answer">yì <span class="english">terrain, hill, city, town</span> - 部 department/section (<span class="example">bù</span>), 都 both (<span class="example">bōu</span>)</div>
+<div class="chineseChars">厂</div>|<div class="answer">hàn <span class="english">factory, yard</span> - 厅 hall (<span class="example">tīng</span>), 厂 factory (<span class="example">chǎng</span>)</div>
+<div class="chineseChars">广</div>|<div class="answer">yǎn <span class="english">wide, shelter</span> - 店 shop (<span class="example">diàn</span>), 府 mansion (<span class="example">fǔ</span>)</div>
+<div class="chineseChars">心</div>|<div class="answer">xīn <span class="english">heart</span> - 想 want (<span class="example">xiǎng</span>), 忘 forget (<span class="example">wàng</span>)</div>
+<div class="chineseChars">忄</div>|<div class="answer">xīn <span class="english">feeling, mental activities</span> - 情 emotion (<span class="example">qíng</span>), 忙 busy (<span class="example">máng</span>)</div>
+<div class="chineseChars">力</div>|<div class="answer">lì <span class="english">strength, power, force</span> - 助 help (<span class="example">zhù</span>), 加 add (<span class="example">jiā</span>)</div>
+<div class="chineseChars">车 (車)</div>|<div class="answer">chē <span class="english">car, vehicle, cart</span> - 车 car (<span class="example">chē</span>), 軌 rail/track (<span class="example">guǐ</span>)</div>
+<div class="chineseChars">鱼 (魚)</div>|<div class="answer">yú <span class="english">fish</span> - 鲜 fresh (<span class="example">xiān</span>), 鮑 abalone (<span class="example">bào</span>)</div>

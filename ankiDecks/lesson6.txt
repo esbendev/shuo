@@ -1,0 +1,19 @@
+<div class="chineseChars">个</div>|<div class="answer">gè <span class="english">general measure word</span></div>
+<div class="chineseChars">本</div>|<div class="answer">běn <span class="english">measure word for books</span></div>
+<div class="chineseChars">张</div>|<div class="answer">zhāng <span class="english">measure word for flat objects (paper, tables, etc.)</span></div>
+<div class="chineseChars">台</div>|<div class="answer">tái <span class="english">measure word for machines (TVs, computers, etc.)</span></div>
+<div class="chineseChars">只</div>|<div class="answer">zhī <span class="english">measure word for small animals, one of a pair</span></div>
+<div class="chineseChars">辆</div>|<div class="answer">liàng <span class="english">measure word for vehicles</span></div>
+<div class="chineseChars">⽀</div>|<div class="answer">zhī <span class="english">measure word for long, thin objects (pens, sticks, etc.)</span></div>
+<div class="chineseChars">词典</div>|<div class="answer">cídiǎn <span class="english">dictionary</span></div>
+<div class="chineseChars">桌⼦</div>|<div class="answer">zhuōzi <span class="english">table, desk</span></div>
+<div class="chineseChars">椅⼦</div>|<div class="answer">yǐzi <span class="english">chair</span></div>
+<div class="chineseChars">床</div>|<div class="answer">chuáng <span class="english">bed</span></div>
+<div class="chineseChars">纸</div>|<div class="answer">zhǐ <span class="english">paper</span></div>
+<div class="chineseChars">电视</div>|<div class="answer">diànshì <span class="english">television</span></div>
+<div class="chineseChars">冰箱</div>|<div class="answer">bīngxiāng <span class="english">refrigerator</span></div>
+<div class="chineseChars">上</div>|<div class="answer">shàng <span class="english">on, above</span></div>
+<div class="chineseChars">下</div>|<div class="answer">xià <span class="english">under, below</span></div>
+<div class="chineseChars">⾥</div>|<div class="answer">lǐ <span class="english">inside</span></div>
+<div class="chineseChars">外</div>|<div class="answer">wài <span class="english">outside</span></div>
+<div class="chineseChars">房间</div>|<div class="answer">fángjiān <span class="english">room</span></div>
