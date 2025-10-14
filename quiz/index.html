@@ -24,10 +24,20 @@
             (Also, don't worry about spaces and punctuation marks.)
         </div>
     </div>
+    <div id="answer-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeAnswerPopup()">&times;</span>
+            <h2>Acceptable answers</h2>
+            <div id="contenido-respuesta"></div>
+        </div>
+    </div>
     <main class="quiz-container">
         <a href="../index.html" class="boton-atras">Back to main menu</a>
-        <button class="boton-reset">Reset Progress</button>
-        <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        <div class="botones-control-quiz">
+            <button class="boton-reset">Reset Progress</button>
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+            <button class="boton-answer" onclick="openAnswerPopup()">Show acceptable answers</button>
+        </div>
         <h1 class="titulo-quiz"></h1>
         <div class="lista-de-preguntas"></div>
         <div class="instrucciones"></div>
@@ -49,6 +59,21 @@
 
         function closeHelpPopup() {
             document.getElementById('help-popup').style.display = 'none';
+        }
+
+        // Answer popup functions
+        function openAnswerPopup() {
+            let contenidoRespuesta = pregunta.respuesta_correcta;
+            contenidoRespuesta = String(contenidoRespuesta).split(',').join('<br>');
+            const popup = document.getElementById('answer-popup');
+            const respuestaDiv = document.getElementById('contenido-respuesta');
+            respuestaDiv.innerHTML = contenidoRespuesta;
+            popup.style.display = 'flex';
+        }
+
+        function closeAnswerPopup() {
+            const popup = document.getElementById('answer-popup');
+            popup.style.display = 'none';
         }
     </script>
 </body>
