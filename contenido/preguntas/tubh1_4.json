@@ -97,7 +97,10 @@
             "respuesta_correcta": [
                 "我三十四岁。",
                 "wǒ sānshísì suì.",
-                "wo3 san1shi2si4 sui4."
+                "wo3 san1shi2si4 sui4.",
+                "我34岁。",
+                "wǒ 34 suì.",
+                "wo3 34 sui4."
             ],
             "input_chars_aceptados": []
         }
