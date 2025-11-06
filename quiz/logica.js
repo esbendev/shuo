@@ -147,14 +147,14 @@ function limpiarString(input) {
         return input.map(str => {
             str = String(str);
             str = str.trim().replace(/\s+/g, "");
-            str = str.replace(/[.?!。？！]/g, "");
+            str = str.replace(/[.?!。？！，]/g, "");
             return str.toLowerCase();
         });
     } else {
         // If input is a string, clean the string
         input = String(input);
         input = input.trim().replace(/\s+/g, "");
-        input = input.replace(/[.?!。？！]/g, "");
+        input = input.replace(/[.?!。？！，]/g, "");
         return input.toLowerCase();
     }
 }

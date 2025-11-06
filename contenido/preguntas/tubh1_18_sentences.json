@@ -4,7 +4,7 @@
     "preguntas": [
         {
             "id": 1,
-            "instrucciones": "How do you say 'I like to sleep' in Chinese?",
+            "instrucciones": "How do you say <strong>'I like to sleep'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "我喜欢睡觉",
@@ -15,7 +15,7 @@
         },
         {
             "id": 2,
-            "instrucciones": "How do you say 'Right now I am studying Chinese' in Chinese?",
+            "instrucciones": "How do you say <strong>'Right now I am studying Chinese'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "现在我在学习中文",
@@ -26,7 +26,7 @@
         },
         {
             "id": 3,
-            "instrucciones": "How do you say 'Tomorrow I will go to work' in Chinese?",
+            "instrucciones": "How do you say <strong>'Tomorrow I will go to work'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "明天我要去工作",
@@ -37,7 +37,7 @@
         },
         {
             "id": 4,
-            "instrucciones": "How do you say 'I am using the bathroom' in Chinese?",
+            "instrucciones": "How do you say <strong>'I am using the bathroom'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "我在上厕所",
@@ -48,7 +48,7 @@
         },
         {
             "id": 5,
-            "instrucciones": "How do you say 'I go to the store to buy things' in Chinese?",
+            "instrucciones": "How do you say <strong>'I go to the store to buy things'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "我去商店买东西",
@@ -59,7 +59,7 @@
         },
         {
             "id": 6,
-            "instrucciones": "How do you say 'I am reading a book at home' in Chinese?",
+            "instrucciones": "How do you say <strong>'I am reading a book at home'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "我在家看书",
@@ -70,7 +70,7 @@
         },
         {
             "id": 7,
-            "instrucciones": "How do you say 'I go to the restaurant to eat' in Chinese?",
+            "instrucciones": "How do you say <strong>'I go to the restaurant to eat'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "我去饭店吃饭",
@@ -81,7 +81,7 @@
         },
         {
             "id": 8,
-            "instrucciones": "How do you say 'I like to drink coffee at home' in Chinese?",
+            "instrucciones": "How do you say <strong>'I like to drink coffee at home'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "我喜欢在家喝咖啡",
@@ -92,7 +92,7 @@
         },
         {
             "id": 9,
-            "instrucciones": "How do you say 'Yesterday he didn’t return home' in Chinese?",
+            "instrucciones": "How do you say <strong>'Yesterday he didn’t return home'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "昨天他没有回家",
@@ -103,7 +103,7 @@
         },
         {
             "id": 10,
-            "instrucciones": "How do you say 'The teacher comes to school to eat' in Chinese?",
+            "instrucciones": "How do you say <strong>'The teacher comes to school to eat'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "老师来学校吃饭",
@@ -114,7 +114,7 @@
         },
         {
             "id": 11,
-            "instrucciones": "How do you say 'I don’t like to cook, I like to buy food' in Chinese?",
+            "instrucciones": "How do you say <strong>'I don’t like to cook, I like to buy food'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "我不喜欢做饭，我喜欢买饭",
@@ -125,7 +125,7 @@
         },
         {
             "id": 12,
-            "instrucciones": "How do you say 'What are you doing now?' in Chinese?",
+            "instrucciones": "How do you say <strong>'What are you doing now?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "现在你在做什么",
@@ -136,7 +136,7 @@
         },
         {
             "id": 13,
-            "instrucciones": "How do you say 'Yesterday, what did you do?' in Chinese?",
+            "instrucciones": "How do you say <strong>'Yesterday, what did you do?'</strong> in Chinese?",
             "archivo_audio": "",
             "respuesta_correcta": [
                 "昨天，你做了什么",
