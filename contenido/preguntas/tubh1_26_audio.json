@@ -1,0 +1,307 @@
+{
+    "titulo": "Day 20 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        [
+            {
+                "id": 1,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/1.mp3",
+                "respuesta_correcta": [
+                    "第六课"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 2,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/2.mp3",
+                "respuesta_correcta": [
+                    "量词"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 3,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/3.mp3",
+                "respuesta_correcta": [
+                    "个"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 4,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/4.mp3",
+                "respuesta_correcta": [
+                    "一个人"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 5,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/5.mp3",
+                "respuesta_correcta": [
+                    "一个鸡蛋"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 6,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/6.mp3",
+                "respuesta_correcta": [
+                    "一个商店"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 7,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/7.mp3",
+                "respuesta_correcta": [
+                    "本"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 8,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/8.mp3",
+                "respuesta_correcta": [
+                    "两本书"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 9,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/9.mp3",
+                "respuesta_correcta": [
+                    "两本词典"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 10,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/10.mp3",
+                "respuesta_correcta": [
+                    "张"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 11,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/11.mp3",
+                "respuesta_correcta": [
+                    "三张桌子"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 12,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/12.mp3",
+                "respuesta_correcta": [
+                    "三张床"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 13,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/13.mp3",
+                "respuesta_correcta": [
+                    "台"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 14,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/14.mp3",
+                "respuesta_correcta": [
+                    "四台电脑"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 15,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/15.mp3",
+                "respuesta_correcta": [
+                    "四台冰箱"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 16,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/16.mp3",
+                "respuesta_correcta": [
+                    "只",
+                    "支"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 17,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/17.mp3",
+                "respuesta_correcta": [
+                    "五只狗"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 18,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/18.mp3",
+                "respuesta_correcta": [
+                    "五只猫"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 19,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/19.mp3",
+                "respuesta_correcta": [
+                    "辆"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 20,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/20.mp3",
+                "respuesta_correcta": [
+                    "六辆车"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 21,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/21.mp3",
+                "respuesta_correcta": [
+                    "只",
+                    "支"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 22,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/22.mp3",
+                "respuesta_correcta": [
+                    "七只笔"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 23,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/23.mp3",
+                "respuesta_correcta": [
+                    "词典"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 24,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/24.mp3",
+                "respuesta_correcta": [
+                    "桌子"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 25,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/25.mp3",
+                "respuesta_correcta": [
+                    "椅子"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 26,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/26.mp3",
+                "respuesta_correcta": [
+                    "床"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 27,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/27.mp3",
+                "respuesta_correcta": [
+                    "纸"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 28,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/28.mp3",
+                "respuesta_correcta": [
+                    "电视"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 29,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/29.mp3",
+                "respuesta_correcta": [
+                    "冰箱"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 30,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/30.mp3",
+                "respuesta_correcta": [
+                    "桌子上"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 31,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/31.mp3",
+                "respuesta_correcta": [
+                    "桌子下"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 32,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/32.mp3",
+                "respuesta_correcta": [
+                    "房间里"
+                ],
+                "input_chars_aceptados": []
+            },
+            {
+                "id": 33,
+                "instrucciones": "Listen to the audio and write what you hear.",
+                "archivo_audio": "../contenido/audio/tubh/1/day-26/1/33.mp3",
+                "respuesta_correcta": [
+                    "房间外"
+                ],
+                "input_chars_aceptados": []
+            }
+        ]
+    ]
+}
