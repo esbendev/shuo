@@ -5,7 +5,10 @@
         {
             "id": 1,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/1.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/1-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "他没有女朋友。",
                 "她没有女朋友。"
@@ -15,7 +18,10 @@
         {
             "id": 2,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/2.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/2-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "明天谁要去咖啡店？"
             ],
@@ -24,7 +30,10 @@
         {
             "id": 3,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/3.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/3-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "你喜欢看谁的书？"
             ],
@@ -33,7 +42,10 @@
         {
             "id": 4,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/4.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/4-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "谁知道他叫什么名字？",
                 "谁知道她叫什么名字？"
@@ -43,7 +55,10 @@
         {
             "id": 5,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/5.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/5-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "我没有中国朋友。"
             ],
@@ -52,7 +67,10 @@
         {
             "id": 6,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/6.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/6-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "我的姐姐有两个孩子。"
             ],
@@ -61,7 +79,10 @@
         {
             "id": 7,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/7.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/7-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "房间里有两张床。"
             ],
@@ -70,7 +91,10 @@
         {
             "id": 8,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/8.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/8-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "桌子上有一本书。"
             ],
@@ -79,7 +103,10 @@
         {
             "id": 9,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/9.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/9-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "商店外有一只猫。"
             ],
@@ -88,7 +115,10 @@
         {
             "id": 10,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/10.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/10-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "椅子下有一支笔。"
             ],
@@ -97,7 +127,10 @@
         {
             "id": 11,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/11.mp3",
+            "archivo_audio":[
+                "../contenido/audio/tubh/1/day-26/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/11-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "那是我哥哥的车。"
             ],
@@ -106,7 +139,10 @@
         {
             "id": 12,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/12.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/12-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/12-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "妹妹有两本词典。"
             ],
@@ -115,7 +151,10 @@
         {
             "id": 13,
             "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/13.mp3",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/13-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/13-slow.mp3"
+            ],
             "respuesta_correcta": [
                 "厕所里没有人。"
             ],
