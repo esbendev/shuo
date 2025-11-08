@@ -2,128 +2,124 @@
     "titulo": "Day 26 Vocabulary",
     "showHelp": true,
     "preguntas": [
-        [
-            [
-                {
-                    "id": 1,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/1.mp3",
-                    "respuesta_correcta": [
-                        "他没有女朋友。",
-                        "她没有女朋友。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 2,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/2.mp3",
-                    "respuesta_correcta": [
-                        "明天谁要去咖啡店？"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 3,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/3.mp3",
-                    "respuesta_correcta": [
-                        "你喜欢看谁的书？"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 4,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/4.mp3",
-                    "respuesta_correcta": [
-                        "谁知道他叫什么名字？",
-                        "谁知道她叫什么名字？"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 5,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/5.mp3",
-                    "respuesta_correcta": [
-                        "我没有中国朋友。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 6,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/6.mp3",
-                    "respuesta_correcta": [
-                        "我的姐姐有两个孩子。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 7,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/7.mp3",
-                    "respuesta_correcta": [
-                        "房间里有两张床。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 8,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/8.mp3",
-                    "respuesta_correcta": [
-                        "桌子上有一本书。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 9,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/9.mp3",
-                    "respuesta_correcta": [
-                        "商店外有一只猫。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 10,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/10.mp3",
-                    "respuesta_correcta": [
-                        "椅子下有一支笔。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 11,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/11.mp3",
-                    "respuesta_correcta": [
-                        "那是我哥哥的车。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 12,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/12.mp3",
-                    "respuesta_correcta": [
-                        "妹妹有两本词典。"
-                    ],
-                    "input_chars_aceptados": []
-                },
-                {
-                    "id": 13,
-                    "instrucciones": "Listen to the audio and write what you hear.",
-                    "archivo_audio": "../contenido/audio/tubh/1/day-26/2/13.mp3",
-                    "respuesta_correcta": [
-                        "厕所里没有人。"
-                    ],
-                    "input_chars_aceptados": []
-                }
-            ]
-        ]
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/1.mp3",
+            "respuesta_correcta": [
+                "他没有女朋友。",
+                "她没有女朋友。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/2.mp3",
+            "respuesta_correcta": [
+                "明天谁要去咖啡店？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/3.mp3",
+            "respuesta_correcta": [
+                "你喜欢看谁的书？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/4.mp3",
+            "respuesta_correcta": [
+                "谁知道他叫什么名字？",
+                "谁知道她叫什么名字？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/5.mp3",
+            "respuesta_correcta": [
+                "我没有中国朋友。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/6.mp3",
+            "respuesta_correcta": [
+                "我的姐姐有两个孩子。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/7.mp3",
+            "respuesta_correcta": [
+                "房间里有两张床。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/8.mp3",
+            "respuesta_correcta": [
+                "桌子上有一本书。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/9.mp3",
+            "respuesta_correcta": [
+                "商店外有一只猫。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/10.mp3",
+            "respuesta_correcta": [
+                "椅子下有一支笔。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/11.mp3",
+            "respuesta_correcta": [
+                "那是我哥哥的车。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/12.mp3",
+            "respuesta_correcta": [
+                "妹妹有两本词典。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-26/2/13.mp3",
+            "respuesta_correcta": [
+                "厕所里没有人。"
+            ],
+            "input_chars_aceptados": []
+        }
     ]
 }
