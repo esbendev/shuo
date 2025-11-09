@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuo Quiz</title>
+    <link rel="stylesheet" href="../../estilos/estiloGeneral.css">
+    <link rel="stylesheet" href="../../estilos/estiloPopup.css">
+
+    <style>
+        .tooltip {
+            position: relative;
+            cursor: pointer;
+        }
+
+        .tooltip:hover {
+            color: #74634E;
+            /* Change the color of the hovered text */
+        }
+
+        .tooltip[data-tooltip]:hover::after {
+            content: attr(data-tooltip);
+            visibility: visible;
+            /* background-color: black; */
+            /* color: white; */
+            background-color: #ECDCC4;
+            color: #74634E;
+            padding: 5px;
+            border-radius: 4px;
+            position: absolute;
+            z-index: 1;
+            bottom: 150%;
+            /* above the word */
+            left: 50%;
+            transform: translateX(-50%);
+            opacity: 1;
+            white-space: nowrap;
+        }
+
+        .tooltip[data-tooltip]::after {
+            visibility: hidden;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+    </style>
+</head>
+
+<!-- ESTA ES UNA PRUEBA POR SI HAY MÁS TEXTOS EN EL FUTURO -->
+<!-- AHORA TODO RE HARDCODEADO PERO A FUTURO SE PUEDE HACER BONITO -->
+
+<body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Hover over chinese characters for pinyin.</p>
+        </div>
+    </div>
+    <main class="quiz-container">
+        <a href="../../index.html" class="boton-atras">Back to main menu</a>
+        <div class="botones-control-quiz">
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        </div>
+        <h1>Day 28 Text</h1>
+        <div style="text-align: left;">
+            <p><strong class="tooltip" data-tooltip="péngyou">朋友</strong>：<span class="tooltip"
+                    data-tooltip="qíqi">琪琪</span>，<span class="tooltip" data-tooltip="nǐ">你</span><span class="tooltip"
+                    data-tooltip="jiā">家</span><span class="tooltip" data-tooltip="yígòng">一共</span><span
+                    class="tooltip" data-tooltip="yǒu">有</span><span class="tooltip" data-tooltip="jǐ">几</span><span
+                    class="tooltip" data-tooltip="liàng">辆</span><span class="tooltip" data-tooltip="chē">车</span>？</p>
+            <p><strong class="tooltip" data-tooltip="qíqi">琪琪</strong>：<span class="tooltip"
+                    data-tooltip="liǎng">两</span><span class="tooltip" data-tooltip="liàng">辆</span>。<span
+                    class="tooltip" data-tooltip="dōu">都</span><span class="tooltip" data-tooltip="shì">是</span><span
+                    class="tooltip" data-tooltip="rìběn">日本</span><span class="tooltip" data-tooltip="chē">车</span>。</p>
+            <p><strong class="tooltip" data-tooltip="péngyou">朋友</strong>：<span class="tooltip"
+                    data-tooltip="nǎ">哪</span><span class="tooltip" data-tooltip="liàng">辆</span><span class="tooltip"
+                    data-tooltip="chē">车</span><span class="tooltip" data-tooltip="shì">是</span><span class="tooltip"
+                    data-tooltip="nǐ">你</span><span class="tooltip" data-tooltip="de">的</span>？</p>
+            <p><strong class="tooltip" data-tooltip="qíqi">琪琪</strong>：<span class="tooltip"
+                    data-tooltip="zhè">这</span><span class="tooltip" data-tooltip="liàng">辆</span><span class="tooltip"
+                    data-tooltip="xiǎo">小</span><span class="tooltip" data-tooltip="chē">车</span><span class="tooltip"
+                    data-tooltip="shì">是</span><span class="tooltip" data-tooltip="wǒ">我</span><span class="tooltip"
+                    data-tooltip="de">的</span>，<span class="tooltip" data-tooltip="nà">那</span><span class="tooltip"
+                    data-tooltip="liàng">辆</span><span class="tooltip" data-tooltip="dà">大</span><span class="tooltip"
+                    data-tooltip="chē">车</span><span class="tooltip" data-tooltip="shì">是</span><span class="tooltip"
+                    data-tooltip="wǒ">我</span><span class="tooltip" data-tooltip="bàba">爸爸</span><span class="tooltip"
+                    data-tooltip="de">的</span>。<span class="tooltip" data-tooltip="qǐng">请</span><span class="tooltip"
+                    data-tooltip="shàng">上</span><span class="tooltip" data-tooltip="chē">车</span>。</p>
+            <p><strong class="tooltip" data-tooltip="péngyou">朋友</strong>：<span class="tooltip"
+                    data-tooltip="xiè xiè">谢谢</span>！</p>
+        </div>
+    </main>
+    <footer>
+        <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+    </footer>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>
