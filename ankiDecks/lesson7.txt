@@ -1,0 +1,12 @@
+<div class="chineseChars">几</div>|<div class="answer">jǐ <span class="english">how many</span></div>
+<div class="chineseChars">几个人</div>|<div class="answer">jǐ gè rén <span class="english">how many people</span></div>
+<div class="chineseChars">三辆车</div>|<div class="answer">sān liàng chē <span class="english">three cars</span></div>
+<div class="chineseChars">这只狗</div>|<div class="answer">zhè zhī gǒu <span class="english">this dog</span></div>
+<div class="chineseChars">那本书</div>|<div class="answer">nà běn shū <span class="english">that book</span></div>
+<div class="chineseChars">哪支笔</div>|<div class="answer">nǎ zhī bǐ <span class="english">which pen</span></div>
+<div class="chineseChars">一共</div>|<div class="answer">yí gòng <span class="english">in total; altogether</span></div>
+<div class="chineseChars">都</div>|<div class="answer">dōu <span class="english">all; both</span></div>
+<div class="chineseChars">上车</div>|<div class="answer">shàng chē <span class="english">get in (a vehicle)</span></div>
+<div class="chineseChars">下车</div>|<div class="answer">xià chē <span class="english">get out (of a vehicle)</span></div>
+<div class="chineseChars">请</div>|<div class="answer">qǐng <span class="english">please</span></div>
+<div class="chineseChars">谢谢</div>|<div class="answer">xièxie <span class="english">thank you</span></div>
