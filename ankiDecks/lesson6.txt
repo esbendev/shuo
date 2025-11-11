@@ -17,3 +17,10 @@
 <div class="chineseChars">⾥</div>|<div class="answer">lǐ <span class="english">inside</span></div>
 <div class="chineseChars">外</div>|<div class="answer">wài <span class="english">outside</span></div>
 <div class="chineseChars">房间</div>|<div class="answer">fángjiān <span class="english">room</span></div>
+<div class="chineseChars">一个苹果</div>|<div class="answer">yí ge píng guǒ <span class="english">An apple</span></div>
+<div class="chineseChars">一本书</div>|<div class="answer">yì běn shū <span class="english">a book</span></div>
+<div class="chineseChars">一张床</div>|<div class="answer">Yì zhāng chuáng <span class="english">A Bed</span></div>
+<div class="chineseChars">一台电脑</div>|<div class="answer">yì tái diàn nǎo <span class="english">a computer</span></div>
+<div class="chineseChars">一只狗</div>|<div class="answer">yì zhī gǒu <span class="english">one dog</span></div>
+<div class="chineseChars">一辆车</div>|<div class="answer">yí liàng chē <span class="english">A car</span></div>
+<div class="chineseChars">一支笔</div>|<div class="answer">yì zhī bǐ <span class="english">a pen</span></div>

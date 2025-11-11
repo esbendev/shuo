@@ -13,3 +13,7 @@
 <div class="chineseChars">昨天</div>|<div class="answer">zuótiān <span class="english">yesterday</span></div>
 <div class="chineseChars">明天</div>|<div class="answer">míngtiān <span class="english">tomorrow</span></div>
 <div class="chineseChars">现在</div>|<div class="answer">xiànzài <span class="english">now</span></div>
+<div class="chineseChars">书店</div>|<div class="answer">shūdiàn <span class="english">bookstore</span></div>
+<div class="chineseChars">了</div>|<div class="answer">le <span class="english">modal particle intensifying preceding clause / completed action marker</span></div>
+<div class="chineseChars">要</div>|<div class="answer">yào <span class="english">to be going to</span></div>
+<div class="chineseChars">没有</div>|<div class="answer">méi yǒu <span class="english">didn't, haven't</span></div>

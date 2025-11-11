@@ -10,3 +10,7 @@
 <div class="chineseChars">下车</div>|<div class="answer">xià chē <span class="english">get out (of a vehicle)</span></div>
 <div class="chineseChars">请</div>|<div class="answer">qǐng <span class="english">please</span></div>
 <div class="chineseChars">谢谢</div>|<div class="answer">xièxie <span class="english">thank you</span></div>
+<div class="chineseChars">爱</div>|<div class="answer">ài <span class="english">to love</span></div>
+<div class="chineseChars">问题</div>|<div class="answer">wèn tí <span class="english">question, problem</span></div>
+<div class="chineseChars">大</div>|<div class="answer">dà <span class="english">big</span></div>
+<div class="chineseChars">小</div>|<div class="answer">xiǎo <span class="english">small</span></div>

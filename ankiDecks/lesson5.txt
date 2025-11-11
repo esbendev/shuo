@@ -15,3 +15,6 @@
 <div class="chineseChars">车</div>|<div class="answer">chē <span class="english">car</span></div>
 <div class="chineseChars">钱</div>|<div class="answer">qián <span class="english">money</span></div>
 <div class="chineseChars">谁</div>|<div class="answer">shéi/shuí <span class="english">who</span></div>
+<div class="chineseChars">的</div>|<div class="answer">de <span class="english">a possessive or descriptive particle</span></div>
+<div class="chineseChars">男</div>|<div class="answer">nán <span class="english">male</span></div>
+<div class="chineseChars">女</div>|<div class="answer">nǚ <span class="english">female</span></div>

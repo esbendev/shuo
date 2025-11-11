@@ -17,3 +17,7 @@
 <div class="chineseChars">电</div>|<div class="answer">diàn <span class="english">electricity</span></div>
 <div class="chineseChars">脑</div>|<div class="answer">nǎo <span class="english">brain</span></div>
 <div class="chineseChars">鸡</div>|<div class="answer">jī <span class="english">chicken</span></div>
+<div class="chineseChars">朋友</div>|<div class="answer">péngyou <span class="english">friend</span></div>
+<div class="chineseChars">中文</div>|<div class="answer">Zhōngwén <span class="english">Chinese language</span></div>
+<div class="chineseChars">英文</div>|<div class="answer">Yīngwén <span class="english">English</span></div>
+<div class="chineseChars">美国</div>|<div class="answer">Měiguó <span class="english">America</span></div>

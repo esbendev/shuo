@@ -9,3 +9,7 @@
 <div class="chineseChars">回</div>|<div class="answer">huí <span class="english">return</span></div>
 <div class="chineseChars">来</div>|<div class="answer">lái <span class="english">come</span></div>
 <div class="chineseChars">做</div>|<div class="answer">zuò <span class="english">do</span></div>
+<div class="chineseChars">买</div>|<div class="answer">mǎi <span class="english">to buy</span></div>
+<div class="chineseChars">东西</div>|<div class="answer">dōng xi <span class="english">things, stuff</span></div>
+<div class="chineseChars">看</div>|<div class="answer">kàn <span class="english">to read, to see, to watch, to look at</span></div>
+<div class="chineseChars">喝</div>|<div class="answer">hē <span class="english">to drink</span></div>

@@ -1,4 +1,7 @@
 <div class="chineseChars">我</div>|<div class="answer">wǒ <span class="english">I, me</span></div>
+<div class="chineseChars">我们</div>|<div class="answer">wǒmen <span class="english">we, us</span></div>
+<div class="chineseChars">你们</div>|<div class="answer">nǐmen <span class="english">you (plural)</span></div>
+<div class="chineseChars">老师</div>|<div class="answer">lǎoshī <span class="english">teacher</span></div>
 <div class="chineseChars">你</div>|<div class="answer">nǐ <span class="english">you</span></div>
 <div class="chineseChars">他</div>|<div class="answer">tā <span class="english">he, him</span></div>
 <div class="chineseChars">她</div>|<div class="answer">tā <span class="english">she, her</span></div>
@@ -17,3 +20,8 @@
 <div class="chineseChars">名字</div>|<div class="answer">míngzi <span class="english">name</span></div>
 <div class="chineseChars">⾼兴</div>|<div class="answer">gāoxìng <span class="english">happy</span></div>
 <div class="chineseChars">认识</div>|<div class="answer">rènshi <span class="english">to know, to recognize</span></div>
+<div class="chineseChars">不</div>|<div class="answer">bù <span class="english">not, no</span></div>
+<div class="chineseChars">很好</div>|<div class="answer">hěn hǎo <span class="english">very good</span></div>
+<div class="chineseChars">喜欢</div>|<div class="answer">xǐ huān <span class="english">to like</span></div>
+<div class="chineseChars">吗</div>|<div class="answer">ma <span class="english">yes or no question particle</span></div>
+<div class="chineseChars">是</div>|<div class="answer">shì <span class="english">am, is, are</span></div>
