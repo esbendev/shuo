@@ -1,0 +1,159 @@
+{
+    "titulo": "Day 30 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/1.mp3",
+            "respuesta_correcta": [
+                "第七课"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/2.mp3",
+            "respuesta_correcta": [
+                "你有几辆车？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/3.mp3",
+            "respuesta_correcta": [
+                "一共"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/4.mp3",
+            "respuesta_correcta": [
+                "都"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/5.mp3",
+            "respuesta_correcta": [
+                "小"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/6.mp3",
+            "respuesta_correcta": [
+                "大"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/7.mp3",
+            "respuesta_correcta": [
+                "请"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/8.mp3",
+            "respuesta_correcta": [
+                "上车"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/9.mp3",
+            "respuesta_correcta": [
+                "谢谢"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/10.mp3",
+            "respuesta_correcta": [
+                "几"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/11.mp3",
+            "respuesta_correcta": [
+                "琪琪，你家一共有几辆车？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/12.mp3",
+            "respuesta_correcta": [
+                "两辆。都是日本车。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/13.mp3",
+            "respuesta_correcta": [
+                "那辆车是你的？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/14.mp3",
+            "respuesta_correcta": [
+                "这辆小车是我的。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/15.mp3",
+            "respuesta_correcta": [
+                "那辆大车是我爸爸的。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/16.mp3",
+            "respuesta_correcta": [
+                "请上车。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-30/1/17.mp3",
+            "respuesta_correcta": [
+                "谢谢"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
