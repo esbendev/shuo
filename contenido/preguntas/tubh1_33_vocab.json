@@ -1,0 +1,114 @@
+{
+    "titulo": "Day 33 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say <strong>'Grandfather (father's side)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "爷爷"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say <strong>'Grandmother (father's side)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "奶奶"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say <strong>'Grandfather (mother's side)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "外公"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say <strong>'Grandmother (mother's side)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "外婆"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say <strong>'Father'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "爸爸"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say <strong>'Mother'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "妈妈"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say <strong>'Wife (formal)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "太太"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say <strong>'Husband (formal)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "先生"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "How do you say <strong>'Wife (informal)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "老婆"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "How do you say <strong>'Husband (informal)'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "老公"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "How do you say <strong>'Son'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "儿子"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "How do you say <strong>'Daughter'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "女儿"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
