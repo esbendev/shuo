@@ -1,0 +1,78 @@
+{
+    "titulo": "Day 34 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "How do you say <strong>'Student'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "学生"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "How do you say <strong>'Doctor'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "医生"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "How do you say <strong>'Businessman'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "商人"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "How do you say <strong>'Housewife'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "家庭主妇"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "How do you say <strong>'Interpreter'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "翻译"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "How do you say <strong>'Office worker'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "职员"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "How do you say <strong>'Lawyer'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "律师"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "How do you say <strong>'Engineer'</strong> in Chinese?",
+            "archivo_audio": "",
+            "respuesta_correcta": [
+                "工程师"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
