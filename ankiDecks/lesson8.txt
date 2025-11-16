@@ -1,8 +1,8 @@
 <div class="chineseChars">口</div>|<div class="answer">kǒu <span class="english">measure word for number of family members</span></div>
-<div class="chineseChars">爷爷</div>|<div class="answer">yéye <span class="english">grandfather (father's side)</span></div>
-<div class="chineseChars">奶奶</div>|<div class="answer">nǎinai <span class="english">grandmother (father's-side)</span></div>
-<div class="chineseChars">外公</div>|<div class="answer">wàigōng <span class="english">grandfather (mother's side)</span></div>
-<div class="chineseChars">外婆</div>|<div class="answer">wàipó <span class="english">grandmother (mother's-side)</span></div>
+<div class="chineseChars">爷爷</div>|<div class="answer">yéye <span class="english">paternal grandfather</span></div>
+<div class="chineseChars">奶奶</div>|<div class="answer">nǎinai <span class="english">paternal grandmother</span></div>
+<div class="chineseChars">外公</div>|<div class="answer">wàigōng <span class="english">maternal grandfather</span></div>
+<div class="chineseChars">外婆</div>|<div class="answer">wàipó <span class="english">maternal grandmother</span></div>
 <div class="chineseChars">先生</div>|<div class="answer">xiānsheng <span class="english">Mr.; husband</span></div>
 <div class="chineseChars">太太</div>|<div class="answer">tàitai <span class="english">Mrs.; wife</span></div>
 <div class="chineseChars">老公</div>|<div class="answer">lǎogōng <span class="english">husband (informal)</span></div>
@@ -11,10 +11,11 @@
 <div class="chineseChars">女儿</div>|<div class="answer">nǚ'ér <span class="english">daughter</span></div>
 <div class="chineseChars">学生</div>|<div class="answer">xuésheng <span class="english">student</span></div>
 <div class="chineseChars">医生</div>|<div class="answer">yīshēng <span class="english">doctor</span></div>
-<div class="chineseChars">商人</div>|<div class="answer">shāngrén <span class="english">businessman</span></div>
-<div class="chineseChars">家庭</div>|<div class="answer">jiātíng <span class="english">family</span></div>
+<div class="chineseChars">商人</div>|<div class="answer">shāngrén <span class="english">businessman/businesswoman</span></div>
+<div class="chineseChars">家庭主妇</div>|<div class="answer">jiātíng zhǔfù <span class="english">housewife</span></div>
+<div class="chineseChars">翻译</div>|<div class="answer">fānyì <span class="english">translator/interpreter</span></div>
+<div class="chineseChars">职员</div>|<div class="answer">zhíyuán <span class="english">staff member, employee</span></div>
 <div class="chineseChars">律师</div>|<div class="answer">lǜshī <span class="english">lawyer</span></div>
-<div class="chineseChars">职员</div>|<div class="answer">zhíyuán <span class="english">office worker / staff member</span></div>
 <div class="chineseChars">工程师</div>|<div class="answer">gōngchéngshī <span class="english">engineer</span></div>
 <div class="chineseChars">生意</div>|<div class="answer">shēngyì <span class="english">business</span></div>
 <div class="chineseChars">家</div>|<div class="answer">jiā <span class="english">measure word for organization, company, shop, etc.</span></div>
