@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cheatsheets</title>
+    <style>
+        html,
+        body,
+        *::after,
+        *::before {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h1,
+        h2 {
+            color: #333;
+            padding: 1.2rem;
+        }
+
+        div.tablas-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: start;
+            gap: 2rem;
+            padding: 1rem;
+        }
+
+        table {
+            border-collapse: collapse;
+            margin: 1rem;
+            border-radius: 1rem;
+        }
+
+        th,
+        td {
+            /* border: 1px solid #ccc; */
+            padding: 1rem;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f4f4f4;
+        }
+
+        table#frases-importantes {
+            background-color: #e2d5ff;
+        }
+
+        table#estructuras-oraciones {
+            background-color: #d5ffe2;
+        }
+
+        table#measure-words {
+            background-color: #ffe2d5;
+        }
+
+        table#conectores-oraciones {
+            background-color: #ffd5e2;
+        }
+
+        div.frases-importantes > h2, div.estructuras-oraciones > h2, div.measure-words > h2, div.conectores-oraciones > h2 {
+            text-decoration: underline;
+            text-decoration-thickness: 4px;
+        }
+        
+        div.frases-importantes > h2 {
+            text-decoration-color: #e2d5ff;
+        }
+
+        div.estructuras-oraciones > h2{
+            text-decoration-color: #d5ffe2;
+        }
+
+        div.measure-words > h2{
+            text-decoration-color: #ffe2d5;
+        }
+
+        div.conectores-oraciones > h2{
+            text-decoration-color: #ffd5e2;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Cheatsheets</h1>
+    <div class="tablas-container">
+        <div class="tabla frases-importantes">
+            <h2>Frases Importantes</h2>
+            <table id="frases-importantes">
+                <thead>
+                    <tr>
+                        <th>Frase</th>
+                        <th>Meaning</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>我不知道。</td>
+                        <td>I don’t know.</td>
+                    </tr>
+                    <tr>
+                        <td>我有一个问题。</td>
+                        <td>I have a question.</td>
+                    </tr>
+                    <tr>
+                        <td>这是什么？</td>
+                        <td>What is this?</td>
+                    </tr>
+                    <tr>
+                        <td>这是什么意思？</td>
+                        <td>What does this mean?</td>
+                    </tr>
+                    <tr>
+                        <td>怎么说...</td>
+                        <td>How do you say…</td>
+                    </tr>
+                    <tr>
+                        <td>你在做什么？</td>
+                        <td>What are you doing?</td>
+                    </tr>
+                    <tr>
+                        <td>你可以在说一次吗？</td>
+                        <td>Could you say that again?</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="tabla estructuras-oraciones">
+            <h2>Estructuras de Oraciones</h2>
+            <table id="estructuras-oraciones">
+                <thead>
+                    <tr>
+                        <th>Estructura</th>
+                        <th>Ejemplo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>S. + V. + O.</td>
+                        <td>我喜欢你</td>
+                    </tr>
+                    <tr>
+                        <td>S. + 不 + V. + O.</td>
+                        <td>我不喜欢你</td>
+                    </tr>
+                    <tr>
+                        <td>S. + V. + O. + 吗？</td>
+                        <td>你喜欢她吗？</td>
+                    </tr>
+                    <tr>
+                        <td>S. + degree + Adj.</td>
+                        <td>我很高兴。</td>
+                    </tr>
+                    <tr>
+                        <td>when + who + prep + where + do what</td>
+                        <td>明天我去商店买东西。</td>
+                    </tr>
+                    <tr>
+                        <td>和 + sb. + do sth</td>
+                        <td>她和中国人做生意。</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="tabla measure-words">
+            <h2>Measure Words</h2>
+            <table id="measure-words">
+                <thead>
+                    <tr>
+                        <th>Word</th>
+                        <th>Usage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>个</td>
+                        <td>general measure word</td>
+                    </tr>
+                    <tr>
+                        <td>本</td>
+                        <td>books</td>
+                    </tr>
+                    <tr>
+                        <td>张</td>
+                        <td>flat objects (paper, tables, etc.)</td>
+                    </tr>
+                    <tr>
+                        <td>只</td>
+                        <td>small animals, one of a pair</td>
+                    </tr>
+                    <tr>
+                        <td>支</td>
+                        <td>long, thin objects (pens, sticks, etc.)</td>
+                    </tr>
+                    <tr>
+                        <td>家</td>
+                        <td>organization, company, shop, etc.</td>
+                    </tr>
+                    <tr>
+                        <td>口</td>
+                        <td>number of family members</td>
+                    </tr>
+                    <tr>
+                        <td>辆</td>
+                        <td>vehicles</td>
+                    </tr>
+                    <tr>
+                        <td>台</td>
+                        <td>machines (TVs, computers, etc.)</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="tabla conectores-oraciones">
+            <h2>Conectores para oraciones</h2>
+            <table id="conectores-oraciones">
+                <thead>
+                    <tr>
+                        <th>Conector</th>
+                        <th>Meaning</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>但是</td>
+                        <td>but</td>
+                    </tr>
+                    <tr>
+                        <td>还有</td>
+                        <td>also, and</td>
+                    </tr>
+                    <tr>
+                        <td>和</td>
+                        <td>and</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+
+</html>
