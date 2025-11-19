@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompt Generator</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        h1 {
+            color: #0056b3;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        label,
+        select,
+        button,
+        input[type="number"] {
+            font-size: 16px;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        select,
+        button {
+            padding: 8px 12px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #0056b3;
+            color: #fff;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #003d80;
+        }
+
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+
+
+        #generated-prompt {
+            background-color: #e9ecef;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        #prompt-output {
+            white-space: pre-wrap;
+            font-family: 'Courier New', Courier, monospace;
+            background: #fff;
+            padding: 10px;
+            border-radius: 4px;
+            border: 1px solid #ddd;
+        }
+
+        blockquote {
+            font-style: italic;
+            color: #555;
+            border-left: 4px solid #0056b3;
+            padding-left: 15px;
+            margin: 10px 0;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        input[type="number"] {
+            width: 50px;
+            margin-left: 10px;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <h1>Prompt Generator</h1>
+        <form id="prompt-form">
+            <label for="level">Select Level:</label><br>
+            <select id="level" name="level" onchange="updatePromptFields()">
+                <option value="1">Level 1</option>
+                <option value="2">Level 2</option>
+                <option value="3">Level 3</option>
+                <option value="4">Level 4</option>
+                <option value="5">Level 5</option>
+                <option value="6">Level 6</option>
+                <option value="7">Level 7</option>
+                <option value="8">Level 8</option>
+            </select><br><br>
+
+            <label for="length">Set Text Length:</label><br>
+            <input type="number" id="length" name="length" min="1" value="4" ><br><br>
+
+            <p><strong>Word List:</strong> <span id="word-list"></span></p>
+            <p><strong>How many sentences?</strong> <span id="length"></span></p>
+            <p><strong>Minimum Words to Use:</strong> <span id="word-count"></span></p>
+
+            <button type="button" onclick="generatePrompt()">Generate Prompt</button>
+        </form>
+
+        <section id="generated-prompt" style="margin-top: 20px;">
+            <h2>Generated Prompt</h2>
+            <button type="button" onclick="copyPrompt()">Copy Prompt</button>
+
+            <script>
+                function copyPrompt() {
+                    const promptOutput = document.getElementById('prompt-output');
+                    navigator.clipboard.writeText(promptOutput.textContent).then(() => {
+                        alert('Prompt copied to clipboard!');
+                    }).catch(err => {
+                        console.error('Failed to copy text: ', err);
+                    });
+                }
+            </script>
+            <p id="prompt-output">Your prompt will appear here...</p>
+        </section>
+    </main>
+
+    <script>
+        const levelData = {
+            1: {
+                wordList: "我,我们,你们,老师,你,他,她,您,好,叫,岁,哪,国,⼈,很,也,早上,晚上,什么,名字,⾼兴,认识,不,很好,喜欢,吗,是",
+                wordCount: 20,
+            },
+            2: {
+                wordList: "英国,德国,法国,⽇本,西班⽛,这,那,书,笔,本⼦,杯⼦,⼿机,电脑,苹果,鸡蛋,⼿,电,脑,鸡,朋友,中文,英文,美国",
+                wordCount: 30,
+            },
+            3: {
+                wordList: "在,哪⾥,去,家,学校,公司,厕所,商店,商场,饭店,咖啡店,今天,昨天,明天,现在,书店,了,要,没有",
+                wordCount: 40,
+            },
+            4: {
+                wordList: "睡觉,学习,⼯作,上厕所,买东西,看书,吃饭,喝咖啡,回,来,做,买,东西,看,喝",
+                wordCount: 50,
+            },
+            5: {
+                wordList: "爸爸,妈妈,哥哥,姐姐,弟弟,妹妹,朋友,男朋友,⼥朋友,有,⼿表,孩⼦,狗,猫,车,钱,谁,的,男,女",
+                wordCount: 50,
+            },
+            6: {
+                wordList: "个,本,张,台,只,辆,⽀,词典,桌⼦,椅⼦,床,纸,电视,冰箱,上,下,⾥,外,房间,一个苹果,一本书,一张床,一台电脑,一只狗,一辆车,一支笔",
+                wordCount: 50,
+            },
+            7: {
+                wordList: "几,几个人,三辆车,这只狗,那本书,哪支笔,一共,都,上车,下车,请,谢谢,爱,问题,大,小",
+                wordCount: 50,
+            },
+            8: {
+                wordList: "口,爷爷,奶奶,外公,外婆,先生,太太,老公,老婆,儿子,女儿,学生,医生,商人,家庭主妇,翻译,职员,律师,工程师,生意,家,和,外国,外国人,外语,大学,中学,小学,读书",
+                wordCount: 50,
+            }
+        };
+
+        function updatePromptFields() {
+            const level = document.getElementById('level').value;
+            const data = levelData[level];
+
+            let combinedWordList = [];
+            for (let i = 1; i <= level; i++) {
+                combinedWordList = combinedWordList.concat(levelData[i].wordList.split(',').map(word => word.trim()));
+            }
+
+            document.getElementById('word-list').textContent = combinedWordList.join(', ');
+            document.getElementById('length').value = "4"; // Default length value
+            document.getElementById('word-count').textContent = data.wordCount;
+        }
+
+        // Set default fields to Level 1 on page load
+        document.addEventListener("DOMContentLoaded", () => {
+            document.getElementById('level').value = "1";
+            updatePromptFields();
+        });
+
+        function generatePrompt() {
+            const wordList = document.getElementById('word-list').textContent.split(',').map(word => word.trim());
+            const wordCount = document.getElementById('word-count').textContent;
+            const customLength = document.getElementById('length').value;
+
+            const prompt = `Please write a paragraph or two in Chinese using only these words:\n[${wordList.join(', ')}]\nThe text should:\n1. Be ${customLength} sentences long.\n2. Use at least ${wordCount} different words from the list.\n3. Be easy to understand for a beginner.\n4. Include at least one question.\n5. DO NOT USE WORDS NOT IN THE LIST.`;
+
+            document.getElementById('prompt-output').textContent = prompt;
+        }
+    </script>
+</body>
+
+</html>
