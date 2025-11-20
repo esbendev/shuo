@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuo Quiz</title>
+    <link rel="stylesheet" href="../../estilos/estiloLector.css">
+    <link rel="stylesheet" href="../../estilos/estiloPopup.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-475SSTM0WC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        // Configure Google Analytics with additional parameters
+        gtag('config', 'G-475SSTM0WC', {
+            'anonymize_ip': true, // Anonymize IP addresses for privacy
+            'page_title': document.title, // Track the page title dynamically
+            'page_path': window.location.pathname // Track the current page path
+        });
+    </script>
+</head>
+
+<!-- ESTA ES UNA PRUEBA POR SI HAY MÁS TEXTOS EN EL FUTURO -->
+<!-- AHORA TODO RE HARDCODEADO PERO A FUTURO SE PUEDE HACER BONITO -->
+
+<body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Hover over chinese characters for pinyin.</p>
+        </div>
+    </div>
+    <main class="quiz-container">
+        <a href="../../index.html" class="boton-atras">Back to main menu</a>
+        <div class="botones-control-quiz">
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        </div>
+        <h1>Day 38 Text</h1>
+        <div id="texto-con-pinyin" style="text-align: left;">
+            <p>
+                你们[nǐmen]好[hǎo]! 我[wǒ]叫[jiào]Shuo, 我[wǒ]的[de]家[jiā](一共[yīgòng])有[yǒu]八[bā]口[kǒu]人[rén]。
+                我[wǒ]的[de]爸爸[bàba]、妈妈[māma]、姐姐[jiějie]、姐姐[jiějie]的[de]老[lǎo]公[gōng]、姐姐[jiějie]的[de]两[liǎng]个[gè]孩子[háizi]、我[wǒ]和[hé]我[wǒ]的[de]老[lǎo]公[gōng]。
+                我[wǒ]的[de]爸爸[bàba]妈妈[māma]都[dōu]是[shì]大学[dàxué]的[de]老师[lǎoshī]，但是[dànshì]现在[xiànzài]他们[tāmen]不[bù]工作[gōngzuò]了[le]。
+                我[wǒ]的[de]姐姐[jiějie]是[shì]医生[yīshēng]，我[wǒ]姐姐[jiějie]的[de]老[lǎo]公[gōng]和[hé]我[wǒ]的[de]老[lǎo]公[gōng]都[dōu]是[shì]电脑[diànnǎo]工程师[gōngchéngshī]。
+                我[wǒ]的[de]姐姐[jiějie]有[yǒu]两[liǎng]个[gè]女儿[nǚ’ér]，一个[yīgè]19岁[suì]，她[tā]是[shì]一个[yīgè]大学生[dàxuéshēng]，一个[yīgè]7岁[suì]，她[tā]是[shì]一个[yīgè]小学生[xiǎoxuéshēng]。
+                我[wǒ]的[de]工作[gōngzuò]是[shì]汉语[hànyǔ]老师[lǎoshī]，我[wǒ]很[hěn]喜欢[xǐhuān]我[wǒ]的[de]学生[xuéshēng]!
+            </p>
+        </div>
+        <script src="../../quiz/pinyinInterpreter.js"></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                addTooltipsToChineseText("#texto-con-pinyin");
+            });
+        </script>
+    </main>
+    <footer>
+        <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+    </footer>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>

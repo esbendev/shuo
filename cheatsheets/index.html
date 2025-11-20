@@ -28,9 +28,14 @@
         div.tablas-container {
             display: flex;
             flex-wrap: wrap;
-            justify-content: start;
-            gap: 2rem;
+            align-items: flex-start;
+            justify-content: flex-start;
+            gap: 1rem;
             padding: 1rem;
+        }
+
+        div.tablas-container > * {
+            margin: 0.5rem; /* Fallback for gap in older browsers */
         }
 
         table {
@@ -180,6 +185,9 @@
                         <td>和 + sb. + do sth</td>
                         <td>她和中国人做生意。</td>
                     </tr>
+                    <tr>
+                        <td>请 + sb + do sth.</td>
+                        <td>请你喝咖啡。</td>
                 </tbody>
             </table>
         </div>
