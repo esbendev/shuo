@@ -25,94 +25,27 @@
 <body>
     <main class="menu-container">
         <h1>Shuo Shuo Chinese Practice Content</h1>
-        <div id="about-popup" class="popup" style="display: none;">
-            <div class="popup-content">
-                <span class="close-button" onclick="closeAboutPopup()">&times;</span>
-                <h2>About</h2>
-                <p>This is some practice material I use for my Chinese studies, specifically as aids for <a
-                        href="https://shuoshuochinese.teachable.com/">The Ultimate Beginner’s Handbook (I)</a> by <a
-                        href="https://www.shuoshuochinese.com/">Shuo Shuo Chinese</a>.</p>
+        <div class="about-box">
+            <h2>About</h2>
+            <p>This is some practice material I use for my Chinese studies, specifically as aids for <a
+                    href="https://shuoshuochinese.teachable.com/">The Ultimate Beginner’s Handbook (I)</a> by <a
+                    href="https://www.shuoshuochinese.com/">Shuo Shuo Chinese</a>.</p>
 
-                <p><strong>Click the
-                        buttons</strong> to access
-                    quizzes for each day. Some days are greyed out because I didn't think there was anything I could add
-                    on top
-                    of what the course already offered, and <strong>if there are days missing it's probably because I
-                        haven't gotten that far in the course yet!</strong></p>
-                <p>Having said that, if you find any
-                    errors, have any suggestions or feedback, please let me know!</p>
-            </div>
+            <p><strong>Click the
+                    buttons</strong> to access
+                quizzes for each day. Some days are greyed out because I didn't think there was anything I could add
+                on top
+                of what the course already offered, and <strong>if there are days missing it's probably because I
+                    haven't gotten that far in the course yet!</strong></p>
+            <p>Having said that, if you find any
+                errors, have any suggestions or feedback, please let me know!</p>
         </div>
-        <button class="boton-acerca-de" onclick="openAboutPopup()">What is this?</button>
-        <div class="container-botones">
-            <a href="./quiz/index.html?file=tubh1_1" id="tubh1_1" class="boton-quiz">Day 1</a>
-            <a href="./quiz/index.html?file=tubh1_2" id="tubh1_2" class="boton-quiz">Day 2</a>
-            <a href="#" id="tubh1_3" class="boton-quiz boton-quiz--nada">Day 3</a>
-            <a href="./quiz/index.html?file=tubh1_4" id="tubh1_4" class="boton-quiz">Day 4</a>
-            <a href="./quiz/index.html?file=tubh1_5" id="tubh1_5" class="boton-quiz">Day 5</a>
-            <a href="./quiz/index.html?file=tubh1_6_vocab" id="tubh1_6_vocab" class="boton-quiz">Day 6<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_6_sentences" id="tubh1_6_sentences" class="boton-quiz">Day
-                6<br>Sentences</a>
-            <a href="#" id="tubh1_7" class="boton-quiz boton-quiz--nada">Day 7</a>
-            <a href="./quiz/index.html?file=tubh1_8_vocab" id="tubh1_8_vocab" class="boton-quiz">Day 8<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_8_sentences" id="tubh1_8_sentences" class="boton-quiz">Day
-                8<br>Sentences</a>
-            <a href="./quiz/index.html?file=tubh1_9" id="tubh1_9" class="boton-quiz">Day 9</a>
-            <a href="./quiz/index.html?file=tubh1_10_vocab" id="tubh1_10_vocab" class="boton-quiz">Day
-                10<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_10_sentences" id="tubh1_10_sentences" class="boton-quiz">Day
-                10<br>Sentences</a>
-            <a href="./quiz/index.html?file=tubh1_11_audio" id="tubh1_11_audio" class="boton-quiz">Day 11<br>(audio)</a>
-            <a href="./quiz/index.html?file=tubh1_11_audio_2" id="tubh1_11_audio_2" class="boton-quiz">Day 11<br>(audio 2)</a>
-            <a href="./quiz/index.html?file=tubh1_12_vocab" id="tubh1_12_vocab" class="boton-quiz">Day 12<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_13_vocab" id="tubh1_13_vocab" class="boton-quiz">Day 13<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_13_sentences" id="tubh1_13_sentences" class="boton-quiz">Day 13<br>Sentences</a>
-            <a href="#" id="tubh1_14" class="boton-quiz boton-quiz--nada">Day 14</a>
-            <a href="./quiz/index.html?file=tubh1_15_audio" id="tubh1_15_audio" class="boton-quiz">Day 15<br>(audio 1)</a>
-            <a href="./quiz/index.html?file=tubh1_15_audio_2" id="tubh1_15_audio_2" class="boton-quiz">Day 15<br>(audio 2)</a>
-            <a href="./quiz/index.html?file=tubh1_16_vocab" id="tubh1_16_vocab" class="boton-quiz">Day 16<br>Vocabulary</a>
-            <a href="./other/sentence-builder.html" id="sentence_builder" class="boton-quiz">Day 17<br>Sentence Builder</a>
-            <a href="./quiz/index.html?file=tubh1_18_vocab" id="tubh1_18_vocab" class="boton-quiz">Day 18<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_18_sentences" id="tubh1_18_sentences" class="boton-quiz">Day 18<br>Sentences</a>
-            <a href="#" id="tubh1_19" class="boton-quiz boton-quiz--nada">Day 19</a>
-            <a href="./quiz/index.html?file=tubh1_20_audio" id="tubh1_20_audio" class="boton-quiz">Day 20<br>(audio 1)</a>
-            <a href="./quiz/index.html?file=tubh1_20_audio_2" id="tubh1_20_audio_2" class="boton-quiz">Day 20<br>(audio 2)</a>
-            <a href="#" id="tubh1_21" class="boton-quiz boton-quiz--nada">Day 21</a>
-            <a href="./quiz/index.html?file=tubh1_22_vocab" id="tubh1_22_vocab" class="boton-quiz">Day 22<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_22_sentences" id="tubh1_22_sentences" class="boton-quiz">Day 22<br>Sentences</a>
-            <a href="./quiz/index.html?file=tubh1_23_audio" id="tubh1_23_audio" class="boton-quiz">Day 23<br>(audio)</a>
-            <a href="#" id="tubh1_24" class="boton-quiz boton-quiz--nada">Day 24</a>
-            <a href="#" id="tubh1_25" class="boton-quiz boton-quiz--nada">Day 25</a>
-            <a href="./quiz/index.html?file=tubh1_26_audio" id="tubh1_26_audio" class="boton-quiz">Day 26<br>(audio 1)</a>
-            <a href="./quiz/index.html?file=tubh1_26_audio_2" id="tubh1_26_audio_2" class="boton-quiz">Day 26<br>(audio 2)</a>
-            <a href="#" id="tubh1_27" class="boton-quiz boton-quiz--nada">Day 27</a>
-            <a href="./other/textos/day-28.html" id="tubh1_28" class="boton-quiz">Day 28 (text)</a>
-            <a href="#" id="tubh1_29" class="boton-quiz boton-quiz--nada">Day 29</a>
-            <a href="./quiz/index.html?file=tubh1_30_audio" id="tubh1_30_audio" class="boton-quiz">Day 30<br>(audio 1)</a>
-            <a href="./quiz/index.html?file=tubh1_30_audio_2" id="tubh1_30_audio_2" class="boton-quiz">Day 30<br>(audio 2)</a>
-            <a href="#" id="tubh1_31" class="boton-quiz boton-quiz--nada">Day 31</a>
-            <a href="#" id="tubh1_32" class="boton-quiz boton-quiz--nada">Day 32</a>
-            <a href="./quiz/index.html?file=tubh1_33_vocab" id="tubh1_33_vocab" class="boton-quiz">Day 33<br>Vocabulary</a>
-            <a href="./quiz/index.html?file=tubh1_34_vocab" id="tubh1_34_vocab" class="boton-quiz">Day 34<br>Vocabulary</a>
-            <a href="./other/textos/day-35.html" id="tubh1_35" class="boton-quiz">Day 35 (text)</a>
-            <a href="./quiz/index.html?file=tubh1_36_audio" id="tubh1_36_audio" class="boton-quiz">Day 36<br>(audio 1)</a>
-            <a href="./quiz/index.html?file=tubh1_36_audio_2" id="tubh1_36_audio_2" class="boton-quiz">Day 36<br>(audio 2)</a>
-            <a href="#" id="tubh1_37" class="boton-quiz boton-quiz--nada">Day 37</a>
-            <a href="./other/textos/day-38.html" id="tubh1_38" class="boton-quiz">Day 38 (text)</a>
-            <a href="#" id="tubh1_39" class="boton-quiz boton-quiz--nada">Day 39</a>
+        <h2>Handbook 1 Excercises per day</h2>
+        <div class="calendar-grid">
         </div>
     </main>
     <script src="./actualizarMenu.js"></script>
-    <script>
-        // About popup functions
-        function openAboutPopup() {
-            document.getElementById('about-popup').style.display = 'flex';
-        }
 
-        function closeAboutPopup() {
-            document.getElementById('about-popup').style.display = 'none';
-        }
-    </script>
     <footer>
         <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
     </footer>
