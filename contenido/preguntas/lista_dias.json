@@ -472,6 +472,15 @@
                 "disabled": true
             }
         ]
-    }
-        
+    },
+    {
+        "number": 41,
+        "content": [
+            {
+                "text": "Text",
+                "link": "./other/textos/day-41.html",
+                "id": "tubh1_41"
+            }
+        ]
+    }        
 ]

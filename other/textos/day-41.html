@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuo Quiz</title>
+    <link rel="stylesheet" href="../../estilos/estiloLector.css">
+    <link rel="stylesheet" href="../../estilos/estiloPopup.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-475SSTM0WC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        // Configure Google Analytics with additional parameters
+        gtag('config', 'G-475SSTM0WC', {
+            'anonymize_ip': true, // Anonymize IP addresses for privacy
+            'page_title': document.title, // Track the page title dynamically
+            'page_path': window.location.pathname // Track the current page path
+        });
+    </script>
+</head>
+
+<!-- ESTA ES UNA PRUEBA POR SI HAY MÁS TEXTOS EN EL FUTURO -->
+<!-- AHORA TODO RE HARDCODEADO PERO A FUTURO SE PUEDE HACER BONITO -->
+
+<body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Hover over chinese characters for pinyin.</p>
+        </div>
+    </div>
+    <main class="quiz-container">
+        <a href="../../index.html" class="boton-atras">Back to main menu</a>
+        <div class="botones-control-quiz">
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        </div>
+        <h1>Day 38 Text</h1>
+        <div id="texto-con-pinyin" style="text-align: left;">
+            <p>
+                <p><strong class="person-1">商人[shāngrén]</strong>：您好[nǐnhǎo]，想[xiǎng]吃[chī]什么[shénme]？</p>
+                <p><strong class="person-2">你[nǐ]</strong>：对不起[duìbuqǐ]，我[wǒ]是[shì]老外[lǎowài]，请问[qǐngwèn]这[zhè]是[shì]什么[shénme]？</p>
+                <p><strong class="person-1">商人[shāngrén]</strong>：这[zhè]是[shì]包子[bāozi]，这[zhè]是[shì]饺子[jiǎozi]，那[nà]是[shì]猪肉粥[zhūròuzhōu]。</p>
+                <p><strong class="person-2">你[nǐ]</strong>：这个[zhège]（包子[bāozi]）多少钱[duōshǎoqián]？</p>
+                <p><strong class="person-1">商人[shāngrén]</strong>：两[liǎng]块[kuài]钱[qián]一个[yīgè]，你[nǐ]要[yào]几[jǐ]个[gè]？</p>
+                <p><strong class="person-2">你[nǐ]</strong>：我[wǒ]要[yào]两[liǎng]个[gè]包子[bāozi]，一[yī]碗[wǎn]粥[zhōu]，一共[yīgòng]多少钱[duōshǎoqián]？</p>
+                <p><strong class="person-1">商人[shāngrén]</strong>：一共[yīgòng]五[wǔ]块[kuài]五[wǔ]，您[nín]是[shì]外国[wàiguó]朋友[péngyou]，给[gěi]我[wǒ]五[wǔ]块[kuài]吧[ba]。</p>
+                <p><strong class="person-2">你[nǐ]</strong>：谢谢[xièxie]，这[zhè]是[shì]十[shí]块[kuài]。</p>
+                <p><strong class="person-1">商人[shāngrén]</strong>：找[zhǎo]您[nín]五[wǔ]块[kuài]。</p>
+            </p>
+        </div>
+        <script src="../../quiz/pinyinInterpreter.js"></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                addTooltipsToChineseText("#texto-con-pinyin");
+            });
+        </script>
+    </main>
+    <footer>
+        <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+    </footer>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>
