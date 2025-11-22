@@ -482,5 +482,20 @@
                 "id": "tubh1_41"
             }
         ]
-    }        
+    },
+    {
+        "number": 42,
+        "content": [
+            {
+                "text": "Audio 1",
+                "link": "./quiz/index.html?file=tubh1_42_audio",
+                "id": "tubh1_42_audio"
+            },
+            {
+                "text": "Audio 2",
+                "link": "./quiz/index.html?file=tubh1_42_audio_2",
+                "id": "tubh1_42_audio_2"
+            }
+        ]
+    },
 ]
