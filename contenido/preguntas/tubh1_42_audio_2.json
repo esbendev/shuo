@@ -1,16 +1,16 @@
 {
-    "titulo": "Day 36 Vocabulary",
+    "titulo": "Day 42 Vocabulary",
     "showHelp": true,
     "preguntas": [
         {
             "id": 1,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/1-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/1-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/1-slow.mp3"
             ],
             "respuesta_correcta": [
-                "你做什么工作？"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -18,11 +18,11 @@
             "id": 2,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/2-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/2-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/2-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我的爸爸妈妈都是职员。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -30,11 +30,11 @@
             "id": 3,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/3-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/3-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/3-slow.mp3"
             ],
             "respuesta_correcta": [
-                "他的两个儿子都是律师。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -42,11 +42,11 @@
             "id": 4,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/4-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/4-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/4-slow.mp3"
             ],
             "respuesta_correcta": [
-                "这家公司在中国有生意。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -54,11 +54,11 @@
             "id": 5,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/5-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/5-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/5-slow.mp3"
             ],
             "respuesta_correcta": [
-                "那家饭店生意很好。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -66,11 +66,11 @@
             "id": 6,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/6-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/6-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/6-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我的外婆喜欢学习外语。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -78,11 +78,11 @@
             "id": 7,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/7-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/7-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/7-slow.mp3"
             ],
             "respuesta_correcta": [
-                "他的老婆是电脑工程师。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -90,11 +90,11 @@
             "id": 8,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/8-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/8-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/8-slow.mp3"
             ],
             "respuesta_correcta": [
-                "里医生不在这里。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -102,11 +102,11 @@
             "id": 9,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/9-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/9-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/9-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我喜欢和朋友喝咖啡。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -114,11 +114,11 @@
             "id": 10,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/10-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/10-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/10-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我的学生不都是外国人。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -126,11 +126,11 @@
             "id": 11,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/11-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/11-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/11-slow.mp3"
             ],
             "respuesta_correcta": [
-                "那些孩子都叫我老外。"
+                ""
             ],
             "input_chars_aceptados": []
         },
@@ -138,11 +138,11 @@
             "id": 12,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/1/day-36/2/12-fast.mp3",
-                "../contenido/audio/tubh/1/day-36/2/12-slow.mp3"
+                "../contenido/audio/tubh/1/day-42/2/12-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/12-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我要和朋友去外国读书。"
+                ""
             ],
             "input_chars_aceptados": []
         }
