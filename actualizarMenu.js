@@ -8,7 +8,7 @@ function actualizarEstadoBoton(id, estado) {
     } else if (estado === "completado") {
         button.classList.add("boton-quiz--completado");
     }
-    console.log(`Botón ${id} actualizado a estado: ${estado}`);
+    // console.log(`Botón ${id} actualizado a estado: ${estado}`);
 }
 
 document.addEventListener("DOMContentLoaded", () => {

@@ -20,7 +20,9 @@
             'page_path': window.location.pathname // Track the current page path
         });
     </script>
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="./manifest.json">
+    <link rel="icon" type="image/png" href="./imagenes/icon-192.png">
+    
 </head>
 
 <body>
@@ -57,7 +59,7 @@
     </footer>
     <script>
         if ("serviceWorker" in navigator) {
-            navigator.serviceWorker.register("/sw.js").then(() => {
+            navigator.serviceWorker.register("./sw.js").then(() => {
                 console.log("Service Worker registered successfully.");
             }).catch((error) => {
                 console.error("Service Worker registration failed:", error);
