@@ -5,8 +5,7 @@
     "version": "1.0.0",
     "main": "index.html",
     "author": "@esbendev",
-    "homepage": "https://esbendev.com/index-en.html",
-    "start_url": "/index.html",
+    "start_url": "/shuo/index.html",
     "display": "standalone",
     "lang": "en-US",
     "icons": [
