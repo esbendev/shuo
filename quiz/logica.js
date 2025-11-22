@@ -212,18 +212,29 @@ document.querySelector('.submit-button').addEventListener('click', () => {
     document.querySelector('.input-respuesta').value = '';
 });
 
+let audioInstance = null;
+
+function resetAudio() {
+    if (audioInstance) {
+        console.log('Resetting audio, stopping current audio playback.');
+        audioInstance.pause();
+        audioInstance.currentTime = 0; // Reset playback position
+    }
+}
+
 function playAudio() {
     if (pregunta && pregunta.archivo_audio) {
+        resetAudio();
         console.log('pregunta', pregunta);
         if (Array.isArray(pregunta.archivo_audio)) {
             console.log('Playing audio from array:', pregunta.archivo_audio[audioActual]);
-            const audio = new Audio(pregunta.archivo_audio[audioActual]);
-            audio.play();
+            audioInstance = new Audio(pregunta.archivo_audio[audioActual]);
+            audioInstance.play();
             audioActual = (audioActual + 1) % pregunta.archivo_audio.length;
         } else {
             console.log('Playing audio:', pregunta.archivo_audio);
-            const audio = new Audio(pregunta.archivo_audio);
-            audio.play();
+            audioInstance = new Audio(pregunta.archivo_audio);
+            audioInstance.play();
         }
     }
 }
