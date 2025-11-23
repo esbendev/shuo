@@ -58,7 +58,7 @@
                 "../contenido/audio/tubh/1/day-42/2/5-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我不想去，你一个人去把。"
+                "我不想去，你一个人去吧。"
             ],
             "input_chars_aceptados": []
         },
@@ -70,7 +70,7 @@
                 "../contenido/audio/tubh/1/day-42/2/6-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我也不知道，你问老师把。"
+                "我也不知道，你问老师吧。"
             ],
             "input_chars_aceptados": []
         },
@@ -142,7 +142,7 @@
                 "../contenido/audio/tubh/1/day-42/2/12-slow.mp3"
             ],
             "respuesta_correcta": [
-                "他给了的女儿十块钱。"
+                "他给了他的女儿十块钱。"
             ],
             "input_chars_aceptados": []
         }
