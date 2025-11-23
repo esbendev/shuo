@@ -217,3 +217,29 @@ footer a:hover {
     flex-basis: 100%;
     /* Makes the third button take up the full width on a new line */
 }
+
+.submit-button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+    color: #666666;
+}
+
+.input-respuesta:disabled {
+    background-color: #eeeeee;
+    border-color: #cccccc;
+    color: #999999;
+    cursor: not-allowed;
+}
+
+.boton-audio:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+    color: #666666;
+}
+
+.teclado-respuestas:disabled > .teclado-tecla {
+    background-color: #eeeeee;
+    border-color: #cccccc;
+    color: #999999;
+    cursor: not-allowed;
+}

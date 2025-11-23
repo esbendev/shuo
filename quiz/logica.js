@@ -114,12 +114,28 @@ function cargarBotonAudio() {
     }
 }
 
+function deshabilitarBotones(estado){
+    // make sure input-respuesta and submit-button are enabled
+    const inputRespuesta = document.querySelector('.input-respuesta');
+    const submitButton = document.querySelector('.submit-button');
+    const botonAudio = document.querySelector('.boton-audio');
+    const tecladoRespuestas = document.querySelectorAll('.teclado-tecla');
+    tecladoRespuestas.forEach(button => {
+        button.disabled = estado;
+    });
+    inputRespuesta.disabled = estado;
+    submitButton.disabled = estado;
+    botonAudio.disabled = estado;
+    // tecladoRespuestas.disabled = estado;
+    // console.log('Updated button states to disabled=', estado);
+}
+
 
 function proximaPregunta() {
     if (!pregunta) return;
     if (pregunta.id < cantidadPreguntas) {
         currentId = pregunta.id + 1;
-
+        deshabilitarBotones(false);
         fetch(`../contenido/preguntas/${filename}.json`)
             .then(response => response.json())
             .then(data => {
@@ -134,8 +150,11 @@ function proximaPregunta() {
     } else {
         // Quiz completed
         const resultadoDiv = document.querySelector('.resultado-respuesta');
+        
         resultadoDiv.textContent = 'Quiz completed!';
         resultadoDiv.className = 'resultado-respuesta completado';
+
+        deshabilitarBotones(true);
         pregunta = null;
         actualizarListaDePreguntas();
     }
@@ -175,21 +194,21 @@ document.querySelector('.submit-button').addEventListener('click', () => {
         const estado = preguntasEstado.find(p => p.id === pregunta.id);
         const resultadoDiv = document.querySelector('.resultado-respuesta');
         const respuestaCorrecta = limpiarString(pregunta.respuesta_correcta);
-        console.log('Correct answer(s):', respuestaCorrecta);
-        console.log('User input after cleaning and normalization:', userInput);
+        // console.log('Correct answer(s):', respuestaCorrecta);
+        // console.log('User input after cleaning and normalization:', userInput);
         if (Array.isArray(respuestaCorrecta)) {
             // console.log('Checking against multiple correct answers:', respuestaCorrecta);
             if (respuestaCorrecta.some(ans => ans === userInput)) {
                 resultadoDiv.textContent = 'Correct!';
                 resultadoDiv.className = 'resultado-respuesta correcto';
                 if (estado) estado.value = 1;
-                console.log('Correct answer given, moving to next question.');
+                // console.log('Correct answer given, moving to next question.');
                 proximaPregunta();
             } else {
                 resultadoDiv.textContent = 'That was incorrect, please try again.';
                 resultadoDiv.className = 'resultado-respuesta incorrecto';
                 if (estado) estado.value = 0;
-                console.log('Incorrect answer, prompting user to try again.');
+                // console.log('Incorrect answer, prompting user to try again.');
                 playAudio();
             }
         } else {
@@ -197,18 +216,18 @@ document.querySelector('.submit-button').addEventListener('click', () => {
                 resultadoDiv.textContent = 'Correct!';
                 resultadoDiv.className = 'resultado-respuesta correcto';
                 if (estado) estado.value = 1;
-                console.log('Correct answer given, moving to next question.');
+                // console.log('Correct answer given, moving to next question.');
                 proximaPregunta();
             } else {
                 resultadoDiv.textContent = 'That was incorrect, please try again.';
                 resultadoDiv.className = 'resultado-respuesta incorrecto';
                 if (estado) estado.value = 0;
-                console.log('Incorrect answer, prompting user to try again.');
+                // console.log('Incorrect answer, prompting user to try again.');
                 playAudio();
             }
         }
     }
-    console.log(preguntasEstado);
+    // console.log(preguntasEstado);
     document.querySelector('.input-respuesta').value = '';
 });
 
@@ -216,7 +235,7 @@ let audioInstance = null;
 
 function resetAudio() {
     if (audioInstance) {
-        console.log('Resetting audio, stopping current audio playback.');
+        // console.log('Resetting audio, stopping current audio playback.');
         audioInstance.pause();
         audioInstance.currentTime = 0; // Reset playback position
     }
@@ -225,14 +244,14 @@ function resetAudio() {
 function playAudio() {
     if (pregunta && pregunta.archivo_audio) {
         resetAudio();
-        console.log('pregunta', pregunta);
+        // console.log('pregunta', pregunta);
         if (Array.isArray(pregunta.archivo_audio)) {
-            console.log('Playing audio from array:', pregunta.archivo_audio[audioActual]);
+            // console.log('Playing audio from array:', pregunta.archivo_audio[audioActual]);
             audioInstance = new Audio(pregunta.archivo_audio[audioActual]);
             audioInstance.play();
             audioActual = (audioActual + 1) % pregunta.archivo_audio.length;
         } else {
-            console.log('Playing audio:', pregunta.archivo_audio);
+            // console.log('Playing audio:', pregunta.archivo_audio);
             audioInstance = new Audio(pregunta.archivo_audio);
             audioInstance.play();
         }
@@ -262,6 +281,7 @@ function resetProgress() {
                 resultadoDiv.textContent = '';
                 resultadoDiv.className = 'resultado-respuesta';
                 actualizarListaDePreguntas();
+                deshabilitarBotones(false);
             });
     }
 }
