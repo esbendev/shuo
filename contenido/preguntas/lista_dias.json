@@ -497,5 +497,16 @@
                 "id": "tubh1_42_audio_2"
             }
         ]
+    },
+    {
+        "number": 43,
+        "content": [
+            {
+                "text": "Empty day...",
+                "link": "#",
+                "id": "tubh1_43",
+                "disabled": true
+            }
+        ]
     }
 ]
