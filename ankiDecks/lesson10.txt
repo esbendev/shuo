@@ -1,0 +1,26 @@
+<div class="chineseChars">点</div>|<div class="answer">diǎn <span class="english">o'clock</span></div>
+<div class="chineseChars">每天</div>|<div class="answer">měi tiān <span class="english">every day</span></div>
+<div class="chineseChars">⼤概</div>|<div class="answer">dà gài <span class="english">approximately / about</span></div>
+<div class="chineseChars">起床</div>|<div class="answer">qǐ chuáng <span class="english">to get up</span></div>
+<div class="chineseChars">刷⽛</div>|<div class="answer">shuā yá <span class="english">to brush teeth</span></div>
+<div class="chineseChars">洗脸</div>|<div class="answer">xǐ liǎn <span class="english">to wash face</span></div>
+<div class="chineseChars">洗澡</div>|<div class="answer">xǐ zǎo <span class="english">to take a shower/bath</span></div>
+<div class="chineseChars">运动</div>|<div class="answer">yùn dòng <span class="english">to exercise</span></div>
+<div class="chineseChars">开车</div>|<div class="answer">kāi chē <span class="english">to drive a car</span></div>
+<div class="chineseChars">聊天</div>|<div class="answer">liáo tiān <span class="english">to chat</span></div>
+<div class="chineseChars">吃早饭</div>|<div class="answer">chī zǎo fàn <span class="english">to eat breakfast</span></div>
+<div class="chineseChars">吃晚饭</div>|<div class="answer">chī wǎn fàn <span class="english">to eat dinner</span></div>
+<div class="chineseChars">玩⼿机</div>|<div class="answer">wán shǒu jī <span class="english">to play on the phone</span></div>
+<div class="chineseChars">以前</div>|<div class="answer">yǐ qián <span class="english">before</span></div>
+<div class="chineseChars">以后</div>|<div class="answer">yǐ hòu <span class="english">after</span></div>
+<div class="chineseChars">就</div>|<div class="answer">jiù <span class="english">then / right away</span></div>
+<div class="chineseChars">或者</div>|<div class="answer">huò zhě <span class="english">or (in statements)</span></div>
+<div class="chineseChars">还是</div>|<div class="answer">hái shì <span class="english">or (in questions)</span></div>
+<div class="chineseChars">然后</div>|<div class="answer">rán hòu <span class="english">and then / after that</span></div>
+<div class="chineseChars">呢</div>|<div class="answer">ne <span class="english">(question particle) What about you?</span></div>
+<div class="chineseChars">玩</div>|<div class="answer">wán <span class="english">to play</span></div>
+<div class="chineseChars">零</div>|<div class="answer">líng <span class="english">zero</span></div>
+<div class="chineseChars">分</div>|<div class="answer">fēn <span class="english">minute</span></div>
+<div class="chineseChars">差</div>|<div class="answer">chà <span class="english">to lack, be short of</span></div>
+<div class="chineseChars">一刻</div>|<div class="answer">yí kè <span class="english">a quarter of an hour</span></div>
+<div class="chineseChars">半</div>|<div class="answer">bàn <span class="english">half</span></div>

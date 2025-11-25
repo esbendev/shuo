@@ -1,0 +1,1088 @@
+{
+    "titulo": "TUBH 1 Fast Audios",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我二十八岁。",
+                "wǒ èr shí bā suì.",
+                "wo3 er4 shi2 ba1 sui4.",
+                "我28岁。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "老师是中国人。 我很喜欢她。",
+                "lǎo shī shì zhōng guó rén. wǒ hěn xǐ huān tā.",
+                "lao3 shi1 shi4 zhong1 guo2 ren2. wo3 hen3 xi3 huan1 ta1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我不认识他。",
+                "我不认识她。",
+                "wǒ bù rèn shi tā.",
+                "wo3 bu4 ren4 shi ta1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这是杯子。",
+                "zhè shì bēi zi.",
+                "zhe4 shi4 bei1 zi5",
+                "zhe4 shi4 bei1 zi"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "那是苹果电脑。",
+                "nà shì píng guǒ diàn nǎo.",
+                "na4 shi4 ping2 guo3 dian4 nao3."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这是什么书？",
+                "zhè shì shén me shū?",
+                "zhe4 shi4 shen2 me shu1?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这是英文书。",
+                "zhè shì yīng wén shū.",
+                "zhe4 shi4 ying1 wen2 shu1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "那是什么书？",
+                "nà shì shén me shū?",
+                "na4 shi4 shen2 me shu1?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "那是西班牙语书。",
+                "nà shì xī bān yá yǔ shū?",
+                "na4 shi4 xi1 ban1 ya2 yu3 shu1?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他是什么老师？",
+                "她是什么老师？",
+                "tā shì shén me lǎo shī?",
+                "ta1 shi4 shen2 me lao3 shi1?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-11/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-11/2/11-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他是汉语老师。",
+                "她是汉语老师。",
+                "tā shì hàn yǔ lǎo shī.",
+                "ta1 shi4 han4 yu3 lao3 shi1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "现在你在哪里？",
+                "xiàn zài nǐ zài nǎ lǐ?",
+                "xian4 zai4 ni3 zai4 na3 li3?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "现在我在公司。",
+                "xiàn zài wǒ zài gōng sī.",
+                "xian4 zai4 wo3 zai4 gong1 si1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天早上我在咖啡店。",
+                "zuó tiān zǎo shang wǒ zài kā fēi diàn.",
+                "zuo2 tian1 zao3 shang4 wo3 zai4 ka1 fei1 dian4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天你要去哪里？",
+                "míng tiān nǐ yào qù nǎ lǐ?",
+                "ming2 tian1 ni3 yao4 qu4 na3 li3?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天早上她要去商店。",
+                "明天早上他要去商店。",
+                "míng tiān zǎo shang tā yào qù shāng diàn.",
+                "ming2 tian1 zao3 shang4 ta1 yao4 qu4 shang1 dian4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天你要去中国饭店吗？",
+                "míng tiān nǐ yào qù zhōng guó fàn diàn ma?",
+                "ming2 tian1 ni3 yao4 qu4 zhong1 guo2 fan4 dian4 ma?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 18,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天晚上你去了商场吗？",
+                "zuó tiān wǎn shang nǐ qù le shāng chǎng ma?",
+                "zuo2 tian1 wan3 shang4 ni qu4 le shang1 chang3 ma?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 19,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天我没有去厕所。",
+                "zuó tiān wǒ méi yǒu qù cè suǒ.",
+                "zuo2 tian1 wo3 mei2 you3 qu4 ce4 suo3."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 20,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天她也没有去学校。",
+                "昨天他也没有去学校。",
+                "zuó tiān tā yě méi yǒu qù xué xiào.",
+                "zuo2 tian1 ta1 ye3 mei2 you3 qu4 xue2 xiao4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 21,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-15/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-15/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "今天她很不高兴。",
+                "今天他很不高兴。",
+                "jīn tiān tā hěn bù gāo xìng.",
+                "jin1 tian1 ta1 hen3 bu4 gao1 xing4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 22,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "现在你在做什么？",
+                "xiàn zài nǐ zài zuò shén me?",
+                "xian4 zai4 ni3 zai4 zuo4 shen2 me5?",
+                "xian4 zai4 ni3 zai4 zuo4 shen2 me?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 23,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天早上你做了什么？",
+                "zuó tiān zǎo shang nǐ zuò le shén me?",
+                "zuo2 tian1 zao3 shang4 ni3 zuo4 le5 shen2 me5?",
+                "zuo2 tian1 zao3 shang4 ni3 zuo4 le5 shen2 me?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 24,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "现在你在睡觉吗？",
+                "xiàn zài nǐ zài shuì jiào ma?",
+                "xian4 zai4 ni3 zai4 shui4 jiao4 ma5?",
+                "xian4 zai4 ni3 zai4 shui4 jiao4 ma?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 25,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天晚上你学习了吗？",
+                "zuó tiān wǎn shang nǐ xué xí le ma?",
+                "zuo2 tian1 wan3 shang4 ni3 xue2 xi2 le5 ma5?",
+                "zuo2 tian1 wan3 shang4 ni3 xue2 xi2 le5 ma?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 26,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天你要去工作吗？",
+                "míng tiān nǐ yào qù gōng zuò ma?",
+                "ming2 tian1 ni3 yao4 qu4 gong1 zuo4 ma5?",
+                "ming2 tian1 ni3 yao4 qu4 gong1 zuo4 ma?"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 27,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天他们不来学校。",
+                "明天她们不来学校。",
+                "míng tiān tā men bù lái xué xiào.",
+                "ming2 tian1 ta1 men5 bu4 lai2 xue2 xiao4.",
+                "ming2 tian1 ta1 men bu4 lai2 xue2 xiao4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 28,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天他没有回家。",
+                "昨天她没有回家。",
+                "zuó tiān tā méi yǒu huí jiā.",
+                "zuo2 tian1 ta1 mei2 you3 hui2 jia1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 29,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我喜欢在家吃饭。",
+                "wǒ xǐ huān zài jiā chī fàn.",
+                "wo3 xi3 huan1 zai4 jia1 chi1 fan4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 30,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我不在公司工作，我在家工作。",
+                "wǒ bù zài gōng sī gōng zuò, wǒ zài jiā gōng zuò.",
+                "wo3 bu4 zai4 gong1 si1 gong1 zuo4, wo3 zai4 jia1 gong1 zuo4."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 31,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我要去书店买书。",
+                "wǒ yào qù shū diàn mǎi shū.",
+                "wo3 yao4 qu4 shu1 dian4 mai3 shu1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 32,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/11-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我去了咖啡店上厕所。",
+                "wǒ qù le kā fēi diàn shàng cè suǒ.",
+                "wo3 qu4 le5 ka1 fei1 dian4 shang4 ce4 suo3.",
+                "wo3 qu4 le ka1 fei1 dian4 shang4 ce4 suo3."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 33,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-20/2/12-fast.mp3",
+                "../contenido/audio/tubh/1/day-20/2/12-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天他没有去商场买东西。",
+                "昨天她没有去商场买东西。",
+                "zuó tiān tā méi yǒu qù shāng chǎng mǎi dōng xī.",
+                "zuo2 tian1 ta1 mei2 you3 qu4 shang1 chang3 mai3 dong1 xi1."
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 34,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他没有女朋友。",
+                "她没有女朋友。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 35,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "明天谁要去咖啡店？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 36,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你喜欢看谁的书？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 37,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "谁知道他叫什么名字？",
+                "谁知道她叫什么名字？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 38,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我没有中国朋友。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 39,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我的姐姐有两个孩子。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 40,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "房间里有两张床。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 41,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "桌子上有一本书。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 42,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "商店外有一只猫。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 43,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "椅子下有一支笔。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 44,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio":[
+                "../contenido/audio/tubh/1/day-26/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/11-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "那是我哥哥的车。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 45,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/12-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/12-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "妹妹有两本词典。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 46,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-26/2/13-fast.mp3",
+                "../contenido/audio/tubh/1/day-26/2/13-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "厕所里没有人。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 47,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你家有几个房间？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 48,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "哪本书是中文书？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 49,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "那只小猫叫kitty。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 50,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你要买几张椅子？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 51,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这辆车不是我的。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 52,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你一共学习了几个词？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 53,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天你一共认识了几个朋友？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 54,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我们都在家工作。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 55,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我们都喜欢学习中文。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 56,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这三个咖啡店都很好。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 57,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/11-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他们都不在车上。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 58,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/12-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/12-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "中国人不都喜欢钱。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 59,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-30/2/13-fast.mp3",
+                "../contenido/audio/tubh/1/day-30/2/13-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我要下车上厕所。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 60,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你做什么工作？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 61,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我的爸爸妈妈都是职员。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 62,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他的两个儿子都是律师。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 63,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这家公司在中国有生意。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 64,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "那家饭店生意很好。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 65,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我的外婆喜欢学习外语。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 66,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他的老婆是电脑工程师。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 67,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "里医生不在这里。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 68,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我喜欢和朋友喝咖啡。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 69,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我的学生不都是外国人。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 70,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/11-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "那些孩子都叫我老外。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 71,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-36/2/12-fast.mp3",
+                "../contenido/audio/tubh/1/day-36/2/12-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我要和朋友去外国读书。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 72,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "您好，想吃什么？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 73,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "今天晚上我朋友请我吃饭。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 74,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "对不起，请问厕所在哪里？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 75,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "今天我不想工作。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 76,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我不想去，你一个人去吧。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 77,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我也不知道，你问老师吧。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 78,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我要两个包子，一碗粥。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 79,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "一共多少钱？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 80,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这三本书一共三十五块。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 81,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我找了一个翻译。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 82,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/11-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你在找我吗？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 83,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-42/2/12-fast.mp3",
+                "../contenido/audio/tubh/1/day-42/2/12-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他给了他的女儿十块钱。"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
