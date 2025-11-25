@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuo Quiz</title>
+    <link rel="stylesheet" href="../../estilos/estiloGeneral.css">
+    <link rel="stylesheet" href="../../estilos/estiloPopup.css">
+    <style>
+        .clock-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 2rem 0;
+        }
+
+        #digital-clock {
+            font-size: 2rem;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        #digital-clock select {
+            font-size: 2rem;
+            background: white;
+            border: 1px dashed gray;
+            border-radius: 0.3rem;
+        }
+
+        #digital-clock #separador {
+            margin: -1rem;
+        }
+
+        .time-words-container {
+            text-align: center;
+            font-size: 2rem;
+            margin-bottom: 1rem;
+        }
+        span.caracter-dian {
+            color: #0056b3; /* Darker Blue */
+        }
+        span.caracter-fen {
+            color: #218838; /* Darker Green */
+        }
+        span.separador-or {
+            display: block;
+            font-size: .8rem;
+            font-style: italic;
+            color: #495057; /* Darker Gray */
+        }
+        span.caracter-cha {
+            color: #c82333; /* Darker Red */
+        }
+        span.caracter-ke {
+            color: #e0a800; /* Softer Yellow */
+        }
+        span.caracter-ban {
+            color: #138496; /* Darker Teal */
+        }
+    </style>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-475SSTM0WC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        // Configure Google Analytics with additional parameters
+        gtag('config', 'G-475SSTM0WC', {
+            'anonymize_ip': true, // Anonymize IP addresses for privacy
+            'page_title': document.title, // Track the page title dynamically
+            'page_path': window.location.pathname // Track the current page path
+        });
+    </script>
+</head>
+
+<body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Just something i'm using to practice times in Chinese.</p>
+        </div>
+    </div>
+    <div id="answer-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeAnswerPopup()">&times;</span>
+            <h2>Acceptable answers</h2>
+            <div id="contenido-respuesta"></div>
+        </div>
+    </div>
+    <main class="quiz-container">
+        <a href="../../index.html" class="boton-atras">Back to main menu</a>
+        <div class="botones-control-quiz">
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        </div>
+        <h1 class="titulo-quiz">现在几点？</h1>
+        <div class="time-words-container">
+            <p id="result-words" style="display: none;"></p>
+            <button id="toggle-result-words" onclick="toggleResultWords()">Show Time</button>
+            <script>
+                function toggleResultWords() {
+                    const resultWords = document.getElementById('result-words');
+                    const toggleButton = document.getElementById('toggle-result-words');
+                    if (resultWords.style.display === 'none') {
+                        resultWords.style.display = 'block';
+                        toggleButton.textContent = 'Hide Time';
+                    } else {
+                        resultWords.style.display = 'none';
+                        toggleButton.textContent = 'Show Time';
+                    }
+                }
+            </script>
+        </div>
+        <div class="clock-container">
+            <div id="digital-clock">
+                <select id="hours">
+                    <!-- Dynamically generate hour options -->
+                    <script>
+                        document.write(
+                            Array.from({ length: 12 }, (_, i) => `<option value="${i + 1}">${String(i + 1).padStart(2, '0')}</option>`).join('')
+                        );
+                    </script>
+                </select> <span id="separador">:</span>
+                <select id="minutes">
+                    <!-- Dynamically generate minute options -->
+                    <script>
+                        document.write(
+                            Array.from({ length: 60 }, (_, i) => `<option value="${i}">${String(i).padStart(2, '0')}</option>`).join('')
+                        );
+                    </script>
+                </select>
+                <!-- <select id="period">
+                    <option value="AM">AM</option>
+                    <option value="PM">PM</option>
+                </select> -->
+            </div>
+            <script>
+                function replaceHours(hour) {
+                    hour = parseInt(hour);
+                    switch (hour) {
+                        case 1: return '一';
+                        case 2: return '两';
+                        case 3: return '三';
+                        case 4: return '四';
+                        case 5: return '五';
+                        case 6: return '六';
+                        case 7: return '七';
+                        case 8: return '八';
+                        case 9: return '九';
+                        case 10: return '十';
+                        case 11: return '十一';
+                        case 12: return '十二';
+                    }
+                }
+
+                function replaceNumbers(num) {
+                    // make sure num is an integer
+                    num = parseInt(num);
+                    const chineseNumbers = ['零', '一', '二', '三', '四', '五', '六', '七', '八', '九'];
+                    if (num < 10) {
+                        return `${chineseNumbers[num]}`;
+                    }
+                    const tens = Math.floor(num / 10);
+                    const ones = num % 10;
+                    if (tens === 1) {
+                        return `十${ones === 0 ? '' : chineseNumbers[ones]}`;
+                    }
+                    return `${chineseNumbers[tens]}十${ones === 0 ? '' : chineseNumbers[ones]}`;
+                }
+
+                function setClock(hours, minutes, period) {
+                    document.getElementById('hours').value = String(hours);
+                    document.getElementById('minutes').value = String(minutes);
+                    // document.getElementById('period').value = period;
+                }
+
+                window.addEventListener('DOMContentLoaded', () => {
+                    const now = new Date();
+                    const hours = now.getHours() % 12 || 12; // Convert to 12-hour format
+                    const minutes = now.getMinutes();
+                    const period = now.getHours() >= 12 ? 'PM' : 'AM';
+                    setClock(hours, minutes, period);
+                    showTimeWrittenDown();
+                });
+
+                function showTimeWrittenDown() {
+                    const hours = document.getElementById('hours').value;
+                    const minutes = document.getElementById('minutes').value;
+                    const resultWords = document.getElementById('result-words');
+
+                    // lógica de hora escrita...
+
+                    // 1) o'clock
+                    if (minutes == 0) {
+                        resultWords.innerHTML = `${replaceHours(hours)}<span class="caracter-dian">点</span>`;
+                        return;
+                    }
+
+                    // 2) minutes less than 10
+                    if (minutes < 10) {
+                        resultWords.innerHTML = `${replaceHours(hours)}<span class="caracter-dian">点</span>零${replaceNumbers(minutes)}<span class="caracter-fen">分</span>`;
+                        return;
+                    }
+
+                    // a partir de acá hay dos formas, la normal y otra que es parecida a español
+                    const horaNormal = `${replaceHours(hours)}<span class="caracter-dian">点</span>${replaceNumbers(minutes)}`;
+
+                    // 3) last ten minutes
+                    if (minutes > 50) {
+                        const minutesToNextHour = 60 - parseInt(minutes);
+                        const nextHour = parseInt(hours) % 12 + 1;
+                        const nextHourInChinese = replaceHours(nextHour);
+                        const minutesInChinese = replaceNumbers(minutesToNextHour);
+                        resultWords.innerHTML = `${nextHourInChinese}<span class="caracter-dian">点</span><span class="caracter-cha">差</span>${minutesInChinese}<span class="caracter-fen">分</span><span class="separador-or">or</span>${horaNormal}`;
+                        return;
+                    }
+
+                    // 4) y cuarto
+                    if (minutes == 15) {
+                        resultWords.innerHTML = `${replaceHours(hours)}<span class="caracter-dian">点</span>一刻<span class="separador-or">or</span>${horaNormal}`;
+                        return;
+                    }
+
+                    // 5) y media
+                    if (minutes == 30) {
+                        resultWords.innerHTML = `${replaceHours(hours)}<span class="caracter-dian">点</span><span class="caracter-ban">半</span><span class="separador-or">or</span>${horaNormal}`;
+                        return;
+                    }
+
+                    // 6) menos cuarto
+                    if (minutes == 45) {
+                        const nextHour = parseInt(hours) % 12 + 1;
+                        resultWords.innerHTML = `${replaceHours(nextHour)}<span class="caracter-dian">点</span><span class="caracter-cha">差</span>一<span class="caracter-ke">刻</span><span class="separador-or">or</span>${horaNormal}`;
+                        return;
+                    }
+
+                    resultWords.innerHTML = horaNormal;
+                }
+
+                // any time i change the clock, update the written time
+                document.getElementById('hours').addEventListener('change', showTimeWrittenDown);
+                document.getElementById('minutes').addEventListener('change', showTimeWrittenDown);
+            </script>
+        </div>
+    </main>
+    <footer>
+        <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+    </footer>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>
