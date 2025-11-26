@@ -22,7 +22,7 @@
     </script>
     <link rel="manifest" href="./manifest.json">
     <link rel="icon" type="image/png" href="./imagenes/icon-192.png">
-    
+
 </head>
 
 <body>
@@ -43,9 +43,32 @@
             <p>Having said that, if you find any
                 errors, have any suggestions or feedback, please let me know!</p>
         </div>
-        <h2>Handbook 1 Excercises per day</h2>
-        <div class="calendar-grid">
+        <h2>Excercises per day</h2>
+        <div class="handbooks-button-container">
+            <button id="show-handbook-1" class="handbook--activo">Handbook 1</button>
+            <button id="show-handbook-2">Handbook 2</button>
         </div>
+        <div class="calendar-grid" id="calendar-grid-1"></div>
+        <!-- Content for calendar grid 1 -->
+        </div>
+        <div class="calendar-grid calendar-grid--escondido" id="calendar-grid-2">
+            <!-- Content for calendar grid 2 -->
+        </div>
+        <script>
+            document.getElementById('show-handbook-1').addEventListener('click', () => {
+                document.getElementById('calendar-grid-1').classList.remove('calendar-grid--escondido');
+                document.getElementById('calendar-grid-2').classList.add('calendar-grid--escondido');
+                document.getElementById('show-handbook-1').classList.add('handbook--activo');
+                document.getElementById('show-handbook-2').classList.remove('handbook--activo');
+            });
+
+            document.getElementById('show-handbook-2').addEventListener('click', () => {
+                document.getElementById('calendar-grid-1').classList.add('calendar-grid--escondido');
+                document.getElementById('calendar-grid-2').classList.remove('calendar-grid--escondido');
+                document.getElementById('show-handbook-1').classList.remove('handbook--activo');
+                document.getElementById('show-handbook-2').classList.add('handbook--activo');
+            });
+        </script>
         <h2>Other</h2>
         <div class="other-links-index">
             <a href="./cheatsheets/index.html" class="boton-other">Cheatsheets</a>

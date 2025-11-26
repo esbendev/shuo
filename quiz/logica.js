@@ -275,7 +275,7 @@ function resetProgress() {
         currentId = 1;
         localStorage.removeItem(`quiz_currentId_${filename}`);
         preguntasEstado = preguntasEstado.map(p => ({ id: p.id, value: 0 }));
-        fetch(`../contenido/preguntas/tubh/1/${filename}.json`)
+        fetch(filePath)
             .then(response => response.json())
             .then(data => {
                 pregunta = data.preguntas.find(p => p.id === currentId);
