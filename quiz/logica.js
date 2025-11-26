@@ -24,7 +24,12 @@ if (storedId) {
 }
 
 // cargo archivo con audio, respuesta correcta y teclado
-fetch(`../contenido/preguntas/${filename}.json`)
+// por ahora estoy patcheando esto para que funcione con 1 y 2...
+// si hay más cosas en el futuro, veremos :)
+const filePath = filename.includes('tubh1_') 
+    ? `../contenido/preguntas/tubh/1/${filename}.json` 
+    : `../contenido/preguntas/tubh/2/${filename}.json`;
+fetch(filePath)
     .then(response => response.json())
     .then(data => {
         preguntasEstado = data.preguntas.map(p => ({
@@ -136,7 +141,7 @@ function proximaPregunta() {
     if (pregunta.id < cantidadPreguntas) {
         currentId = pregunta.id + 1;
         deshabilitarBotones(false);
-        fetch(`../contenido/preguntas/${filename}.json`)
+        fetch(`../contenido/preguntas/tubh/1/${filename}.json`)
             .then(response => response.json())
             .then(data => {
                 pregunta = data.preguntas.find(p => p.id === currentId);
@@ -270,7 +275,7 @@ function resetProgress() {
         currentId = 1;
         localStorage.removeItem(`quiz_currentId_${filename}`);
         preguntasEstado = preguntasEstado.map(p => ({ id: p.id, value: 0 }));
-        fetch(`../contenido/preguntas/${filename}.json`)
+        fetch(`../contenido/preguntas/tubh/1/${filename}.json`)
             .then(response => response.json())
             .then(data => {
                 pregunta = data.preguntas.find(p => p.id === currentId);

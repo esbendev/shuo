@@ -13,7 +13,7 @@ function actualizarEstadoBoton(id, estado) {
 
 document.addEventListener("DOMContentLoaded", () => {
 
-    fetch('./contenido/preguntas/lista_dias.json')
+    fetch('./contenido/preguntas/tubh/1/lista_dias.json')
         .then(response => response.json())
         .then(data => {
             const calendarGrid = document.querySelector('.calendar-grid');
