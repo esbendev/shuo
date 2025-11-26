@@ -249,7 +249,9 @@ function playAudio() {
             // console.log('Playing audio from array:', pregunta.archivo_audio[audioActual]);
             audioInstance = new Audio(pregunta.archivo_audio[audioActual]);
             audioInstance.play();
+            // audioInstance.addEventListener('ended', () => {
             audioActual = (audioActual + 1) % pregunta.archivo_audio.length;
+            // });
         } else {
             // console.log('Playing audio:', pregunta.archivo_audio);
             audioInstance = new Audio(pregunta.archivo_audio);
@@ -259,6 +261,7 @@ function playAudio() {
 }
 
 document.querySelector('.boton-audio').addEventListener('click', () => {
+    resetAudio();
     playAudio();
 });
 
