@@ -197,3 +197,11 @@ a.boton-other {
     /* width: 12ch; */
     transition: transform 0.2s;
 }
+
+div.other-links-index {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
