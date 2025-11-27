@@ -544,10 +544,9 @@
         "number": 47,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh1_47",
-                "disabled": true
+                "text": "Text",
+                "link": "./other/textos/tubh/1/day-47.html",
+                "id": "tubh1_47"
             }
         ]
     },

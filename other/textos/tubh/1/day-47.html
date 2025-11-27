@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuo Quiz</title>
+    <link rel="stylesheet" href="../../../../estilos/estiloLector.css">
+    <link rel="stylesheet" href="../../../../estilos/estiloPopup.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-475SSTM0WC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        // Configure Google Analytics with additional parameters
+        gtag('config', 'G-475SSTM0WC', {
+            'anonymize_ip': true, // Anonymize IP addresses for privacy
+            'page_title': document.title, // Track the page title dynamically
+            'page_path': window.location.pathname // Track the current page path
+        });
+    </script>
+</head>
+
+<!-- ESTA ES UNA PRUEBA POR SI HAY MÁS TEXTOS EN EL FUTURO -->
+<!-- AHORA TODO RE HARDCODEADO PERO A FUTURO SE PUEDE HACER BONITO -->
+
+<body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Hover over chinese characters for pinyin.</p>
+        </div>
+    </div>
+    <main class="quiz-container">
+        <a href="../../../../index.html" class="boton-atras">Back to main menu</a>
+        <div class="botones-control-quiz">
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        </div>
+        <h1>Day 47 Text</h1>
+        <div id="texto-con-pinyin" style="text-align: left;">
+            <p>
+                <p><strong class="person-1">朋友[péngyǒu]</strong>：你[nǐ]每天[měitiān]几点[jǐdiǎn]起床[qǐchuáng]？</p>
+                <p><strong class="person-2">琪琪[qíqí]</strong>：大概[dàgài]六点[liùdiǎn]起床[qǐchuáng]。</p>
+                <p><strong class="person-1">朋友[péngyǒu]</strong>：起床[qǐchuáng]以后[yǐhòu]你[nǐ]做[zuò]什么[shénme]？</p>
+                <p><strong class="person-2">琪琪[qíqí]</strong>：起床[qǐchuáng]以后[yǐhòu]我[wǒ]就[jiù]刷牙[shuāyá]，洗脸[xǐliǎn]，运动[yùndòng]，洗澡[xǐzǎo]，然后[ránhòu]开车[kāichē]去[qù]公司[gōngsī]。</p>
+                <p><strong class="person-1">朋友[péngyǒu]</strong>：你[nǐ]不[bù]吃[chī]早饭[zǎofàn]吗[ma]？</p>
+                <p><strong class="person-2">琪琪[qíqí]</strong>：我[wǒ]去[qù]公司[gōngsī]吃[chī]早饭[zǎofàn]。</p>
+                <p><strong class="person-1">朋友[péngyǒu]</strong>：你[nǐ]每天[měitiān]几点[jǐdiǎn]睡觉[shuìjiào]呢[ne]？</p>
+                <p><strong class="person-2">琪琪[qíqí]</strong>：十点半[shídiǎnbàn]睡觉[shuìjiào]，睡觉[shuìjiào]以前[yǐqián]我[wǒ]看看[kànkàn]书[shū]，和[hé]男朋友[nánpéngyǒu]聊聊天[liáoliáotiān]，或者[huòzhě]玩玩[wánwán]手机[shǒujī]。</p>
+            </p>
+        </div>
+        <script src="../../../../quiz/pinyinInterpreter.js"></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                addTooltipsToChineseText("#texto-con-pinyin");
+            });
+        </script>
+    </main>
+    <footer>
+        <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+    </footer>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>
