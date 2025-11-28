@@ -1,0 +1,159 @@
+{
+    "titulo": "Day 48 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/1.mp3",
+            "respuesta_correcta": [
+                "第十课"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/2.mp3",
+            "respuesta_correcta": [
+                "现在几点？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/3.mp3",
+            "respuesta_correcta": [
+                "每天"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/4.mp3",
+            "respuesta_correcta": [
+                "大概"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/5.mp3",
+            "respuesta_correcta": [
+                "起床"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/6.mp3",
+            "respuesta_correcta": [
+                "刷牙"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/7.mp3",
+            "respuesta_correcta": [
+                "洗脸"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/8.mp3",
+            "respuesta_correcta": [
+                "运动"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/9.mp3",
+            "respuesta_correcta": [
+                "洗澡"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/10.mp3",
+            "respuesta_correcta": [
+                "开车"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/11.mp3",
+            "respuesta_correcta": [
+                "吃早饭"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/12.mp3",
+            "respuesta_correcta": [
+                "聊天"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/13.mp3",
+            "respuesta_correcta": [
+                "玩手机"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/14.mp3",
+            "respuesta_correcta": [
+                "以前"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/15.mp3",
+            "respuesta_correcta": [
+                "以后"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/16.mp3",
+            "respuesta_correcta": [
+                "就"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/1/day-48/1/17.mp3",
+            "respuesta_correcta": [
+                "或者"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}

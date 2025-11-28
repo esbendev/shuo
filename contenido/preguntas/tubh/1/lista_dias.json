@@ -554,10 +554,14 @@
         "number": 48,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh1_48",
-                "disabled": true
+                "text": "Audio 1",
+                "link": "./quiz/index.html?file=tubh1_48_audio",
+                "id": "tubh1_48_audio"
+            },
+            {
+                "text": "Audio 2",
+                "link": "./quiz/index.html?file=tubh1_48_audio_2",
+                "id": "tubh1_48_audio_2"
             }
         ]
     },

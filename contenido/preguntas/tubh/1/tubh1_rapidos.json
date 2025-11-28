@@ -1083,6 +1083,150 @@
                 "他给了他的女儿十块钱。"
             ],
             "input_chars_aceptados": []
+        },
+        {
+            "id": 84,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/1-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我每天八点半起床。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 85,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/2-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "起床以后，我就刷牙。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 86,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/3-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我喜欢早上洗澡。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 87,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/4-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我每天下午运动。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 88,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/5-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "运动以后，我就洗澡。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 89,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/6-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "吃饭以前要洗手。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 90,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/7-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天我开车去商场买东西。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 91,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/8-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我们来聊天吧。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 92,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/9-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我一天大概喝八杯水。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 93,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/10-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我每天在家或者在公司工作。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 94,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/11-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/11-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "现在的孩子都喜欢玩手机。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 95,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/1/day-48/2/12-fast.mp3",
+                "../contenido/audio/tubh/1/day-48/2/12-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "她想钱一个不玩电脑的男朋友。"
+            ],
+            "input_chars_aceptados": []
         }
     ]
 }
