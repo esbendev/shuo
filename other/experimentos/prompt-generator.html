@@ -140,6 +140,8 @@
                 <option value="6">Level 6</option>
                 <option value="7">Level 7</option>
                 <option value="8">Level 8</option>
+                <option value="9">Level 9</option>
+                <option value="10">Level 10</option>
             </select><br><br>
 
             <label for="length">Set Text Length:</label><br>
@@ -203,6 +205,14 @@
             8: {
                 wordList: "口,爷爷,奶奶,外公,外婆,先生,太太,老公,老婆,儿子,女儿,学生,医生,商人,家庭主妇,翻译,职员,律师,工程师,生意,家,和,外国,外国人,外语,大学,中学,小学,读书",
                 wordCount: 50,
+            },
+            9: {
+                wordList: "多少,想,对不起,请问,包子,饺子,猪肉,牛肉,鱼,虾,贵,给,吧,找,请",
+                wordCount: 50,
+            },
+            10: {
+                wordList: "点,每天,⼤概,起床,刷⽛,洗脸,洗澡,运动,开车,聊天,吃早饭,吃晚饭,玩⼿机,以前,以后,就,或者,还是,然后,呢,玩,零,分,差,一刻,半",
+                wordCount: 50,
             }
         };
 
@@ -231,8 +241,38 @@
             const wordCount = document.getElementById('word-count').textContent;
             const customLength = document.getElementById('length').value;
 
-            const prompt = `Please write a paragraph or two in Chinese using only these words:\n[${wordList.join(', ')}]\nThe text should:\n1. Be ${customLength} sentences long.\n2. Use at least ${wordCount} different words from the list.\n3. Be easy to understand for a beginner.\n4. Include at least one question.\n5. DO NOT USE WORDS NOT IN THE LIST.`;
+            // const prompt = `Please write a paragraph or two in Chinese using only these words:\n[${wordList.join(', ')}]\nThe text should:\n1. Be ${customLength} sentences long.\n2. Use at least ${wordCount} different words from the list.\n3. Be easy to understand for a beginner.\n4. Include at least one question.\n5. DO NOT USE WORDS NOT IN THE LIST.`;
+            // const prompt = `I'm studying chinese and have learned the following words so far:\n[${wordList.join(', ')}]\nThe text should:\n1. Be ${customLength} sentences long.\n2. Use at least ${wordCount} different words from the list.\n3. Be easy to understand for a beginner.\n4. Include at least one question.\n5. DO NOT USE WORDS NOT IN THE LIST.`;
+            const prompt = `Write a short Chinese text with these rules:
 
+The text must be at least ${customLength} sentences long.
+
+Every sentence should use vocabulary ONLY from this list (do not use words that are not on the list):
+[${wordList.join(', ')}]
+
+Use at least ${wordCount} different words from the list in your text.
+
+Include at least one question (using 吗 or another question word from the list).
+
+Use these sentence structures at least once each in the text:
+
+    S. + V. + O.
+
+    S. + 不 + V. + O.
+
+    S. + V. + O. + 吗？
+
+    S. + degree + Adj.
+
+    when + who + prep + where + do what
+
+    和 + sb. + do sth
+
+    请 + sb + do sth.
+
+    给 + sb + sth.
+
+Do not use any words that are not on the provided list.`;
             document.getElementById('prompt-output').textContent = prompt;
         }
     </script>
