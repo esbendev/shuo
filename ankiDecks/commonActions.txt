@@ -1,0 +1,79 @@
+<div class="chineseChars">醒来</div>|<div class="answer">xǐng lái <span class="english">wake up</span></div>
+<div class="chineseChars">关闹钟</div>|<div class="answer">guān nào zhōng <span class="english">turn off the alarm</span></div>
+<div class="chineseChars">小睡</div>|<div class="answer">xiǎo shuì <span class="english">snooze</span></div>
+<div class="chineseChars">起床</div>|<div class="answer">qǐ chuáng <span class="english">get up</span></div>
+<div class="chineseChars">开窗帘</div>|<div class="answer">kāi chuāng lián <span class="english">open the curtains</span></div>
+<div class="chineseChars">上厕所</div>|<div class="answer">shàng cè suǒ <span class="english">go to the bathroom</span></div>
+<div class="chineseChars">称体重</div>|<div class="answer">chēng tǐ zhòng <span class="english">weigh oneself</span></div>
+<div class="chineseChars">刷牙</div>|<div class="answer">shuā yá <span class="english">brush teeth</span></div>
+<div class="chineseChars">洗脸</div>|<div class="answer">xǐ liǎn <span class="english">wash face</span></div>
+<div class="chineseChars">冥想</div>|<div class="answer">míng xiǎng <span class="english">meditate</span></div>
+<div class="chineseChars">烧水</div>|<div class="answer">shāo shuǐ <span class="english">boil water</span></div>
+<div class="chineseChars">听播客</div>|<div class="answer">tīng bō kè <span class="english">listen to a podcast</span></div>
+<div class="chineseChars">做早饭/做早餐</div>|<div class="answer">zuò zǎo fàn / zuò zǎo cān <span class="english">make breakfast</span></div>
+<div class="chineseChars">开微波炉</div>|<div class="answer">kāi wēi bō lú <span class="english">open microwave</span></div>
+<div class="chineseChars">加热</div>|<div class="answer">jiā rè <span class="english">heat up</span></div>
+<div class="chineseChars">看书</div>|<div class="answer">kàn shū <span class="english">read a book</span></div>
+<div class="chineseChars">翻书</div>|<div class="answer">fān shū <span class="english">turn the page</span></div>
+<div class="chineseChars">吃早饭</div>|<div class="answer">chī zǎo fàn <span class="english">eat breakfast</span></div>
+<div class="chineseChars">解冻</div>|<div class="answer">jiě dòng <span class="english">thaw</span></div>
+<div class="chineseChars">点外卖</div>|<div class="answer">diǎn wài mài <span class="english">order takeout</span></div>
+<div class="chineseChars">接电话</div>|<div class="answer">jiē diàn huà <span class="english">answer the phone</span></div>
+<div class="chineseChars">挂电话</div>|<div class="answer">guà diàn huà <span class="english">hang up the phone</span></div>
+<div class="chineseChars">拿外卖</div>|<div class="answer">ná wài mài <span class="english">pick up takeout</span></div>
+<div class="chineseChars">开空调</div>|<div class="answer">kāi kōng tiáo <span class="english">turn on the air conditioner</span></div>
+<div class="chineseChars">开电脑</div>|<div class="answer">kāi diàn nǎo <span class="english">turn on the computer</span></div>
+<div class="chineseChars">充电</div>|<div class="answer">chōng diàn <span class="english">charge (device)</span></div>
+<div class="chineseChars">戴眼镜</div>|<div class="answer">dài yǎn jìng <span class="english">put on glasses</span></div>
+<div class="chineseChars">工作</div>|<div class="answer">gōng zuò <span class="english">work</span></div>
+<div class="chineseChars">教中文</div>|<div class="answer">jiāo zhōng wén <span class="english">teach Chinese</span></div>
+<div class="chineseChars">笑</div>|<div class="answer">xiào <span class="english">laugh</span></div>
+<div class="chineseChars">关电脑</div>|<div class="answer">guān diàn nǎo <span class="english">turn off the computer</span></div>
+<div class="chineseChars">伸懒腰</div>|<div class="answer">shēn lǎn yāo <span class="english">stretch oneself</span></div>
+<div class="chineseChars">摘眼镜</div>|<div class="answer">zhāi yǎn jìng <span class="english">take off glasses</span></div>
+<div class="chineseChars">运动</div>|<div class="answer">yùn dòng <span class="english">work out</span></div>
+<div class="chineseChars">喝水</div>|<div class="answer">hē shuǐ <span class="english">drink water</span></div>
+<div class="chineseChars">洗衣服</div>|<div class="answer">xǐ yī fú <span class="english">do laundry</span></div>
+<div class="chineseChars">切菜</div>|<div class="answer">qiē cài <span class="english">chop vegetables</span></div>
+<div class="chineseChars">做饭</div>|<div class="answer">zuò fàn <span class="english">cook</span></div>
+<div class="chineseChars">洗碗</div>|<div class="answer">xǐ wǎn <span class="english">wash dishes</span></div>
+<div class="chineseChars">打扫</div>|<div class="answer">dǎ sǎo <span class="english">clean</span></div>
+<div class="chineseChars">看电视</div>|<div class="answer">kàn diàn shì <span class="english">watch TV</span></div>
+<div class="chineseChars">哭</div>|<div class="answer">kū <span class="english">cry</span></div>
+<div class="chineseChars">洗澡</div>|<div class="answer">xǐ zǎo <span class="english">take a shower</span></div>
+<div class="chineseChars">唱歌</div>|<div class="answer">chàng gē <span class="english">sing</span></div>
+<div class="chineseChars">擦头发</div>|<div class="answer">cā tóu fā <span class="english">dry hair</span></div>
+<div class="chineseChars">化妆</div>|<div class="answer">huà zhuāng <span class="english">put on makeup</span></div>
+<div class="chineseChars">穿衣服</div>|<div class="answer">chuān yī fú <span class="english">get dressed</span></div>
+<div class="chineseChars">梳头发</div>|<div class="answer">shū tóu fā <span class="english">comb hair</span></div>
+<div class="chineseChars">扔垃圾</div>|<div class="answer">rēng lā jī <span class="english">take out the trash</span></div>
+<div class="chineseChars">戴口罩</div>|<div class="answer">dài kǒu zhào <span class="english">put on a mask</span></div>
+<div class="chineseChars">戴帽子</div>|<div class="answer">dài mào zi <span class="english">put on a hat</span></div>
+<div class="chineseChars">穿鞋子</div>|<div class="answer">chuān xié zi <span class="english">put on shoes</span></div>
+<div class="chineseChars">按电梯</div>|<div class="answer">àn diàn tī <span class="english">press elevator button</span></div>
+<div class="chineseChars">坐电梯</div>|<div class="answer">zuò diàn tī <span class="english">take the elevator</span></div>
+<div class="chineseChars">开门</div>|<div class="answer">kāi mén <span class="english">open the door</span></div>
+<div class="chineseChars">躲雨</div>|<div class="answer">duǒ yǔ <span class="english">take shelter from the rain</span></div>
+<div class="chineseChars">买东西</div>|<div class="answer">mǎi dōng xi <span class="english">go shopping</span></div>
+<div class="chineseChars">付钱</div>|<div class="answer">fù qián <span class="english">pay</span></div>
+<div class="chineseChars">走路</div>|<div class="answer">zǒu lù <span class="english">walk</span></div>
+<div class="chineseChars">跑步</div>|<div class="answer">pǎo bù <span class="english">run</span></div>
+<div class="chineseChars">上楼梯</div>|<div class="answer">shàng lóu tī <span class="english">go upstairs</span></div>
+<div class="chineseChars">过马路</div>|<div class="answer">guò mǎ lù <span class="english">cross the street</span></div>
+<div class="chineseChars">开灯</div>|<div class="answer">kāi dēng <span class="english">turn on the light</span></div>
+<div class="chineseChars">摘帽子</div>|<div class="answer">zhāi mào zi <span class="english">take off hat</span></div>
+<div class="chineseChars">摘口罩</div>|<div class="answer">zhāi kǒu zhào <span class="english">take off mask</span></div>
+<div class="chineseChars">脱鞋</div>|<div class="answer">tuō xié <span class="english">take off shoes</span></div>
+<div class="chineseChars">脱衣服</div>|<div class="answer">tuō yī fú <span class="english">take off clothes</span></div>
+<div class="chineseChars">整理</div>|<div class="answer">zhěng lǐ <span class="english">tidy up</span></div>
+<div class="chineseChars">剪指甲</div>|<div class="answer">jiǎn zhǐ jiǎ <span class="english">clip nails</span></div>
+<div class="chineseChars">弹吉他</div>|<div class="answer">tán jí tā <span class="english">play guitar</span></div>
+<div class="chineseChars">跟家人视频</div>|<div class="answer">gēn jiā rén shì pín <span class="english">video call with family</span></div>
+<div class="chineseChars">玩手机</div>|<div class="answer">wán shǒu jī <span class="english">play on the phone</span></div>
+<div class="chineseChars">打哈欠</div>|<div class="answer">dǎ hā qiàn <span class="english">yawn</span></div>
+<div class="chineseChars">摘耳环</div>|<div class="answer">zhāi ěr huán <span class="english">take off earrings</span></div>
+<div class="chineseChars">卸妆</div>|<div class="answer">xiè zhuāng <span class="english">remove makeup</span></div>
+<div class="chineseChars">开电扇</div>|<div class="answer">kāi diàn shàn <span class="english">turn on the fan</span></div>
+<div class="chineseChars">关灯</div>|<div class="answer">guān dēng <span class="english">turn off the light</span></div>
+<div class="chineseChars">睡觉</div>|<div class="answer">shuì jiào <span class="english">sleep</span></div>
+<div class="chineseChars">睡不着</div>|<div class="answer">shuì bù zháo <span class="english">can't sleep</span></div>
