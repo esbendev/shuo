@@ -1,0 +1,20 @@
+<div class="chineseChars">生日</div>|<div class="answer">shēngrì <span class="english">birthday</span></div>
+<div class="chineseChars">月</div>|<div class="answer">yuè <span class="english">month</span></div>
+<div class="chineseChars">号</div>|<div class="answer">hào <span class="english">date, day of month (casual)</span></div>
+<div class="chineseChars">日</div>|<div class="answer">rì <span class="english">date, day of month (formal)</span></div>
+<div class="chineseChars">星期</div>|<div class="answer">xīngqī <span class="english">week</span></div>
+<div class="chineseChars">打算</div>|<div class="answer">dǎsuàn <span class="english">to plan; plan</span></div>
+<div class="chineseChars">一起</div>|<div class="answer">yìqǐ <span class="english">together</span></div>
+<div class="chineseChars">啊</div>|<div class="answer">a <span class="english">(a sentence-final particle of exclamation, indicates something is obvious)</span></div>
+<div class="chineseChars">还</div>|<div class="answer">hái <span class="english">still, also</span></div>
+<div class="chineseChars">但是</div>|<div class="answer">dàn shì <span class="english">but, however</span></div>
+<div class="chineseChars">完</div>|<div class="answer">wán <span class="english">complete, to finish</span></div>
+<div class="chineseChars">酒吧</div>|<div class="answer">jiǔ bā <span class="english">bar, pub</span></div>
+<div class="chineseChars">喝酒</div>|<div class="answer">hē jiǔ <span class="english">to drink alcohol</span></div>
+<div class="chineseChars">可以</div>|<div class="answer">kěyǐ <span class="english">can</span></div>
+<div class="chineseChars">因为</div>|<div class="answer">yīnwèi <span class="english">because</span></div>
+<div class="chineseChars">为什么</div>|<div class="answer">wèishénme <span class="english">why</span></div>
+<div class="chineseChars">第二天</div>|<div class="answer">dì èr tiān <span class="english">the next day</span></div>
+<div class="chineseChars">哈哈</div>|<div class="answer">hā hā <span class="english">haha</span></div>
+<div class="chineseChars">忘</div>|<div class="answer">wàng <span class="english">forget</span></div>
+<div class="chineseChars">国庆节</div>|<div class="answer">guó qìng jié <span class="english">National Day</span></div>
