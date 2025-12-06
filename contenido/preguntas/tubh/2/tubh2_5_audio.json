@@ -1,0 +1,204 @@
+{
+    "titulo": "Day 5 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/1.mp3",
+            "respuesta_correcta": [
+                "第十一课"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/2.mp3",
+            "respuesta_correcta": [
+                "你的生日是几月几号？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/3.mp3",
+            "respuesta_correcta": [
+                "生词"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/4.mp3",
+            "respuesta_correcta": [
+                "月"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/5.mp3",
+            "respuesta_correcta": [
+                "号"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/6.mp3",
+            "respuesta_correcta": [
+                "日"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/7.mp3",
+            "respuesta_correcta": [
+                "星期"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/8.mp3",
+            "respuesta_correcta": [
+                "打算"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/9.mp3",
+            "respuesta_correcta": [
+                "一起"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/10.mp3",
+            "respuesta_correcta": [
+                "啊"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/11.mp3",
+            "respuesta_correcta": [
+                "还"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/12.mp3",
+            "respuesta_correcta": [
+                "但是"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/13.mp3",
+            "respuesta_correcta": [
+                "完"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/14.mp3",
+            "respuesta_correcta": [
+                "酒吧"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/15.mp3",
+            "respuesta_correcta": [
+                "喝酒"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/16.mp3",
+            "respuesta_correcta": [
+                "可以"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/17.mp3",
+            "respuesta_correcta": [
+                "应为"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 18,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/18.mp3",
+            "respuesta_correcta": [
+                "为什么？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 19,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/19.mp3",
+            "respuesta_correcta": [
+                "第二天"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 20,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/20.mp3",
+            "respuesta_correcta": [
+                "哈哈"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 21,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/21.mp3",
+            "respuesta_correcta": [
+                "忘"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 22,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": "../contenido/audio/tubh/2/day-5/1/22.mp3",
+            "respuesta_correcta": [
+                "国庆节"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}

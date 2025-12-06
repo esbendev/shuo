@@ -1,0 +1,126 @@
+{
+    "titulo": "Day 5 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/6-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/7-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/8-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/9-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/9-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-5/3/10-fast.mp3",
+                "../contenido/audio/tubh/2/day-5/3/10-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                ""
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}

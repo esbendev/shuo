@@ -47,10 +47,19 @@
         "number": 5,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_5",
-                "disabled": true
+                "text": "Audio 1",
+                "link": "./quiz/index.html?file=tubh2_5_audio",
+                "id": "tubh2_5_audio"
+            },
+            {
+                "text": "Audio 2",
+                "link": "./quiz/index.html?file=tubh2_5_audio_2",
+                "id": "tubh2_5_audio_2"
+            },
+            {
+                "text": "Audio 3",
+                "link": "./quiz/index.html?file=tubh2_5_audio_3",
+                "id": "tubh2_5_audio_3"
             }
         ]
     },
