@@ -10,7 +10,7 @@
                 "../contenido/audio/tubh/2/day-5/2/1-slow.mp3"
             ],
             "respuesta_correcta": [
-                ""
+                "你的生日是几月几号？"
             ],
             "input_chars_aceptados": []
         },
@@ -22,7 +22,7 @@
                 "../contenido/audio/tubh/2/day-5/2/2-slow.mp3"
             ],
             "respuesta_correcta": [
-                ""
+                "星期六你有什么打算？"
             ],
             "input_chars_aceptados": []
         },
@@ -34,7 +34,7 @@
                 "../contenido/audio/tubh/2/day-5/2/3-slow.mp3"
             ],
             "respuesta_correcta": [
-                ""
+                "今天晚上你有什么打算吗？"
             ],
             "input_chars_aceptados": []
         },
@@ -46,7 +46,7 @@
                 "../contenido/audio/tubh/2/day-5/2/4-slow.mp3"
             ],
             "respuesta_correcta": [
-                ""
+                "我喜欢和你们一起聊天。"
             ],
             "input_chars_aceptados": []
         },
@@ -58,7 +58,7 @@
                 "../contenido/audio/tubh/2/day-5/2/5-slow.mp3"
             ],
             "respuesta_correcta": [
-                ""
+                "我们为什么不一起去？"
             ],
             "input_chars_aceptados": []
         },
@@ -70,7 +70,7 @@
                 "../contenido/audio/tubh/2/day-5/2/6-slow.mp3"
             ],
             "respuesta_correcta": [
-                ""
+                "你没有钱，就找一个工作啊。"
             ],
             "input_chars_aceptados": []
         },
@@ -82,7 +82,7 @@
                 "../contenido/audio/tubh/2/day-5/2/7-slow.mp3"
             ],
             "respuesta_correcta": [
-                ""
+                "我还不知道，你叫什么名字？"
             ],
             "input_chars_aceptados": []
         },
@@ -94,7 +94,7 @@
                 "../contenido/audio/tubh/2/day-5/2/8-slow.mp3"
             ],
             "respuesta_correcta": [
-                ""
+                "十一点了还不去睡觉啊？"
             ],
             "input_chars_aceptados": []
         }

@@ -38,8 +38,7 @@
             {
                 "text": "Text",
                 "link": "./other/textos/tubh/2/day-4.html",
-                "id": "tubh2_4",
-                "disabled": false
+                "id": "tubh2_4"
             }
         ]
     },
@@ -67,7 +66,7 @@
         "number": 6,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_6",
                 "disabled": true
