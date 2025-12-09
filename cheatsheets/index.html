@@ -7,47 +7,35 @@
     <title>Cheatsheets</title>
     <style>
         html,
-        body,
-        *::after,
-        *::before {
+        body {
             box-sizing: border-box;
             padding: 0;
             margin: 0;
-        }
-
-        body {
             font-family: Arial, sans-serif;
         }
 
         h1,
-        h2 {
+        h2,
+        h3 {
+            margin: 0;
             color: #333;
-            padding: 1.2rem;
+            /* padding: 1rem 0; */
         }
 
-        div.tablas-container {
-            display: flex;
-            flex-wrap: wrap;
-            align-items: flex-start;
-            justify-content: flex-start;
-            gap: 1rem;
-            padding: 1rem;
-        }
-
-        div.tablas-container>* {
-            margin: 0.5rem;
-            /* Fallback for gap in older browsers */
+        h3 {
+            margin-top: 2rem;
+            margin-bottom: 0;
         }
 
         table {
             border-collapse: collapse;
-            margin: 1rem;
+            margin: 1rem 0;
             border-radius: 1rem;
+            /* width: 100%; */
         }
 
         th,
         td {
-            /* border: 1px solid #ccc; */
             padding: 1rem;
             text-align: left;
         }
@@ -72,280 +60,363 @@
             background-color: #ffd5e2;
         }
 
-        div.frases-importantes>h2,
-        div.estructuras-oraciones>h2,
-        div.measure-words>h2,
-        div.conectores-oraciones>h2 {
-            text-decoration: underline;
-            text-decoration-thickness: 4px;
+        .titulo-fi,
+        .titulo-ss,
+        .titulo-mw,
+        .titulo-sc {
+            display: block;
+            border-bottom: 2px solid;
+            width: fit-content;
         }
 
-        div.frases-importantes>h2 {
-            text-decoration-color: #e2d5ff;
+        .titulo-fi {
+            border-color: #e2d5ff;
         }
 
-        div.estructuras-oraciones>h2 {
-            text-decoration-color: #d5ffe2;
+        .titulo-ss {
+            border-color: #d5ffe2;
         }
 
-        div.measure-words>h2 {
-            text-decoration-color: #ffe2d5;
+        .titulo-mw {
+            border-color: #ffe2d5;
         }
 
-        div.conectores-oraciones>h2 {
-            text-decoration-color: #ffd5e2;
+        .titulo-sc {
+            border-color: #ffd5e2;
         }
     </style>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-475SSTM0WC"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        // Configure Google Analytics with additional parameters
-        gtag('config', 'G-475SSTM0WC', {
-            'anonymize_ip': true, // Anonymize IP addresses for privacy
-            'page_title': document.title, // Track the page title dynamically
-            'page_path': window.location.pathname // Track the current page path
-        });
-    </script>
 </head>
 
 <body>
     <h1>Cheatsheets</h1>
-    <div class="tablas-container">
-        <div class="tabla frases-importantes">
-            <h2>Important Phrases</h2>
-            <table id="frases-importantes">
-                <thead>
-                    <tr>
-                        <th>Phrase</th>
-                        <th>Meaning</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>我不知道。</td>
-                        <td>I don’t know.</td>
-                    </tr>
-                    <tr>
-                        <td>我有一个问题。</td>
-                        <td>I have a question.</td>
-                    </tr>
-                    <tr>
-                        <td>这是什么？</td>
-                        <td>What is this?</td>
-                    </tr>
-                    <tr>
-                        <td>这是什么意思？</td>
-                        <td>What does this mean?</td>
-                    </tr>
-                    <tr>
-                        <td>怎么说...</td>
-                        <td>How do you say…</td>
-                    </tr>
-                    <tr>
-                        <td>你在做什么？</td>
-                        <td>What are you doing?</td>
-                    </tr>
-                    <tr>
-                        <td>你可以在说一次吗？</td>
-                        <td>Could you say that again?</td>
-                    </tr>
-                    <tr>
-                        <td>这个多少钱？</td>
-                        <td>How much is this?</td>
-                    </tr>
-                    <tr>
-                        <td>你饿了吗？</td>
-                        <td>Are you hungry?</td>
-                    </tr>
-                    <tr>
-                        <td>好吧</td>
-                        <td>Okay (with a reluctant tone)</td>
-                    </tr>
-                    <tr>
-                        <td>好啊/好的</td>
-                        <td>Okay (with a positive tone)</td>
-                    </tr>
-                    <tr>
-                        <td>现在几点？</td>
-                        <td>What time is it now?</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
-        <div class="tabla estructuras-oraciones">
-            <h2>Sentence Structures</h2>
-            <table id="estructuras-oraciones">
-                <thead>
-                    <tr>
-                        <th>Structure</th>
-                        <th>Example</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>S. + V. + O.</td>
-                        <td>我喜欢你</td>
-                    </tr>
-                    <tr>
-                        <td>S. + 不 + V. + O.</td>
-                        <td>我不喜欢你</td>
-                    </tr>
-                    <tr>
-                        <td>S. + V. + O. + 吗？</td>
-                        <td>你喜欢她吗？</td>
-                    </tr>
-                    <tr>
-                        <td>S. + degree + Adj.</td>
-                        <td>我很高兴。</td>
-                    </tr>
-                    <tr>
-                        <td>when + who + prep + where + do what</td>
-                        <td>明天我去商店买东西。</td>
-                    </tr>
-                    <tr>
-                        <td>和 + sb. + do sth</td>
-                        <td>她和中国人做生意。</td>
-                    </tr>
-                    <tr>
-                        <td>请 + sb + do sth.</td>
-                        <td>请你喝咖啡。</td>
-                    </tr>
-                    <tr>
-                        <td>给 + sb + sth.</td>
-                        <td>给孩子钱。</td>
-                    </tr>
-                    <tr>
-                        <td>action + 以前 (before the action)</td>
-                        <td>睡觉以前...</td>
-                    </tr>
-                    <tr>
-                        <td>action + 以后 (after the action)</td>
-                        <td>吃饭以后...</td>
-                    </tr>
-                    <tr>
-                        <td>action1 + 以后我就 + action2</td>
-                        <td>就 emphasizes that action2<br>happens directly after action1<br>我吃饭以后我就去睡觉。</td>
-                    </tr>
-                    <tr>
-                        <td>repeat verb gives casual vibe</td>
-                        <td>我看看书。</td>
-                    </tr>
-                    <tr>
-                        <td>打算 + verb</td>
-                        <td>我打算学习中文。</td>
-                    </tr>
-                    <tr>
-                        <td>和 + sb. + 一起</td>
-                        <td>我和朋友一起去公园。</td>
-                    </tr>
-                    <tr>
-                        <td>word + 啊</td>
-                        <td>used to soften tone<br>or show surprise<br>好啊！</td>
-                    </tr>
-                    <tr>
-                        <td>还...</td>
-                        <td>still...<br>现在还不知道，你明天来问吧。</td>
-                    </tr>
-                    <tr>
-                        <td>完 + V. （+O.）</td>
-                        <td>to finish doing something<br>我吃完饭了。</td>
-                    </tr>
-                    <tr>
-                        <td>没有 + V. + 完</td>
-                        <td>to indicate not finished doing something<br>我没有吃完饭。</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
 
-        <div class="tabla measure-words">
-            <h2>Measure Words</h2>
-            <table id="measure-words">
-                <thead>
-                    <tr>
-                        <th>Word</th>
-                        <th>Usage</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>个</td>
-                        <td>general measure word</td>
-                    </tr>
-                    <tr>
-                        <td>本</td>
-                        <td>books</td>
-                    </tr>
-                    <tr>
-                        <td>张</td>
-                        <td>flat objects (paper, tables, etc.)</td>
-                    </tr>
-                    <tr>
-                        <td>只</td>
-                        <td>small animals, one of a pair</td>
-                    </tr>
-                    <tr>
-                        <td>支</td>
-                        <td>long, thin objects (pens, sticks, etc.)</td>
-                    </tr>
-                    <tr>
-                        <td>家</td>
-                        <td>organization, company, shop, etc.</td>
-                    </tr>
-                    <tr>
-                        <td>口</td>
-                        <td>number of family members</td>
-                    </tr>
-                    <tr>
-                        <td>辆</td>
-                        <td>vehicles</td>
-                    </tr>
-                    <tr>
-                        <td>台</td>
-                        <td>machines (TVs, computers, etc.)</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+    <h2 class="titulo-fi">Important Phrases</h2>
 
-        <div class="tabla conectores-oraciones">
-            <h2>Sentence Connectors</h2>
-            <table id="conectores-oraciones">
-                <thead>
-                    <tr>
-                        <th>Connector</th>
-                        <th>Meaning</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>但是</td>
-                        <td>but</td>
-                    </tr>
-                    <tr>
-                        <td>还有</td>
-                        <td>also, and</td>
-                    </tr>
-                    <tr>
-                        <td>和</td>
-                        <td>and</td>
-                    </tr>
-                    <tr>
-                        <td>因为</td>
-                        <td>because</td>
-                    </tr>
-                    <tr>
-                        <td>然后</td>
-                        <td>and then (but in spoken language)</td>
-                    </tr>
+    <h3 class="titulo-fi">Questions</h3>
+    <table id="frases-importantes">
+        <thead>
+            <tr>
+                <th>Phrase</th>
+                <th>Meaning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>我有一个问题。</td>
+                <td>I have a question.</td>
+            </tr>
+            <tr>
+                <td>这是什么？</td>
+                <td>What is this?</td>
+            </tr>
+            <tr>
+                <td>这是什么意思？</td>
+                <td>What does this mean?</td>
+            </tr>
+            <tr>
+                <td>怎么说...</td>
+                <td>How do you say…</td>
+            </tr>
+            <tr>
+                <td>你在做什么？</td>
+                <td>What are you doing?</td>
+            </tr>
+            <tr>
+                <td>现在几点？</td>
+                <td>What time is it now?</td>
+            </tr>
+        </tbody>
+    </table>
 
-                </tbody>
-            </table>
-        </div>
-    </div>
+    <h3 class="titulo-fi">Requests</h3>
+    <table id="frases-importantes">
+        <thead>
+            <tr>
+                <th>Phrase</th>
+                <th>Meaning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>你可以再说一次吗？</td>
+                <td>Could you say that again?</td>
+            </tr>
+            <tr>
+                <td>这个多少钱？</td>
+                <td>How much is this?</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-fi">Expressions</h3>
+    <table id="frases-importantes">
+        <thead>
+            <tr>
+                <th>Phrase</th>
+                <th>Meaning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>好吧</td>
+                <td>Okay (reluctant tone)</td>
+            </tr>
+            <tr>
+                <td>好啊/好的</td>
+                <td>Okay (positive tone)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2 class="titulo-ss">Sentence Structures</h2>
+
+    <h3 class="titulo-ss">Basic Sentence Structures</h3>
+    <table id="estructuras-oraciones">
+        <thead>
+            <tr>
+                <th>Structure</th>
+                <th>Example</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>S. + V. + O.</td>
+                <td>我喜欢你</td>
+            </tr>
+            <tr>
+                <td>S. + 不 + V. + O.</td>
+                <td>我不喜欢你</td>
+            </tr>
+            <tr>
+                <td>S. + V. + O. + 吗？</td>
+                <td>你喜欢她吗？</td>
+            </tr>
+            <tr>
+                <td>S. + degree + Adj.</td>
+                <td>我很高兴。</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-ss">Time and Sequence</h3>
+    <table id="estructuras-oraciones">
+        <thead>
+            <tr>
+                <th>Structure</th>
+                <th>Example</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>when + who + prep + where + do what</td>
+                <td>明天我去商店买东西。</td>
+            </tr>
+            <tr>
+                <td>action + 以前 (before the action)</td>
+                <td>睡觉以前...</td>
+            </tr>
+            <tr>
+                <td>action + 以后 (after the action)</td>
+                <td>吃饭以后...</td>
+            </tr>
+            <tr>
+                <td>action1 + 以后我就 + action2</td>
+                <td>我吃饭以后我就去睡觉。</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-ss">Casual or Emphasized Actions</h3>
+    <table id="estructuras-oraciones">
+        <thead>
+            <tr>
+                <th>Structure</th>
+                <th>Example</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>repeat verb gives casual vibe</td>
+                <td>我看看书。</td>
+            </tr>
+            <tr>
+                <td>完 + V. （+O.）</td>
+                <td>我吃完饭了。</td>
+            </tr>
+            <tr>
+                <td>没有 + V. + 完</td>
+                <td>我没有吃完饭。</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-ss">Collaboration and Requests</h3>
+    <table id="estructuras-oraciones">
+        <thead>
+            <tr>
+                <th>Structure</th>
+                <th>Example</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>和 + sb. + do sth</td>
+                <td>她和中国人做生意。</td>
+            </tr>
+            <tr>
+                <td>请 + sb + do sth.</td>
+                <td>请你喝咖啡。</td>
+            </tr>
+            <tr>
+                <td>和 + sb. + 一起</td>
+                <td>我和朋友一起去公园。</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2 class="titulo-mw">Measure Words</h2>
+
+    <h3 class="titulo-mw">General and Common Measure Words</h3>
+    <table id="measure-words">
+        <thead>
+            <tr>
+                <th>Word</th>
+                <th>Usage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>个</td>
+                <td>general measure word</td>
+            </tr>
+            <tr>
+                <td>本</td>
+                <td>books</td>
+            </tr>
+            <tr>
+                <td>张</td>
+                <td>flat objects</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-mw">Specific Measure Words</h3>
+    <table id="measure-words">
+        <thead>
+            <tr>
+                <th>Word</th>
+                <th>Usage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>只</td>
+                <td>small animals, one of a pair</td>
+            </tr>
+            <tr>
+                <td>支</td>
+                <td>long, thin objects</td>
+            </tr>
+            <tr>
+                <td>台</td>
+                <td>machines</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-mw">People and Family</h3>
+    <table id="measure-words">
+        <thead>
+            <tr>
+                <th>Word</th>
+                <th>Usage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>口</td>
+                <td>number of family members</td>
+            </tr>
+            <tr>
+                <td>家</td>
+                <td>organization, company, shop</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-mw">Vehicles</h3>
+    <table id="measure-words">
+        <thead>
+            <tr>
+                <th>Word</th>
+                <th>Usage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>辆</td>
+                <td>vehicles</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2 class="titulo-sc">Sentence Connectors</h2>
+
+    <h3 class="titulo-sc">Contrast</h3>
+    <table id="conectores-oraciones">
+        <thead>
+            <tr>
+                <th>Connector</th>
+                <th>Meaning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>但是</td>
+                <td>but</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-sc">Addition</h3>
+    <table id="conectores-oraciones">
+        <thead>
+            <tr>
+                <th>Connector</th>
+                <th>Meaning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>还有</td>
+                <td>also, and</td>
+            </tr>
+            <tr>
+                <td>和</td>
+                <td>and</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3 class="titulo-sc">Cause and Effect</h3>
+    <table id="conectores-oraciones">
+        <thead>
+            <tr>
+                <th>Connector</th>
+                <th>Meaning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>因为</td>
+                <td>because</td>
+            </tr>
+            <tr>
+                <td>然后</td>
+                <td>and then</td>
+            </tr>
+        </tbody>
+    </table>
 </body>
 
 </html>
