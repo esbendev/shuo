@@ -77,10 +77,9 @@
         "number": 7,
         "content": [
             {
-                "text": "Empty day...",
-                "link": "#",
-                "id": "tubh2_7",
-                "disabled": true
+                "text": "Dates",
+                "link": "./other/experimentos/dates.html",
+                "id": "tubh2_7"
             }
         ]
     },
@@ -88,7 +87,7 @@
         "number": 8,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty...",
                 "link": "#",
                 "id": "tubh2_8",
                 "disabled": true

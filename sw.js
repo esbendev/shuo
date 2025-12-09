@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v251208-2";
+const CACHE_NAME = "esbendev-shuo-v251209-3";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -68,7 +68,8 @@ const urlsToCache = [
     "/shuo/other/textos/tubh/2/day-4.html",
     "/shuo/other/sentence-builder.html",
     "/shuo/cheatsheets/index.html",
-    "/shuo/other/experimentos/time.html"
+    "/shuo/other/experimentos/time.html",
+    "/shuo/other/experimentos/dates.html"
 ];
 
 self.addEventListener("install", (event) => {

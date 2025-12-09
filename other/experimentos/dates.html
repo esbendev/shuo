@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>什么时候</title>
+    <style>
+        table {
+            font-size: 1.3rem;
+            border-collapse: collapse;
+            width: 50%;
+            margin: 20px auto;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h2>To talk about dates...</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>年</th>
+                <th>月</th>
+                <th>日/号</th>
+                <th>星期</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>去年 (<span id="lastYear"></span>)</td>
+                <td>上个月 (<span id="lastMonth"></span>)</td>
+                <td>昨天 (<span id="yesterday"></span>)</td>
+                <td>上个星期 (星期<span id="lastWeekDay"></span>)</td>
+            </tr>
+            <tr>
+                <td>今年 (<span id="currentYear"></span>)</td>
+                <td>这个月 (<span id="currentMonth"></span>)</td>
+                <td>今天 (<span id="currentDate"></span>)</td>
+                <td>这个星期 (星期<span id="currentDay"></span>)</td>
+            </tr>
+            <tr>
+                <td>明年 (<span id="nextYear"></span>)</td>
+                <td>下个月 (<span id="nextMonth"></span>)</td>
+                <td>明天 (<span id="tomorrow"></span>)</td>
+                <td>下个星期 (星期<span id="nextWeekDay"></span>)</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Other</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>年</th>
+                <th>月</th>
+                <th>日/号</th>
+                <th>星期</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>哪年</td>
+                <td>几月</td>
+                <td>几号</td>
+                <td>星期几</td>
+            </tr>
+            <tr>
+                <td>每年</td>
+                <td>每个月</td>
+                <td>每天</td>
+                <td>每个星期</td>
+            </tr>
+            </tbody>    
+    </table>
+    <script>
+        const now = new Date();
+        const year = now.getFullYear();
+        const month = now.getMonth() + 1;
+        const date = now.getDate();
+        const day = ['日', '一', '二', '三', '四', '五', '六'][now.getDay()];
+        const lastMonth = now.getMonth() === 0 ? 12 : now.getMonth();
+        const nextMonth = now.getMonth() === 11 ? 1 : now.getMonth() + 2;
+        const yesterday = new Date(now);
+        yesterday.setDate(now.getDate() - 1);
+        const tomorrow = new Date(now);
+        tomorrow.setDate(now.getDate() + 1);
+        const lastWeekDay = ['日', '一', '二', '三', '四', '五', '六'][(now.getDay() + 6) % 7];
+        const nextWeekDay = ['日', '一', '二', '三', '四', '五', '六'][(now.getDay() + 1) % 7];
+        document.getElementById('currentYear').textContent = year;
+        document.getElementById('currentMonth').textContent = month;
+        document.getElementById('currentDate').textContent = date;
+        document.getElementById('currentDay').textContent = day;
+        document.getElementById('lastYear').textContent = year - 1;
+        document.getElementById('lastMonth').textContent = lastMonth;
+        document.getElementById('yesterday').textContent = yesterday.getDate();
+        document.getElementById('lastWeekDay').textContent = lastWeekDay;
+        document.getElementById('nextYear').textContent = year + 1;
+        document.getElementById('nextMonth').textContent = nextMonth;
+        document.getElementById('tomorrow').textContent = tomorrow.getDate();
+        document.getElementById('nextWeekDay').textContent = nextWeekDay;
+    </script>
+</body>
+</html>
