@@ -141,7 +141,7 @@ function proximaPregunta() {
     if (pregunta.id < cantidadPreguntas) {
         currentId = pregunta.id + 1;
         deshabilitarBotones(false);
-        fetch(`../contenido/preguntas/tubh/1/${filename}.json`)
+        fetch(filePath)
             .then(response => response.json())
             .then(data => {
                 pregunta = data.preguntas.find(p => p.id === currentId);
