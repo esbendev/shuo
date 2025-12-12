@@ -98,7 +98,7 @@
         "number": 9,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty...",
                 "link": "#",
                 "id": "tubh2_9",
                 "disabled": true
@@ -109,10 +109,9 @@
         "number": 10,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_10",
-                "disabled": true
+                "text": "Text",
+                "link": "./other/textos/tubh/2/day-10.html",
+                "id": "tubh2_10"
             }
         ]
     },
@@ -120,7 +119,7 @@
         "number": 11,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty...",
                 "link": "#",
                 "id": "tubh2_11",
                 "disabled": true
