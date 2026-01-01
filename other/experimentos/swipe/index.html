@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>swipe experiment</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.3s ease-in-out;
+            position: relative;
+        }
+
+        .card {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 2rem;
+            flex-direction: column;
+            background-color: #f0f0f0;
+            border: 1px solid #ccc;
+            position: absolute;
+            width: 100%;
+            top: calc(var(--card-index, 0) * 100%);
+        }
+
+        .card-text {
+            text-align: center;
+        }
+
+        .button-container {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .audio-button {
+            padding: 10px 20px;
+            font-size: 1rem;
+            cursor: pointer;
+        }
+
+        .toggle-text-button {
+            margin-top: 10px;
+            padding: 5px 10px;
+            font-size: 0.9rem;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container" id="cardContainer">
+        <div class="card" style="--card-index: 0;">swipe to start</div>
+    </div>
+    <script src="logica-tarjetitas.js"></script>
+</body>
+
+</html>
