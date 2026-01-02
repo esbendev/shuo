@@ -72,12 +72,7 @@ function updateCardPosition() {
     container.style.transform = `translateY(-${currentIndex * 100}vh)`;
 }
 
-function handleSwipe(event) {
-
-    const direction = event.deltaY > 0 ? 1 : -1;
-
-    currentIndex += direction;
-
+function loadNewCard(currentIndex) {
     if (currentAudio) {
         currentAudio.pause();
         currentAudio.currentTime = 0;
@@ -100,18 +95,48 @@ function handleSwipe(event) {
     }
 }
 
+function handleSwipe(event) {
+
+    const direction = event.deltaY > 0 ? 1 : -1;
+
+    currentIndex += direction;
+    loadNewCard(currentIndex);
+
+}
+
+function preventScroll(event) {
+    event.preventDefault();
+}
+
 function handleTouchStart(event) {
     startY = event.touches[0].clientY;
+    this.touchStartTime = Date.now(); // Record the time when the touch starts
 }
 
 function handleTouchMove(event) {
+    event.preventDefault();
     endY = event.touches[0].clientY;
 }
 
-function handleTouchEnd() {
+function handleTouchEnd(event) {
+    endY = event.changedTouches[0].clientY; // Use `changedTouches` for the end position
+    const swipeThreshold = 30; // Minimum movement in pixels to qualify as a swipe
+    const movement = Math.abs(startY - endY);
+    const touchDuration = Date.now() - this.touchStartTime; // Calculate touch duration
+
+    // console.log('Swipe movement:', movement, 'Touch duration:', touchDuration);
+
+    // Ignore taps (short duration and small movement)
+    if (movement <= swipeThreshold || touchDuration < 100) {
+        // console.log('Ignored as a tap');
+        return;
+    }
+
+    // Process swipe
     const direction = startY - endY > 0 ? 1 : -1;
     currentIndex += direction;
-    updateCardPosition();
+    // console.log('Swipe direction:', direction);
+    loadNewCard(currentIndex);
 }
 
 function handleKeyDown(event) {
@@ -120,11 +145,13 @@ function handleKeyDown(event) {
     } else if (event.key === 'ArrowDown') {
         currentIndex += 1;
     }
-    updateCardPosition();
+    loadNewCard(currentIndex);
 }
 
+// Allow default scrolling behavior, but handle swipe gestures
+container.addEventListener('touchstart', handleTouchStart, { passive: false });
+container.addEventListener('touchmove', handleTouchMove, { passive: false });
+container.addEventListener('touchend', handleTouchEnd, { passive: false });
+
 window.addEventListener('wheel', handleSwipe, { passive: true });
-container.addEventListener('touchstart', handleTouchStart, { passive: true });
-container.addEventListener('touchmove', handleTouchMove, { passive: true });
-container.addEventListener('touchend', handleTouchEnd, { passive: true });
 window.addEventListener('keydown', handleKeyDown);
