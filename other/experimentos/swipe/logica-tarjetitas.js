@@ -127,7 +127,7 @@ function handleTouchEnd(event) {
     // console.log('Swipe movement:', movement, 'Touch duration:', touchDuration);
 
     // Ignore taps (short duration and small movement)
-    if (movement <= swipeThreshold || touchDuration < 100) {
+    if (movement <= swipeThreshold || touchDuration < 50) {
         // console.log('Ignored as a tap');
         return;
     }
