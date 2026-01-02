@@ -123,11 +123,11 @@ function handleTouchEnd(event) {
     const swipeThreshold = 30; // Minimum movement in pixels to qualify as a swipe
     const movement = Math.abs(startY - endY);
     const touchDuration = Date.now() - this.touchStartTime; // Calculate touch duration
-
+    // console.log('Touch start time:', this.touchStartTime);
     // console.log('Swipe movement:', movement, 'Touch duration:', touchDuration);
 
     // Ignore taps (short duration and small movement)
-    if (movement <= swipeThreshold || touchDuration < 50) {
+    if (movement <= swipeThreshold || touchDuration < 10) {
         // console.log('Ignored as a tap');
         return;
     }
