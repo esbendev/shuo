@@ -1,0 +1,170 @@
+<div class="chineseChars">⺊</div>|<div class="answer">bǔ <span class="english">divination</span></div>
+<div class="chineseChars">口</div>|<div class="answer">kǒu <span class="english">mouth</span></div>
+<div class="chineseChars">灬</div>|<div class="answer">huǒ <span class="english">fire (bottom)</span></div>
+<div class="chineseChars">丿</div>|<div class="answer">piě <span class="english">slash</span></div>
+<div class="chineseChars">一</div>|<div class="answer">yī <span class="english">one, horizontal stroke</span></div>
+<div class="chineseChars">母</div>|<div class="answer">mǔ <span class="english">mother</span></div>
+<div class="chineseChars">大</div>|<div class="answer">dà <span class="english">big</span></div>
+<div class="chineseChars">木</div>|<div class="answer">mù <span class="english">wood</span></div>
+<div class="chineseChars">丨</div>|<div class="answer">gǔn <span class="english">vertical stroke</span></div>
+<div class="chineseChars">彐</div>|<div class="answer">jì <span class="english">snout</span></div>
+<div class="chineseChars">乚</div>|<div class="answer">yǐ <span class="english">second (hidden)</span></div>
+<div class="chineseChars">丶</div>|<div class="answer">zhǔ <span class="english">dot</span></div>
+<div class="chineseChars">旡</div>|<div class="answer">jì <span class="english">lack, not</span></div>
+<div class="chineseChars">走</div>|<div class="answer">zǒu <span class="english">walk</span></div>
+<div class="chineseChars">己</div>|<div class="answer">jǐ <span class="english">self</span></div>
+<div class="chineseChars">广</div>|<div class="answer">guǎng <span class="english">house on cliff</span></div>
+<div class="chineseChars">尸</div>|<div class="answer">shī <span class="english">corpse</span></div>
+<div class="chineseChars">巾</div>|<div class="answer">jīn <span class="english">towel, cloth</span></div>
+<div class="chineseChars">刂</div>|<div class="answer">dāo <span class="english">knife (side)</span></div>
+<div class="chineseChars">氵</div>|<div class="answer">shuǐ <span class="english">water (side)</span></div>
+<div class="chineseChars">⺧</div>|<div class="answer">niú <span class="english">cow (top)</span></div>
+<div class="chineseChars">儿</div>|<div class="answer">ér <span class="english">son, legs</span></div>
+<div class="chineseChars">月</div>|<div class="answer">yuè <span class="english">moon, flesh</span></div>
+<div class="chineseChars">人</div>|<div class="answer">rén <span class="english">person</span></div>
+<div class="chineseChars">⺍</div>|<div class="answer">zhuǎ <span class="english">small, tiny</span></div>
+<div class="chineseChars">品</div>|<div class="answer">pǐn <span class="english">products, goods</span></div>
+<div class="chineseChars">辶</div>|<div class="answer">chuò <span class="english">walk, movement (side)</span></div>
+<div class="chineseChars">二</div>|<div class="answer">èr <span class="english">two</span></div>
+<div class="chineseChars">厶</div>|<div class="answer">sī <span class="english">private</span></div>
+<div class="chineseChars">力</div>|<div class="answer">lì <span class="english">strength</span></div>
+<div class="chineseChars">廾</div>|<div class="answer">gǒng <span class="english">two hands</span></div>
+<div class="chineseChars">车</div>|<div class="answer">chē <span class="english">cart, vehicle</span></div>
+<div class="chineseChars">耳</div>|<div class="answer">ěr <span class="english">ear</span></div>
+<div class="chineseChars">卯</div>|<div class="answer">mǎo <span class="english">4th earthly branch</span></div>
+<div class="chineseChars">㇠</div>|<div class="answer">gōu <span class="english">hook stroke</span></div>
+<div class="chineseChars">日</div>|<div class="answer">rì <span class="english">sun, day</span></div>
+<div class="chineseChars">十</div>|<div class="answer">shí <span class="english">ten, cross</span></div>
+<div class="chineseChars">饣</div>|<div class="answer">shí <span class="english">food (side)</span></div>
+<div class="chineseChars">⺁</div>|<div class="answer">hàn <span class="english">cliff, over</span></div>
+<div class="chineseChars">又</div>|<div class="answer">yòu <span class="english">again, right hand</span></div>
+<div class="chineseChars">⺈</div>|<div class="answer">dāo <span class="english">knife (top)</span></div>
+<div class="chineseChars">王</div>|<div class="answer">wáng <span class="english">king, jade</span></div>
+<div class="chineseChars">几</div>|<div class="answer">jī <span class="english">small table</span></div>
+<div class="chineseChars">丷</div>|<div class="answer">bā <span class="english">eight (top)</span></div>
+<div class="chineseChars">亠</div>|<div class="answer">tóu <span class="english">lid, top</span></div>
+<div class="chineseChars">小</div>|<div class="answer">xiǎo <span class="english">small</span></div>
+<div class="chineseChars">尢</div>|<div class="answer">yóu <span class="english">lame</span></div>
+<div class="chineseChars">戈</div>|<div class="answer">gē <span class="english">halberd</span></div>
+<div class="chineseChars">耂</div>|<div class="answer">lǎo <span class="english">old (top)</span></div>
+<div class="chineseChars">卜</div>|<div class="answer">bǔ <span class="english">divine</span></div>
+<div class="chineseChars">龰</div>|<div class="answer">zú <span class="english">foot (bottom)</span></div>
+<div class="chineseChars">犬</div>|<div class="answer">quǎn <span class="english">dog</span></div>
+<div class="chineseChars">匕</div>|<div class="answer">bǐ <span class="english">spoon</span></div>
+<div class="chineseChars">雨</div>|<div class="answer">yǔ <span class="english">rain</span></div>
+<div class="chineseChars">龴</div>|<div class="answer">xíng <span class="english">go (component)</span></div>
+<div class="chineseChars">八</div>|<div class="answer">bā <span class="english">eight</span></div>
+<div class="chineseChars">刀</div>|<div class="answer">dāo <span class="english">knife</span></div>
+<div class="chineseChars">羊</div>|<div class="answer">yáng <span class="english">sheep</span></div>
+<div class="chineseChars">工</div>|<div class="answer">gōng <span class="english">work</span></div>
+<div class="chineseChars">㇙</div>|<div class="answer">piězhé <span class="english">turning stroke</span></div>
+<div class="chineseChars">生</div>|<div class="answer">shēng <span class="english">life</span></div>
+<div class="chineseChars">㇉</div>|<div class="answer">tí <span class="english">rising stroke</span></div>
+<div class="chineseChars">甘</div>|<div class="answer">gān <span class="english">sweet</span></div>
+<div class="chineseChars">扌</div>|<div class="answer">shǒu <span class="english">hand (side)</span></div>
+<div class="chineseChars">亅</div>|<div class="answer">jué <span class="english">hook</span></div>
+<div class="chineseChars">⺮</div>|<div class="answer">zhú <span class="english">bamboo (top)</span></div>
+<div class="chineseChars">目</div>|<div class="answer">mù <span class="english">eye</span></div>
+<div class="chineseChars">艹</div>|<div class="answer">cǎo <span class="english">grass (top)</span></div>
+<div class="chineseChars">阝</div>|<div class="answer">fù <span class="english">mound, city</span></div>
+<div class="chineseChars">亻</div>|<div class="answer">rén <span class="english">person (side)</span></div>
+<div class="chineseChars">宀</div>|<div class="answer">mián <span class="english">roof</span></div>
+<div class="chineseChars">酉</div>|<div class="answer">yǒu <span class="english">wine, 10th branch</span></div>
+<div class="chineseChars">曰</div>|<div class="answer">yuē <span class="english">say</span></div>
+<div class="chineseChars">勹</div>|<div class="answer">bāo <span class="english">wrap</span></div>
+<div class="chineseChars">㇗</div>|<div class="answer">shùgōu <span class="english">vertical hook</span></div>
+<div class="chineseChars">囗</div>|<div class="answer">wéi <span class="english">enclosure</span></div>
+<div class="chineseChars">⺀</div>|<div class="answer">diǎn <span class="english">dots, drizzle</span></div>
+<div class="chineseChars">弓</div>|<div class="answer">gōng <span class="english">bow</span></div>
+<div class="chineseChars">㇒</div>|<div class="answer">nà <span class="english">pressing stroke</span></div>
+<div class="chineseChars">匸</div>|<div class="answer">xì <span class="english">hiding enclosure</span></div>
+<div class="chineseChars">心</div>|<div class="answer">xīn <span class="english">heart</span></div>
+<div class="chineseChars">玉</div>|<div class="answer">yù <span class="english">jade</span></div>
+<div class="chineseChars">㇆</div>|<div class="answer">wāngōu <span class="english">curved hook</span></div>
+<div class="chineseChars">土</div>|<div class="answer">tǔ <span class="english">earth</span></div>
+<div class="chineseChars">斤</div>|<div class="answer">jīn <span class="english">axe</span></div>
+<div class="chineseChars">立</div>|<div class="answer">lì <span class="english">stand</span></div>
+<div class="chineseChars">彡</div>|<div class="answer">shān <span class="english">bristles, ornament</span></div>
+<div class="chineseChars">讠</div>|<div class="answer">yán <span class="english">speech (side)</span></div>
+<div class="chineseChars">女</div>|<div class="answer">nǚ <span class="english">woman</span></div>
+<div class="chineseChars">子</div>|<div class="answer">zǐ <span class="english">child</span></div>
+<div class="chineseChars">龵</div>|<div class="answer">shǒu <span class="english">hand (top)</span></div>
+<div class="chineseChars">忄</div>|<div class="answer">xīn <span class="english">heart (side)</span></div>
+<div class="chineseChars">穴</div>|<div class="answer">xué <span class="english">cave</span></div>
+<div class="chineseChars">冫</div>|<div class="answer">bīng <span class="english">ice</span></div>
+<div class="chineseChars">欠</div>|<div class="answer">qiàn <span class="english">lack, yawn</span></div>
+<div class="chineseChars">白</div>|<div class="answer">bái <span class="english">white</span></div>
+<div class="chineseChars">青</div>|<div class="answer">qīng <span class="english">blue-green</span></div>
+<div class="chineseChars">夂</div>|<div class="answer">zhǐ <span class="english">go slowly</span></div>
+<div class="chineseChars">爫</div>|<div class="answer">zhǎo <span class="english">claw (top)</span></div>
+<div class="chineseChars">冖</div>|<div class="answer">mì <span class="english">cover</span></div>
+<div class="chineseChars">𠂇</div>|<div class="answer">piě <span class="english">person-like</span></div>
+<div class="chineseChars">㇇</div>|<div class="answer">zhé <span class="english">bent stroke</span></div>
+<div class="chineseChars">手</div>|<div class="answer">shǒu <span class="english">hand</span></div>
+<div class="chineseChars">门</div>|<div class="answer">mén <span class="english">door</span></div>
+<div class="chineseChars">老</div>|<div class="answer">lǎo <span class="english">old</span></div>
+<div class="chineseChars">山</div>|<div class="answer">shān <span class="english">mountain</span></div>
+<div class="chineseChars">夕</div>|<div class="answer">xī <span class="english">evening</span></div>
+<div class="chineseChars">彳</div>|<div class="answer">chì <span class="english">step (side)</span></div>
+<div class="chineseChars">艮</div>|<div class="answer">gèn <span class="english">stopping</span></div>
+<div class="chineseChars">士</div>|<div class="answer">shì <span class="english">scholar, man</span></div>
+<div class="chineseChars">马</div>|<div class="answer">mǎ <span class="english">horse</span></div>
+<div class="chineseChars">冂</div>|<div class="answer">jiōng <span class="english">wide border</span></div>
+<div class="chineseChars">𢛳</div>|<div class="answer">xīn <span class="english">heart (variant)</span></div>
+<div class="chineseChars">西</div>|<div class="answer">xī <span class="english">west</span></div>
+<div class="chineseChars">玨</div>|<div class="answer">jué <span class="english">two jades</span></div>
+<div class="chineseChars">文</div>|<div class="answer">wén <span class="english">script, culture</span></div>
+<div class="chineseChars">毛</div>|<div class="answer">máo <span class="english">hair, fur</span></div>
+<div class="chineseChars">凵</div>|<div class="answer">kǎn <span class="english">receptacle</span></div>
+<div class="chineseChars">乂</div>|<div class="answer">yì <span class="english">govern, cut</span></div>
+<div class="chineseChars">干</div>|<div class="answer">gān <span class="english">dry, shield</span></div>
+<div class="chineseChars">田</div>|<div class="answer">tián <span class="english">field</span></div>
+<div class="chineseChars">鸟</div>|<div class="answer">niǎo <span class="english">bird</span></div>
+<div class="chineseChars">疋</div>|<div class="answer">pǐ <span class="english">bolt of cloth</span></div>
+<div class="chineseChars">虫</div>|<div class="answer">chóng <span class="english">insect</span></div>
+<div class="chineseChars">朋</div>|<div class="answer">péng <span class="english">friend</span></div>
+<div class="chineseChars">豕</div>|<div class="answer">shǐ <span class="english">pig</span></div>
+<div class="chineseChars">厂</div>|<div class="answer">hǎn <span class="english">cliff</span></div>
+<div class="chineseChars">贝</div>|<div class="answer">bèi <span class="english">shell, money</span></div>
+<div class="chineseChars">戶</div>|<div class="answer">hù <span class="english">door, household</span></div>
+<div class="chineseChars">㇎</div>|<div class="answer">xiégōu <span class="english">slant hook</span></div>
+<div class="chineseChars">非</div>|<div class="answer">fēi <span class="english">wrong, not</span></div>
+<div class="chineseChars">见</div>|<div class="answer">jiàn <span class="english">see</span></div>
+<div class="chineseChars">覀</div>|<div class="answer">xī <span class="english">west (top)</span></div>
+<div class="chineseChars">殳</div>|<div class="answer">shū <span class="english">weapon, club</span></div>
+<div class="chineseChars">㇖</div>|<div class="answer">piědiǎn <span class="english">slant dot</span></div>
+<div class="chineseChars">回</div>|<div class="answer">huí <span class="english">return, circle</span></div>
+<div class="chineseChars">⺙</div>|<div class="answer">wù <span class="english">action hand</span></div>
+<div class="chineseChars">父</div>|<div class="answer">fù <span class="english">father</span></div>
+<div class="chineseChars">哥</div>|<div class="answer">gē <span class="english">elder brother</span></div>
+<div class="chineseChars">龶</div>|<div class="answer">lèi <span class="english">grain sprout</span></div>
+<div class="chineseChars">犭</div>|<div class="answer">quǎn <span class="english">dog (side)</span></div>
+<div class="chineseChars">钅</div>|<div class="answer">jīn <span class="english">metal (side)</span></div>
+<div class="chineseChars">戋</div>|<div class="answer">jiān <span class="english">small, narrow</span></div>
+<div class="chineseChars">隹</div>|<div class="answer">zhuī <span class="english">short-tailed bird</span></div>
+<div class="chineseChars">长</div>|<div class="answer">cháng <span class="english">long</span></div>
+<div class="chineseChars">从</div>|<div class="answer">cóng <span class="english">follow</span></div>
+<div class="chineseChars">纟</div>|<div class="answer">sī <span class="english">silk (side)</span></div>
+<div class="chineseChars">氏</div>|<div class="answer">shì <span class="english">clan, surname</span></div>
+<div class="chineseChars">礻</div>|<div class="answer">shì <span class="english">spirit (side)</span></div>
+<div class="chineseChars">水</div>|<div class="answer">shuǐ <span class="english">water</span></div>
+<div class="chineseChars">户</div>|<div class="answer">hù <span class="english">door, household</span></div>
+<div class="chineseChars">方</div>|<div class="answer">fāng <span class="english">square, direction</span></div>
+<div class="chineseChars">支</div>|<div class="answer">zhī <span class="english">branch, support</span></div>
+<div class="chineseChars">身</div>|<div class="answer">shēn <span class="english">body</span></div>
+<div class="chineseChars">寸</div>|<div class="answer">cùn <span class="english">inch</span></div>
+<div class="chineseChars">页</div>|<div class="answer">yè <span class="english">page, head</span></div>
+<div class="chineseChars">皮</div>|<div class="answer">pí <span class="english">skin</span></div>
+<div class="chineseChars">匚</div>|<div class="answer">fāng <span class="english">box enclosure</span></div>
+<div class="chineseChars">矢</div>|<div class="answer">shǐ <span class="english">arrow</span></div>
+<div class="chineseChars">廴</div>|<div class="answer">yǐn <span class="english">long stride</span></div>
+<div class="chineseChars">釆</div>|<div class="answer">biàn <span class="english">distinguish, divide</span></div>
+<div class="chineseChars">羽</div>|<div class="answer">yǔ <span class="english">feather</span></div>
+<div class="chineseChars">聿</div>|<div class="answer">yù <span class="english">brush</span></div>
+<div class="chineseChars">禾</div>|<div class="answer">hé <span class="english">grain, cereal</span></div>
+<div class="chineseChars">音</div>|<div class="answer">yīn <span class="english">sound</span></div>
+<div class="chineseChars">多</div>|<div class="answer">duō <span class="english">many</span></div>
+<div class="chineseChars">巳</div>|<div class="answer">sì <span class="english">6th earthly branch</span></div>
+<div class="chineseChars">肉</div>|<div class="answer">ròu <span class="english">meat</span></div>
+<div class="chineseChars">牛</div>|<div class="answer">niú <span class="english">cow</span></div>
+<div class="chineseChars">鱼</div>|<div class="answer">yú <span class="english">fish</span></div>

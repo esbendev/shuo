@@ -4,7 +4,7 @@
 <div class="chineseChars">下个星期</div>|<div class="answer">xià gè xīngqī <span class="english">next week</span></div>
 <div class="chineseChars">最近</div>|<div class="answer">zuì jìn <span class="english">recently</span></div>
 <div class="chineseChars">最</div>|<div class="answer">zuì <span class="english">most</span></div>
-<div class="chineseChars">近</div>|<div class="answer">zuì <span class="english">most</span></div>
+<div class="chineseChars">近</div>|<div class="answer">jìn <span class="english">near</span></div>
 <div class="chineseChars">新</div>|<div class="answer">xīn <span class="english">new</span></div>
 <div class="chineseChars">电影</div>|<div class="answer">diànyǐng <span class="english">movie</span></div>
 <div class="chineseChars">听说</div>|<div class="answer">(tīngshuō) <span class="english">to be told; to hear of</span></div>
