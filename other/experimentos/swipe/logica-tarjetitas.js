@@ -20,8 +20,8 @@ const urlParams = new URLSearchParams(window.location.search);
 const filename = urlParams.get('file') || '';
 
 const filePath = filename.includes('tubh1_') 
-    ? `../contenido/preguntas/tubh/1/${filename}.json` 
-    : `../contenido/preguntas/tubh/2/${filename}.json`;
+    ? `../../../contenido/preguntas/tubh/1/${filename}.json` 
+    : `../../../contenido/preguntas/tubh/2/${filename}.json`;
 fetch(filePath)
     .then(response => response.json())
     .then(data => {
