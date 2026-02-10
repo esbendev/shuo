@@ -17,12 +17,7 @@ function playAudio(src) {
 // por ahora hardcodeamos esto
 // const filePath = "../../../contenido/preguntas/tubh/1/tubh1_rapidos.json";
 const urlParams = new URLSearchParams(window.location.search);
-const filename = urlParams.get('file') || '';
-
-// if no filename provided, default to tubh1_rapidos
-if (!filename) {
-    filename = 'tubh1_rapidos';
-}
+const filename = urlParams.get('file') || 'tubh1_rapidos';
 
 const filePath = filename.includes('tubh1_') 
     ? `../../../contenido/preguntas/tubh/1/${filename}.json` 
