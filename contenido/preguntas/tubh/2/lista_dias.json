@@ -59,6 +59,11 @@
                 "text": "Audio 3",
                 "link": "./quiz/index.html?file=tubh2_5_audio_3",
                 "id": "tubh2_5_audio_3"
+            },
+            {
+                "text": "Swipe",
+                "link": "./quiz/index.html?file=tubh2_5_audios_rapidos",
+                "id": "tubh2_5_audios_rapidos"
             }
         ]
     },
