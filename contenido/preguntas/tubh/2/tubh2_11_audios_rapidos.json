@@ -6,11 +6,11 @@
             "id": 1,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/2/1-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/2/1-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/2/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/1-slow.mp3"
             ],
             "respuesta_correcta": [
-                "你的生日是几月几号？"
+                "你打算什么时候去中国？"
             ],
             "input_chars_aceptados": []
         },
@@ -18,11 +18,11 @@
             "id": 2,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/2/2-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/2/2-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/2/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/2-slow.mp3"
             ],
             "respuesta_correcta": [
-                "星期六你有什么打算？"
+                "他上个月找了一个新工作。"
             ],
             "input_chars_aceptados": []
         },
@@ -30,11 +30,11 @@
             "id": 3,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/2/3-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/2/3-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/2/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/3-slow.mp3"
             ],
             "respuesta_correcta": [
-                "今天晚上你有什么打算吗？"
+                "我去年认识了这个新朋友。"
             ],
             "input_chars_aceptados": []
         },
@@ -42,11 +42,11 @@
             "id": 4,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/2/4-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/2/4-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/2/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/4-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我喜欢和你们一起聊天。"
+                "找个星期六是我的生日。"
             ],
             "input_chars_aceptados": []
         },
@@ -54,11 +54,11 @@
             "id": 5,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/2/5-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/2/5-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/2/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/5-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我们为什么不一起去？"
+                "我女儿下个月读大学。"
             ],
             "input_chars_aceptados": []
         },
@@ -66,11 +66,11 @@
             "id": 6,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/2/6-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/2/6-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/2/6-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/6-slow.mp3"
             ],
             "respuesta_correcta": [
-                "你没有钱，就找一个工作啊。"
+                "你最近怎么样？"
             ],
             "input_chars_aceptados": []
         },
@@ -78,11 +78,11 @@
             "id": 7,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/2/7-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/2/7-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/2/7-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/7-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我还不知道，你叫什么名字？"
+                "最近我看了一个电影。"
             ],
             "input_chars_aceptados": []
         },
@@ -90,11 +90,11 @@
             "id": 8,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/2/8-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/2/8-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/1-slow.mp3"
             ],
             "respuesta_correcta": [
-                "十一点了还不去睡觉啊？"
+                "我听说你最近在家工作。"
             ],
             "input_chars_aceptados": []
         },
@@ -102,11 +102,11 @@
             "id": 9,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/1-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/1-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/2-slow.mp3"
             ],
             "respuesta_correcta": [
-                "他们都做完作业了？"
+                "他做的饭很好吃。"
             ],
             "input_chars_aceptados": []
         },
@@ -114,11 +114,11 @@
             "id": 10,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/2-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/2-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/3-slow.mp3"
             ],
             "respuesta_correcta": [
-                "你还没有上完厕所啊？"
+                "坐进我很忙，没有空。"
             ],
             "input_chars_aceptados": []
         },
@@ -126,11 +126,11 @@
             "id": 11,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/3-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/3-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/4-slow.mp3"
             ],
             "respuesta_correcta": [
-                "星期五以前做完吧。"
+                "我十点以后有空，你十点半来把。"
             ],
             "input_chars_aceptados": []
         },
@@ -138,11 +138,11 @@
             "id": 12,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/4-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/4-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/5-slow.mp3"
             ],
             "respuesta_correcta": [
-                "他们还没喝完酒"
+                "他去机场接女朋友。"
             ],
             "input_chars_aceptados": []
         },
@@ -150,11 +150,11 @@
             "id": 13,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/5-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/5-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/6-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/6-slow.mp3"
             ],
             "respuesta_correcta": [
-                "这个酒吧生意很好。"
+                "上次我没有空，这次我可以去。"
             ],
             "input_chars_aceptados": []
         },
@@ -162,11 +162,11 @@
             "id": 14,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/6-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/6-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/7-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/7-slow.mp3"
             ],
             "respuesta_correcta": [
-                "他生孩子的第二天就去工作了。"
+                "你下次什么时候来？"
             ],
             "input_chars_aceptados": []
         },
@@ -174,11 +174,11 @@
             "id": 15,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/7-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/7-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/8-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/8-slow.mp3"
             ],
             "respuesta_correcta": [
-                "医生说我不可以运动。"
+                "他每次都请客。"
             ],
             "input_chars_aceptados": []
         },
@@ -186,11 +186,11 @@
             "id": 16,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/8-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/8-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/9-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/9-slow.mp3"
             ],
             "respuesta_correcta": [
-                "你可以给我五块钱吗？"
+                "你真的没有听说吗？"
             ],
             "input_chars_aceptados": []
         },
@@ -198,11 +198,11 @@
             "id": 17,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/9-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/9-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/10-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/10-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我忘了他的生日。"
+                "我觉得每个孩子都很可爱。"
             ],
             "input_chars_aceptados": []
         },
@@ -210,11 +210,11 @@
             "id": 18,
             "instrucciones": "Listen to the audio and write what you hear.",
             "archivo_audio": [
-                "../contenido/audio/tubh/2/day-5/3/10-fast.mp3",
-                "../contenido/audio/tubh/2/day-5/3/10-slow.mp3"
+                "../contenido/audio/tubh/2/day-11/3/11-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/3/11-slow.mp3"
             ],
             "respuesta_correcta": [
-                "我学了几天法语，但是现在我都忘了。"
+                "他以前在美国读书现在他会中国了。"
             ],
             "input_chars_aceptados": []
         }
