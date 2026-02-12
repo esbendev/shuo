@@ -1,0 +1,90 @@
+{
+    "titulo": "Day 5 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-11/2/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你打算什么时候去中国？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-11/2/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他上个月找了一个新工作。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-11/2/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我去年认识了这个新朋友。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-11/2/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "找个星期六是我的生日。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-11/2/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我女儿下个月读大学。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-11/2/6-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你最近怎么样？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-11/2/7-fast.mp3",
+                "../contenido/audio/tubh/2/day-11/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "最近我看了一个电影。"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
