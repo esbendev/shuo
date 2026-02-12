@@ -149,7 +149,7 @@
         "number": 12,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_12",
                 "disabled": true
@@ -160,10 +160,9 @@
         "number": 13,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_13",
-                "disabled": true
+                "text": "Text",
+                "link": "./other/textos/tubh/2/day-13.html",
+                "id": "tubh2_13"
             }
         ]
     },
