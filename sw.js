@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v260211-1";
+const CACHE_NAME = "esbendev-shuo-v260211-2";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -63,15 +63,17 @@ const urlsToCache = [
     "/shuo/contenido/preguntas/tubh/2/tubh2_11_audios_rapidos.json",
     // (other)
     "/shuo/other/experimentos/prompt-generator.html",
-    // (other) textos tubh1
+    // textos tubh1
     "/shuo/other/textos/tubh/1/day-28.html",
     "/shuo/other/textos/tubh/1/day-35.html",
     "/shuo/other/textos/tubh/1/day-38.html",
     "/shuo/other/textos/tubh/1/day-41.html",
     "/shuo/other/textos/tubh/1/day-44.html",
-    // (other) textos tubh2
+    // textos tubh2
     "/shuo/other/textos/tubh/2/day-4.html",
     "/shuo/other/textos/tubh/2/day-10.html",
+    "/shuo/other/textos/tubh/2/day-13.html",
+    // other 2 (?
     "/shuo/other/sentence-builder.html",
     "/shuo/cheatsheets/index.html",
     "/shuo/other/experimentos/time.html",
