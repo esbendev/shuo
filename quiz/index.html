@@ -63,7 +63,7 @@
     <footer>
         <p id="cache-name-version"></p>
         <script>
-            fetch('./sw.js')
+            fetch('../sw.js')
                 .then(response => response.text())
                 .then(scriptContent => {
                     const cacheNameMatch = scriptContent.match(/const CACHE_NAME = ['"]([^'"]+)['"]/);
