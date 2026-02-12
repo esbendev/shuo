@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v260211-2";
+const CACHE_NAME = "esbendev-shuo-v260211-3";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -84,6 +84,7 @@ const urlsToCache = [
 ];
 
 self.addEventListener("install", (event) => {
+    self.skipWaiting(); // Force the new service worker to activate immediately
     event.waitUntil(
         caches.open(CACHE_NAME).then((cache) => {
             return cache.addAll(urlsToCache);
@@ -112,4 +113,5 @@ self.addEventListener("activate", (event) => {
             );
         })
     );
+    return self.clients.claim(); // Take control of all clients immediately
 });
