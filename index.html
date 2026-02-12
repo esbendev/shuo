@@ -95,6 +95,18 @@
     <script src="./actualizarMenu.js"></script>
 
     <footer>
+        <p id="cache-name-version"></p>
+        <script>
+            fetch('./sw.js')
+                .then(response => response.text())
+                .then(scriptContent => {
+                    const cacheNameMatch = scriptContent.match(/const CACHE_NAME = ['"]([^'"]+)['"]/);
+                    if (cacheNameMatch) {
+                        document.getElementById('cache-name-version').innerHTML = `Cache version: ${cacheNameMatch[1]}`;
+                    }
+                })
+                .catch(error => console.error('Error reading sw.js:', error));
+        </script>
         <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
     </footer>
     <script>
