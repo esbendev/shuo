@@ -1,0 +1,66 @@
+{
+    "titulo": "Day 18 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你来看我，我太高兴了！"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你别太忙了啊！"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "很晚了，别聊天了！"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我的妹妹给我买了一个礼物"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这是谁给你的礼物？"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}

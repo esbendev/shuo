@@ -1,0 +1,162 @@
+{
+    "titulo": "Day 18 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/2/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你来中国多长时间了？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/2/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "每次你运动多长时间？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/2/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我学了大概四个月中文了"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/2/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你每天睡几个小时"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/2/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这个月我一共工作了二十天？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/2/6-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "下个月我有四天假期"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/2/7-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我一个人在中国旅游了三个月"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/2/8-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "从中国到美国，坐飞机要用几个小时"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你来看我，我太高兴了！"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你别太忙了啊！"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "很晚了，别聊天了！"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我的妹妹给我买了一个礼物"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-18/3/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-18/3/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这是谁给你的礼物？"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
