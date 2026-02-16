@@ -1,29 +1,29 @@
-<div class="chineseChars">口</div>|<div class="answer">kǒu <span class="english">measure word for number of family members</span></div>
-<div class="chineseChars">爷爷</div>|<div class="answer">yéye <span class="english">paternal grandfather</span></div>
-<div class="chineseChars">奶奶</div>|<div class="answer">nǎinai <span class="english">paternal grandmother</span></div>
-<div class="chineseChars">外公</div>|<div class="answer">wàigōng <span class="english">maternal grandfather</span></div>
-<div class="chineseChars">外婆</div>|<div class="answer">wàipó <span class="english">maternal grandmother</span></div>
-<div class="chineseChars">先生</div>|<div class="answer">xiānsheng <span class="english">Mr.; husband</span></div>
-<div class="chineseChars">太太</div>|<div class="answer">tàitai <span class="english">Mrs.; wife</span></div>
-<div class="chineseChars">老公</div>|<div class="answer">lǎogōng <span class="english">husband (informal)</span></div>
-<div class="chineseChars">老婆</div>|<div class="answer">lǎopó <span class="english">wife (informal)</span></div>
-<div class="chineseChars">儿子</div>|<div class="answer">érzi <span class="english">son</span></div>
-<div class="chineseChars">女儿</div>|<div class="answer">nǚ'ér <span class="english">daughter</span></div>
-<div class="chineseChars">学生</div>|<div class="answer">xuésheng <span class="english">student</span></div>
-<div class="chineseChars">医生</div>|<div class="answer">yīshēng <span class="english">doctor</span></div>
-<div class="chineseChars">商人</div>|<div class="answer">shāngrén <span class="english">businessman/businesswoman</span></div>
-<div class="chineseChars">家庭主妇</div>|<div class="answer">jiātíng zhǔfù <span class="english">housewife</span></div>
-<div class="chineseChars">翻译</div>|<div class="answer">fānyì <span class="english">translator/interpreter</span></div>
-<div class="chineseChars">职员</div>|<div class="answer">zhíyuán <span class="english">staff member, employee</span></div>
-<div class="chineseChars">律师</div>|<div class="answer">lǜshī <span class="english">lawyer</span></div>
-<div class="chineseChars">工程师</div>|<div class="answer">gōngchéngshī <span class="english">engineer</span></div>
-<div class="chineseChars">生意</div>|<div class="answer">shēngyì <span class="english">business</span></div>
-<div class="chineseChars">家</div>|<div class="answer">jiā <span class="english">measure word for organization, company, shop, etc.</span></div>
-<div class="chineseChars">和</div>|<div class="answer">hé <span class="english">and; with</span></div>
-<div class="chineseChars">外国</div>|<div class="answer">wàiguó <span class="english">foreign country</span></div>
-<div class="chineseChars">外国人</div>|<div class="answer">wàiguórén <span class="english">foreigner</span></div>
-<div class="chineseChars">外语</div>|<div class="answer">wàiyǔ <span class="english">foreign language</span></div>
-<div class="chineseChars">大学</div>|<div class="answer">dàxué <span class="english">university</span></div>
-<div class="chineseChars">中学</div>|<div class="answer">zhōngxué <span class="english">middle school</span></div>
-<div class="chineseChars">小学</div>|<div class="answer">xiǎoxué <span class="english">primary school</span></div>
-<div class="chineseChars">读书</div>|<div class="answer">dúshū <span class="english">to study; to read books</span></div>
+<div class="chineseChars">口</div>|<div class="answer">kǒu <span class="english">measure word for number of family members (我家有五口人)</span></div>
+<div class="chineseChars">爷爷</div>|<div class="answer">yéye <span class="english">paternal grandfather (我爷爷今年八十岁)</span></div>
+<div class="chineseChars">奶奶</div>|<div class="answer">nǎinai <span class="english">paternal grandmother (奶奶喜欢喝茶)</span></div>
+<div class="chineseChars">外公</div>|<div class="answer">wàigōng <span class="english">maternal grandfather (外公住在乡下)</span></div>
+<div class="chineseChars">外婆</div>|<div class="answer">wàipó <span class="english">maternal grandmother (外婆做的饭很好吃)</span></div>
+<div class="chineseChars">先生</div>|<div class="answer">xiānsheng <span class="english">Mr.; husband (王先生是我的老师)</span></div>
+<div class="chineseChars">太太</div>|<div class="answer">tàitai <span class="english">Mrs.; wife (李太太很友好)</span></div>
+<div class="chineseChars">老公</div>|<div class="answer">lǎogōng <span class="english">husband (informal) (她的老公很帅)</span></div>
+<div class="chineseChars">老婆</div>|<div class="answer">lǎopó <span class="english">wife (informal) (我老婆喜欢看电影)</span></div>
+<div class="chineseChars">儿子</div>|<div class="answer">érzi <span class="english">son (我儿子今年十岁)</span></div>
+<div class="chineseChars">女儿</div>|<div class="answer">nǚ'ér <span class="english">daughter (她有一个可爱的女儿)</span></div>
+<div class="chineseChars">学生</div>|<div class="answer">xuésheng <span class="english">student (我是一个学生)</span></div>
+<div class="chineseChars">医生</div>|<div class="answer">yīshēng <span class="english">doctor (医生在医院工作)</span></div>
+<div class="chineseChars">商人</div>|<div class="answer">shāngrén <span class="english">businessman/businesswoman (他是一个成功的商人)</span></div>
+<div class="chineseChars">家庭主妇</div>|<div class="answer">jiātíng zhǔfù <span class="english">housewife (她是一位家庭主妇)</span></div>
+<div class="chineseChars">翻译</div>|<div class="answer">fānyì <span class="english">translator/interpreter (他是一名翻译)</span></div>
+<div class="chineseChars">职员</div>|<div class="answer">zhíyuán <span class="english">staff member, employee (她是公司的职员)</span></div>
+<div class="chineseChars">律师</div>|<div class="answer">lǜshī <span class="english">lawyer (他是一名律师)</span></div>
+<div class="chineseChars">工程师</div>|<div class="answer">gōngchéngshī <span class="english">engineer (我哥哥是工程师)</span></div>
+<div class="chineseChars">生意</div>|<div class="answer">shēngyì <span class="english">business (他的生意做得很好)</span></div>
+<div class="chineseChars">家</div>|<div class="answer">jiā <span class="english">measure word for organization, company, shop, etc. (这是一家很大的公司)</span></div>
+<div class="chineseChars">和</div>|<div class="answer">hé <span class="english">and; with (我和朋友一起去看电影)</span></div>
+<div class="chineseChars">外国</div>|<div class="answer">wàiguó <span class="english">foreign country (我想去外国旅游)</span></div>
+<div class="chineseChars">外国人</div>|<div class="answer">wàiguórén <span class="english">foreigner (他是一个外国人)</span></div>
+<div class="chineseChars">外语</div>|<div class="answer">wàiyǔ <span class="english">foreign language (我会说三种外语)</span></div>
+<div class="chineseChars">大学</div>|<div class="answer">dàxué <span class="english">university (我在北京大学学习)</span></div>
+<div class="chineseChars">中学</div>|<div class="answer">zhōngxué <span class="english">middle school (我弟弟在中学读书)</span></div>
+<div class="chineseChars">小学</div>|<div class="answer">xiǎoxué <span class="english">primary school (她的孩子在小学上学)</span></div>
+<div class="chineseChars">读书</div>|<div class="answer">dúshū <span class="english">to study; to read books (我喜欢在图书馆读书)</span></div>

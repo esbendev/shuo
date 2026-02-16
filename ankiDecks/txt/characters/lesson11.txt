@@ -1,20 +1,20 @@
-<div class="chineseChars">生日</div>|<div class="answer">shēngrì <span class="english">birthday</span></div>
-<div class="chineseChars">月</div>|<div class="answer">yuè <span class="english">month</span></div>
-<div class="chineseChars">号</div>|<div class="answer">hào <span class="english">date, day of month (casual)</span></div>
-<div class="chineseChars">日</div>|<div class="answer">rì <span class="english">date, day of month (formal)</span></div>
-<div class="chineseChars">星期</div>|<div class="answer">xīngqī <span class="english">week</span></div>
-<div class="chineseChars">打算</div>|<div class="answer">dǎsuàn <span class="english">to plan; plan</span></div>
-<div class="chineseChars">一起</div>|<div class="answer">yìqǐ <span class="english">together</span></div>
-<div class="chineseChars">啊</div>|<div class="answer">a <span class="english">(a sentence-final particle of exclamation, indicates something is obvious)</span></div>
-<div class="chineseChars">还</div>|<div class="answer">hái <span class="english">still, also</span></div>
-<div class="chineseChars">但是</div>|<div class="answer">dàn shì <span class="english">but, however</span></div>
-<div class="chineseChars">完</div>|<div class="answer">wán <span class="english">complete, to finish</span></div>
-<div class="chineseChars">酒吧</div>|<div class="answer">jiǔ bā <span class="english">bar, pub</span></div>
-<div class="chineseChars">喝酒</div>|<div class="answer">hē jiǔ <span class="english">to drink alcohol</span></div>
-<div class="chineseChars">可以</div>|<div class="answer">kěyǐ <span class="english">can</span></div>
-<div class="chineseChars">因为</div>|<div class="answer">yīnwèi <span class="english">because</span></div>
-<div class="chineseChars">为什么</div>|<div class="answer">wèishénme <span class="english">why</span></div>
-<div class="chineseChars">第二天</div>|<div class="answer">dì èr tiān <span class="english">the next day</span></div>
-<div class="chineseChars">哈哈</div>|<div class="answer">hā hā <span class="english">haha</span></div>
-<div class="chineseChars">忘</div>|<div class="answer">wàng <span class="english">forget</span></div>
-<div class="chineseChars">国庆节</div>|<div class="answer">guó qìng jié <span class="english">National Day</span></div>
+<div class="chineseChars">生日</div>|<div class="answer">shēngrì <span class="english">birthday (今天是我的生日)</span></div>
+<div class="chineseChars">月</div>|<div class="answer">yuè <span class="english">month (这个月是二月)</span></div>
+<div class="chineseChars">号</div>|<div class="answer">hào <span class="english">date, day of month (casual) (今天是十五号)</span></div>
+<div class="chineseChars">日</div>|<div class="answer">rì <span class="english">date, day of month (formal) (今天是二月十五日)</span></div>
+<div class="chineseChars">星期</div>|<div class="answer">xīngqī <span class="english">week (今天是星期一)</span></div>
+<div class="chineseChars">打算</div>|<div class="answer">dǎsuàn <span class="english">to plan; plan (我打算明天去旅行)</span></div>
+<div class="chineseChars">一起</div>|<div class="answer">yìqǐ <span class="english">together (我们一起去看电影吧)</span></div>
+<div class="chineseChars">啊</div>|<div class="answer">a <span class="english">(a sentence-final particle of exclamation, indicates something is obvious) (好啊，我们一起去吧)</span></div>
+<div class="chineseChars">还</div>|<div class="answer">hái <span class="english">still, also (我还在学习)</span></div>
+<div class="chineseChars">但是</div>|<div class="answer">dàn shì <span class="english">but, however (我想去，但是没有时间)</span></div>
+<div class="chineseChars">完</div>|<div class="answer">wán <span class="english">complete, to finish (我做完作业了)</span></div>
+<div class="chineseChars">酒吧</div>|<div class="answer">jiǔ bā <span class="english">bar, pub (我们晚上去酒吧吧)</span></div>
+<div class="chineseChars">喝酒</div>|<div class="answer">hē jiǔ <span class="english">to drink alcohol (他喜欢和朋友一起喝酒)</span></div>
+<div class="chineseChars">可以</div>|<div class="answer">kěyǐ <span class="english">can (你可以帮我吗?)</span></div>
+<div class="chineseChars">因为</div>|<div class="answer">yīnwèi <span class="english">because (我迟到了，因为堵车)</span></div>
+<div class="chineseChars">为什么</div>|<div class="answer">wèishénme <span class="english">why (你为什么不来?)</span></div>
+<div class="chineseChars">第二天</div>|<div class="answer">dì èr tiān <span class="english">the next day (第二天我们去了海边)</span></div>
+<div class="chineseChars">哈哈</div>|<div class="answer">hā hā <span class="english">haha (哈哈，你真有趣)</span></div>
+<div class="chineseChars">忘</div>|<div class="answer">wàng <span class="english">forget (我忘了带钥匙)</span></div>
+<div class="chineseChars">国庆节</div>|<div class="answer">guó qìng jié <span class="english">National Day (国庆节是十月一日)</span></div>

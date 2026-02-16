@@ -1,27 +1,27 @@
-<div class="chineseChars">我</div>|<div class="answer">wǒ <span class="english">I, me</span></div>
-<div class="chineseChars">我们</div>|<div class="answer">wǒmen <span class="english">we, us</span></div>
-<div class="chineseChars">你们</div>|<div class="answer">nǐmen <span class="english">you (plural)</span></div>
-<div class="chineseChars">老师</div>|<div class="answer">lǎoshī <span class="english">teacher</span></div>
-<div class="chineseChars">你</div>|<div class="answer">nǐ <span class="english">you</span></div>
-<div class="chineseChars">他</div>|<div class="answer">tā <span class="english">he, him</span></div>
-<div class="chineseChars">她</div>|<div class="answer">tā <span class="english">she, her</span></div>
-<div class="chineseChars">您</div>|<div class="answer">nín <span class="english">you (polite)</span></div>
-<div class="chineseChars">好</div>|<div class="answer">hǎo <span class="english">good</span></div>
-<div class="chineseChars">叫</div>|<div class="answer">jiào <span class="english">to be called</span></div>
-<div class="chineseChars">岁</div>|<div class="answer">suì <span class="english">years old</span></div>
-<div class="chineseChars">哪</div>|<div class="answer">nǎ <span class="english">which</span></div>
-<div class="chineseChars">国</div>|<div class="answer">guó <span class="english">country</span></div>
-<div class="chineseChars">⼈</div>|<div class="answer">rén <span class="english">person, people</span></div>
-<div class="chineseChars">很</div>|<div class="answer">hěn <span class="english">very</span></div>
-<div class="chineseChars">也</div>|<div class="answer">yě <span class="english">also</span></div>
-<div class="chineseChars">早上</div>|<div class="answer">zǎoshàng <span class="english">morning</span></div>
-<div class="chineseChars">晚上</div>|<div class="answer">wǎnshàng <span class="english">evening, night</span></div>
-<div class="chineseChars">什么</div>|<div class="answer">shénme <span class="english">what</span></div>
-<div class="chineseChars">名字</div>|<div class="answer">míngzi <span class="english">name</span></div>
-<div class="chineseChars">⾼兴</div>|<div class="answer">gāoxìng <span class="english">happy</span></div>
-<div class="chineseChars">认识</div>|<div class="answer">rènshi <span class="english">to know, to recognize</span></div>
-<div class="chineseChars">不</div>|<div class="answer">bù <span class="english">not, no</span></div>
-<div class="chineseChars">很好</div>|<div class="answer">hěn hǎo <span class="english">very good</span></div>
-<div class="chineseChars">喜欢</div>|<div class="answer">xǐ huān <span class="english">to like</span></div>
-<div class="chineseChars">吗</div>|<div class="answer">ma <span class="english">yes or no question particle</span></div>
-<div class="chineseChars">是</div>|<div class="answer">shì <span class="english">am, is, are</span></div>
+<div class="chineseChars">我</div>|<div class="answer">wǒ <span class="english">I, me (我是学生)</span></div>
+<div class="chineseChars">我们</div>|<div class="answer">wǒmen <span class="english">we, us (我们是朋友)</span></div>
+<div class="chineseChars">你们</div>|<div class="answer">nǐmen <span class="english">you (plural) (你们好)</span></div>
+<div class="chineseChars">老师</div>|<div class="answer">lǎoshī <span class="english">teacher (他是我的老师)</span></div>
+<div class="chineseChars">你</div>|<div class="answer">nǐ <span class="english">you (你叫什么名字?)</span></div>
+<div class="chineseChars">他</div>|<div class="answer">tā <span class="english">he, him (他是我的朋友)</span></div>
+<div class="chineseChars">她</div>|<div class="answer">tā <span class="english">she, her (她很漂亮)</span></div>
+<div class="chineseChars">您</div>|<div class="answer">nín <span class="english">you (polite) (您好)</span></div>
+<div class="chineseChars">好</div>|<div class="answer">hǎo <span class="english">good (今天天气很好)</span></div>
+<div class="chineseChars">叫</div>|<div class="answer">jiào <span class="english">to be called (我叫李华)</span></div>
+<div class="chineseChars">岁</div>|<div class="answer">suì <span class="english">years old (我十岁)</span></div>
+<div class="chineseChars">哪</div>|<div class="answer">nǎ <span class="english">which (你是哪国人?)</span></div>
+<div class="chineseChars">国</div>|<div class="answer">guó <span class="english">country (中国是一个大国)</span></div>
+<div class="chineseChars">⼈</div>|<div class="answer">rén <span class="english">person, people (他是一个好人)</span></div>
+<div class="chineseChars">很</div>|<div class="answer">hěn <span class="english">very (我很好)</span></div>
+<div class="chineseChars">也</div>|<div class="answer">yě <span class="english">also (我也喜欢)</span></div>
+<div class="chineseChars">早上</div>|<div class="answer">zǎoshàng <span class="english">morning (早上好)</span></div>
+<div class="chineseChars">晚上</div>|<div class="answer">wǎnshàng <span class="english">evening, night (晚上见)</span></div>
+<div class="chineseChars">什么</div>|<div class="answer">shénme <span class="english">what (这是什么?)</span></div>
+<div class="chineseChars">名字</div>|<div class="answer">míngzi <span class="english">name (你的名字是什么?)</span></div>
+<div class="chineseChars">⾼兴</div>|<div class="answer">gāoxìng <span class="english">happy (我很高兴见到你)</span></div>
+<div class="chineseChars">认识</div>|<div class="answer">rènshi <span class="english">to know, to recognize (我认识他)</span></div>
+<div class="chineseChars">不</div>|<div class="answer">bù <span class="english">not, no (我不是学生)</span></div>
+<div class="chineseChars">很好</div>|<div class="answer">hěn hǎo <span class="english">very good (这个菜很好吃)</span></div>
+<div class="chineseChars">喜欢</div>|<div class="answer">xǐ huān <span class="english">to like (我喜欢看书)</span></div>
+<div class="chineseChars">吗</div>|<div class="answer">ma <span class="english">yes or no question particle (你喜欢吗?)</span></div>
+<div class="chineseChars">是</div>|<div class="answer">shì <span class="english">am, is, are (我是学生)</span></div>

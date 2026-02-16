@@ -1,15 +1,15 @@
-<div class="chineseChars">睡觉</div>|<div class="answer">shuì jiào <span class="english">sleep</span></div>
-<div class="chineseChars">学习</div>|<div class="answer">xué xí <span class="english">study</span></div>
-<div class="chineseChars">⼯作</div>|<div class="answer">gōng zuò <span class="english">work</span></div>
-<div class="chineseChars">上厕所</div>|<div class="answer">shàng cè suǒ <span class="english">go to the bathroom</span></div>
-<div class="chineseChars">买东西</div>|<div class="answer">mǎi dōng xī <span class="english">buy things</span></div>
-<div class="chineseChars">看书</div>|<div class="answer">kàn shū <span class="english">read books</span></div>
-<div class="chineseChars">吃饭</div>|<div class="answer">chī fàn <span class="english">eat meals</span></div>
-<div class="chineseChars">喝咖啡</div>|<div class="answer">hē kā fēi <span class="english">drink coffee</span></div>
-<div class="chineseChars">回</div>|<div class="answer">huí <span class="english">return</span></div>
-<div class="chineseChars">来</div>|<div class="answer">lái <span class="english">come</span></div>
-<div class="chineseChars">做</div>|<div class="answer">zuò <span class="english">do</span></div>
-<div class="chineseChars">买</div>|<div class="answer">mǎi <span class="english">to buy</span></div>
-<div class="chineseChars">东西</div>|<div class="answer">dōng xi <span class="english">things, stuff</span></div>
-<div class="chineseChars">看</div>|<div class="answer">kàn <span class="english">to read, to see, to watch, to look at</span></div>
-<div class="chineseChars">喝</div>|<div class="answer">hē <span class="english">to drink</span></div>
+<div class="chineseChars">睡觉</div>|<div class="answer">shuì jiào <span class="english">sleep (我每天十点睡觉)</span></div>
+<div class="chineseChars">学习</div>|<div class="answer">xué xí <span class="english">study (我喜欢学习中文)</span></div>
+<div class="chineseChars">⼯作</div>|<div class="answer">gōng zuò <span class="english">work (他在公司工作)</span></div>
+<div class="chineseChars">上厕所</div>|<div class="answer">shàng cè suǒ <span class="english">go to the bathroom (我想去上厕所)</span></div>
+<div class="chineseChars">买东西</div>|<div class="answer">mǎi dōng xī <span class="english">buy things (我去商店买东西)</span></div>
+<div class="chineseChars">看书</div>|<div class="answer">kàn shū <span class="english">read books (我喜欢在图书馆看书)</span></div>
+<div class="chineseChars">吃饭</div>|<div class="answer">chī fàn <span class="english">eat meals (我们一起吃饭吧)</span></div>
+<div class="chineseChars">喝咖啡</div>|<div class="answer">hē kā fēi <span class="english">drink coffee (我每天早上喝咖啡)</span></div>
+<div class="chineseChars">回</div>|<div class="answer">huí <span class="english">return (我晚上回家)</span></div>
+<div class="chineseChars">来</div>|<div class="answer">lái <span class="english">come (请你过来)</span></div>
+<div class="chineseChars">做</div>|<div class="answer">zuò <span class="english">do (我在做作业)</span></div>
+<div class="chineseChars">买</div>|<div class="answer">mǎi <span class="english">to buy (我想买一本书)</span></div>
+<div class="chineseChars">东西</div>|<div class="answer">dōng xi <span class="english">things, stuff (这些东西是谁的?)</span></div>
+<div class="chineseChars">看</div>|<div class="answer">kàn <span class="english">to read, to see, to watch, to look at (我在看电视)</span></div>
+<div class="chineseChars">喝</div>|<div class="answer">hē <span class="english">to drink (我喜欢喝茶)</span></div>

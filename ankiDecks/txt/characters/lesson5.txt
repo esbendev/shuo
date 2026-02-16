@@ -1,20 +1,20 @@
-<div class="chineseChars">爸爸</div>|<div class="answer">bàba <span class="english">dad/father</span></div>
-<div class="chineseChars">妈妈</div>|<div class="answer">māma <span class="english">mom/mother</span></div>
-<div class="chineseChars">哥哥</div>|<div class="answer">gēge <span class="english">older brother</span></div>
-<div class="chineseChars">姐姐</div>|<div class="answer">jiějie <span class="english">older sister</span></div>
-<div class="chineseChars">弟弟</div>|<div class="answer">dìdi <span class="english">younger brother</span></div>
-<div class="chineseChars">妹妹</div>|<div class="answer">mèimei <span class="english">younger sister</span></div>
-<div class="chineseChars">朋友</div>|<div class="answer">péngyǒu <span class="english">friend</span></div>
-<div class="chineseChars">男朋友</div>|<div class="answer">nán péngyǒu <span class="english">boyfriend</span></div>
-<div class="chineseChars">⼥朋友</div>|<div class="answer">nǚ péngyǒu <span class="english">girlfriend</span></div>
-<div class="chineseChars">有</div>|<div class="answer">yǒu <span class="english">to have</span></div>
-<div class="chineseChars">⼿表</div>|<div class="answer">shǒubiǎo <span class="english">watch</span></div>
-<div class="chineseChars">孩⼦</div>|<div class="answer">háizi <span class="english">child</span></div>
-<div class="chineseChars">狗</div>|<div class="answer">gǒu <span class="english">dog</span></div>
-<div class="chineseChars">猫</div>|<div class="answer">māo <span class="english">cat</span></div>
-<div class="chineseChars">车</div>|<div class="answer">chē <span class="english">car</span></div>
-<div class="chineseChars">钱</div>|<div class="answer">qián <span class="english">money</span></div>
-<div class="chineseChars">谁</div>|<div class="answer">shéi/shuí <span class="english">who</span></div>
-<div class="chineseChars">的</div>|<div class="answer">de <span class="english">a possessive or descriptive particle</span></div>
-<div class="chineseChars">男</div>|<div class="answer">nán <span class="english">male</span></div>
-<div class="chineseChars">女</div>|<div class="answer">nǚ <span class="english">female</span></div>
+<div class="chineseChars">爸爸</div>|<div class="answer">bàba <span class="english">dad/father (我爸爸很高)</span></div>
+<div class="chineseChars">妈妈</div>|<div class="answer">māma <span class="english">mom/mother (我妈妈会做饭)</span></div>
+<div class="chineseChars">哥哥</div>|<div class="answer">gēge <span class="english">older brother (我哥哥比我高)</span></div>
+<div class="chineseChars">姐姐</div>|<div class="answer">jiějie <span class="english">older sister (我姐姐很聪明)</span></div>
+<div class="chineseChars">弟弟</div>|<div class="answer">dìdi <span class="english">younger brother (我弟弟喜欢踢足球)</span></div>
+<div class="chineseChars">妹妹</div>|<div class="answer">mèimei <span class="english">younger sister (我妹妹很可爱)</span></div>
+<div class="chineseChars">朋友</div>|<div class="answer">péngyǒu <span class="english">friend (他是我的好朋友)</span></div>
+<div class="chineseChars">男朋友</div>|<div class="answer">nán péngyǒu <span class="english">boyfriend (她有一个男朋友)</span></div>
+<div class="chineseChars">⼥朋友</div>|<div class="answer">nǚ péngyǒu <span class="english">girlfriend (他没有女朋友)</span></div>
+<div class="chineseChars">有</div>|<div class="answer">yǒu <span class="english">to have (我有一只狗)</span></div>
+<div class="chineseChars">⼿表</div>|<div class="answer">shǒubiǎo <span class="english">watch (这块手表很贵)</span></div>
+<div class="chineseChars">孩⼦</div>|<div class="answer">háizi <span class="english">child (那个孩子很可爱)</span></div>
+<div class="chineseChars">狗</div>|<div class="answer">gǒu <span class="english">dog (我家有一只狗)</span></div>
+<div class="chineseChars">猫</div>|<div class="answer">māo <span class="english">cat (这只猫很漂亮)</span></div>
+<div class="chineseChars">车</div>|<div class="answer">chē <span class="english">car (我有一辆新车)</span></div>
+<div class="chineseChars">钱</div>|<div class="answer">qián <span class="english">money (我没有钱了)</span></div>
+<div class="chineseChars">谁</div>|<div class="answer">shéi/shuí <span class="english">who (他是谁?)</span></div>
+<div class="chineseChars">的</div>|<div class="answer">de <span class="english">a possessive or descriptive particle (这是我的书)</span></div>
+<div class="chineseChars">男</div>|<div class="answer">nán <span class="english">male (他是一个男孩)</span></div>
+<div class="chineseChars">女</div>|<div class="answer">nǚ <span class="english">female (她是一个女孩)</span></div>

@@ -1,24 +1,24 @@
-<div class="chineseChars">年</div>|<div class="answer">nián <span class="english">year</span></div>
-<div class="chineseChars">明年</div>|<div class="answer">míngnián <span class="english">next year</span></div>
-<div class="chineseChars">去年</div>|<div class="answer">qùnián <span class="english">last year</span></div>
-<div class="chineseChars">下个星期</div>|<div class="answer">xià gè xīngqī <span class="english">next week</span></div>
-<div class="chineseChars">最近</div>|<div class="answer">zuì jìn <span class="english">recently</span></div>
-<div class="chineseChars">最</div>|<div class="answer">zuì <span class="english">most</span></div>
-<div class="chineseChars">近</div>|<div class="answer">jìn <span class="english">near</span></div>
-<div class="chineseChars">新</div>|<div class="answer">xīn <span class="english">new</span></div>
-<div class="chineseChars">电影</div>|<div class="answer">diànyǐng <span class="english">movie</span></div>
-<div class="chineseChars">听说</div>|<div class="answer">(tīngshuō) <span class="english">to be told; to hear of</span></div>
-<div class="chineseChars">好看</div>|<div class="answer">hǎokàn <span class="english">good-looking, good to watch</span></div>
-<div class="chineseChars">好听</div>|<div class="answer">hǎo tīng <span class="english">pleasant to hear</span></div>
-<div class="chineseChars">好吃</div>|<div class="answer">hǎo chī <span class="english">delicious</span></div>
-<div class="chineseChars">忙</div>|<div class="answer">máng <span class="english">busy</span></div>
-<div class="chineseChars">空</div>|<div class="answer">kòng <span class="english">free time</span></div>
-<div class="chineseChars">上个月</div>|<div class="answer">shàng gè yuè <span class="english">last month</span></div>
-<div class="chineseChars">听</div>|<div class="answer">tīng <span class="english">to listen</span></div>
-<div class="chineseChars">次</div>|<div class="answer">cì <span class="english">(number of) times</span></div>
-<div class="chineseChars">以前</div>|<div class="answer">yǐ qián <span class="english">before; previously</span></div>
-<div class="chineseChars">以后</div>|<div class="answer">yǐ hòu <span class="english">after, in the future</span></div>
-<div class="chineseChars">真的</div>|<div class="answer">zhēn de <span class="english">really; truly</span></div>
-<div class="chineseChars">请客</div>|<div class="answer">qǐng kè <span class="english">to treat, host a dinner</span></div>
-<div class="chineseChars">可爱</div>|<div class="answer">kě ài <span class="english">cute</span></div>
-<div class="chineseChars">今年</div>|<div class="answer">jīnnián <span class="english">this year</span></div>
+<div class="chineseChars">年</div>|<div class="answer">nián <span class="english">year (今年是2026年)</span></div>
+<div class="chineseChars">明年</div>|<div class="answer">míngnián <span class="english">next year (明年我想去中国)</span></div>
+<div class="chineseChars">去年</div>|<div class="answer">qùnián <span class="english">last year (我去年去了北京)</span></div>
+<div class="chineseChars">下个星期</div>|<div class="answer">xià gè xīngqī <span class="english">next week (下个星期我们去旅游)</span></div>
+<div class="chineseChars">最近</div>|<div class="answer">zuì jìn <span class="english">recently (我最近很忙)</span></div>
+<div class="chineseChars">最</div>|<div class="answer">zuì <span class="english">most (他是我最好的朋友)</span></div>
+<div class="chineseChars">近</div>|<div class="answer">jìn <span class="english">near (学校很近)</span></div>
+<div class="chineseChars">新</div>|<div class="answer">xīn <span class="english">new (我买了一辆新车)</span></div>
+<div class="chineseChars">电影</div>|<div class="answer">diànyǐng <span class="english">movie (这部电影很好看)</span></div>
+<div class="chineseChars">听说</div>|<div class="answer">(tīngshuō) <span class="english">to be told; to hear of (我听说他要来)</span></div>
+<div class="chineseChars">好看</div>|<div class="answer">hǎokàn <span class="english">good-looking, good to watch (这本书很好看)</span></div>
+<div class="chineseChars">好听</div>|<div class="answer">hǎo tīng <span class="english">pleasant to hear (这首歌很好听)</span></div>
+<div class="chineseChars">好吃</div>|<div class="answer">hǎo chī <span class="english">delicious (这个菜很好吃)</span></div>
+<div class="chineseChars">忙</div>|<div class="answer">máng <span class="english">busy (我今天很忙)</span></div>
+<div class="chineseChars">空</div>|<div class="answer">kòng <span class="english">free time (你有空吗?)</span></div>
+<div class="chineseChars">上个月</div>|<div class="answer">shàng gè yuè <span class="english">last month (我上个月去了上海)</span></div>
+<div class="chineseChars">听</div>|<div class="answer">tīng <span class="english">to listen (我喜欢听音乐)</span></div>
+<div class="chineseChars">次</div>|<div class="answer">cì <span class="english">(number of) times (我去过两次北京)</span></div>
+<div class="chineseChars">以前</div>|<div class="answer">yǐ qián <span class="english">before; previously (吃饭以前要洗手)</span></div>
+<div class="chineseChars">以后</div>|<div class="answer">yǐ hòu <span class="english">after, in the future (吃饭以后我们去散步)</span></div>
+<div class="chineseChars">真的</div>|<div class="answer">zhēn de <span class="english">really; truly (这是真的)</span></div>
+<div class="chineseChars">请客</div>|<div class="answer">qǐng kè <span class="english">to treat, host a dinner (今天我请客)</span></div>
+<div class="chineseChars">可爱</div>|<div class="answer">kě ài <span class="english">cute (这只猫很可爱)</span></div>
+<div class="chineseChars">今年</div>|<div class="answer">jīnnián <span class="english">this year (今年我毕业了)</span></div>

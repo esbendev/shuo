@@ -1,19 +1,19 @@
-<div class="chineseChars">在</div>|<div class="answer">zài <span class="english">at, in, on</span></div>
-<div class="chineseChars">哪⾥</div>|<div class="answer">nǎli <span class="english">where</span></div>
-<div class="chineseChars">去</div>|<div class="answer">qù <span class="english">to go</span></div>
-<div class="chineseChars">家</div>|<div class="answer">jiā <span class="english">home, family</span></div>
-<div class="chineseChars">学校</div>|<div class="answer">xuéxiào <span class="english">school</span></div>
-<div class="chineseChars">公司</div>|<div class="answer">gōngsī <span class="english">company</span></div>
-<div class="chineseChars">厕所</div>|<div class="answer">cèsuǒ <span class="english">toilet, restroom</span></div>
-<div class="chineseChars">商店</div>|<div class="answer">shāngdiàn <span class="english">shop, store</span></div>
-<div class="chineseChars">商场</div>|<div class="answer">shāngchǎng <span class="english">mall, shopping center</span></div>
-<div class="chineseChars">饭店</div>|<div class="answer">fàndiàn <span class="english">restaurant, hotel</span></div>
-<div class="chineseChars">咖啡店</div>|<div class="answer">kāfēidiàn <span class="english">coffee shop</span></div>
-<div class="chineseChars">今天</div>|<div class="answer">jīntiān <span class="english">today</span></div>
-<div class="chineseChars">昨天</div>|<div class="answer">zuótiān <span class="english">yesterday</span></div>
-<div class="chineseChars">明天</div>|<div class="answer">míngtiān <span class="english">tomorrow</span></div>
-<div class="chineseChars">现在</div>|<div class="answer">xiànzài <span class="english">now</span></div>
-<div class="chineseChars">书店</div>|<div class="answer">shūdiàn <span class="english">bookstore</span></div>
-<div class="chineseChars">了</div>|<div class="answer">le <span class="english">modal particle intensifying preceding clause / completed action marker</span></div>
-<div class="chineseChars">要</div>|<div class="answer">yào <span class="english">to be going to</span></div>
-<div class="chineseChars">没有</div>|<div class="answer">méi yǒu <span class="english">didn't, haven't</span></div>
+<div class="chineseChars">在</div>|<div class="answer">zài <span class="english">at, in, on (我在学校)</span></div>
+<div class="chineseChars">哪⾥</div>|<div class="answer">nǎli <span class="english">where (你住在哪里?)</span></div>
+<div class="chineseChars">去</div>|<div class="answer">qù <span class="english">to go (我想去商店)</span></div>
+<div class="chineseChars">家</div>|<div class="answer">jiā <span class="english">home, family (我回家了)</span></div>
+<div class="chineseChars">学校</div>|<div class="answer">xuéxiào <span class="english">school (我在学校学习)</span></div>
+<div class="chineseChars">公司</div>|<div class="answer">gōngsī <span class="english">company (他在公司工作)</span></div>
+<div class="chineseChars">厕所</div>|<div class="answer">cèsuǒ <span class="english">toilet, restroom (厕所在哪里?)</span></div>
+<div class="chineseChars">商店</div>|<div class="answer">shāngdiàn <span class="english">shop, store (我去商店买东西)</span></div>
+<div class="chineseChars">商场</div>|<div class="answer">shāngchǎng <span class="english">mall, shopping center (我们去商场吧)</span></div>
+<div class="chineseChars">饭店</div>|<div class="answer">fàndiàn <span class="english">restaurant, hotel (这家饭店很好)</span></div>
+<div class="chineseChars">咖啡店</div>|<div class="answer">kāfēidiàn <span class="english">coffee shop (我们去咖啡店喝咖啡)</span></div>
+<div class="chineseChars">今天</div>|<div class="answer">jīntiān <span class="english">today (今天是星期一)</span></div>
+<div class="chineseChars">昨天</div>|<div class="answer">zuótiān <span class="english">yesterday (昨天我去了学校)</span></div>
+<div class="chineseChars">明天</div>|<div class="answer">míngtiān <span class="english">tomorrow (明天见)</span></div>
+<div class="chineseChars">现在</div>|<div class="answer">xiànzài <span class="english">now (我现在很忙)</span></div>
+<div class="chineseChars">书店</div>|<div class="answer">shūdiàn <span class="english">bookstore (我喜欢去书店看书)</span></div>
+<div class="chineseChars">了</div>|<div class="answer">le <span class="english">modal particle intensifying preceding clause / completed action marker (我吃饭了)</span></div>
+<div class="chineseChars">要</div>|<div class="answer">yào <span class="english">to be going to (我要去北京)</span></div>
+<div class="chineseChars">没有</div>|<div class="answer">méi yǒu <span class="english">didn't, haven't (我没有去过中国)</span></div>

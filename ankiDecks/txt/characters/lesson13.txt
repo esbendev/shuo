@@ -1,14 +1,14 @@
-<div class="chineseChars">时间</div>|<div class="answer">shíjiān <span class="english">time</span></div>
-<div class="chineseChars">多长时间</div>|<div class="answer">duō cháng shí jiān <span class="english">how long (in time)?</span></div>
-<div class="chineseChars">小时</div>|<div class="answer">xiǎoshí <span class="english">hour</span></div>
-<div class="chineseChars">分钟</div>|<div class="answer">fēn zhōng <span class="english">minute</span></div>
-<div class="chineseChars">假期</div>|<div class="answer">jià qī <span class="english">vacation</span></div>
-<div class="chineseChars">旅游</div>|<div class="answer">lǚ yóu <span class="english">to travel</span></div>
-<div class="chineseChars">坐</div>|<div class="answer">zuò <span class="english">to sit</span></div>
-<div class="chineseChars">飞机</div>|<div class="answer">fēi jī <span class="english">airplane</span></div>
-<div class="chineseChars">太好了</div>|<div class="answer">tài hǎo le <span class="english">that's great</span></div>
-<div class="chineseChars">从</div>|<div class="answer">cóng <span class="english">from</span></div>
-<div class="chineseChars">到</div>|<div class="answer">dào <span class="english">to arrive, to (as in "from...to...")</span></div>
-<div class="chineseChars">用</div>|<div class="answer">yòng <span class="english">to use</span></div>
-<div class="chineseChars">别</div>|<div class="answer">bié <span class="english">don't</span></div>
-<div class="chineseChars">礼物</div>|<div class="answer">lǐ wù <span class="english">gift, present</span></div>
+<div class="chineseChars">时间</div>|<div class="answer">shíjiān <span class="english">time (你有时间吗?)</span></div>
+<div class="chineseChars">多长时间</div>|<div class="answer">duō cháng shí jiān <span class="english">how long (in time)? (你学习汉语多长时间了?)</span></div>
+<div class="chineseChars">小时</div>|<div class="answer">xiǎoshí <span class="english">hour (我每天学习两个小时)</span></div>
+<div class="chineseChars">分钟</div>|<div class="answer">fēn zhōng <span class="english">minute (请等我五分钟)</span></div>
+<div class="chineseChars">假期</div>|<div class="answer">jià qī <span class="english">vacation (假期我想去海边)</span></div>
+<div class="chineseChars">旅游</div>|<div class="answer">lǚ yóu <span class="english">to travel (我喜欢去不同的地方旅游)</span></div>
+<div class="chineseChars">坐</div>|<div class="answer">zuò <span class="english">to sit (请坐)</span></div>
+<div class="chineseChars">飞机</div>|<div class="answer">fēi jī <span class="english">airplane (我坐飞机去北京)</span></div>
+<div class="chineseChars">太好了</div>|<div class="answer">tài hǎo le <span class="english">that's great (你来了，太好了!)</span></div>
+<div class="chineseChars">从</div>|<div class="answer">cóng <span class="english">from (我从北京来)</span></div>
+<div class="chineseChars">到</div>|<div class="answer">dào <span class="english">to arrive, to (as in "from...to...") (我从家到学校需要半小时)</span></div>
+<div class="chineseChars">用</div>|<div class="answer">yòng <span class="english">to use (请用这个)</span></div>
+<div class="chineseChars">别</div>|<div class="answer">bié <span class="english">don't (别说话)</span></div>
+<div class="chineseChars">礼物</div>|<div class="answer">lǐ wù <span class="english">gift, present (这是我送你的礼物)</span></div>
