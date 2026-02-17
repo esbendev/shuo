@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estructuras</title>
+    <link rel="stylesheet" href="../estilos/estiloGeneral.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            /* max-width: 800px; */
+            margin: 2rem auto;
+            padding: 1rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+        }
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+            gap: 12px;
+            margin-top: 1rem;
+        }
+        .card {
+            border: 1px solid #e6e6e6;
+            padding: 12px;
+            border-radius: 8px;
+            background: #fff;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+        }
+        .card h3 {
+            margin: 0 0 6px 0;
+            font-size: 1rem;
+        }
+        .card .meta {
+            font-size: 0.85rem;
+            color: #666;
+            margin-bottom: 8px;
+        }
+        .badges {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-bottom: 8px;
+        }
+        .badge {
+            background: #f0f6f4;
+            color: #1f6f4a;
+            padding: 4px 8px;
+            border-radius: 999px;
+            font-size: 0.78rem;
+            border: 1px solid #e6efe9;
+        }
+        .badge.rule {
+            background: #fff4e6;
+            color: #8a4f00;
+            border-color: #f1e6d8;
+        }
+        .example-cn {
+            font-size: 1.05rem;
+            margin-bottom: 6px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        .keywords {
+            font-weight: bold;
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Structures I know so far</h1>
+    </header>
+    <div class="container">
+        <div id="controls" style="margin-bottom:0.5rem;display:grid;gap:8px;">
+            <input id="filter" placeholder="Filter by group, type, keyword, or text..." style="width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;">
+            <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+                <label style="font-size:0.95rem;"><input id="toggle-cn" type="checkbox" checked style="margin-right:6px;"> Show Chinese example</label>
+                <label style="font-size:0.95rem;"><input id="toggle-en" type="checkbox" checked style="margin-right:6px;"> Show English example</label>
+            </div>
+        </div>
+        <div id="cards-container" class="cards" aria-live="polite"></div>
+    </div>
+    <script>
+        // Fetch data from estructuras.json and populate card elements
+        function createCard(item) {
+            const card = document.createElement('div');
+            card.className = 'card';
+
+            const title = document.createElement('h3');
+            title.textContent = item.Meaning;
+            card.appendChild(title);
+
+            // badges: group / type / rule
+            const badges = document.createElement('div');
+            badges.className = 'badges';
+
+            const groupBadge = document.createElement('span');
+            groupBadge.className = 'badge';
+            groupBadge.textContent = item.Group || '';
+            badges.appendChild(groupBadge);
+
+            const typeBadge = document.createElement('span');
+            typeBadge.className = 'badge';
+            typeBadge.textContent = item.Type || '';
+            badges.appendChild(typeBadge);
+
+            const ruleBadge = document.createElement('span');
+            ruleBadge.className = 'badge rule';
+            ruleBadge.textContent = item.Rule || '';
+            badges.appendChild(ruleBadge);
+
+            card.appendChild(badges);
+
+            const more = document.createElement('div');
+            more.className = 'meta';
+            more.textContent = item.MoreInfo;
+            card.appendChild(more);
+
+            const exampleCn = document.createElement('div');
+            exampleCn.className = 'example-cn';
+            exampleCn.textContent = item.ExampleChinese;
+            card.appendChild(exampleCn);
+
+            const exampleEn = document.createElement('div');
+            exampleEn.className = 'example-en';
+            exampleEn.textContent = item.ExampleEN;
+            card.appendChild(exampleEn);
+
+            const kw = document.createElement('div');
+            kw.className = 'keywords';
+            kw.textContent = item.KeyWords;
+            card.appendChild(kw);
+
+            return card;
+        }
+
+        let structures = [];
+
+        fetch('estructuras.json')
+            .then(response => response.json())
+            .then(data => {
+                structures = data;
+                renderCards(structures);
+            })
+            .catch(error => console.error('Error loading JSON data:', error));
+
+        function renderCards(list) {
+            const container = document.getElementById('cards-container');
+            container.innerHTML = '';
+            list.forEach(item => container.appendChild(createCard(item)));
+            applyExampleVisibility();
+        }
+
+        // Simple filter
+        const filterInput = document.getElementById('filter');
+        filterInput.addEventListener('input', () => {
+            const q = filterInput.value.trim().toLowerCase();
+            if (!q) return renderCards(structures);
+            const filtered = structures.filter(item => {
+                return [item.Group, item.Type, item.Rule, item.Meaning, item.MoreInfo, item.ExampleChinese, item.ExampleEN, item.KeyWords]
+                    .join(' ').toLowerCase().includes(q);
+            });
+            renderCards(filtered);
+        });
+
+        // Show/hide example toggles
+        const toggleCn = document.getElementById('toggle-cn');
+        const toggleEn = document.getElementById('toggle-en');
+
+        function applyExampleVisibility() {
+            const showCn = toggleCn.checked;
+            const showEn = toggleEn.checked;
+            document.querySelectorAll('.example-cn').forEach(el => el.style.display = showCn ? '' : 'none');
+            document.querySelectorAll('.example-en').forEach(el => el.style.display = showEn ? '' : 'none');
+        }
+
+        toggleCn.addEventListener('change', applyExampleVisibility);
+        toggleEn.addEventListener('change', applyExampleVisibility);
+    </script>
+</body>
+</html>

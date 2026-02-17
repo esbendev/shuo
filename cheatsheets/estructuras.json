@@ -1,0 +1,422 @@
+[
+  {
+    "Group": "Core order",
+    "Type": "WO",
+    "Rule": "S + V + O",
+    "Meaning": "Basic sentence order",
+    "MoreInfo": "Default; add time/place around it",
+    "ExampleChinese": "他上个⽉找了⼀个新⼯作。",
+    "ExampleEN": "He found a new job last month.",
+    "KeyWords": "—"
+  },
+  {
+    "Group": "Core order",
+    "Type": "WO",
+    "Rule": "(Time) + S + V + O",
+    "Meaning": "Put time first",
+    "MoreInfo": "Common in narration",
+    "ExampleChinese": "最近我看了⼀个电影。",
+    "ExampleEN": "Recently I watched a movie.",
+    "KeyWords": "最近"
+  },
+  {
+    "Group": "Core order",
+    "Type": "WO",
+    "Rule": "S + (Time) + V + O",
+    "Meaning": "Time after subject",
+    "MoreInfo": "Also very common",
+    "ExampleChinese": "我去年认识了⼏个新朋友。",
+    "ExampleEN": "Last year I met several new friends.",
+    "KeyWords": "去年"
+  },
+  {
+    "Group": "Core order",
+    "Type": "WO",
+    "Rule": "Move verb + Place + V",
+    "Meaning": "Serial verbs for purpose",
+    "MoreInfo": "Go to X to do Y",
+    "ExampleChinese": "他去机场接⼥朋友。",
+    "ExampleEN": "He went to the airport to pick up his girlfriend.",
+    "KeyWords": "去…接…"
+  },
+  {
+    "Group": "Core order",
+    "Type": "WO",
+    "Rule": "和 + someone + 一起 + V",
+    "Meaning": "Together with…",
+    "MoreInfo": "Often before the verb",
+    "ExampleChinese": "我喜欢和你们⼀起聊天。",
+    "ExampleEN": "I like chatting with you all.",
+    "KeyWords": "和…一起"
+  },
+  {
+    "Group": "Linking",
+    "Type": "LINK",
+    "Rule": "A 是 B",
+    "Meaning": "Identification / is",
+    "MoreInfo": "Also for dates",
+    "ExampleChinese": "下个星期六是我的⽣⽇。",
+    "ExampleEN": "Next Saturday is my birthday.",
+    "KeyWords": "是"
+  },
+  {
+    "Group": "Existence",
+    "Type": "LINK",
+    "Rule": "有/没有 + noun",
+    "Meaning": "Have / not have",
+    "MoreInfo": "Often for time: 有空/没有空",
+    "ExampleChinese": "最近我很忙，没有空。",
+    "ExampleEN": "Recently I’m busy; I don’t have time.",
+    "KeyWords": "有/没有"
+  },
+  {
+    "Group": "Planning",
+    "Type": "MOD",
+    "Rule": "打算 + V",
+    "Meaning": "Plan/intend to…",
+    "MoreInfo": "Often with time question words",
+    "ExampleChinese": "你打算什么时候去中国？",
+    "ExampleEN": "When do you plan to go to China?",
+    "KeyWords": "打算 什么时候"
+  },
+  {
+    "Group": "Planning",
+    "Type": "Q",
+    "Rule": "有什么打算？",
+    "Meaning": "Any plans?",
+    "MoreInfo": "Fixed pattern",
+    "ExampleChinese": "星期六你有什么打算？",
+    "ExampleEN": "Any plans on Saturday?",
+    "KeyWords": "打算"
+  },
+  {
+    "Group": "Yes/No Q",
+    "Type": "Q",
+    "Rule": "…吗？",
+    "Meaning": "Yes/no question",
+    "MoreInfo": "Add at end of statement",
+    "ExampleChinese": "今天晚上你有什么打算吗？",
+    "ExampleEN": "Do you have any plans tonight?",
+    "KeyWords": "吗"
+  },
+  {
+    "Group": "Wh-questions",
+    "Type": "Q",
+    "Rule": "Question word in-place",
+    "Meaning": "No inversion",
+    "MoreInfo": "Keep word order; replace the unknown",
+    "ExampleChinese": "你的⽣⽇是⼏⽉⼏号？",
+    "ExampleEN": "What month/day is your birthday?",
+    "KeyWords": "几"
+  },
+  {
+    "Group": "Wh-questions",
+    "Type": "Q",
+    "Rule": "谁 as subject/object",
+    "Meaning": "Who…?",
+    "MoreInfo": "Slot it where the person is",
+    "ExampleChinese": "这是谁给你的礼物？",
+    "ExampleEN": "Who gave you this gift?",
+    "KeyWords": "谁 给"
+  },
+  {
+    "Group": "How Q",
+    "Type": "Q",
+    "Rule": "…怎么样？",
+    "Meaning": "How is it/are things?",
+    "MoreInfo": "Topic + 怎么样",
+    "ExampleChinese": "你最近怎么样？",
+    "ExampleEN": "How have you been lately?",
+    "KeyWords": "怎么样"
+  },
+  {
+    "Group": "Suggestions",
+    "Type": "CONN",
+    "Rule": "为什么不 + V",
+    "Meaning": "Why not…?",
+    "MoreInfo": "Friendly suggestion",
+    "ExampleChinese": "我们为什么不⼀起去？",
+    "ExampleEN": "Why don’t we go together?",
+    "KeyWords": "为什么不"
+  },
+  {
+    "Group": "Particle",
+    "Type": "PART",
+    "Rule": "吧",
+    "Meaning": "Suggestion/softening",
+    "MoreInfo": "Often for advice/requests",
+    "ExampleChinese": "我⼗点以后有空，你⼗点半来吧。",
+    "ExampleEN": "I’m free after 10; come at 10:30.",
+    "KeyWords": "吧"
+  },
+  {
+    "Group": "Particle",
+    "Type": "PART",
+    "Rule": "啊",
+    "Meaning": "Tone/emphasis",
+    "MoreInfo": "Urging, surprise, rhetorical",
+    "ExampleChinese": "你没有钱，就找⼀个⼯作啊！",
+    "ExampleEN": "If you have no money, then find a job!",
+    "KeyWords": "啊"
+  },
+  {
+    "Group": "Time",
+    "Type": "TIME",
+    "Rule": "上/下/这 + time word",
+    "Meaning": "Relative time",
+    "MoreInfo": "Up/down = last/next",
+    "ExampleChinese": "他上个⽉找了⼀个新⼯作。",
+    "ExampleEN": "He found a new job last month.",
+    "KeyWords": "上个…"
+  },
+  {
+    "Group": "Time",
+    "Type": "TIME",
+    "Rule": "…以前",
+    "Meaning": "Before… deadline",
+    "MoreInfo": "Often with commands",
+    "ExampleChinese": "星期五以前做完吧。",
+    "ExampleEN": "Finish it before Friday.",
+    "KeyWords": "以前"
+  },
+  {
+    "Group": "Time",
+    "Type": "TIME",
+    "Rule": "…以后",
+    "Meaning": "After…",
+    "MoreInfo": "Time window",
+    "ExampleChinese": "我⼗点以后有空。",
+    "ExampleEN": "I’m free after 10.",
+    "KeyWords": "以后"
+  },
+  {
+    "Group": "Contrast",
+    "Type": "CONN",
+    "Rule": "但是",
+    "Meaning": "But/however",
+    "MoreInfo": "Joins two clauses",
+    "ExampleChinese": "我学了⼏天法语，但是现在我都忘了。",
+    "ExampleEN": "I studied French for a few days, but now I forgot it all.",
+    "KeyWords": "但是"
+  },
+  {
+    "Group": "If/then",
+    "Type": "CONN",
+    "Rule": "…就…",
+    "Meaning": "Then / in that case",
+    "MoreInfo": "Often: condition → 就 → result",
+    "ExampleChinese": "你没有钱，就找⼀个⼯作啊！",
+    "ExampleEN": "If you have no money, then find a job!",
+    "KeyWords": "就"
+  },
+  {
+    "Group": "Aspect",
+    "Type": "ASP",
+    "Rule": "V + 了 (action)",
+    "Meaning": "Completed action",
+    "MoreInfo": "Did/experienced",
+    "ExampleChinese": "最近我看了⼀个电影。",
+    "ExampleEN": "Recently I watched a movie.",
+    "KeyWords": "了"
+  },
+  {
+    "Group": "Aspect",
+    "Type": "ASP",
+    "Rule": "Sentence-final 了",
+    "Meaning": "New state/change",
+    "MoreInfo": "It’s… now, (now) already…",
+    "ExampleChinese": "⼗⼀点了，还不去睡觉啊？",
+    "ExampleEN": "It’s 11 already—still not going to sleep?",
+    "KeyWords": "了"
+  },
+  {
+    "Group": "Negation",
+    "Type": "NEG",
+    "Rule": "不 + V/Adj",
+    "Meaning": "Not / won’t / not allowed",
+    "MoreInfo": "General/future; also rules",
+    "ExampleChinese": "医⽣说我不可以运动。",
+    "ExampleEN": "The doctor said I’m not allowed to exercise.",
+    "KeyWords": "不"
+  },
+  {
+    "Group": "Negation",
+    "Type": "NEG",
+    "Rule": "没(有) + V",
+    "Meaning": "Didn’t / hasn’t happened",
+    "MoreInfo": "Past/non-occurrence",
+    "ExampleChinese": "上次我没有空，这次我可以去。",
+    "ExampleEN": "Last time I wasn’t free; this time I can go.",
+    "KeyWords": "没有"
+  },
+  {
+    "Group": "Not yet",
+    "Type": "ASP",
+    "Rule": "还没 + V",
+    "Meaning": "Not yet",
+    "MoreInfo": "Often implies expected later",
+    "ExampleChinese": "他们还没喝完酒。",
+    "ExampleEN": "They haven’t finished drinking yet.",
+    "KeyWords": "还没"
+  },
+  {
+    "Group": "Result comp",
+    "Type": "RC",
+    "Rule": "V + 完",
+    "Meaning": "Finish doing",
+    "MoreInfo": "Very common completion pattern",
+    "ExampleChinese": "他们都做完作业了。",
+    "ExampleEN": "They finished all their homework.",
+    "KeyWords": "完"
+  },
+  {
+    "Group": "Quantifiers",
+    "Type": "QUANT",
+    "Rule": "都",
+    "Meaning": "All / entirely",
+    "MoreInfo": "Goes before verb/adj",
+    "ExampleChinese": "他们都做完作业了。",
+    "ExampleEN": "They all finished their homework.",
+    "KeyWords": "都"
+  },
+  {
+    "Group": "Frequency",
+    "Type": "QUANT",
+    "Rule": "每 + time/classifier",
+    "Meaning": "Every/each",
+    "MoreInfo": "每次/每天 etc.",
+    "ExampleChinese": "他每次都请客。",
+    "ExampleEN": "Every time, he treats (pays).",
+    "KeyWords": "每次"
+  },
+  {
+    "Group": "Degree",
+    "Type": "DEG",
+    "Rule": "很 + Adj",
+    "Meaning": "Very/quite",
+    "MoreInfo": "Default degree marker",
+    "ExampleChinese": "最近我很忙，没有空。",
+    "ExampleEN": "Recently I’m very busy.",
+    "KeyWords": "很"
+  },
+  {
+    "Group": "Degree",
+    "Type": "DEG",
+    "Rule": "太 + Adj(了)",
+    "Meaning": "Too… / so…",
+    "MoreInfo": "Often expresses emotion",
+    "ExampleChinese": "你来看我，我太⾼兴了！",
+    "ExampleEN": "You came to see me; I’m so happy!",
+    "KeyWords": "太…了"
+  },
+  {
+    "Group": "Commands",
+    "Type": "IMP",
+    "Rule": "别 + V",
+    "Meaning": "Don’t…",
+    "MoreInfo": "Negative imperative",
+    "ExampleChinese": "很晚了，别聊天了！",
+    "ExampleEN": "It’s late—don’t chat anymore!",
+    "KeyWords": "别"
+  },
+  {
+    "Group": "Reporting",
+    "Type": "REP",
+    "Rule": "听说 + clause",
+    "Meaning": "Heard that…",
+    "MoreInfo": "Reported info",
+    "ExampleChinese": "我听说你最近在找⼯作。",
+    "ExampleEN": "I heard you’ve been job-hunting lately.",
+    "KeyWords": "听说"
+  },
+  {
+    "Group": "Reporting",
+    "Type": "REP",
+    "Rule": "A 说 + clause",
+    "Meaning": "A says…",
+    "MoreInfo": "Quoting/reporting",
+    "ExampleChinese": "医⽣说我不可以运动。",
+    "ExampleEN": "The doctor said I can’t exercise.",
+    "KeyWords": "说"
+  },
+  {
+    "Group": "Opinion",
+    "Type": "REP",
+    "Rule": "觉得 + clause",
+    "Meaning": "Think/feel",
+    "MoreInfo": "Softer than know",
+    "ExampleChinese": "我觉得每个孩⼦都很可爱。",
+    "ExampleEN": "I think every child is cute.",
+    "KeyWords": "觉得"
+  },
+  {
+    "Group": "Modifier",
+    "Type": "MODIF",
+    "Rule": "[Clause] + 的 + N",
+    "Meaning": "The N that…",
+    "MoreInfo": "Turns a clause into an adjective",
+    "ExampleChinese": "他做的饭很好吃。",
+    "ExampleEN": "The food he cooked is delicious.",
+    "KeyWords": "的"
+  },
+  {
+    "Group": "Duration",
+    "Type": "TIME",
+    "Rule": "V + duration",
+    "Meaning": "Did something for X time",
+    "MoreInfo": "Duration after verb",
+    "ExampleChinese": "我一个人在中国旅游了三个月。",
+    "ExampleEN": "I traveled in China alone for three months.",
+    "KeyWords": "三个月"
+  },
+  {
+    "Group": "Duration Q",
+    "Type": "Q",
+    "Rule": "V + 多长时间/多久？",
+    "Meaning": "How long (duration)",
+    "MoreInfo": "Put it after the verb",
+    "ExampleChinese": "你来中国多长时间了？",
+    "ExampleEN": "How long have you been in China?",
+    "KeyWords": "多长时间"
+  },
+  {
+    "Group": "Duration Q",
+    "Type": "Q",
+    "Rule": "几 + time unit",
+    "Meaning": "How many hours/days…",
+    "MoreInfo": "Quantity question with time units",
+    "ExampleChinese": "从中国到美国，坐飞机要⽤⼏个⼩时？",
+    "ExampleEN": "From China to the US, how many hours by plane?",
+    "KeyWords": "几个小时"
+  },
+  {
+    "Group": "Totals",
+    "Type": "QUANT",
+    "Rule": "一共 + number",
+    "Meaning": "In total",
+    "MoreInfo": "Often before the verb phrase",
+    "ExampleChinese": "这个月我一共工作了二十天。",
+    "ExampleEN": "This month I worked 20 days total.",
+    "KeyWords": "一共"
+  },
+  {
+    "Group": "Approx",
+    "Type": "QUANT",
+    "Rule": "大概 + number",
+    "Meaning": "Approximately",
+    "MoreInfo": "Softens precision",
+    "ExampleChinese": "我学了大概四个月中文了。",
+    "ExampleEN": "I studied Chinese for about four months.",
+    "KeyWords": "大概"
+  },
+  {
+    "Group": "Give",
+    "Type": "WO",
+    "Rule": "A 给 B + V + O",
+    "Meaning": "Do V for/to B",
+    "MoreInfo": "Common with 买/给",
+    "ExampleChinese": "我的妹妹给我买了一个礼物。",
+    "ExampleEN": "My sister bought me a gift.",
+    "KeyWords": "给"
+  }
+]
