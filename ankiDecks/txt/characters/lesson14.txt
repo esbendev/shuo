@@ -1,0 +1,18 @@
+<div class="chineseChars">怎么样</div>|<div class="answer">zěn me yàng <span class="english">how (你怎么样?)</span></div>
+<div class="chineseChars">好玩</div>|<div class="answer">hăo wán <span class="english">fun, amusing (这个游戏很好玩。)</span></div>
+<div class="chineseChars">非常</div>|<div class="answer">fēicháng <span class="english">very (这非常重要。)</span></div>
+<div class="chineseChars">再</div>|<div class="answer">zài <span class="english">again (请再说一次。)</span></div>
+<div class="chineseChars">城市</div>|<div class="answer">chéngshì <span class="english">city (北京是一个大城市。)</span></div>
+<div class="chineseChars">只</div>|<div class="answer">zhǐ <span class="english">only (我只有一个苹果。)</span></div>
+<div class="chineseChars">多</div>|<div class="answer">duō <span class="english">many, much (这里有很多人。)</span></div>
+<div class="chineseChars">少</div>|<div class="answer">shǎo <span class="english">few, little, less (我很少吃糖。)</span></div>
+<div class="chineseChars">比较</div>|<div class="answer">bǐ jiào <span class="english">relatively, comparatively (这个比较便宜。)</span></div>
+<div class="chineseChars">菜</div>|<div class="answer">cài <span class="english">dishes; cuisine (今天的菜很好吃。)</span></div>
+<div class="chineseChars">又...又...</div>|<div class="answer">yòu ... yòu <span class="english">... as well as ... (又便宜又好吃。)</span></div>
+<div class="chineseChars">酸</div>|<div class="answer">suān <span class="english">sour (这个柠檬很酸。)</span></div>
+<div class="chineseChars">甜</div>|<div class="answer">tián <span class="english">sweet (这个蛋糕很甜。)</span></div>
+<div class="chineseChars">苦</div>|<div class="answer">kǔ <span class="english">bitter (这个药很苦。)</span></div>
+<div class="chineseChars">辣</div>|<div class="answer">là <span class="english">spicy (这个菜太辣了。)</span></div>
+<div class="chineseChars">对了</div>|<div class="answer">duì le <span class="english">Oh right! (对了，我忘记了。)</span></div>
+<div class="chineseChars">象</div>|<div class="answer">xiàng <span class="english">elephant (我在动物园看到了大象。)</span></div>
+<div class="chineseChars">字</div>|<div class="answer">zì <span class="english">character (这个汉字很难。)</span></div>
