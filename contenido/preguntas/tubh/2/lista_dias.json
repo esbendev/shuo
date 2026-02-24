@@ -303,10 +303,24 @@
         "number": 25,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_25",
-                "disabled": true
+                "text": "Audio 1",
+                "link": "./quiz/index.html?file=tubh2_25_audio",
+                "id": "tubh2_25_audio"
+            },
+            {
+                "text": "Audio 2",
+                "link": "./quiz/index.html?file=tubh2_25_audio_2",
+                "id": "tubh2_25_audio_2"
+            },
+            {
+                "text": "Audio 3",
+                "link": "./quiz/index.html?file=tubh2_25_audio_3",
+                "id": "tubh2_25_audio_3"
+            },
+            {
+                "text": "Swipe",
+                "link": "./other/experimentos/swipe/index.html?file=tubh2_25_audios_rapidos",
+                "id": "tubh2_25_audios_rapidos"
             }
         ]
     },
@@ -314,7 +328,7 @@
         "number": 26,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_26",
                 "disabled": true

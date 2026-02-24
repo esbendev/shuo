@@ -1,0 +1,66 @@
+{
+    "titulo": "Day 25 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/2/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这个电影怎么样？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/2/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你去旅游怎么样啊？好玩吗？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/2/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这是美国最大的城市。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/2/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我还想再去中国旅游"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/2/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你可以再说一次吗？"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}

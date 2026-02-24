@@ -1,0 +1,102 @@
+{
+    "titulo": "Day 25 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/3/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/3/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天晚上我只睡了三个小时"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/3/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/3/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这两个星期我的工作比较多。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/3/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/3/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "这个公司比较小，只有八个职员。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/3/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/3/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "他又聪明又漂亮。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/3/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/3/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我们去吃日本菜吧？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/3/6-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/3/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我觉得汉字又好看又好玩。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/3/7-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/3/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我比较喜欢十点去公司，因为这个时候车比较少。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-25/3/8-fast.mp3",
+                "../contenido/audio/tubh/2/day-25/3/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我比较喜欢吃甜的东西。"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
