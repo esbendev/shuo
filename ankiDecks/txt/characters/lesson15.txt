@@ -1,0 +1,17 @@
+<div class="chineseChars">怎么</div>|<div class="answer">zěnme <span class="english">how (你怎么说？)</span></div>
+<div class="chineseChars">常常</div>|<div class="answer">chángcháng <span class="english">often (我常常去公园。)</span></div>
+<div class="chineseChars">自己</div>|<div class="answer">zìjǐ <span class="english">oneself (我自己做这个。)</span></div>
+<div class="chineseChars">写</div>|<div class="answer">xiě <span class="english">to write (请写下你的名字。)</span></div>
+<div class="chineseChars">教</div>|<div class="answer">jiāo <span class="english">to teach (他教我中文。)</span></div>
+<div class="chineseChars">练习</div>|<div class="answer">liàn xí <span class="english">practice, to practise (我每天练习语言。)</span></div>
+<div class="chineseChars">口语</div>|<div class="answer">kǒuyǔ <span class="english">spoken language, speaking (口语很重要。)</span></div>
+<div class="chineseChars">网</div>|<div class="answer">wǎng <span class="english">net, internet (我在网上学习。)</span></div>
+<div class="chineseChars">网站</div>|<div class="answer">wǎng zhàn <span class="english">website (这个网站很有用。)</span></div>
+<div class="chineseChars">一样</div>|<div class="answer">yíyàng <span class="english">same; alike (我们的想法一样。)</span></div>
+<div class="chineseChars">母语者</div>|<div class="answer">mǔyǔzhě <span class="english">native speaker (他是中文母语者。)</span></div>
+<div class="chineseChars">介绍</div>|<div class="answer">jiè shào <span class="english">to introduce (让我介绍一下。)</span></div>
+<div class="chineseChars">视频</div>|<div class="answer">shì pín <span class="english">video (我看了一个中文视频。)</span></div>
+<div class="chineseChars">那</div>|<div class="answer">nà <span class="english">then, in that case (那我们开始吧。)</span></div>
+<div class="chineseChars">等一下</div>|<div class="answer">děng yī xià <span class="english">wait a moment (等一下，我来了。)</span></div>
+<div class="chineseChars">发</div>|<div class="answer">fā <span class="english">to send, to post (请发给我。)</span></div>
+<div class="chineseChars">邮件</div>|<div class="answer">yóujiàn <span class="english">email, mail (我收到了你的邮件。)</span></div>
