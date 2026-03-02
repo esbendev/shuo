@@ -394,10 +394,9 @@
         "number": 32,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_32",
-                "disabled": true
+                "text": "Text",
+                "link": "./other/textos/tubh/2/day-32.html",
+                "id": "tubh2_32"
             }
         ]
     },
