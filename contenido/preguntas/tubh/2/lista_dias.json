@@ -404,10 +404,24 @@
         "number": 33,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_33",
-                "disabled": true
+                "text": "Audio 1",
+                "link": "./quiz/index.html?file=tubh2_33_audio",
+                "id": "tubh2_33_audio"
+            },
+            {
+                "text": "Audio 2",
+                "link": "./quiz/index.html?file=tubh2_33_audio_2",
+                "id": "tubh2_33_audio_2"
+            },
+            {
+                "text": "Audio 3",
+                "link": "./quiz/index.html?file=tubh2_33_audio_3",
+                "id": "tubh2_33_audio_3"
+            },
+            {
+                "text": "Swipe",
+                "link": "./other/experimentos/swipe/index.html?file=tubh2_33_audios_rapidos",
+                "id": "tubh2_33_audios_rapidos"
             }
         ]
     },
