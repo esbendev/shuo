@@ -429,7 +429,7 @@
         "number": 34,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_34",
                 "disabled": true
@@ -440,7 +440,7 @@
         "number": 35,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_35",
                 "disabled": true
@@ -451,7 +451,7 @@
         "number": 36,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_36",
                 "disabled": true
@@ -462,7 +462,7 @@
         "number": 37,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_37",
                 "disabled": true
@@ -473,7 +473,7 @@
         "number": 38,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_38",
                 "disabled": true
@@ -484,10 +484,14 @@
         "number": 39,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_39",
-                "disabled": true
+                "text": "Text 1",
+                "link": "./other/textos/tubh/2/day-39-1.html",
+                "id": "tubh2_39_1"
+            },
+            {
+                "text": "Text 2",
+                "link": "./other/textos/tubh/2/day-39-2.html",
+                "id": "tubh2_39_2"
             }
         ]
     },

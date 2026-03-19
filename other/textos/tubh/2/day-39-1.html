@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuo Quiz</title>
+    <link rel="stylesheet" href="../../../../estilos/estiloLector.css">
+    <link rel="stylesheet" href="../../../../estilos/estiloPopup.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-475SSTM0WC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        // Configure Google Analytics with additional parameters
+        gtag('config', 'G-475SSTM0WC', {
+            'anonymize_ip': true, // Anonymize IP addresses for privacy
+            'page_title': document.title, // Track the page title dynamically
+            'page_path': window.location.pathname // Track the current page path
+        });
+    </script>
+</head>
+
+<!-- ESTA ES UNA PRUEBA POR SI HAY MÁS TEXTOS EN EL FUTURO -->
+<!-- AHORA TODO RE HARDCODEADO PERO A FUTURO SE PUEDE HACER BONITO -->
+
+<body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Hover over chinese characters for pinyin.</p>
+        </div>
+    </div>
+    <main class="quiz-container">
+        <a href="../../../../index.html" class="boton-atras">Back to main menu</a>
+        <div class="botones-control-quiz">
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        </div>
+        <h1>Day 39 Text 1</h1>
+        <div id="texto-con-pinyin" style="text-align: left;">
+            <p>你好[nǐ hǎo]，我先[wǒ xiān]介绍[jièshào]介绍[jièshào]自己[zìjǐ]。我叫[wǒ jiào]消停[xiāo
+                tíng]，是[shì]琪琪[qíqí]的[de]朋友[péngyou]。虽然[suīrán]我爸爸[wǒ bàba]是[shì]泰国人[tàiguó rén]，但是[dànshì]我没有[wǒ
+                méiyǒu]去过[qùguò]泰国[tàiguó]，现在[xiànzài]我和[wǒ hé]我的[wǒ de]家人[jiārén]都在[dōu
+                zài]北京[běijīng]。去年[qùnián]我读完[wǒ dúwán]大学[dàxué]了[le]，现在[xiànzài]在[zài]一家[yì
+                jiā]手机[shǒujī]公司[gōngsī]工作[gōngzuò]。我是[wǒ shì]一个[yì ge]很好玩[hěn hǎowán]的[de]人[rén]，也很[yě
+                hěn]喜欢[xǐhuān]认识[rènshi]新朋友[xīn péngyou]。对了[duìle]，我还没有[wǒ háimei yǒu]男朋友[nán péngyou]，但是[dànshì]我觉得[wǒ
+                juéde]每天[měitiān]都很[dōu hěn]高兴[gāoxìng]。
+            </p>
+        </div>
+        <script src="../../../../quiz/pinyinInterpreter.js"></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                addTooltipsToChineseText("#texto-con-pinyin");
+            });
+        </script>
+    </main>
+    <footer>
+        <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+    </footer>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>
