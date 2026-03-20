@@ -1,0 +1,102 @@
+{
+    "titulo": "Day 40 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-40/2/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-40/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我从来没有想过这个问题。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-40/2/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-40/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你知道他怎么了吗？"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-40/2/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-40/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "虽然没有读过⼤学，但是他⾮常聪明。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-40/2/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-40/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我们等⼀下打车去吧。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-40/2/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-40/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你先想想吧。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-40/2/6-fast.mp3",
+                "../contenido/audio/tubh/2/day-40/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我们先坐地铁，再打车。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-40/2/7-fast.mp3",
+                "../contenido/audio/tubh/2/day-40/2/7-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你们先吃吧，别等我了。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-40/2/8-fast.mp3",
+                "../contenido/audio/tubh/2/day-40/2/8-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我的城市还没有地铁。"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
