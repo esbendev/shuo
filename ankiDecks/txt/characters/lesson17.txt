@@ -1,0 +1,5 @@
+<div class="chineseChars">麻烦</div>|<div class="answer">má fan <span class="english">troublesome</span></div>
+<div class="chineseChars">师傅</div>|<div class="answer">shī fu <span class="english">master worker</span></div>
+<div class="chineseChars">走</div>|<div class="answer">zǒu <span class="english">to go, walk</span></div>
+<div class="chineseChars">条</div>|<div class="answer">tiáo <span class="english">measure word for pants and long, thin objects</span></div>
+<div class="chineseChars">路</div>|<div class="answer">lù <span class="english">road</span></div>

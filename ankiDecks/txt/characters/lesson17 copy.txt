@@ -1,0 +1,22 @@
+<div class="chineseChars">麻烦</div>|<div class="answer">má fan <span class="english">troublesome</span></div>
+<div class="chineseChars">师傅</div>|<div class="answer">shī fu <span class="english">master worker</span></div>
+<div class="chineseChars">走</div>|<div class="answer">zǒu <span class="english">to go, walk</span></div>
+<div class="chineseChars">条</div>|<div class="answer">tiáo <span class="english">measure word for pants and long, thin objects</span></div>
+<div class="chineseChars">路</div>|<div class="answer">lù <span class="english">road</span></div>
+<div class="chineseChars">地图</div>|<div class="answer">dìtú <span class="english">map</span></div>
+<div class="chineseChars">一直</div>|<div class="answer">yìzhí <span class="english">continuously; always</span></div>
+<div class="chineseChars">前</div>|<div class="answer">qián <span class="english">in front</span></div>
+<div class="chineseChars">后</div>|<div class="answer">hòu <span class="english">behind</span></div>
+<div class="chineseChars">左</div>|<div class="answer">zuǒ <span class="english">left</span></div>
+<div class="chineseChars">右</div>|<div class="answer">yòu <span class="english">right</span></div>
+<div class="chineseChars">往</div>|<div class="answer">wǎng <span class="english">towards</span></div>
+<div class="chineseChars">转</div>|<div class="answer">zhuǎn <span class="english">to turn</span></div>
+<div class="chineseChars">这么/那么</div>|<div class="answer">zhème / nàme <span class="english">so (expensive, far, etc.)</span></div>
+<div class="chineseChars">骗</div>|<div class="answer">piàn <span class="english">to deceive, lie to</span></div>
+<div class="chineseChars">差不多</div>|<div class="answer">chà bu duō <span class="english">about, almost, similar</span></div>
+<div class="chineseChars">华为</div>|<div class="answer">huáwéi <span class="english">Huawei</span></div>
+<div class="chineseChars">这样吧</div>|<div class="answer">zhèyàng ba <span class="english">how about this</span></div>
+<div class="chineseChars">告诉</div>|<div class="answer">gào su <span class="english">to tell</span></div>
+<div class="chineseChars">微信</div>|<div class="answer">wēi xìn <span class="english">WeChat</span></div>
+<div class="chineseChars">加</div>|<div class="answer">jiā <span class="english">plus, to add</span></div>
+<div class="chineseChars">让</div>|<div class="answer">ràng <span class="english">to let, make, ask</span></div>
