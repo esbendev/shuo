@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v260406-1";
+const CACHE_NAME = "esbendev-shuo-v260406-2";
 const urlsToCache = [
     // general
     "/shuo/",
