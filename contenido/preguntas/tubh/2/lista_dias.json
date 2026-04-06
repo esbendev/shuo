@@ -590,7 +590,7 @@
         "number": 47,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_47",
                 "disabled": true
@@ -601,8 +601,8 @@
         "number": 48,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
+                "text": "Text",
+                "link": "./other/textos/tubh/2/day-48.html",
                 "id": "tubh2_48",
                 "disabled": true
             }
@@ -612,10 +612,24 @@
         "number": 49,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_49",
-                "disabled": true
+                "text": "Audio 1",
+                "link": "./quiz/index.html?file=tubh2_49_audio",
+                "id": "tubh2_49_audio"
+            },
+            {
+                "text": "Audio 2",
+                "link": "./quiz/index.html?file=tubh2_49_audio_2",
+                "id": "tubh2_49_audio_2"
+            },
+            {
+                "text": "Audio 3",
+                "link": "./quiz/index.html?file=tubh2_49_audio_3",
+                "id": "tubh2_49_audio_3"
+            },
+            {
+                "text": "Swipe",
+                "link": "./other/experimentos/swipe/index.html?file=tubh2_49_audios_rapidos",
+                "id": "tubh2_49_audios_rapidos"
             }
         ]
     },

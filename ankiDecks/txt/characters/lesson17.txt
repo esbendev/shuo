@@ -13,3 +13,10 @@
 <div class="chineseChars">转</div>|<div class="answer">zhuǎn <span class="english">to turn</span></div>
 <div class="chineseChars">这么/那么</div>|<div class="answer">zhème / nàme <span class="english">so (expensive, far, etc.)</span></div>
 <div class="chineseChars">骗</div>|<div class="answer">piàn <span class="english">to deceive, lie to</span></div>
+<div class="chineseChars">差不多</div>|<div class="answer">chà bu duō <span class="english">about, almost, similar</span></div>
+<div class="chineseChars">华为</div>|<div class="answer">huáwéi <span class="english">Huawei</span></div>
+<div class="chineseChars">这样吧</div>|<div class="answer">zhèyàng ba <span class="english">how about this</span></div>
+<div class="chineseChars">告诉</div>|<div class="answer">gào su <span class="english">to tell</span></div>
+<div class="chineseChars">微信</div>|<div class="answer">wēi xìn <span class="english">WeChat</span></div>
+<div class="chineseChars">加</div>|<div class="answer">jiā <span class="english">plus, to add</span></div>
+<div class="chineseChars">让</div>|<div class="answer">ràng <span class="english">to let, make, ask</span></div>
