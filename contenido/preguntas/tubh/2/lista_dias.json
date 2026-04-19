@@ -636,7 +636,7 @@
         "number": 50,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_50",
                 "disabled": true
@@ -647,7 +647,7 @@
         "number": 51,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_51",
                 "disabled": true
@@ -658,7 +658,7 @@
         "number": 52,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_52",
                 "disabled": true
@@ -669,7 +669,7 @@
         "number": 53,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_53",
                 "disabled": true
@@ -680,7 +680,7 @@
         "number": 54,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_54",
                 "disabled": true
@@ -691,7 +691,7 @@
         "number": 55,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_55",
                 "disabled": true
@@ -702,7 +702,7 @@
         "number": 56,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_56",
                 "disabled": true
@@ -713,10 +713,9 @@
         "number": 57,
         "content": [
             {
-                "text": "Not here yet...",
-                "link": "#",
-                "id": "tubh2_57",
-                "disabled": true
+                "text": "Text",
+                "link": "./other/textos/tubh/2/day-57.html",
+                "id": "tubh2_57"
             }
         ]
     },
