@@ -1,0 +1,78 @@
+{
+    "titulo": "Day 65 Vocabulary",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-65/2/1-fast.mp3",
+                "../contenido/audio/tubh/2/day-65/2/1-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "昨天我没时间，只随便看了一下。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-65/2/2-fast.mp3",
+                "../contenido/audio/tubh/2/day-65/2/2-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你穿这条裙子一定很好看！"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-65/2/3-fast.mp3",
+                "../contenido/audio/tubh/2/day-65/2/3-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你们随便聊，我去上个厕所。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-65/2/4-fast.mp3",
+                "../contenido/audio/tubh/2/day-65/2/4-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "我试着只穿黑色的衣服。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-65/2/5-fast.mp3",
+                "../contenido/audio/tubh/2/day-65/2/5-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你一定要试一下这个菜。"
+            ],
+            "input_chars_aceptados": []
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/tubh/2/day-65/2/6-fast.mp3",
+                "../contenido/audio/tubh/2/day-65/2/6-slow.mp3"
+            ],
+            "respuesta_correcta": [
+                "你想去哪里都可以，随便你！"
+            ],
+            "input_chars_aceptados": []
+        }
+    ]
+}
