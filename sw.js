@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v260420-1";
+const CACHE_NAME = "esbendev-shuo-v260426-1";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -104,6 +104,7 @@ const urlsToCache = [
     "/shuo/other/textos/tubh/2/day-39-2.html",
     "/shuo/other/textos/tubh/2/day-48.html",
     "/shuo/other/textos/tubh/2/day-57.html",
+    "/shuo/other/textos/tubh/2/day-64.html",
     // other 2 (?
     "/shuo/other/sentence-builder.html",
     "/shuo/cheatsheets/index.html",
