@@ -1,0 +1,19 @@
+<div class="chineseChars">随便</div>|<div class="answer">suí biàn <span class="english">casual, careless, to do as one pleases</span></div>
+<div class="chineseChars">穿</div>|<div class="answer">chuān <span class="english">to wear</span></div>
+<div class="chineseChars">裙子</div>|<div class="answer">qún zi <span class="english">skirt, dress</span></div>
+<div class="chineseChars">胖</div>|<div class="answer">pàng <span class="english">fat</span></div>
+<div class="chineseChars">瘦</div>|<div class="answer">shòu <span class="english">thin</span></div>
+<div class="chineseChars">黑色</div>|<div class="answer">hēisè <span class="english">black</span></div>
+<div class="chineseChars">白色</div>|<div class="answer">báisè <span class="english">white</span></div>
+<div class="chineseChars">红色</div>|<div class="answer">hóng sè <span class="english">red</span></div>
+<div class="chineseChars">黄色</div>|<div class="answer">huáng sè <span class="english">yellow</span></div>
+<div class="chineseChars">蓝色</div>|<div class="answer">lán sè <span class="english">blue</span></div>
+<div class="chineseChars">绿色</div>|<div class="answer">lǜ sè <span class="english">green</span></div>
+<div class="chineseChars">棕色</div>|<div class="answer">zōng sè <span class="english">brown</span></div>
+<div class="chineseChars">试</div>|<div class="answer">shì <span class="english">to try</span></div>
+<div class="chineseChars">一定</div>|<div class="answer">yí dìng <span class="english">definitely</span></div>
+<div class="chineseChars">特别</div>|<div class="answer">tèbié <span class="english">especially</span></div>
+<div class="chineseChars">低</div>|<div class="answer">dī <span class="english">low</span></div>
+<div class="chineseChars">胸</div>|<div class="answer">xiōng <span class="english">breast, chest</span></div>
+<div class="chineseChars">有点儿</div>|<div class="answer">yǒudiǎnr <span class="english">somewhat; a bit</span></div>
+<div class="chineseChars">换</div>|<div class="answer">huàn <span class="english">to change, exchange</span></div>

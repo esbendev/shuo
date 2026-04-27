@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuo Quiz</title>
+    <link rel="stylesheet" href="../../../../estilos/estiloLector.css">
+    <link rel="stylesheet" href="../../../../estilos/estiloPopup.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-475SSTM0WC"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        // Configure Google Analytics with additional parameters
+        gtag('config', 'G-475SSTM0WC', {
+            'anonymize_ip': true, // Anonymize IP addresses for privacy
+            'page_title': document.title, // Track the page title dynamically
+            'page_path': window.location.pathname // Track the current page path
+        });
+    </script>
+</head>
+
+<!-- ESTA ES UNA PRUEBA POR SI HAY MÁS TEXTOS EN EL FUTURO -->
+<!-- AHORA TODO RE HARDCODEADO PERO A FUTURO SE PUEDE HACER BONITO -->
+
+<body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Hover over chinese characters for pinyin.</p>
+        </div>
+    </div>
+    <main class="quiz-container">
+        <a href="../../../../index.html" class="boton-atras">Back to main menu</a>
+        <div class="botones-control-quiz">
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        </div>
+        <h1>Day 64 Text</h1>
+
+        <div id="texto-con-pinyin" style="text-align: left;">
+            <p><strong class="person-1">售货员[shòu huò yuán]</strong>：您好[nín hǎo]，随便[suí biàn]看看[kàn kan]。</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：请问[qǐng wèn]，这条[zhè tiáo]裙子[qún zi]我[wǒ]可以[kě yǐ]试试[shì shi]吗[ma]？</p>
+            <p><strong class="person-1">售货员[shòu huò yuán]</strong>：当然[dāng rán]可以[kě yǐ]，试衣间[shì yī jiān]前边[qián bian]左转[zuǒ zhuǎn]。</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：这条[zhè tiáo]裙子[qún zi]我[wǒ]穿[chuān]太[tài]胖[pàng]了[le]，有没有[yǒu méi yǒu]显瘦[xiǎn shòu]一点儿[yī diǎnr]的[de]？</p>
+            <p><strong class="person-1">售货员[shòu huò yuán]</strong>：这件[zhè jiàn]怎么样[zěn me yàng]？黑色[hēi sè]显瘦[xiǎn shòu]，您[nín]穿上[chuān shàng]一定[yī dìng]特别[tè bié]好看[hǎo kàn]。</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：这件[zhè jiàn]好[hǎo]是[shì]好[hǎo]，不过[bú guò]胸[xiōng]有点儿[yǒu diǎnr]低[dī]。</p>
+            <p><strong class="person-1">售货员[shòu huò yuán]</strong>：那[nà]给[gěi]您[nín]换[huàn]一件[yī jiàn]。。。</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：不用[bú yòng]不用[bú yòng]。。。就[jiù]买[mǎi]这件[zhè jiàn]吧[ba]，多少钱[duō shǎo qián]？</p>
+            <p><strong class="person-1">售货员[shòu huò yuán]</strong>：这件[zhè jiàn]300元[yuán]。</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：太[tài]贵[guì]了[le]，可以[kě yǐ]便宜[pián yi]一点儿[yī diǎnr]吗[ma]？</p>
+            <p><strong class="person-1">售货员[shòu huò yuán]</strong>：这个[zhè ge]月[yuè]我们[wǒ men]店[diàn]给[gěi]学生[xué shēng]打[dǎ]八折[bā zhé]，您[nín]有[yǒu]学生证[xué shēng zhèng]吗[ma]？</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：有[yǒu]有[yǒu]有[yǒu]！！</p>
+        </div>
+        <script src="../../../../quiz/pinyinInterpreter.js"></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                addTooltipsToChineseText("#texto-con-pinyin");
+            });
+        </script>
+    </main>
+    <footer>
+        <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+        <p>Wanna support me? <a href="https://ko-fi.com/esbendev">buy me a coffee!</a> :)</p>
+    </footer>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>
