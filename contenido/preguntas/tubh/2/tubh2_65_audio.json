@@ -1,213 +1,236 @@
 {
-    "titulo": "Day 65 Vocabulary",
-    "showHelp": true,
-    "preguntas": [
-        {
-            "id": 1,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/1.mp3",
-            "respuesta_correcta": [
-                "第十九课"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 2,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/2.mp3",
-            "respuesta_correcta": [
-                "随便"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 3,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/3.mp3",
-            "respuesta_correcta": [
-                "穿"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 4,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/4.mp3",
-            "respuesta_correcta": [
-                "裙子"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 5,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/5.mp3",
-            "respuesta_correcta": [
-                "胖"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 6,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/6.mp3",
-            "respuesta_correcta": [
-                "瘦"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 7,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/7.mp3",
-            "respuesta_correcta": [
-                "显瘦"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 8,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/8.mp3",
-            "respuesta_correcta": [
-                "黑色"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 9,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/9.mp3",
-            "respuesta_correcta": [
-                "蓝色"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 10,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/10.mp3",
-            "respuesta_correcta": [
-                "绿色"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 11,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/11.mp3",
-            "respuesta_correcta": [
-                "黄色"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 12,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/12.mp3",
-            "respuesta_correcta": [
-                "红色"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 13,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/13.mp3",
-            "respuesta_correcta": [
-                "白色"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 14,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/14.mp3",
-            "respuesta_correcta": [
-                "试"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 15,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/15.mp3",
-            "respuesta_correcta": [
-                "试着"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 16,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/16.mp3",
-            "respuesta_correcta": [
-                "试衣间"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 17,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/17.mp3",
-            "respuesta_correcta": [
-                "一定"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 18,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/18.mp3",
-            "respuesta_correcta": [
-                "特别"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 19,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/19.mp3",
-            "respuesta_correcta": [
-                "低"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 20,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/20.mp3",
-            "respuesta_correcta": [
-                "胸"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 21,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/21.mp3",
-            "respuesta_correcta": [
-                "有点儿"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 22,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/22.mp3",
-            "respuesta_correcta": [
-                "换"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 23,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-65/1/23.mp3",
-            "respuesta_correcta": [
-                "便宜"
-            ],
-            "input_chars_aceptados": []
-        }
-    ]
+  "titulo": "Day 65 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/1.mp3",
+      "respuesta_correcta": [
+        "第十九课"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/2.mp3",
+      "respuesta_correcta": [
+        "随便"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/3.mp3",
+      "respuesta_correcta": [
+        "穿"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/4.mp3",
+      "respuesta_correcta": [
+        "裙子"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/5.mp3",
+      "respuesta_correcta": [
+        "胖"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/6.mp3",
+      "respuesta_correcta": [
+        "瘦"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/7.mp3",
+      "respuesta_correcta": [
+        "显瘦"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/8.mp3",
+      "respuesta_correcta": [
+        "黑色"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/9.mp3",
+      "respuesta_correcta": [
+        "蓝色"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/10.mp3",
+      "respuesta_correcta": [
+        "绿色"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/11.mp3",
+      "respuesta_correcta": [
+        "黄色"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/12.mp3",
+      "respuesta_correcta": [
+        "红色"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/13.mp3",
+      "respuesta_correcta": [
+        "白色"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/14.mp3",
+      "respuesta_correcta": [
+        "试"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/15.mp3",
+      "respuesta_correcta": [
+        "试着"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/16.mp3",
+      "respuesta_correcta": [
+        "试衣间"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/17.mp3",
+      "respuesta_correcta": [
+        "一定"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/18.mp3",
+      "respuesta_correcta": [
+        "特别"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 19,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/19.mp3",
+      "respuesta_correcta": [
+        "低"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 20,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/20.mp3",
+      "respuesta_correcta": [
+        "胸"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 21,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/21.mp3",
+      "respuesta_correcta": [
+        "有点儿"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 22,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/22.mp3",
+      "respuesta_correcta": [
+        "换"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 23,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/23.mp3",
+      "respuesta_correcta": [
+        "便宜"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    }
+  ]
 }

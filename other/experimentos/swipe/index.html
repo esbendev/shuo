@@ -6,14 +6,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>swipe experiment</title>
     <style>
+        :root {
+            --bg: #f4f4f1;
+            --card-bg: #fbfbf9;
+            --text-main: #1e2324;
+            --text-muted: #666f73;
+            --accent: #2b6c5f;
+            --accent-pressed: #245b50;
+            --line: #d8ddda;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
         body {
             margin: 0;
             overflow: hidden;
-            font-family: Arial, sans-serif;
+            font-family: "Avenir Next", "Segoe UI", Tahoma, sans-serif;
+            color: var(--text-main);
+            background: var(--bg);
         }
 
         .container {
-            height: 100vh;
+            height: 100dvh;
             display: flex;
             flex-direction: column;
             transition: transform 0.3s ease-in-out;
@@ -21,57 +37,241 @@
         }
 
         .card {
-            height: 100vh;
+            height: 100dvh;
             display: flex;
             justify-content: center;
-            align-items: center;
-            font-size: 2rem;
+            align-items: stretch;
             flex-direction: column;
-            background-color: #f0f0f0;
-            border: 1px solid #ccc;
             position: absolute;
             width: 100%;
             top: calc(var(--card-index, 0) * 100%);
+            padding: 16px;
+            background: transparent;
+        }
+
+        .card-inner {
+            width: min(100%, 680px);
+            height: 100%;
+            margin: 0 auto;
+            border: 1px solid var(--line);
+            border-radius: 10px;
+            background: var(--card-bg);
+            padding: 20px 16px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            gap: 14px;
+            overflow: hidden;
+        }
+
+        .intro {
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            font-size: clamp(1.8rem, 7vw, 2.6rem);
+            font-weight: 600;
+            letter-spacing: 0.01em;
+            color: #1d2b2c;
+        }
+
+        .content-stack {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            justify-content: center;
+        }
+
+        .text-slot {
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: #f7f8f6;
+            padding: 14px 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 104px;
+        }
+
+        .text-slot.en {
+            min-height: 90px;
+        }
+
+        .text-slot-label {
+            margin: 0;
+            font-size: 0.74rem;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            text-align: center;
         }
 
         .card-text {
             text-align: center;
+            margin: 0;
+            visibility: hidden;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+            width: 100%;
+            line-height: 1.35;
         }
 
-        .button-container {
-            display: flex;
+        .card-text.revealed {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        .card-text.zh {
+            font-size: clamp(1.8rem, 8vw, 2.8rem);
+            font-weight: 700;
+            letter-spacing: 0.04em;
+        }
+
+        .card-text.en {
+            font-size: clamp(1.05rem, 4.9vw, 1.4rem);
+            color: #2f3f44;
+            font-weight: 500;
+        }
+
+        .controls {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
             gap: 10px;
-            margin-top: 10px;
         }
 
-        .audio-button {
-            padding: 10px 20px;
+        .audio-status {
+            grid-column: 1 / -1;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            min-height: 34px;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            background: #f2f4f1;
+            color: #3a4649;
+            font-size: 0.92rem;
+            font-weight: 600;
+        }
+
+        .audio-status .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: #8a9498;
+            opacity: 0.85;
+        }
+
+        .audio-status.playing {
+            color: #21473f;
+            border-color: #bcd5ce;
+            background: #eaf1ee;
+        }
+
+        .audio-status.playing .status-dot {
+            background: #2b6c5f;
+            animation: pulse-dot 1s ease-in-out infinite;
+        }
+
+        @keyframes pulse-dot {
+            0% {
+                transform: scale(1);
+                opacity: 0.75;
+            }
+
+            50% {
+                transform: scale(1.45);
+                opacity: 1;
+            }
+
+            100% {
+                transform: scale(1);
+                opacity: 0.75;
+            }
+        }
+
+        .button {
+            appearance: none;
+            border: 1px solid var(--line);
+            border-radius: 8px;
+            min-height: 48px;
+            padding: 10px 12px;
             font-size: 1rem;
+            font-weight: 600;
             cursor: pointer;
+            transition: opacity 0.2s ease, background-color 0.2s ease;
+        }
+
+        .button:active {
+            opacity: 0.92;
+        }
+
+        .button:disabled {
+            opacity: 0.45;
+            cursor: not-allowed;
+            transform: none;
         }
 
         .toggle-text-button {
-            margin-top: 10px;
-            padding: 5px 10px;
-            font-size: 0.9rem;
-            cursor: pointer;
+            background: #eff1ee;
+            color: #2e3d40;
+        }
+
+        .audio-button {
+            background: var(--accent);
+            color: #ffffff;
+            border-color: var(--accent);
+        }
+
+        .audio-button:active {
+            background: var(--accent-pressed);
         }
 
         .cafe {
             margin-top: 20px;
-            font-size: 1.2rem;
-            color: #555;
+            font-size: 1rem;
+            color: var(--text-muted);
             text-align: center;
+            line-height: 1.4;
+        }
+
+        .cafe a {
+            color: #245e7a;
+            font-weight: 600;
+        }
+
+        @media (max-width: 420px) {
+            .card {
+                padding: 10px;
+            }
+
+            .card-inner {
+                border-radius: 8px;
+                padding: 14px 12px;
+                gap: 12px;
+            }
+
+            .controls {
+                gap: 8px;
+            }
+
+            .button {
+                min-height: 44px;
+                font-size: 0.96rem;
+            }
         }
     </style>
 </head>
 
 <body>
     <div class="container" id="cardContainer">
-        <div class="card" style="--card-index: 0;">swipe to start
-            <div class="cafe">
-                <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
-                <p>Wanna support me? <a href="https://ko-fi.com/esbendev">buy me a coffee!</a> :)</p>
+        <div class="card" style="--card-index: 0;">
+            <div class="card-inner intro">
+                <div>Swipe to start</div>
+                <div class="cafe">
+                    <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+                    <p>Wanna support me? <a href="https://ko-fi.com/esbendev">buy me a coffee!</a> :)</p>
+                </div>
             </div>
         </div>
     </div>

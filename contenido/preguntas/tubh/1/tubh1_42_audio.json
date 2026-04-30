@@ -1,168 +1,186 @@
 {
-    "titulo": "Day 42 Vocabulary",
-    "showHelp": true,
-    "preguntas": [
-        {
-            "id": 1,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/1.mp3",
-            "respuesta_correcta": [
-                "第九课"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 2,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/2.mp3",
-            "respuesta_correcta": [
-                "这个多少钱？"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 3,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/3.mp3",
-            "respuesta_correcta": [
-                "想"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 4,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/4.mp3",
-            "respuesta_correcta": [
-                "对不起"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 5,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/5.mp3",
-            "respuesta_correcta": [
-                "请问"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 6,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/6.mp3",
-            "respuesta_correcta": [
-                "请"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 7,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/7.mp3",
-            "respuesta_correcta": [
-                "问"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 8,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/8.mp3",
-            "respuesta_correcta": [
-                "包子"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 9,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/9.mp3",
-            "respuesta_correcta": [
-                "饺子"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 10,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/10.mp3",
-            "respuesta_correcta": [
-                "一碗饺子"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 11,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/11.mp3",
-            "respuesta_correcta": [
-                "猪肉粥"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 12,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/12.mp3",
-            "respuesta_correcta": [
-                "牛肉"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 13,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/13.mp3",
-            "respuesta_correcta": [
-                "鸡肉"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 14,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/14.mp3",
-            "respuesta_correcta": [
-                "鱼"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 15,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/15.mp3",
-            "respuesta_correcta": [
-                "虾"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 16,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/16.mp3",
-            "respuesta_correcta": [
-                "给"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 17,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/17.mp3",
-            "respuesta_correcta": [
-                "吧"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 18,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/1/day-42/1/18.mp3",
-            "respuesta_correcta": [
-                "找"
-            ],
-            "input_chars_aceptados": []
-        }
-    ]
+  "titulo": "Day 42 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/1.mp3",
+      "respuesta_correcta": [
+        "第九课"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/2.mp3",
+      "respuesta_correcta": [
+        "这个多少钱？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/3.mp3",
+      "respuesta_correcta": [
+        "想"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/4.mp3",
+      "respuesta_correcta": [
+        "对不起"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/5.mp3",
+      "respuesta_correcta": [
+        "请问"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/6.mp3",
+      "respuesta_correcta": [
+        "请"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/7.mp3",
+      "respuesta_correcta": [
+        "问"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/8.mp3",
+      "respuesta_correcta": [
+        "包子"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/9.mp3",
+      "respuesta_correcta": [
+        "饺子"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/10.mp3",
+      "respuesta_correcta": [
+        "一碗饺子"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/11.mp3",
+      "respuesta_correcta": [
+        "猪肉粥"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/12.mp3",
+      "respuesta_correcta": [
+        "牛肉"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/13.mp3",
+      "respuesta_correcta": [
+        "鸡肉"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/14.mp3",
+      "respuesta_correcta": [
+        "鱼"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/15.mp3",
+      "respuesta_correcta": [
+        "虾"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/16.mp3",
+      "respuesta_correcta": [
+        "给"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/17.mp3",
+      "respuesta_correcta": [
+        "吧"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/1/day-42/1/18.mp3",
+      "respuesta_correcta": [
+        "找"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    }
+  ]
 }

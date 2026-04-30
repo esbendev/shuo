@@ -1,165 +1,176 @@
 {
-    "titulo": "Day 11 Vocabulary",
-    "showHelp": true,
-    "preguntas": [
-        {
-            "id": 1,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/1-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/1-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "我二十八岁。",
-                "wǒ èr shí bā suì.",
-                "wo3 er4 shi2 ba1 sui4.",
-                "我28岁。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 2,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/2-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/2-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "老师是中国人。 我很喜欢她。",
-                "lǎo shī shì zhōng guó rén. wǒ hěn xǐ huān tā.",
-                "lao3 shi1 shi4 zhong1 guo2 ren2. wo3 hen3 xi3 huan1 ta1."
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 3,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/3-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/3-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "我不认识他。",
-                "我不认识她。",
-                "wǒ bù rèn shi tā.",
-                "wo3 bu4 ren4 shi ta1."
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 4,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/4-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/4-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "这是杯子。",
-                "zhè shì bēi zi.",
-                "zhe4 shi4 bei1 zi5",
-                "zhe4 shi4 bei1 zi"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 5,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/5-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/5-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "那是苹果电脑。",
-                "nà shì píng guǒ diàn nǎo.",
-                "na4 shi4 ping2 guo3 dian4 nao3."
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 6,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/6-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/6-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "这是什么书？",
-                "zhè shì shén me shū?",
-                "zhe4 shi4 shen2 me shu1?"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 7,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/7-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/7-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "这是英文书。",
-                "zhè shì yīng wén shū.",
-                "zhe4 shi4 ying1 wen2 shu1."
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 8,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/8-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/8-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "那是什么书？",
-                "nà shì shén me shū?",
-                "na4 shi4 shen2 me shu1?"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 9,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/9-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/9-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "那是西班牙语书。",
-                "nà shì xī bān yá yǔ shū?",
-                "na4 shi4 xi1 ban1 ya2 yu3 shu1?"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 10,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/10-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/10-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "他是什么老师？",
-                "她是什么老师？",
-                "tā shì shén me lǎo shī?",
-                "ta1 shi4 shen2 me lao3 shi1?"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 11,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-11/2/11-fast.mp3",
-                "../contenido/audio/tubh/1/day-11/2/11-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "他是汉语老师。",
-                "她是汉语老师。",
-                "tā shì hàn yǔ lǎo shī.",
-                "ta1 shi4 han4 yu3 lao3 shi1."
-            ],
-            "input_chars_aceptados": []
-        }
-    ]
+  "titulo": "Day 11 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/1-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/1-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我二十八岁。",
+        "wǒ èr shí bā suì.",
+        "wo3 er4 shi2 ba1 sui4.",
+        "我28岁。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/2-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/2-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "老师是中国人。 我很喜欢她。",
+        "lǎo shī shì zhōng guó rén. wǒ hěn xǐ huān tā.",
+        "lao3 shi1 shi4 zhong1 guo2 ren2. wo3 hen3 xi3 huan1 ta1."
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/3-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/3-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我不认识他。",
+        "我不认识她。",
+        "wǒ bù rèn shi tā.",
+        "wo3 bu4 ren4 shi ta1."
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/4-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/4-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "这是杯子。",
+        "zhè shì bēi zi.",
+        "zhe4 shi4 bei1 zi5",
+        "zhe4 shi4 bei1 zi"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/5-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/5-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "那是苹果电脑。",
+        "nà shì píng guǒ diàn nǎo.",
+        "na4 shi4 ping2 guo3 dian4 nao3."
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/6-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/6-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "这是什么书？",
+        "zhè shì shén me shū?",
+        "zhe4 shi4 shen2 me shu1?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/7-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/7-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "这是英文书。",
+        "zhè shì yīng wén shū.",
+        "zhe4 shi4 ying1 wen2 shu1."
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/8-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/8-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "那是什么书？",
+        "nà shì shén me shū?",
+        "na4 shi4 shen2 me shu1?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/9-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/9-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "那是西班牙语书。",
+        "nà shì xī bān yá yǔ shū?",
+        "na4 shi4 xi1 ban1 ya2 yu3 shu1?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/10-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/10-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他是什么老师？",
+        "她是什么老师？",
+        "tā shì shén me lǎo shī?",
+        "ta1 shi4 shen2 me lao3 shi1?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-11/2/11-fast.mp3",
+        "../contenido/audio/tubh/1/day-11/2/11-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他是汉语老师。",
+        "她是汉语老师。",
+        "tā shì hàn yǔ lǎo shī.",
+        "ta1 shi4 han4 yu3 lao3 shi1."
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    }
+  ]
 }

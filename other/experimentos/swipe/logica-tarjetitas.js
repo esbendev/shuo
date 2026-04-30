@@ -4,13 +4,53 @@ let startY = 0;
 let endY = 0;
 
 let currentAudio = null;
+let currentStatusIndicator = null;
 
-function playAudio(src) {
+function setAudioStatus(indicator, isPlaying, sourceLabel) {
+    if (!indicator) {
+        return;
+    }
+
+    const text = indicator.querySelector('.status-text');
+
+    if (isPlaying) {
+        indicator.classList.add('playing');
+        text.textContent = `Playing (${sourceLabel})`;
+        return;
+    }
+
+    indicator.classList.remove('playing');
+    text.textContent = 'Stopped';
+}
+
+function playAudio(src, sourceLabel, indicator) {
+    if (currentStatusIndicator && currentStatusIndicator !== indicator) {
+        setAudioStatus(currentStatusIndicator, false);
+    }
+
     if (currentAudio) {
         currentAudio.pause();
         currentAudio.currentTime = 0;
     }
+
     currentAudio = new Audio(src);
+    currentStatusIndicator = indicator;
+
+    setAudioStatus(indicator, true, sourceLabel);
+
+    currentAudio.addEventListener('ended', () => {
+        setAudioStatus(indicator, false);
+        if (currentAudio) {
+            currentAudio = null;
+        }
+    });
+
+    currentAudio.addEventListener('pause', () => {
+        if (currentAudio && currentAudio.currentTime < currentAudio.duration) {
+            setAudioStatus(indicator, false);
+        }
+    });
+
     currentAudio.play();
 }
 
@@ -30,44 +70,101 @@ fetch(filePath)
             const card = document.createElement('div');
             card.className = 'card';
             card.style.setProperty('--card-index', pregunta.id); // Use id from JSON
-            card.style.backgroundColor = pregunta.id % 2 === 0 ? 'lightyellow' : 'lightgray';
 
-            const text = document.createElement('div');
-            text.className = 'card-text';
-            text.style.display = 'none'; // Initially hidden
-            text.textContent = pregunta.respuesta_correcta[0]; // Use the first respuesta_correcta
-            card.appendChild(text);
+            const cardInner = document.createElement('div');
+            cardInner.className = 'card-inner';
+
+            const contentStack = document.createElement('div');
+            contentStack.className = 'content-stack';
+
+            const chineseLabel = document.createElement('p');
+            chineseLabel.className = 'text-slot-label';
+            chineseLabel.textContent = 'Chinese';
+            contentStack.appendChild(chineseLabel);
+
+            const chineseSlot = document.createElement('div');
+            chineseSlot.className = 'text-slot zh';
+
+            const chineseText = document.createElement('p');
+            chineseText.className = 'card-text zh';
+            chineseText.textContent = pregunta.respuesta_correcta[0]; // Use the first respuesta_correcta
+            chineseSlot.appendChild(chineseText);
+            contentStack.appendChild(chineseSlot);
+
+            const englishLabel = document.createElement('p');
+            englishLabel.className = 'text-slot-label';
+            englishLabel.textContent = 'English';
+            contentStack.appendChild(englishLabel);
+
+            const englishSlot = document.createElement('div');
+            englishSlot.className = 'text-slot en';
+
+            const englishText = document.createElement('p');
+            englishText.className = 'card-text en';
+            englishText.textContent = pregunta.texto_en_ingles || '';
+            englishSlot.appendChild(englishText);
+            contentStack.appendChild(englishSlot);
+
+            cardInner.appendChild(contentStack);
 
             const showTextButton = document.createElement('button');
-            showTextButton.className = 'toggle-text-button';
-            showTextButton.textContent = 'Show Text';
+            showTextButton.className = 'button toggle-text-button';
+            showTextButton.textContent = 'Show Chinese';
             showTextButton.addEventListener('click', () => {
-                text.style.display = text.style.display === 'none' ? 'block' : 'none';
+                const isShown = chineseText.classList.toggle('revealed');
+                showTextButton.textContent = isShown ? 'Hide Chinese' : 'Show Chinese';
             });
-            card.appendChild(showTextButton);
+
+            const showEnglishButton = document.createElement('button');
+            showEnglishButton.className = 'button toggle-text-button';
+            showEnglishButton.textContent = 'Show English';
+            const hasEnglishText = Boolean((pregunta.texto_en_ingles || '').trim());
+            showEnglishButton.disabled = !hasEnglishText;
+            showEnglishButton.addEventListener('click', () => {
+                const isShown = englishText.classList.toggle('revealed');
+                showEnglishButton.textContent = isShown ? 'Hide English' : 'Show English';
+            });
 
             const buttonContainer = document.createElement('div');
-            buttonContainer.className = 'button-container';
-            card.appendChild(buttonContainer);
+            buttonContainer.className = 'controls';
+
+            const audioStatus = document.createElement('div');
+            audioStatus.className = 'audio-status';
+
+            const statusDot = document.createElement('span');
+            statusDot.className = 'status-dot';
+            audioStatus.appendChild(statusDot);
+
+            const statusText = document.createElement('span');
+            statusText.className = 'status-text';
+            statusText.textContent = 'Stopped';
+            audioStatus.appendChild(statusText);
+
+            buttonContainer.appendChild(audioStatus);
+
+            buttonContainer.appendChild(showTextButton);
+            buttonContainer.appendChild(showEnglishButton);
 
             const buttonFast = document.createElement('button');
-            buttonFast.className = 'audio-button';
+            buttonFast.className = 'button audio-button';
             buttonFast.id = 'audio-button-fast';
             buttonFast.textContent = 'Fast';
             buttonFast.addEventListener('click', () => {
-                playAudio("../../" + pregunta.archivo_audio[0]);
+                playAudio("../../" + pregunta.archivo_audio[0], 'Fast', audioStatus);
             });
             buttonContainer.appendChild(buttonFast);
 
             const buttonSlow = document.createElement('button');
-            buttonSlow.className = 'audio-button';
+            buttonSlow.className = 'button audio-button';
             buttonSlow.id = 'audio-button-slow';
             buttonSlow.textContent = 'Slow';
             buttonSlow.addEventListener('click', () => {
-                playAudio("../../" + pregunta.archivo_audio[1]);
+                playAudio("../../" + pregunta.archivo_audio[1], 'Slow', audioStatus);
             });
             buttonContainer.appendChild(buttonSlow);
 
+            cardInner.appendChild(buttonContainer);
+            card.appendChild(cardInner);
             container.appendChild(card);
         });
     })
@@ -83,6 +180,7 @@ function loadNewCard(currentIndex) {
     if (currentAudio) {
         currentAudio.pause();
         currentAudio.currentTime = 0;
+        setAudioStatus(currentStatusIndicator, false);
         currentAudio = null;
     }
 

@@ -131,7 +131,7 @@
         </div>
         <form id="prompt-form">
             <label for="level">Select Level:</label><br>
-            <select id="level" name="level" onchange="updatePromptFields()">
+            <select id="level" name="level" onchange="updatePromptFields()" disabled>
                 <option value="1">Level 1</option>
                 <option value="2">Level 2</option>
                 <option value="3">Level 3</option>
@@ -142,6 +142,15 @@
                 <option value="8">Level 8</option>
                 <option value="9">Level 9</option>
                 <option value="10">Level 10</option>
+                <option value="11">Level 11</option>
+                <option value="12">Level 12</option>
+                <option value="13">Level 13</option>
+                <option value="14">Level 14</option>
+                <option value="15">Level 15</option>
+                <option value="16">Level 16</option>
+                <option value="17">Level 17</option>
+                <option value="18">Level 18</option>
+                <option value="19">Level 19</option>
             </select><br><br>
 
             <label for="length">Set Text Length:</label><br>
@@ -151,7 +160,7 @@
             <p><strong>How many sentences?</strong> <span id="length"></span></p>
             <p><strong>Minimum Words to Use:</strong> <span id="word-count"></span></p>
 
-            <button type="button" onclick="generatePrompt()">Generate Prompt</button>
+            <button id="generate-btn" type="button" onclick="generatePrompt()" disabled>Generate Prompt</button>
         </form>
 
         <section id="generated-prompt" style="margin-top: 20px;">
@@ -173,7 +182,7 @@
     </main>
 
     <script>
-        const levelData = {
+        const fallbackLevelData = {
             1: {
                 wordList: "我,我们,你们,老师,你,他,她,您,好,叫,岁,哪,国,⼈,很,也,早上,晚上,什么,名字,⾼兴,认识,不,很好,喜欢,吗,是",
                 wordCount: 20,
@@ -213,11 +222,112 @@
             10: {
                 wordList: "点,每天,⼤概,起床,刷⽛,洗脸,洗澡,运动,开车,聊天,吃早饭,吃晚饭,玩⼿机,以前,以后,就,或者,还是,然后,呢,玩,零,分,差,一刻,半",
                 wordCount: 50,
+            },
+            11: {
+                wordList: "生日,月,号,日,星期,打算,一起,啊,还,但是,完,酒吧,喝酒,可以,因为,为什么,第二天,哈哈,忘,国庆节",
+                wordCount: 50,
+            },
+            12: {
+                wordList: "年,明年,去年,下个星期,最近,最,近,新,电影,听说,好看,好听,好吃,忙,空,上个月,听,次,以前,以后,真的,请客,可爱,今年",
+                wordCount: 50,
+            },
+            13: {
+                wordList: "时间,多长时间,小时,分钟,假期,旅游,坐,飞机,太好了,从,到,用,别,礼物",
+                wordCount: 50,
+            },
+            14: {
+                wordList: "怎么样,好玩,非常,再,城市,只,多,少,比较,菜,又...又...,酸,甜,苦,辣,对了,象,字",
+                wordCount: 50,
+            },
+            15: {
+                wordList: "怎么,常常,自己,写,教,练习,口语,网,网站,一样,母语者,介绍,视频,那,等一下,发,邮件",
+                wordCount: 50,
+            },
+            16: {
+                wordList: "长城,怎么了,虽然,过,出,租,出租车,打的,先,地铁,行,打折,假,学生证,淘宝",
+                wordCount: 50,
+            },
+            17: {
+                wordList: "麻烦,师傅,走,条,路,地图,一直,前,后,左,右,往,转,这么/那么,骗,差不多,华为,这样吧,告诉,微信,加,让",
+                wordCount: 50,
+            },
+            18: {
+                wordList: "记得,朋友圈,帅哥,快,慢,不但...而且...,个子,高,矮,眼睛,鼻子,嘴巴,耳朵,头发,约,件,衣服,当然,不过,一点儿",
+                wordCount: 50,
+            },
+            19: {
+                wordList: "随便,穿,裙子,胖,瘦,黑色,白色,红色,黄色,蓝色,绿色,棕色,试,一定,特别,低,胸,有点儿,换",
+                wordCount: 50,
             }
         };
 
+        let levelData = { ...fallbackLevelData };
+        const LESSON_COUNT = 19;
+        const LESSON_BASE_PATH = "../../ankiDecks/txt/characters";
+
+        function buildWordCount(level) {
+            if (level === 1) return 20;
+            if (level === 2) return 30;
+            if (level === 3) return 40;
+            return 50;
+        }
+
+        function getDefaultLengthByLevel(level) {
+            if (level <= 4) return 4;
+            if (level <= 9) return 6;
+            if (level <= 14) return 8;
+            return 10;
+        }
+
+        function parseChineseCharsFromLesson(rawContent) {
+            const words = [];
+            const pattern = /<div class="chineseChars">([\s\S]*?)<\/div>/g;
+            let match;
+
+            while ((match = pattern.exec(rawContent)) !== null) {
+                const word = match[1].trim();
+                if (word) words.push(word);
+            }
+
+            return words;
+        }
+
+        async function loadVocabularyFromLessons() {
+            const loadedLevelData = {};
+
+            for (let level = 1; level <= LESSON_COUNT; level++) {
+                const filePath = `${LESSON_BASE_PATH}/lesson${level}.txt`;
+                const response = await fetch(filePath);
+                if (!response.ok) {
+                    throw new Error(`Failed to load ${filePath} (${response.status})`);
+                }
+
+                const fileContent = await response.text();
+                const words = parseChineseCharsFromLesson(fileContent);
+                loadedLevelData[level] = {
+                    wordList: words.join(', '),
+                    wordCount: buildWordCount(level),
+                };
+            }
+
+            return loadedLevelData;
+        }
+
+        async function initializeVocabulary() {
+            try {
+                levelData = await loadVocabularyFromLessons();
+            } catch (error) {
+                console.warn('Using embedded vocabulary fallback. Could not load lesson files:', error);
+                levelData = { ...fallbackLevelData };
+            } finally {
+                document.getElementById('level').disabled = false;
+                document.getElementById('generate-btn').disabled = false;
+                updatePromptFields();
+            }
+        }
+
         function updatePromptFields() {
-            const level = document.getElementById('level').value;
+            const level = Number(document.getElementById('level').value);
             const data = levelData[level];
 
             let combinedWordList = [];
@@ -226,24 +336,90 @@
             }
 
             document.getElementById('word-list').textContent = combinedWordList.join(', ');
-            document.getElementById('length').value = "4"; // Default length value
+            document.getElementById('length').value = getDefaultLengthByLevel(level);
             document.getElementById('word-count').textContent = data.wordCount;
+        }
+
+        function getPromptRulesByLevel(level) {
+            let minQuestions = 1;
+            let questionRule = "Include at least 1 question using 吗 or a simple question word from the list.";
+            let structureRules = [
+                "S. + V. + O.",
+                "S. + 不 + V. + O.",
+                "S. + V. + O. + 吗？"
+            ];
+
+            if (level >= 5 && level <= 9) {
+                minQuestions = 2;
+                questionRule = "Include at least 2 questions: at least 1 yes/no question (吗) and at least 1 wh-question (for example with 什么, 谁, 哪, 哪里, or 多少 if available in the list).";
+                structureRules = [
+                    "S. + V. + O.",
+                    "S. + 不 + V. + O.",
+                    "S. + V. + O. + 吗？",
+                    "S. + degree + Adj.",
+                    "和 + sb. + do sth",
+                    "请 + sb + do sth.",
+                    "给 + sb + sth."
+                ];
+            }
+
+            if (level >= 10 && level <= 14) {
+                minQuestions = 3;
+                questionRule = "Include at least 3 questions: at least 1 yes/no question (吗) and at least 2 wh-questions using words from the list.";
+                structureRules = [
+                    "S. + V. + O.",
+                    "S. + 不 + V. + O.",
+                    "S. + V. + O. + 吗？",
+                    "S. + degree + Adj.",
+                    "when + who + prep + where + do what",
+                    "和 + sb. + do sth",
+                    "请 + sb + do sth.",
+                    "给 + sb + sth.",
+                    "time expression + 然后 + next action"
+                ];
+            }
+
+            if (level >= 15) {
+                minQuestions = 4;
+                questionRule = "Include at least 4 questions: at least 1 yes/no question (吗) and at least 3 wh-questions using words from the list.";
+                structureRules = [
+                    "S. + V. + O.",
+                    "S. + 不 + V. + O.",
+                    "S. + V. + O. + 吗？",
+                    "S. + degree + Adj.",
+                    "when + who + prep + where + do what",
+                    "和 + sb. + do sth",
+                    "请 + sb + do sth.",
+                    "给 + sb + sth.",
+                    "time expression + 然后 + next action",
+                    "contrast or extension pattern (for example 虽然...但是... or 不但...而且..., only if those words are in the list)"
+                ];
+            }
+
+            return {
+                minQuestions,
+                questionRule,
+                structureRules,
+            };
         }
 
         // Set default fields to Level 1 on page load
         document.addEventListener("DOMContentLoaded", () => {
             document.getElementById('level').value = "1";
-            updatePromptFields();
+            initializeVocabulary();
         });
 
         function generatePrompt() {
+            const selectedLevel = Number(document.getElementById('level').value);
             const wordList = document.getElementById('word-list').textContent.split(',').map(word => word.trim());
             const wordCount = document.getElementById('word-count').textContent;
             const customLength = document.getElementById('length').value;
+            const levelRules = getPromptRulesByLevel(selectedLevel);
+            const structuresText = levelRules.structureRules.map(rule => `    ${rule}`).join('\n\n');
 
             // const prompt = `Please write a paragraph or two in Chinese using only these words:\n[${wordList.join(', ')}]\nThe text should:\n1. Be ${customLength} sentences long.\n2. Use at least ${wordCount} different words from the list.\n3. Be easy to understand for a beginner.\n4. Include at least one question.\n5. DO NOT USE WORDS NOT IN THE LIST.`;
             // const prompt = `I'm studying chinese and have learned the following words so far:\n[${wordList.join(', ')}]\nThe text should:\n1. Be ${customLength} sentences long.\n2. Use at least ${wordCount} different words from the list.\n3. Be easy to understand for a beginner.\n4. Include at least one question.\n5. DO NOT USE WORDS NOT IN THE LIST.`;
-            const prompt = `Write a short Chinese text with these rules:
+            const prompt = `Write a short Chinese text with these rules (Level ${selectedLevel}):
 
 The text must be at least ${customLength} sentences long.
 
@@ -252,25 +428,13 @@ Every sentence should use vocabulary ONLY from this list (do not use words that 
 
 Use at least ${wordCount} different words from the list in your text.
 
-Include at least one question (using 吗 or another question word from the list).
+${levelRules.questionRule}
 
 Use these sentence structures at least once each in the text:
 
-    S. + V. + O.
+${structuresText}
 
-    S. + 不 + V. + O.
-
-    S. + V. + O. + 吗？
-
-    S. + degree + Adj.
-
-    when + who + prep + where + do what
-
-    和 + sb. + do sth
-
-    请 + sb + do sth.
-
-    给 + sb + sth.
+Make the questions natural and context-based (not isolated single-word questions).
 
 Do not use any words that are not on the provided list.`;
             document.getElementById('prompt-output').textContent = prompt;

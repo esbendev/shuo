@@ -71,19 +71,46 @@
             </style>
         </div>
         <script>
+            const HANDBOOK_STORAGE_KEY = 'selected_handbook';
+
+            function showHandbook(handbookNumber) {
+                const isHandbook1 = handbookNumber === '1';
+
+                document.getElementById('calendar-grid-1').classList.toggle('calendar-grid--escondido', !isHandbook1);
+                document.getElementById('calendar-grid-2').classList.toggle('calendar-grid--escondido', isHandbook1);
+                document.getElementById('show-handbook-1').classList.toggle('handbook--activo', isHandbook1);
+                document.getElementById('show-handbook-2').classList.toggle('handbook--activo', !isHandbook1);
+            }
+
+            function saveSelectedHandbook(handbookNumber) {
+                try {
+                    localStorage.setItem(HANDBOOK_STORAGE_KEY, handbookNumber);
+                } catch (error) {
+                    console.warn('Could not save selected handbook:', error);
+                }
+            }
+
+            function getSavedHandbook() {
+                try {
+                    const saved = localStorage.getItem(HANDBOOK_STORAGE_KEY);
+                    return saved === '2' ? '2' : '1';
+                } catch (error) {
+                    console.warn('Could not read selected handbook:', error);
+                    return '1';
+                }
+            }
+
             document.getElementById('show-handbook-1').addEventListener('click', () => {
-                document.getElementById('calendar-grid-1').classList.remove('calendar-grid--escondido');
-                document.getElementById('calendar-grid-2').classList.add('calendar-grid--escondido');
-                document.getElementById('show-handbook-1').classList.add('handbook--activo');
-                document.getElementById('show-handbook-2').classList.remove('handbook--activo');
+                showHandbook('1');
+                saveSelectedHandbook('1');
             });
 
             document.getElementById('show-handbook-2').addEventListener('click', () => {
-                document.getElementById('calendar-grid-1').classList.add('calendar-grid--escondido');
-                document.getElementById('calendar-grid-2').classList.remove('calendar-grid--escondido');
-                document.getElementById('show-handbook-1').classList.remove('handbook--activo');
-                document.getElementById('show-handbook-2').classList.add('handbook--activo');
+                showHandbook('2');
+                saveSelectedHandbook('2');
             });
+
+            showHandbook(getSavedHandbook());
         </script>
         <h2>Other</h2>
         <div class="other-links-index">

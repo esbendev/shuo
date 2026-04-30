@@ -1,102 +1,110 @@
 {
-    "titulo": "Day 49 Vocabulary",
-    "showHelp": true,
-    "preguntas": [
-        {
-            "id": 1,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/2/day-49/2/1-fast.mp3",
-                "../contenido/audio/tubh/2/day-49/2/1-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "麻烦你看一下我的作业。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 2,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/2/day-49/2/2-fast.mp3",
-                "../contenido/audio/tubh/2/day-49/2/2-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "麻烦你别告诉她。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 3,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/2/day-49/2/3-fast.mp3",
-                "../contenido/audio/tubh/2/day-49/2/3-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "师傅，麻烦别抽烟。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 4,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/2/day-49/2/4-fast.mp3",
-                "../contenido/audio/tubh/2/day-49/2/4-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "我不认识路，我和你一直走好吗？"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 5,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/2/day-49/2/5-fast.mp3",
-                "../contenido/audio/tubh/2/day-49/2/5-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "我一直想问你一个问题。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 6,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/2/day-49/2/6-fast.mp3",
-                "../contenido/audio/tubh/2/day-49/2/6-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "他一直麻烦他的同事。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 7,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/2/day-49/2/7-fast.mp3",
-                "../contenido/audio/tubh/2/day-49/2/7-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "今天早上他一直在工作。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 8,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/2/day-49/2/8-fast.mp3",
-                "../contenido/audio/tubh/2/day-49/2/8-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "他一直用左手写字。"
-            ],
-            "input_chars_aceptados": []
-        }
-    ]
+  "titulo": "Day 49 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-49/2/1-fast.mp3",
+        "../contenido/audio/tubh/2/day-49/2/1-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "麻烦你看一下我的作业。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-49/2/2-fast.mp3",
+        "../contenido/audio/tubh/2/day-49/2/2-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "麻烦你别告诉她。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-49/2/3-fast.mp3",
+        "../contenido/audio/tubh/2/day-49/2/3-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "师傅，麻烦别抽烟。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-49/2/4-fast.mp3",
+        "../contenido/audio/tubh/2/day-49/2/4-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我不认识路，我和你一直走好吗？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-49/2/5-fast.mp3",
+        "../contenido/audio/tubh/2/day-49/2/5-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我一直想问你一个问题。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-49/2/6-fast.mp3",
+        "../contenido/audio/tubh/2/day-49/2/6-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他一直麻烦他的同事。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-49/2/7-fast.mp3",
+        "../contenido/audio/tubh/2/day-49/2/7-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天早上他一直在工作。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-49/2/8-fast.mp3",
+        "../contenido/audio/tubh/2/day-49/2/8-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他一直用左手写字。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    }
+  ]
 }

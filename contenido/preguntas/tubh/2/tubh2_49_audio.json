@@ -1,204 +1,226 @@
 {
-    "titulo": "Day 49 Vocabulary",
-    "showHelp": true,
-    "preguntas": [
-        {
-            "id": 1,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/1.mp3",
-            "respuesta_correcta": [
-                "第十七课"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 2,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/2.mp3",
-            "respuesta_correcta": [
-                "一直往前走。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 3,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/3.mp3",
-            "respuesta_correcta": [
-                "师傅"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 4,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/4.mp3",
-            "respuesta_correcta": [
-                "麻烦"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 5,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/5.mp3",
-            "respuesta_correcta": [
-                "走"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 6,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/6.mp3",
-            "respuesta_correcta": [
-                "条"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 7,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/7.mp3",
-            "respuesta_correcta": [
-                "路"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 8,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/8.mp3",
-            "respuesta_correcta": [
-                "地图"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 9,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/9.mp3",
-            "respuesta_correcta": [
-                "一直"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 10,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/10.mp3",
-            "respuesta_correcta": [
-                "往"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 11,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/11.mp3",
-            "respuesta_correcta": [
-                "前"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 12,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/12.mp3",
-            "respuesta_correcta": [
-                "转"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 13,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/13.mp3",
-            "respuesta_correcta": [
-                "这么"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 14,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/14.mp3",
-            "respuesta_correcta": [
-                "篇"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 15,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/15.mp3",
-            "respuesta_correcta": [
-                "差不多"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 16,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/16.mp3",
-            "respuesta_correcta": [
-                "华为"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 17,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/17.mp3",
-            "respuesta_correcta": [
-                "这样把"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 18,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/18.mp3",
-            "respuesta_correcta": [
-                "告诉"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 19,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/19.mp3",
-            "respuesta_correcta": [
-                "微信"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 20,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/20.mp3",
-            "respuesta_correcta": [
-                "让"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 21,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/21.mp3",
-            "respuesta_correcta": [
-                "加"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 22,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": "../contenido/audio/tubh/2/day-49/1/22.mp3",
-            "respuesta_correcta": [
-                "不会"
-            ],
-            "input_chars_aceptados": []
-        }
-    ]
+  "titulo": "Day 49 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/1.mp3",
+      "respuesta_correcta": [
+        "第十七课"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/2.mp3",
+      "respuesta_correcta": [
+        "一直往前走。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/3.mp3",
+      "respuesta_correcta": [
+        "师傅"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/4.mp3",
+      "respuesta_correcta": [
+        "麻烦"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/5.mp3",
+      "respuesta_correcta": [
+        "走"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/6.mp3",
+      "respuesta_correcta": [
+        "条"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/7.mp3",
+      "respuesta_correcta": [
+        "路"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/8.mp3",
+      "respuesta_correcta": [
+        "地图"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/9.mp3",
+      "respuesta_correcta": [
+        "一直"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/10.mp3",
+      "respuesta_correcta": [
+        "往"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/11.mp3",
+      "respuesta_correcta": [
+        "前"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/12.mp3",
+      "respuesta_correcta": [
+        "转"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/13.mp3",
+      "respuesta_correcta": [
+        "这么"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/14.mp3",
+      "respuesta_correcta": [
+        "篇"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/15.mp3",
+      "respuesta_correcta": [
+        "差不多"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/16.mp3",
+      "respuesta_correcta": [
+        "华为"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/17.mp3",
+      "respuesta_correcta": [
+        "这样把"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/18.mp3",
+      "respuesta_correcta": [
+        "告诉"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 19,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/19.mp3",
+      "respuesta_correcta": [
+        "微信"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 20,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/20.mp3",
+      "respuesta_correcta": [
+        "让"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 21,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/21.mp3",
+      "respuesta_correcta": [
+        "加"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 22,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-49/1/22.mp3",
+      "respuesta_correcta": [
+        "不会"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    }
+  ]
 }

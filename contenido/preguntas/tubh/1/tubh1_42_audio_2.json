@@ -1,150 +1,162 @@
 {
-    "titulo": "Day 42 Vocabulary",
-    "showHelp": true,
-    "preguntas": [
-        {
-            "id": 1,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/1-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/1-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "您好，想吃什么？"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 2,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/2-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/2-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "今天晚上我朋友请我吃饭。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 3,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/3-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/3-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "对不起，请问厕所在哪里？"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 4,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/4-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/4-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "今天我不想工作。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 5,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/5-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/5-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "我不想去，你一个人去吧。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 6,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/6-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/6-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "我也不知道，你问老师吧。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 7,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/7-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/7-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "我要两个包子，一碗粥。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 8,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/8-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/8-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "一共多少钱？"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 9,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/9-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/9-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "这三本书一共三十五块。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 10,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/10-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/10-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "我找了一个翻译。"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 11,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/11-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/11-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "你在找我吗？"
-            ],
-            "input_chars_aceptados": []
-        },
-        {
-            "id": 12,
-            "instrucciones": "Listen to the audio and write what you hear.",
-            "archivo_audio": [
-                "../contenido/audio/tubh/1/day-42/2/12-fast.mp3",
-                "../contenido/audio/tubh/1/day-42/2/12-slow.mp3"
-            ],
-            "respuesta_correcta": [
-                "他给了他的女儿十块钱。"
-            ],
-            "input_chars_aceptados": []
-        }
-    ]
+  "titulo": "Day 42 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/1-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/1-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "您好，想吃什么？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/2-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/2-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天晚上我朋友请我吃饭。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/3-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/3-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "对不起，请问厕所在哪里？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/4-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/4-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天我不想工作。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/5-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/5-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我不想去，你一个人去吧。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/6-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/6-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我也不知道，你问老师吧。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/7-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/7-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我要两个包子，一碗粥。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/8-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/8-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "一共多少钱？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/9-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/9-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "这三本书一共三十五块。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/10-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/10-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我找了一个翻译。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/11-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/11-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "你在找我吗？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/1/day-42/2/12-fast.mp3",
+        "../contenido/audio/tubh/1/day-42/2/12-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他给了他的女儿十块钱。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    }
+  ]
 }
