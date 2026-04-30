@@ -14,6 +14,7 @@
             --accent: #2b6c5f;
             --accent-pressed: #245b50;
             --line: #d8ddda;
+            --viewport-h: 100dvh;
         }
 
         * {
@@ -23,13 +24,14 @@
         body {
             margin: 0;
             overflow: hidden;
+            min-height: var(--viewport-h);
             font-family: "Avenir Next", "Segoe UI", Tahoma, sans-serif;
             color: var(--text-main);
             background: var(--bg);
         }
 
         .container {
-            height: 100dvh;
+            height: var(--viewport-h);
             display: flex;
             flex-direction: column;
             transition: transform 0.3s ease-in-out;
@@ -37,7 +39,7 @@
         }
 
         .card {
-            height: 100dvh;
+            height: var(--viewport-h);
             display: flex;
             justify-content: center;
             align-items: stretch;
@@ -45,13 +47,14 @@
             position: absolute;
             width: 100%;
             top: calc(var(--card-index, 0) * 100%);
-            padding: 16px;
+            padding: calc(10px + env(safe-area-inset-top)) 12px calc(10px + env(safe-area-inset-bottom));
             background: transparent;
         }
 
         .card-inner {
             width: min(100%, 680px);
             height: 100%;
+            max-height: 100%;
             margin: 0 auto;
             border: 1px solid var(--line);
             border-radius: 10px;
@@ -242,7 +245,7 @@
 
         @media (max-width: 420px) {
             .card {
-                padding: 10px;
+                padding: calc(8px + env(safe-area-inset-top)) 10px calc(8px + env(safe-area-inset-bottom));
             }
 
             .card-inner {
@@ -258,6 +261,29 @@
             .button {
                 min-height: 44px;
                 font-size: 0.96rem;
+            }
+        }
+
+        @media (max-height: 760px) {
+            .card-inner {
+                padding: 12px 10px;
+                gap: 10px;
+            }
+
+            .content-stack {
+                gap: 10px;
+            }
+
+            .text-slot {
+                min-height: 88px;
+            }
+
+            .text-slot.en {
+                min-height: 76px;
+            }
+
+            .button {
+                min-height: 42px;
             }
         }
     </style>

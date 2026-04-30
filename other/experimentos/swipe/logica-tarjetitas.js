@@ -6,6 +6,12 @@ let endY = 0;
 let currentAudio = null;
 let currentStatusIndicator = null;
 
+function setViewportHeightVar() {
+    document.documentElement.style.setProperty('--viewport-h', `${window.innerHeight}px`);
+}
+
+setViewportHeightVar();
+
 function setAudioStatus(indicator, isPlaying, sourceLabel) {
     if (!indicator) {
         return;
@@ -173,7 +179,7 @@ fetch(filePath)
 function updateCardPosition() {
     const totalCards = container.children.length;
     currentIndex = Math.min(Math.max(currentIndex, 0), totalCards - 1);
-    container.style.transform = `translateY(-${currentIndex * 100}vh)`;
+    container.style.transform = `translateY(-${currentIndex * window.innerHeight}px)`;
 }
 
 function loadNewCard(currentIndex) {
@@ -260,3 +266,7 @@ container.addEventListener('touchend', handleTouchEnd, { passive: false });
 
 window.addEventListener('wheel', handleSwipe, { passive: true });
 window.addEventListener('keydown', handleKeyDown);
+window.addEventListener('resize', () => {
+    setViewportHeightVar();
+    updateCardPosition();
+});
