@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /shuo/
+Disallow: /shuo/indexViejo.html
+Disallow: /shuo/indexViejoNov2025.html
+Disallow: /shuo/other/experimentos/
+Disallow: /shuo/other/sentence-builder.html
+
+Sitemap: https://esbendev.com/shuo/sitemap.xml

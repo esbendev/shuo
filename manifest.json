@@ -5,9 +5,13 @@
     "version": "1.0.0",
     "main": "index.html",
     "author": "@esbendev",
+    "id": "/shuo/",
+    "scope": "/shuo/",
     "start_url": "/shuo/index.html",
     "display": "standalone",
     "lang": "en-US",
+    "theme_color": "#f4f4f4",
+    "background_color": "#ffffff",
     "icons": [
         {
             "src": "./imagenes/icon-192.png",

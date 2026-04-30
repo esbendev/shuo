@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v260430-3";
+const CACHE_NAME = "esbendev-shuo-v260430-4";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -10,6 +10,9 @@ const urlsToCache = [
     "/shuo/imagenes/icon-192.png",
     "/shuo/imagenes/icon-512.png",
     "/shuo/actualizarMenu.js",
+    "/shuo/analytics-seo.js",
+    "/shuo/robots.txt",
+    "/shuo/sitemap.xml",
     // tubh 1
     "/shuo/contenido/preguntas/tubh/1/lista_dias.json",
     "/shuo/contenido/preguntas/tubh/1/tubh1_1.json",

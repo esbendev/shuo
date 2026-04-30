@@ -41,6 +41,7 @@ fetch(filePath)
         if (!pregunta || !pregunta.input_chars_aceptados) return;
 
         tituloQuiz.textContent = data.titulo;
+        document.title = `${data.titulo} | Shuo Quiz`;
 
         instrucciones.innerHTML = pregunta.instrucciones;
         audioActual = 0;
