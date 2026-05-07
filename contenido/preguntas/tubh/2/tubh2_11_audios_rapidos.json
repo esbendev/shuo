@@ -13,7 +13,7 @@
         "你打算什么时候去中国？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "When do you plan to go to China?"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "他上个月找了一个新工作。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He found a new job last month."
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "我去年认识了这个新朋友。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I made a few new friends last year."
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "下个星期六是我的生日。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Next Saturday is my birthday."
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "我女儿下个月读大学。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "My daughter will start university next month."
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "你最近怎么样？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How have you been lately?"
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "最近我看了一个电影。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I watched a movie recently."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "我听说你最近在家工作。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I heard that you are looking for a job recently."
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "他做的饭很好吃。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "The food he cooks is delicious."
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "坐进我很忙，没有空。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Recently, I've been very busy and don't have time."
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "我十点以后有空，你十点半来把。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I'll be free after ten o'clock. You can come at ten thirty."
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "他去机场接女朋友。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He goes to the airport to pick up his girlfriend."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "上次我没有空，这次我可以去。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I was not available last time, but I can go this time."
     },
     {
       "id": 14,
@@ -182,7 +182,7 @@
         "你下次什么时候来？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "When are you coming next time?"
     },
     {
       "id": 15,
@@ -195,7 +195,7 @@
         "他每次都请客。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He treats every time."
     },
     {
       "id": 16,
@@ -208,7 +208,7 @@
         "你真的没有听说吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Have you really not heard about it?"
     },
     {
       "id": 17,
@@ -221,7 +221,7 @@
         "我觉得每个孩子都很可爱。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I think every child is very cute."
     },
     {
       "id": 18,
@@ -234,7 +234,7 @@
         "他以前在美国读书现在他会中国了。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He used o study in the United States, now he has returned to China."
     }
   ]
 }

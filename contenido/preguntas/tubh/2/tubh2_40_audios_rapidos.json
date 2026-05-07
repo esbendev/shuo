@@ -13,7 +13,7 @@
         "我从来没有想过这个问题。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I have never thought about this question."
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "你知道他怎么了吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Do you know what happened to him?"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "虽然没有读过⼤学，但是他⾮常聪明。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Although he hasn't attended university, he is very smart."
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "我们等⼀下打车去吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Let's take a taxi there later."
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "你先想想吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Take some time to think about it first."
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "我们先坐地铁，再打车。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "We will take the subway first, then take a taxi."
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "你们先吃吧，别等我了。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "You guys eat first, don't wait for me."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "我的城市还没有地铁。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "My city doesn't have a subway yet."
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "⽼师说不⾏，但是没有说为什么。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "The teacher said no, but didn't say why."
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "你去淘宝上看⼀下吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Go check on Taobao."
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "淘宝上都是中⽂，我看不懂。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "It's all in Chinese on Taobao, I can't understand it."
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "现在⽹上有很多假的东西。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "There are many fake things online nowadays."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "真的假的？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Really?"
     }
   ]
 }

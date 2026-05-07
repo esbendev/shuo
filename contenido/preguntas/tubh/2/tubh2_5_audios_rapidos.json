@@ -13,7 +13,7 @@
         "你的生日是几月几号？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "When is your birthday?"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "星期六你有什么打算？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "What are your plans for Saturday?"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "今天晚上你有什么打算吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Do you have any plans for tonight?"
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "我喜欢和你们一起聊天。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I like chatting with you guys."
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "我们为什么不一起去？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Why don't we go together?"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "你没有钱，就找一个工作啊。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "(If) you don't have money, then just find a job!"
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "我还不知道，你叫什么名字？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I still don't know what your name is."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "十一点了还不去睡觉啊？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "It's 11 o'clock, and you're still not going to sleep?"
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "他们都做完作业了？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "They have all finished their homework."
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "你还没有上完厕所啊？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "You still haven't finished using the bathroom??"
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "星期五以前做完吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Finish it before Friday."
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "他们还没喝完酒"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "They haven't finished drinking yet."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "这个酒吧生意很好。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "This bar has very good business."
     },
     {
       "id": 14,
@@ -182,7 +182,7 @@
         "他生孩子的第二天就去工作了。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "She went to work the day after giving birth."
     },
     {
       "id": 15,
@@ -195,7 +195,7 @@
         "医生说我不可以运动。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "The doctor said I can't excercise."
     },
     {
       "id": 16,
@@ -208,7 +208,7 @@
         "你可以给我五块钱吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Can you give me five yuan?"
     },
     {
       "id": 17,
@@ -221,7 +221,7 @@
         "我忘了他的生日。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I forgot his birthday."
     },
     {
       "id": 18,
@@ -234,7 +234,7 @@
         "我学了几天法语，但是现在我都忘了。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I studied French for a few days, but now I've forgotten it all."
     }
   ]
 }

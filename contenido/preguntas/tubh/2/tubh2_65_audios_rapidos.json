@@ -13,7 +13,7 @@
         "昨天我没时间，只随便看了一下。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": "test"
+      "texto_en_ingles": "Yesterday I didn't have time, I just took a quick look."
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "你穿这条裙子一定很好看！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "You will definitely look great in this dress!"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "你们随便聊，我去上个厕所。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "You guys feel free to chat; I'm going to the restroom."
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "我试着只穿黑色的衣服。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I'm trying to wear only black clothes."
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "你一定要试一下这个菜。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "You must try this dish!"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "你想去哪里都可以，随便你！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "You can go wherever you want, it's up to you!"
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "她特别喜欢孩子。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "She especially likes children."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "这件衣服的颜色很特别。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "The color of this piece of clothing is very special."
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "那两黑色的车有点儿贵。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "That black car is a bit expensive."
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "有点儿晚了，你先去睡吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "It's a bit late; you go to sleep first."
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "我有点儿先回家了，我们走吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I kind of want to go home; let's leave."
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "你给她这个礼物，她一定特别高兴。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "If you give her this gift, she will definitely be very happy."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "他打算换一个新工作。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He plans to change to a new job."
     },
     {
       "id": 14,
@@ -182,7 +182,7 @@
         "现在的房子有点儿小了，我们换个大一点儿的吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "The current house is a bit small; how about we change to a bigger one?"
     }
   ]
 }

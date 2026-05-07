@@ -13,7 +13,7 @@
         "这个电影怎么样？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How is this movie?"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "你去旅游怎么样啊？好玩吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How was your trip? Was it fun?"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "这是美国最大的城市。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "This is the biggest city in the United States."
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "我还想再去中国旅游"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I want to travel to China again."
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "你可以再说一次吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Can you say it again?"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "昨天晚上我只睡了三个小时"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Last night, I only slept for three hours."
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "这两个星期我的工作比较多。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "These two weeks, I have more work."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "这个公司比较小，只有八个职员。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "This company is relatively small, it only has eight employees."
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "他又聪明又漂亮。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "She is both smart and beautiful."
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "我们去吃日本菜吧？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Let's go eat Japanese food!"
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "我觉得汉字又好看又好玩。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I think Chinese characters are both beautiful and fun."
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "我比较喜欢十点去公司，因为这个时候车比较少。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I prefer going to the office at 10 o'clock because there are fewer cars at that time."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "我比较喜欢吃甜的东西。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I prefer eating sweet things."
     }
   ]
 }

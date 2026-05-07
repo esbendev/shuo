@@ -13,7 +13,7 @@
         "麻烦你看一下我的作业。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Could you please take a look at my homework?"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "麻烦你别告诉她。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Please don't tell her."
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "师傅，麻烦别抽烟。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "sir, please don't smoke."
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "我不认识路，我和你一直走好吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I don't know the way. Can I go with you?"
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "我一直想问你一个问题。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I've always wanted to ask you a question."
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "他一直麻烦他的同事。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He keeps bothering his coworkers."
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "今天早上他一直在工作。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He has been working all morning."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "他一直用左手写字。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He has always written with his left hand."
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "我可以加你的微信吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Can I add you on WeChat?"
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "这几个公司都差不多。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "These companies are all pretty much the same."
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "这样把你买两个，我给你的八这。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How about this: you buy two, and I'll give you a 20% discount."
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "你先一直往前走，再往左转。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "First, keep walking straing ahead, then turn left."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "中国人不篇中国人。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Chinese people don't decieve Chinese people."
     },
     {
       "id": 14,
@@ -182,7 +182,7 @@
         "麻烦你告诉我一下她住在哪里。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Could you please tell me where she lives?"
     },
     {
       "id": 15,
@@ -195,7 +195,7 @@
         "老板让我来找你。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "The boss asked me to come find you."
     },
     {
       "id": 16,
@@ -208,7 +208,7 @@
         "我从来没有让朋友等过我。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I have never made my friends wait for me."
     }
   ]
 }

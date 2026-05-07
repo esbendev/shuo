@@ -13,7 +13,7 @@
         "你来中国多长时间了？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How long have you been in China?"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "每次你运动多长时间？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How long do you excercise each time?"
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "我学了大概四个月中文了"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I've been studying Chinese for about four months."
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "你每天睡几个小时"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How many hours do you sleep each day?"
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "这个月我一共工作了二十天？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I worked a total of twenty days this month."
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "下个月我有四天假期"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I have four days of vacation next month."
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "我一个人在中国旅游了三个月"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I traveled alone in China for three months."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "从中国到美国，坐飞机要用几个小时"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How many hours does it take to fly from China to the United States?"
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "你来看我，我太高兴了！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I'm so happy that you came to visit!"
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "你别太忙了啊！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Don't get too busy!"
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "很晚了，别聊天了！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "It's very late; stop chatting!"
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "我的妹妹给我买了一个礼物"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "My youger sister bought me a gift."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "这是谁给你的礼物？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Woh gave you this gift?"
     }
   ]
 }

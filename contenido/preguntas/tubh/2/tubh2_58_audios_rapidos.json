@@ -13,7 +13,7 @@
         "你还记得我吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Do you still remember me?"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "我记得你说过，你不喜欢吃鱼。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I remember you said you don't like eating fish."
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "你快去找他吧，时间不多了！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "You'd better go find her quickly; there's not much time left!"
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "请你说慢一点。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Please speak a little slower."
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "你头发这么长，洗头发麻烦吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Your hair is so long; is it troublesome to wash it?"
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "车是我第一次发朋友圈。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "This is my first time posting on Moments."
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "他不但每天运动，而且吃很少的饭。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Not only does he excercise every day, but he also eats very little."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "不好意思，今天我约了朋友。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "sorry, I made plans with a friend today."
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "我们约七点吧？六点太早了！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How about we meet at 7? Six is too early!"
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "我没有微信，不过我朋友有。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I don't have WeChat, but my friend does."
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "可以便宜一点儿吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Can it be a little cheaper?"
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "这件衣服这么大，当然不是我的。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "This piece of clothing is so big, of course it's not mine."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "最近我买了几件新衣服。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Recently, I bought a few new clothes."
     }
   ]
 }

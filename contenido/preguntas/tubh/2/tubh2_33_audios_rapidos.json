@@ -13,7 +13,7 @@
         "这个字怎么写？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "How do you write this character?"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
         "我不想去，你自己去吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I don't want to go, you can go by yourself."
     },
     {
       "id": 3,
@@ -39,7 +39,7 @@
         "我常常问自己这个问题。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I often ask myself this question."
     },
     {
       "id": 4,
@@ -52,7 +52,7 @@
         "我以前常常去那里吃饭。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I used to go eat there a lot."
     },
     {
       "id": 5,
@@ -65,7 +65,7 @@
         "我的爸爸教我开车。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "My dad taught me how to drive."
     },
     {
       "id": 6,
@@ -78,7 +78,7 @@
         "我们来练习口语把！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Let's practice speaking!"
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "他的口语比较好。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "His speaking is better."
     },
     {
       "id": 8,
@@ -104,7 +104,7 @@
         "他们是在网上认识的。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "They met online."
     },
     {
       "id": 9,
@@ -117,7 +117,7 @@
         "这是我自己做的网站。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "This is the website I made myself."
     },
     {
       "id": 10,
@@ -130,7 +130,7 @@
         "每个人都一样。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Everyone is the same."
     },
     {
       "id": 11,
@@ -143,7 +143,7 @@
         "他和他的女朋友太不一样了！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "He and his girlfriend are so different!"
     },
     {
       "id": 12,
@@ -156,7 +156,7 @@
         "这不是我的母语。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "This is not my native language."
     },
     {
       "id": 13,
@@ -169,7 +169,7 @@
         "你可以介绍一下自己吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Can you introduce yourself?"
     },
     {
       "id": 14,
@@ -182,7 +182,7 @@
         "你去看一下它在不在房间。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Go check if he is in the room."
     },
     {
       "id": 15,
@@ -195,7 +195,7 @@
         "这个视频是我自己做的。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "I made this video myself."
     },
     {
       "id": 16,
@@ -208,7 +208,7 @@
         "你等一下给我发这个视频好吗？"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Can you send me this video later?"
     },
     {
       "id": 17,
@@ -221,7 +221,7 @@
         "你不认识汉字吗？那我教你。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "You don't know Chinese characters? Then I'll teach you!"
     },
     {
       "id": 18,
@@ -234,7 +234,7 @@
         "你别再给我发邮件了！"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": ""
+      "texto_en_ingles": "Don't send me emails anymore!"
     }
   ]
 }
