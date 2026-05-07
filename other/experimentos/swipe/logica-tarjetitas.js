@@ -72,13 +72,20 @@ fetch(filePath)
     .then(response => response.json())
     .then(data => {
         const container = document.getElementById('cardContainer');
-        data.preguntas.forEach((pregunta) => {
+        const totalCards = data.preguntas.length;
+
+        data.preguntas.forEach((pregunta, index) => {
             const card = document.createElement('div');
             card.className = 'card';
             card.style.setProperty('--card-index', pregunta.id); // Use id from JSON
 
             const cardInner = document.createElement('div');
             cardInner.className = 'card-inner';
+
+            const cardCounter = document.createElement('p');
+            cardCounter.className = 'card-counter';
+            cardCounter.textContent = `${index + 1} of ${totalCards}`;
+            cardInner.appendChild(cardCounter);
 
             const contentStack = document.createElement('div');
             contentStack.className = 'content-stack';
