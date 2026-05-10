@@ -1,0 +1,276 @@
+{
+  "titulo": "Day 65 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/1.mp3",
+      "respuesta_correcta": [
+        "第二十课"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/2.mp3",
+      "respuesta_correcta": [
+        "你的英文说得很好。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/3.mp3",
+      "respuesta_correcta": [
+        "得"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/4.mp3",
+      "respuesta_correcta": [
+        "漂亮"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/5.mp3",
+      "respuesta_correcta": [
+        "饿"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/6.mp3",
+      "respuesta_correcta": [
+        "饱"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/7.mp3",
+      "respuesta_correcta": [
+        "刚"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/8.mp3",
+      "respuesta_correcta": [
+        "点菜"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/9.mp3",
+      "respuesta_correcta": [
+        "豆腐"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/10.mp3",
+      "respuesta_correcta": [
+        "白菜"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/11.mp3",
+      "respuesta_correcta": [
+        "说话"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/12.mp3",
+      "respuesta_correcta": [
+        "电话"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/13.mp3",
+      "respuesta_correcta": [
+        "打电话"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/14.mp3",
+      "respuesta_correcta": [
+        "爱好"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/15.mp3",
+      "respuesta_correcta": [
+        "听音乐"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/16.mp3",
+      "respuesta_correcta": [
+        "唱歌"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/17.mp3",
+      "respuesta_correcta": [
+        "跳舞"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/18.mp3",
+      "respuesta_correcta": [
+        "旅行"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 19,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/19.mp3",
+      "respuesta_correcta": [
+        "画画"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 20,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/20.mp3",
+      "respuesta_correcta": [
+        "打游戏"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 21,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/21.mp3",
+      "respuesta_correcta": [
+        "打篮球"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 22,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/22.mp3",
+      "respuesta_correcta": [
+        "地足球"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 23,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/23.mp3",
+      "respuesta_correcta": [
+        "跑步"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 24,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/24.mp3",
+      "respuesta_correcta": [
+        "游泳"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 25,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/25.mp3",
+      "respuesta_correcta": [
+        "打时候"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 26,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/26.mp3",
+      "respuesta_correcta": [
+        "会"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 27,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": "../contenido/audio/tubh/2/day-65/1/27.mp3",
+      "respuesta_correcta": [
+        "没关系"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": ""
+    }
+  ]
+}

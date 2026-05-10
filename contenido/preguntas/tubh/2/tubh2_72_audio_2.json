@@ -1,0 +1,123 @@
+{
+  "titulo": "Day 65 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/1-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/1-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他的汉语说得不错。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "His Chinese is pretty good."
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/2-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/2-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "昨天我睡得太晚了！"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Iwent to bed too late yesterday!"
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/3-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/3-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "你刚刚说什么？我没听见。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "What did you just say? I didn't hear it."
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/4-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/4-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我饿死了！什么时候吃饭啊？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I'm starving! When are we eating?"
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/5-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/5-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "谢谢，我真的吃饱了！"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Thanks, I'm really full!"
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/6-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/6-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他跑得好快哦！"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He runs so fast!"
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/7-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/7-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他开车开得太快了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He drives too fast!"
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/8-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/8-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "你点菜把，我吃什么都可以。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "You can order the dishes, I'm fine with anything."
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/2/9-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/2/9-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "麻烦给我一下菜单。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Please give me the menu."
+    }
+  ]
+}

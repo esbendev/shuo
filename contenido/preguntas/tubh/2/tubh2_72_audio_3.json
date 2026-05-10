@@ -1,0 +1,110 @@
+{
+  "titulo": "Day 65 Vocabulary",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/3/1-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/3/1-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "你刚在和谁说话？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Who were you talking to just now?"
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/3/2-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/3/2-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他们又唱又跳，特别高兴。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "They were singing and dancing, very happy."
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/3/3-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/3/3-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我没有什么爱好。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I don't have any hobbies."
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/3/4-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/3/4-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "你画画画得怎么样？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "How well can you draw?"
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/3/5-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/3/5-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "他打游戏打得很好。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He plays games very well."
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/3/6-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/3/6-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我小的时候，特别喜欢吃这个。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "When I was little, I especially liked eating this."
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/3/7-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/3/7-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "我回家的时候，他还在睡觉呢。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "When I got home, he was still sleeping."
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/tubh/2/day-65/3/8-fast.mp3",
+        "../contenido/audio/tubh/2/day-65/3/8-slow.mp3"
+      ],
+      "respuesta_correcta": [
+        "很多中国人都不会游泳。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Many Chinese people don't know how to swim."
+    }
+  ]
+}

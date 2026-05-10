@@ -898,5 +898,30 @@
                 "id": "tubh2_71"
             }
         ]
+    },
+    {
+        "number": 72,
+        "content": [
+            {
+                "text": "Audio 1",
+                "link": "./quiz/index.html?file=tubh2_72_audio",
+                "id": "tubh2_72_audio"
+            },
+            {
+                "text": "Audio 2",
+                "link": "./quiz/index.html?file=tubh2_72_audio_2",
+                "id": "tubh2_72_audio_2"
+            },
+            {
+                "text": "Audio 3",
+                "link": "./quiz/index.html?file=tubh2_72_audio_3",
+                "id": "tubh2_72_audio_3"
+            },
+            {
+                "text": "Swipe",
+                "link": "./other/experimentos/swipe/index.html?file=tubh2_72_audios_rapidos",
+                "id": "tubh2_72_audios_rapidos"
+            }
+        ]
     }
 ]
