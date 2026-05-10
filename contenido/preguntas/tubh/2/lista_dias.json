@@ -838,7 +838,7 @@
         "number": 66,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_66",
                 "disabled": true
@@ -849,7 +849,7 @@
         "number": 67,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_67",
                 "disabled": true
@@ -860,7 +860,7 @@
         "number": 68,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_68",
                 "disabled": true
@@ -871,7 +871,7 @@
         "number": 69,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_69",
                 "disabled": true
@@ -882,10 +882,20 @@
         "number": 70,
         "content": [
             {
-                "text": "Not here yet...",
+                "text": "Empty day...",
                 "link": "#",
                 "id": "tubh2_70",
                 "disabled": true
+            }
+        ]
+    },
+    {
+        "number": 71,
+        "content": [
+            {
+                "text": "Text",
+                "link": "./other/textos/tubh/2/day-71.html",
+                "id": "tubh2_71"
             }
         ]
     }

@@ -1,0 +1,24 @@
+#separator:tab
+#html:false
+得		de (a structural particle)			
+漂亮		piàoliang - pretty			
+饿		è - hungry			
+饱		bǎo - full			
+刚		gāng-just; only a short while ago			
+点菜		diǎn cài - to order food			
+话		(huà) Word; speech			
+电话		diànhuà - telephone			
+爱好		ài hào - hobby			
+听音乐		tīng yīn yuè - listen to music			
+唱歌		chàng gē - to sing			
+跳舞		tiào wǔ - to dance			
+旅行		lǚxíng to travel			
+画画		( huà huà ) to draw			
+打游戏		(dǎ yóu xì) play video games			
+打篮球		dǎ lán qiú - to play basketball			
+踢足球		tī zú qiú - play football			
+跑步		pǎobù - running, to jog			
+游泳		yóu yǒng - to swim			
+……的时候		...de shíhòu when ... during ...			
+会		huì - can, to be able to			
+没关系		méi guān xi - it doesn't matter, it's ok			

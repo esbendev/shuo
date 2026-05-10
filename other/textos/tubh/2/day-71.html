@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuo Quiz</title>
+    <link rel="stylesheet" href="../../../../estilos/estiloLector.css">
+    <link rel="stylesheet" href="../../../../estilos/estiloPopup.css">
+    <script defer src="/shuo/analytics-seo.js"></script>
+</head>
+
+<!-- ESTA ES UNA PRUEBA POR SI HAY MÁS TEXTOS EN EL FUTURO -->
+<!-- AHORA TODO RE HARDCODEADO PERO A FUTURO SE PUEDE HACER BONITO -->
+
+<body>
+    <div id="help-popup" class="popup" style="display: none;">
+        <div class="popup-content">
+            <span class="close-button" onclick="closeHelpPopup()">&times;</span>
+            <h2>Help</h2>
+            <p>Hover over chinese characters for pinyin.</p>
+        </div>
+    </div>
+    <main class="quiz-container">
+        <a href="../../../../index.html" class="boton-atras">Back to main menu</a>
+        <div class="botones-control-quiz">
+            <button class="boton-ayuda" onclick="openHelpPopup()">Help</button>
+        </div>
+        <h1>Day 71 Text</h1>
+
+        <div id="texto-con-pinyin" style="text-align: left;">
+            <p><strong class="person-1">王凯[wáng kǎi]</strong>：你今天[nǐ jīn tiān]穿[chuān]的[de]真[zhēn]漂亮[piào liang]。</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：谢谢[xiè xie]。你[nǐ]等[děng]了[le]很[hěn]长[cháng]时间[shí jiān]吗[ma]？</p>
+            <p><strong class="person-1">王凯[wáng kǎi]</strong>：没有[méi yǒu]，我[wǒ]也[yě]刚[gāng]到[dào]。你[nǐ]一定[yī dìng]饿[è]了[le]，快[kuài]点[diǎn]菜[cài]吧[ba]。</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：那[nà]要[yào]一个[yī gè]麻婆豆腐[má pó dòu fu]，一个[yī gè]红烧排骨[hóng shāo pái gǔ]，再[zài]来[lái]一个[yī gè]白菜[bái cài]，怎么样[zěn me yàng]？</p>
+            <p><strong class="person-1">王凯[wáng kǎi]</strong>：好[hǎo]啊[a]！...等[děng]一下[yī xià]，我[wǒ]接[jiē]一个[yī gè]电话[diàn huà](hello..@#$%^&)</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：你[nǐ]的[de]英语[yīng yǔ]说[shuō]得[de]真[zhēn]好[hǎo]！</p>
+            <p><strong class="person-1">王凯[wáng kǎi]</strong>：我[wǒ]以前[yǐ qián]去[qù]美国[měi guó]读[dú]过[guò]几年[jǐ nián]书[shū]。说[shuō]说[shuō]你[nǐ]吧[ba]，你[nǐ]有[yǒu]什么[shén me]爱好[ài hào]？</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：我[wǒ]喜欢[xǐ huān]旅行[lǚ xíng]，看电影[kàn diàn yǐng]，听音乐[tīng yīn yuè]。你[nǐ]呢[ne]？</p>
+            <p><strong class="person-1">王凯[wáng kǎi]</strong>：我[wǒ]喜欢[xǐ huān]运动[yùn dòng]，有空[yǒu kòng]的[de]时候[shí hòu]我[wǒ]就[jiù]去[qù]打篮球[dǎ lán qiú]，踢足球[tī zú qiú]，下次[xià cì]我们[wǒ men]可以[kě yǐ]一起[yī qǐ]去[qù]打篮球[dǎ lán qiú]。</p>
+            <p><strong class="person-2">小婷[xiǎo tíng]</strong>：好[hǎo]是[shì]好[hǎo]，不过[bú guò]我[wǒ]不会[bú huì]打[dǎ]。</p>
+            <p><strong class="person-1">王凯[wáng kǎi]</strong>：没关系[méi guān xi]，我[wǒ]可以[kě yǐ]较[jiào]你[nǐ]。</p>
+        </div>
+        <script src="../../../../quiz/pinyinInterpreter.js"></script>
+        <script>
+            document.addEventListener("DOMContentLoaded", () => {
+                addTooltipsToChineseText("#texto-con-pinyin");
+            });
+        </script>
+    </main>
+    <footer>
+        <p>Made with ☕ by <a href="https://esbendev.com/index-en.html">@esbendev</a></p>
+        <p>Wanna support me? <a href="https://ko-fi.com/esbendev">buy me a coffee!</a> :)</p>
+    </footer>
+    <script>
+        // Help popup functions
+        function openHelpPopup() {
+            document.getElementById('help-popup').style.display = 'flex';
+        }
+
+        function closeHelpPopup() {
+            document.getElementById('help-popup').style.display = 'none';
+        }
+    </script>
+</body>
+
+</html>

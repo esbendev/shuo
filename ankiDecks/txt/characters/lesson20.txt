@@ -1,0 +1,22 @@
+<div class="chineseChars">得</div>|<div class="answer">de <span class="english">a structural particle</span></div>
+<div class="chineseChars">漂亮</div>|<div class="answer">piàoliang <span class="english">pretty</span></div>
+<div class="chineseChars">饿</div>|<div class="answer">è <span class="english">hungry</span></div>
+<div class="chineseChars">饱</div>|<div class="answer">bǎo <span class="english">full</span></div>
+<div class="chineseChars">刚</div>|<div class="answer">gāng <span class="english">just; only a short while ago</span></div>
+<div class="chineseChars">点菜</div>|<div class="answer">diǎn cài <span class="english">to order food</span></div>
+<div class="chineseChars">话</div>|<div class="answer">huà <span class="english">word; speech</span></div>
+<div class="chineseChars">电话</div>|<div class="answer">diànhuà <span class="english">telephone</span></div>
+<div class="chineseChars">爱好</div>|<div class="answer">ài hào <span class="english">hobby</span></div>
+<div class="chineseChars">听音乐</div>|<div class="answer">tīng yīn yuè <span class="english">listen to music</span></div>
+<div class="chineseChars">唱歌</div>|<div class="answer">chàng gē <span class="english">to sing</span></div>
+<div class="chineseChars">跳舞</div>|<div class="answer">tiào wǔ <span class="english">to dance</span></div>
+<div class="chineseChars">旅行</div>|<div class="answer">lǚxíng <span class="english">to travel</span></div>
+<div class="chineseChars">画画</div>|<div class="answer">huà huà <span class="english">to draw</span></div>
+<div class="chineseChars">打游戏</div>|<div class="answer">dǎ yóu xì <span class="english">play video games</span></div>
+<div class="chineseChars">打篮球</div>|<div class="answer">dǎ lán qiú <span class="english">to play basketball</span></div>
+<div class="chineseChars">踢足球</div>|<div class="answer">tī zú qiú <span class="english">play football</span></div>
+<div class="chineseChars">跑步</div>|<div class="answer">pǎobù <span class="english">running, to jog</span></div>
+<div class="chineseChars">游泳</div>|<div class="answer">yóu yǒng <span class="english">to swim</span></div>
+<div class="chineseChars">……的时候</div>|<div class="answer">...de shíhòu <span class="english">when ... during ...</span></div>
+<div class="chineseChars">会</div>|<div class="answer">huì <span class="english">can, to be able to</span></div>
+<div class="chineseChars">没关系</div>|<div class="answer">méi guān xi <span class="english">it doesn't matter, it's ok</span></div>
