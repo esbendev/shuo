@@ -64,7 +64,6 @@ function playAudio(src, sourceLabel, indicator) {
 // `amount=x` (and no file) we'll build a randomized pool from all available
 // files listed in the `lista_dias.json` manifests and pick `x` random questions.
 const urlParams = new URLSearchParams(window.location.search);
-const filename = urlParams.get('file');
 const amountParam = parseInt(urlParams.get('amount'), 10);
 
 function shuffle(array) {
@@ -251,47 +250,30 @@ async function buildRandomPool(amount) {
 
 async function init() {
     const containerEl = document.getElementById('cardContainer');
-    if (filename) {
-        // old behavior: load a single file
-        const filePath = filename.includes('tubh1_') 
-            ? `../../../contenido/preguntas/tubh/1/${filename}.json` 
-            : `../../../contenido/preguntas/tubh/2/${filename}.json`;
-        try {
-            const resp = await fetch(filePath);
-            const data = await resp.json();
-            const totalCards = data.preguntas.length;
-            data.preguntas.forEach((pregunta, index) => {
-                const card = makeCardFromPregunta(pregunta, index, totalCards);
-                containerEl.appendChild(card);
-            });
-        } catch (e) {
-            console.error('Error fetching JSON:', e);
-        }
+    const selected = await buildRandomPool(amountParam);
+    const hasIntro = Boolean(containerEl.querySelector('.card-inner.intro'));
+
+    if (!selected || selected.length === 0) {
+        if (hasIntro) return; // keep the existing intro card
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.style.setProperty('--card-index', 0);
+        const cardInner = document.createElement('div');
+        cardInner.className = 'card-inner intro';
+        cardInner.textContent = 'No random cards found.';
+        card.appendChild(cardInner);
+        containerEl.appendChild(card);
         return;
     }
 
-    if (!isNaN(amountParam) && amountParam > 0) {
-        const selected = await buildRandomPool(amountParam);
-        const total = selected.length;
-        selected.forEach((pregunta, index) => {
-            const card = makeCardFromPregunta(pregunta, index, total);
-            containerEl.appendChild(card);
-        });
-        return;
-    }
-
-    // fallback: load a default quick file
-    try {
-        const resp = await fetch('../../../contenido/preguntas/tubh/1/tubh1_rapidos.json');
-        const data = await resp.json();
-        const totalCards = data.preguntas.length;
-        data.preguntas.forEach((pregunta, index) => {
-            const card = makeCardFromPregunta(pregunta, index, totalCards);
-            containerEl.appendChild(card);
-        });
-    } catch (e) {
-        console.error('Error fetching default JSON:', e);
-    }
+    const total = selected.length;
+    const indexOffset = hasIntro ? 1 : 0;
+    selected.forEach((pregunta, index) => {
+        const card = makeCardFromPregunta(pregunta, index, total);
+        // offset the CSS position so the existing intro (if any) remains at index 0
+        card.style.setProperty('--card-index', index + indexOffset);
+        containerEl.appendChild(card);
+    });
 }
 
 init();
