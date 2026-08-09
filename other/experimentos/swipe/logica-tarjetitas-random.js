@@ -353,11 +353,30 @@ function handleTouchEnd(event) {
 }
 
 function handleKeyDown(event) {
+    const currentCard = container.children[currentIndex];
+
+    if (event.key === 'ArrowLeft') {
+        event.preventDefault();
+        currentCard?.querySelector('#audio-button-fast')?.click();
+        return;
+    }
+
+    if (event.key === 'ArrowRight') {
+        event.preventDefault();
+        currentCard?.querySelector('#audio-button-slow')?.click();
+        return;
+    }
+
     if (event.key === 'ArrowUp') {
+        event.preventDefault();
         currentIndex -= 1;
     } else if (event.key === 'ArrowDown') {
+        event.preventDefault();
         currentIndex += 1;
+    } else {
+        return;
     }
+
     loadNewCard(currentIndex);
 }
 
