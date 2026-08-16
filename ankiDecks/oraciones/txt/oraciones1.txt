@@ -1,0 +1,15 @@
+<div class="chineseChars">老师是中国人。</div>|<div class="answer">lǎo shī shì zhōng guó rén. <span class="english">The teacher is Chinese.</span></div>
+<div class="chineseChars">现在我在公司。</div>|<div class="answer">xiàn zài wǒ zài gōng sī. <span class="english">I am at the company now.</span></div>
+<div class="chineseChars">我的姐姐有两个孩子。</div>|<div class="answer">wǒ de jiě jie yǒu liǎng gè hái zi. <span class="english">My older sister has two children.</span></div>
+<div class="chineseChars">这个多少钱？</div>|<div class="answer">zhè ge duō shǎo qián? <span class="english">How much is this?</span></div>
+<div class="chineseChars">我每天七点起床。</div>|<div class="answer">wǒ měi tiān qī diǎn qǐ chuáng. <span class="english">I get up at seven every day.</span></div>
+<div class="chineseChars">我打算明年去中国。</div>|<div class="answer">wǒ dǎ suàn míng nián qù Zhōng guó. <span class="english">I plan to go to China next year.</span></div>
+<div class="chineseChars">泰国菜又便宜又好吃。</div>|<div class="answer">tài guó cài yòu pián yi yòu hǎo chī. <span class="english">Thai food is both cheap and delicious.</span></div>
+<div class="chineseChars">你的英语说得真好！</div>|<div class="answer">nǐ de yīng yǔ shuō de zhēn hǎo! <span class="english">You speak English so well!</span></div>
+<div class="chineseChars">你先一直往前走，再往左转。</div>|<div class="answer">nǐ xiān yì zhí wǎng qián zǒu, zài wǎng zuǒ zhuǎn. <span class="english">First go straight ahead, then turn left.</span></div>
+<div class="chineseChars">我可以加你的微信吗？</div>|<div class="answer">wǒ kě yǐ jiā nǐ de wēi xìn ma? <span class="english">Can I add your WeChat?</span></div>
+<div class="chineseChars">对不起，请问厕所在哪里？</div>|<div class="answer">duì bu qǐ, qǐng wèn cè suǒ zài nǎ lǐ? <span class="english">Excuse me, may I ask where the restroom is?</span></div>
+<div class="chineseChars">今天晚上我们去酒吧吧。</div>|<div class="answer">jīn tiān wǎn shang wǒ men qù jiǔ bā ba. <span class="english">Let's go to the bar tonight.</span></div>
+<div class="chineseChars">他不但每天运动，而且吃很少的饭。</div>|<div class="answer">tā bú dàn měi tiān yùn dòng, ér qiě chī hěn shǎo de fàn. <span class="english">He not only exercises every day but also eats very little.</span></div>
+<div class="chineseChars">你一定要试一下这个菜。</div>|<div class="answer">nǐ yí dìng yào shì yí xià zhè gè cài. <span class="english">You definitely must try this dish.</span></div>
+<div class="chineseChars">我从来没有想过这个问题。</div>|<div class="answer">wǒ cóng lái méi yǒu xiǎng guo zhè gè wèn tí. <span class="english">I have never thought about this question.</span></div>
