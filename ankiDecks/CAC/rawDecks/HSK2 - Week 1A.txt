@@ -1,0 +1,19 @@
+#separator:tab
+#html:false
+西瓜		xīguā - watermelon			
+蛋糕		dàngāo - cake			
+票		piào - ticket			
+阿姨		āyí - aunt			
+同事		tóngshì - colleague			
+同学		tóngxué - classmate			
+结婚		jiéhūn - to get married			
+报名		bàomíng - to sign up, to register			
+搬家		bānjiā - to move			
+开始		kāishǐ - to begin			
+北方		běifāng - northern part			
+南方		nánfāng - southern part			
+东部		dōngbù - eastern part			
+西部		xībù - western part			
+遍		biàn - time (used for repetition, measure word)			
+讲		jiǎng - to talk, to explain			
+故事		gùshi - story			

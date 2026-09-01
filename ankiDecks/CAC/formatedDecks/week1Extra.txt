@@ -1,0 +1,45 @@
+<div class="chineseChars">分享</div>|<div class="answer">fēnxiǎng <span class="english">to share</span></div>
+<div class="chineseChars">屏幕</div>|<div class="answer">píngmù <span class="english">screen</span></div>
+<div class="chineseChars">现在我给大家分享我的屏幕。</div>|<div class="answer">Xiànzài wǒ gěi dàjiā fēnxiǎng wǒ de píngmù. <span class="english">Now I'll share my screen with everyone.</span></div>
+<div class="chineseChars">看见</div>|<div class="answer">kànjiàn <span class="english">to see</span></div>
+<div class="chineseChars">加州</div>|<div class="answer">Jiāzhōu <span class="english">California</span></div>
+<div class="chineseChars">纽约</div>|<div class="answer">Niǔyuē <span class="english">New York</span></div>
+<div class="chineseChars">商学</div>|<div class="answer">shāngxué <span class="english">business studies / business</span></div>
+<div class="chineseChars">墨西哥</div>|<div class="answer">Mòxīgē <span class="english">Mexico</span></div>
+<div class="chineseChars">一般般</div>|<div class="answer">yìbānbàn <span class="english">so-so (roughly)</span></div>
+<div class="chineseChars">旧金山</div>|<div class="answer">Jiùjīnshān <span class="english">San Francisco</span></div>
+<div class="chineseChars">俄勒冈州</div>|<div class="answer">Èlègāngzhōu <span class="english">Oregon</span></div>
+<div class="chineseChars">遛狗</div>|<div class="answer">liùgǒu <span class="english">walking the dog</span></div>
+<div class="chineseChars">词汇</div>|<div class="answer">cíhuì <span class="english">vocabulary</span></div>
+<div class="chineseChars">听力</div>|<div class="answer">tīnglì <span class="english">listening comprehension</span></div>
+<div class="chineseChars">发音</div>|<div class="answer">fāyīn <span class="english">pronunciation</span></div>
+<div class="chineseChars">语法</div>|<div class="answer">yǔfǎ <span class="english">grammar</span></div>
+<div class="chineseChars">读一下</div>|<div class="answer">dúyíxià <span class="english">read this</span></div>
+<div class="chineseChars">选择</div>|<div class="answer">xuǎnzé <span class="english">to choose</span></div>
+<div class="chineseChars">你要选哪</div>|<div class="answer">nǐ yào xuǎn nǎ? <span class="english">which one are you going to choose?</span></div>
+<div class="chineseChars">容易</div>|<div class="answer">róngyì <span class="english">easy</span></div>
+<div class="chineseChars">请你选择一个</div>|<div class="answer">Qǐng nǐ xuǎnzé yīgè <span class="english">please choose one</span></div>
+<div class="chineseChars">你怎么看</div>|<div class="answer">nǐ zěnme kàn? <span class="english">what do you think? / what's your opinion?</span></div>
+<div class="chineseChars">父母</div>|<div class="answer">fùmǔ <span class="english">father and mother; parents</span></div>
+<div class="chineseChars">分</div>|<div class="answer">fēn <span class="english">point / points</span></div>
+<div class="chineseChars">请你读</div>|<div class="answer">Qǐng nǐ dú <span class="english">please read</span></div>
+<div class="chineseChars">很中国人一样的</div>|<div class="answer">hěn Zhōngguó rén yíyàng de <span class="english">just like a Chinese person</span></div>
+<div class="chineseChars">上面</div>|<div class="answer">shàngmiàn <span class="english">up / above</span></div>
+<div class="chineseChars">下面</div>|<div class="answer">xiàmiàn <span class="english">down / below</span></div>
+<div class="chineseChars">前面</div>|<div class="answer">qiánmiàn <span class="english">front / in front</span></div>
+<div class="chineseChars">后面</div>|<div class="answer">hòumiàn <span class="english">back / behind</span></div>
+<div class="chineseChars">左边</div>|<div class="answer">zuǒbiān <span class="english">left side</span></div>
+<div class="chineseChars">右边</div>|<div class="answer">yòubiān <span class="english">right side</span></div>
+<div class="chineseChars">里面</div>|<div class="answer">lǐmiàn <span class="english">inside</span></div>
+<div class="chineseChars">外面</div>|<div class="answer">wàimiàn <span class="english">outside</span></div>
+<div class="chineseChars">句子</div>|<div class="answer">jùzi <span class="english">sentence</span></div>
+<div class="chineseChars">我可以第一个</div>|<div class="answer">wǒ kěyǐ dì yīgè <span class="english">I can be the first</span></div>
+<div class="chineseChars">弹钢琴</div>|<div class="answer">tán gāngqín <span class="english">play piano</span></div>
+<div class="chineseChars">读这些词</div>|<div class="answer">dú zhèxiē cí <span class="english">read these words</span></div>
+<div class="chineseChars">这些</div>|<div class="answer">zhèxiē <span class="english">these</span></div>
+<div class="chineseChars">一定要</div>|<div class="answer">yídìng yào <span class="english">absolutely / mandatory</span></div>
+<div class="chineseChars">地方</div>|<div class="answer">dìfang <span class="english">place</span></div>
+<div class="chineseChars">来猜</div>|<div class="answer">lái cāi <span class="english">take a guess</span></div>
+<div class="chineseChars">两个人刚认识</div>|<div class="answer">liǎng gè rén gāng rènshi <span class="english">two people just met each other</span></div>
+<div class="chineseChars">接电话</div>|<div class="answer">jiē diànhuà <span class="english">to answer the phone</span></div>
+<div class="chineseChars">听不懂</div>|<div class="answer">tīng bù dǒng <span class="english">can't understand</span></div>

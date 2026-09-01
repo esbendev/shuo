@@ -1,0 +1,17 @@
+<div class="chineseChars">西瓜</div>|<div class="answer">xīguā <span class="english">watermelon</span></div>
+<div class="chineseChars">蛋糕</div>|<div class="answer">dàngāo <span class="english">cake</span></div>
+<div class="chineseChars">票</div>|<div class="answer">piào <span class="english">ticket</span></div>
+<div class="chineseChars">阿姨</div>|<div class="answer">āyí <span class="english">aunt</span></div>
+<div class="chineseChars">同事</div>|<div class="answer">tóngshì <span class="english">colleague</span></div>
+<div class="chineseChars">同学</div>|<div class="answer">tóngxué <span class="english">classmate</span></div>
+<div class="chineseChars">结婚</div>|<div class="answer">jiéhūn <span class="english">to get married</span></div>
+<div class="chineseChars">报名</div>|<div class="answer">bàomíng <span class="english">to sign up, to register</span></div>
+<div class="chineseChars">搬家</div>|<div class="answer">bānjiā <span class="english">to move</span></div>
+<div class="chineseChars">开始</div>|<div class="answer">kāishǐ <span class="english">to begin</span></div>
+<div class="chineseChars">北方</div>|<div class="answer">běifāng <span class="english">northern part</span></div>
+<div class="chineseChars">南方</div>|<div class="answer">nánfāng <span class="english">southern part</span></div>
+<div class="chineseChars">东部</div>|<div class="answer">dōngbù <span class="english">eastern part</span></div>
+<div class="chineseChars">西部</div>|<div class="answer">xībù <span class="english">western part</span></div>
+<div class="chineseChars">遍</div>|<div class="answer">biàn <span class="english">time (used for repetition, measure word)</span></div>
+<div class="chineseChars">讲</div>|<div class="answer">jiǎng <span class="english">to talk, to explain</span></div>
+<div class="chineseChars">故事</div>|<div class="answer">gùshi <span class="english">story</span></div>

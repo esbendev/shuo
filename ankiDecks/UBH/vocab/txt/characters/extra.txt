@@ -1,0 +1,43 @@
+<div class="chineseChars">上网</div>|<div class="answer">shàngwǎng <span class="english">to go online</span></div>
+<div class="chineseChars">音乐</div>|<div class="answer">yīnyuè <span class="english">music</span></div>
+<div class="chineseChars">白菜</div>|<div class="answer">báicài <span class="english">Chinese cabbage</span></div>
+<div class="chineseChars">豆腐</div>|<div class="answer">dòufu <span class="english">tofu</span></div>
+<div class="chineseChars">火鸡</div>|<div class="answer">huǒjī <span class="english">turkey</span></div>
+<div class="chineseChars">鸡肉</div>|<div class="answer">jī ròu <span class="english">chicken</span></div>
+<div class="chineseChars">碗</div>|<div class="answer">wǎn <span class="english">bowl</span></div>
+<div class="chineseChars">粥</div>|<div class="answer">zhōu <span class="english">congee</span></div>
+<div class="chineseChars">客户</div>|<div class="answer">kèhù <span class="english">client</span></div>
+<div class="chineseChars">老板</div>|<div class="answer">lǎobǎn <span class="english">boss</span></div>
+<div class="chineseChars">老外</div>|<div class="answer">lǎowài <span class="english">foreigner (informal)</span></div>
+<div class="chineseChars">妻子</div>|<div class="answer">qīzi <span class="english">wife</span></div>
+<div class="chineseChars">同事</div>|<div class="answer">tóngshì <span class="english">co-worker</span></div>
+<div class="chineseChars">上个星期</div>|<div class="answer">shànggè xīngqī <span class="english">last week</span></div>
+<div class="chineseChars">周末</div>|<div class="answer">zhōumò <span class="english">weekend</span></div>
+<div class="chineseChars">下个月</div>|<div class="answer">xià gè yuè <span class="english">next month</span></div>
+<div class="chineseChars">房子</div>|<div class="answer">fángzi <span class="english">house, apartment</span></div>
+<div class="chineseChars">附近</div>|<div class="answer">fùjìn <span class="english">nearby area</span></div>
+<div class="chineseChars">美元</div>|<div class="answer">měi yuán <span class="english">US dollar</span></div>
+<div class="chineseChars">曼谷</div>|<div class="answer">mǎngǔ <span class="english">Bangkok</span></div>
+<div class="chineseChars">五角钱</div>|<div class="answer">wǔ jiǎo qián <span class="english">fifty cents</span></div>
+<div class="chineseChars">五块五</div>|<div class="answer">wǔ kuài wǔ <span class="english">five yuan fifty</span></div>
+<div class="chineseChars">意大利</div>|<div class="answer">yìdàlì <span class="english">Italy</span></div>
+<div class="chineseChars">右边</div>|<div class="answer">yòu biān <span class="english">right side</span></div>
+<div class="chineseChars">一块钱</div>|<div class="answer">yī kuài qián <span class="english">one yuan</span></div>
+<div class="chineseChars">中国城</div>|<div class="answer">zhōngguó chéng <span class="english">Chinatown</span></div>
+<div class="chineseChars">左边</div>|<div class="answer">zuǒ biān <span class="english">left side</span></div>
+<div class="chineseChars">澳大利亚</div>|<div class="answer">àodàlìyà <span class="english">Australia</span></div>
+<div class="chineseChars">方便</div>|<div class="answer">fāngbiàn <span class="english">convenient</span></div>
+<div class="chineseChars">干净</div>|<div class="answer">gānjìng <span class="english">clean</span></div>
+<div class="chineseChars">冷</div>|<div class="answer">lěng <span class="english">cold</span></div>
+<div class="chineseChars">便宜</div>|<div class="answer">piányi <span class="english">cheap</span></div>
+<div class="chineseChars">热</div>|<div class="answer">rè <span class="english">hot</span></div>
+<div class="chineseChars">显瘦</div>|<div class="answer">xiǎnshòu <span class="english">look slim</span></div>
+<div class="chineseChars">颜色</div>|<div class="answer">yánsè <span class="english">color</span></div>
+<div class="chineseChars">真</div>|<div class="answer">zhēn <span class="english">really, truly</span></div>
+<div class="chineseChars">猜</div>|<div class="answer">cāi <span class="english">to guess</span></div>
+<div class="chineseChars">的时候</div>|<div class="answer">de shíhòu <span class="english">when... / during...</span></div>
+<div class="chineseChars">汉字</div>|<div class="answer">hànzì <span class="english">Chinese character</span></div>
+<div class="chineseChars">描述</div>|<div class="answer">miáoshù <span class="english">to describe / description</span></div>
+<div class="chineseChars">试着</div>|<div class="answer">shìzhe <span class="english">try to do sth.</span></div>
+<div class="chineseChars">网上</div>|<div class="answer">wǎngshang <span class="english">online</span></div>
+<div class="chineseChars">咦</div>|<div class="answer">yí <span class="english">expressing surprise, puzzle</span></div>
