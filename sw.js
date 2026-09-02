@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v260901-2";
+const CACHE_NAME = "esbendev-shuo-v260902-1";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -129,7 +129,7 @@ const urlsToCache = [
     // cac
     "/shuo/other/experimentos/swipe/logica-tarjetitas-cac.js",
     "/shuo/other/experimentos/swipe/index-cac.html",
-    "/shuo/contenido/audio/cac/1/manifest.json"
+    "/shuo/contenido/audio/cac/1/week-1a/manifest.json"
 
 ];
 
@@ -143,10 +143,28 @@ self.addEventListener("install", (event) => {
 });
 
 self.addEventListener("fetch", (event) => {
+    const requestUrl = new URL(event.request.url);
+    const isAudioManifest = requestUrl.pathname.includes("/contenido/audio/cac/") || requestUrl.pathname.endsWith("/manifest.json");
+
+    if (event.request.method !== "GET" || !isAudioManifest) {
+        event.respondWith(
+            caches.match(event.request).then((response) => {
+                return response || fetch(event.request);
+            })
+        );
+        return;
+    }
+
     event.respondWith(
-        caches.match(event.request).then((response) => {
-            return response || fetch(event.request);
-        })
+        fetch(event.request)
+            .then((response) => {
+                if (response && response.ok) {
+                    const responseClone = response.clone();
+                    caches.open(CACHE_NAME).then((cache) => cache.put(event.request, responseClone));
+                }
+                return response;
+            })
+            .catch(() => caches.match(event.request))
     );
 });
 
