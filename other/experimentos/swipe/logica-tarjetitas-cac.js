@@ -169,55 +169,106 @@ function sortAudioUrls(audioUrls) {
     });
 }
 
+function parseAudioUrlsFromHtml(htmlText, folderUrl) {
+    const doc = new DOMParser().parseFromString(htmlText, 'text/html');
+    return Array.from(doc.querySelectorAll('a[href]'))
+        .map((link) => link.getAttribute('href'))
+        .filter((href) => href && /\.(mp3|wav|m4a|ogg)$/i.test(href))
+        .map((href) => new URL(href, folderUrl).href);
+}
+
+function parseAudioUrlsFromManifest(manifest, folderUrl) {
+    if (!manifest) {
+        return [];
+    }
+
+    const rawFiles = Array.isArray(manifest.files)
+        ? manifest.files
+        : Array.isArray(manifest)
+            ? manifest
+            : [];
+
+    return rawFiles
+        .map((entry) => {
+            if (typeof entry === 'string') {
+                return new URL(entry, folderUrl).href;
+            }
+
+            if (entry && typeof entry.href === 'string') {
+                return new URL(entry.href, folderUrl).href;
+            }
+
+            if (entry && typeof entry.url === 'string') {
+                return new URL(entry.url, folderUrl).href;
+            }
+
+            return null;
+        })
+        .filter((url) => typeof url === 'string' && /\.(mp3|wav|m4a|ogg)$/i.test(url));
+}
+
+function renderCards(audioUrls) {
+    const sortedUrls = sortAudioUrls(audioUrls);
+
+    if (!sortedUrls.length) {
+        const fallbackText = document.createElement('div');
+        fallbackText.className = 'card';
+        fallbackText.style.setProperty('--card-index', '1');
+
+        const inner = document.createElement('div');
+        inner.className = 'card-inner intro';
+        inner.textContent = 'No audio files found';
+        fallbackText.appendChild(inner);
+        container.appendChild(fallbackText);
+        return;
+    }
+
+    sortedUrls.forEach((audioUrl, index) => {
+        const card = buildCard(audioUrl, index + 1, sortedUrls.length);
+        container.appendChild(card);
+    });
+}
+
 function buildCardsForDir(dirName) {
     const folderUrl = new URL(`../../../contenido/audio/cac/1/${dirName}/`, window.location.href).href;
+    const manifestUrl = new URL('manifest.json', folderUrl).href;
 
-    fetch(folderUrl)
+    fetch(manifestUrl)
         .then((response) => {
             if (!response.ok) {
-                throw new Error(`Could not load folder:${response.status}`);
+                throw new Error(`Manifest missing:${response.status}`);
             }
-            return response.text();
+            return response.json();
         })
-        .then((htmlText) => {
-            const doc = new DOMParser().parseFromString(htmlText, 'text/html');
-            const audioUrls = Array.from(doc.querySelectorAll('a[href]'))
-                .map((link) => link.getAttribute('href'))
-                .filter((href) => href && /\.(mp3|wav|m4a|ogg)$/i.test(href))
-                .map((href) => new URL(href, folderUrl).href);
-
-            const sortedUrls = sortAudioUrls(audioUrls);
-
-            if (!sortedUrls.length) {
-                const fallbackText = document.createElement('div');
-                fallbackText.className = 'card';
-                fallbackText.style.setProperty('--card-index', '1');
-
-                const inner = document.createElement('div');
-                inner.className = 'card-inner intro';
-                inner.textContent = 'No audio files found';
-                fallbackText.appendChild(inner);
-                container.appendChild(fallbackText);
-                return;
-            }
-
-            sortedUrls.forEach((audioUrl, index) => {
-                const card = buildCard(audioUrl, index + 1, sortedUrls.length);
-                container.appendChild(card);
-            });
+        .then((manifest) => {
+            const audioUrls = parseAudioUrlsFromManifest(manifest, folderUrl);
+            renderCards(audioUrls);
         })
-        .catch((error) => {
-            console.error('Error loading CAC audio files:', error);
+        .catch(() => {
+            fetch(folderUrl)
+                .then((response) => {
+                    if (!response.ok) {
+                        throw new Error(`Could not load folder:${response.status}`);
+                    }
+                    return response.text();
+                })
+                .then((htmlText) => {
+                    const audioUrls = parseAudioUrlsFromHtml(htmlText, folderUrl);
+                    renderCards(audioUrls);
+                })
+                .catch((error) => {
+                    console.error('Error loading CAC audio files:', error);
 
-            const fallback = document.createElement('div');
-            fallback.className = 'card';
-            fallback.style.setProperty('--card-index', '1');
+                    const fallback = document.createElement('div');
+                    fallback.className = 'card';
+                    fallback.style.setProperty('--card-index', '1');
 
-            const inner = document.createElement('div');
-            inner.className = 'card-inner intro';
-            inner.textContent = 'Could not load audio folder';
-            fallback.appendChild(inner);
-            container.appendChild(fallback);
+                    const inner = document.createElement('div');
+                    inner.className = 'card-inner intro';
+                    inner.textContent = 'Could not load audio folder';
+                    fallback.appendChild(inner);
+                    container.appendChild(fallback);
+                });
         });
 }
 
