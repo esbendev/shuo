@@ -1,0 +1,39 @@
+<div class="chineseChars">南瓜</div>|<div class="answer">nánguā <span class="english">pumpkin</span></div>
+<div class="chineseChars">冬瓜</div>|<div class="answer">dōngguā <span class="english">winter melon</span></div>
+<div class="chineseChars">黄瓜</div>|<div class="answer">huángguā <span class="english">cucumber</span></div>
+<div class="chineseChars">名词</div>|<div class="answer">míngcí <span class="english">noun</span></div>
+<div class="chineseChars">谁想试一试说一个句子?</div>|<div class="answer">shéi xiǎng shìyìshì shuō yígè jùzi? <span class="english">Who wants to try saying a sentence?</span></div>
+<div class="chineseChars">蛋</div>|<div class="answer">dàn <span class="english">egg</span></div>
+<div class="chineseChars">糕</div>|<div class="answer">gāo <span class="english">pastry / cake</span></div>
+<div class="chineseChars">大家知道吗？</div>|<div class="answer">dàjiā zhīdào ma? <span class="english">Does everyone know?</span></div>
+<div class="chineseChars">样</div>|<div class="answer">yàng <span class="english">kind / type / way</span></div>
+<div class="chineseChars">如果是这样的蛋糕...</div>|<div class="answer">rúguǒ shì zhèyàng de dàngāo... <span class="english">If it’s this kind of cake...</span></div>
+<div class="chineseChars">一块蛋糕</div>|<div class="answer">yíkuài dàngāo <span class="english">one slice of cake</span></div>
+<div class="chineseChars">一块西瓜</div>|<div class="answer">yíkuài xīguā <span class="english">one slice of watermelon</span></div>
+<div class="chineseChars">那现在我想请一个同学用蛋糕问一个问题。</div>|<div class="answer">nà xiànzài wǒ xiǎng qǐng yígè tóngxué yòng dàngāo wèn yígè wèntí. <span class="english">So now I want to ask a classmate to ask a question using cake.</span></div>
+<div class="chineseChars">你们觉得蛋糕太甜了吗？</div>|<div class="answer">nǐmen juédé dàngāo tài tián le ma? <span class="english">Do you think the cake is too sweet?</span></div>
+<div class="chineseChars">听说过</div>|<div class="answer">tīngshuōguò <span class="english">have heard of / heard about</span></div>
+<div class="chineseChars">一个西瓜</div>|<div class="answer">yígè xīguā <span class="english">one watermelon</span></div>
+<div class="chineseChars">一个冬瓜</div>|<div class="answer">yígè dōngguā <span class="english">one winter melon</span></div>
+<div class="chineseChars">一个黄瓜</div>|<div class="answer">yígè huángguā <span class="english">one cucumber</span></div>
+<div class="chineseChars">一个蛋糕</div>|<div class="answer">yígè dàngāo <span class="english">one cake</span></div>
+<div class="chineseChars">一张票</div>|<div class="answer">yìzhāng piào <span class="english">one ticket</span></div>
+<div class="chineseChars">你有没有买票？</div>|<div class="answer">nǐ yǒu méiyǒu mǎi piào? <span class="english">Did you buy a ticket?</span></div>
+<div class="chineseChars">请大家用中文说一说谁是阿姨？</div>|<div class="answer">qǐng dàjiā yòng Zhōngwén shuō yìshuō shéi shì āyí? <span class="english">Please everyone say in Chinese who the auntie is.</span></div>
+<div class="chineseChars">下一个词</div>|<div class="answer">xià yígè cí <span class="english">next word</span></div>
+<div class="chineseChars">请一个同学用中文说一说同事是谁？</div>|<div class="answer">qǐng yígè tóngxué yòng Zhōngwén shuō yìshuō tóngshì shì shéi? <span class="english">Please ask a classmate to say in Chinese who a coworker is.</span></div>
+<div class="chineseChars">现在我们看一看这里有三个人（阿姨，同事，同学），请你选词，一个人来介绍。</div>|<div class="answer">xiànzài wǒmen kàn yí kàn zhèlǐ yǒu sān gè rén (āyí, tóngshì, tóngxué), qǐng nǐ xuǎn cí, yígè rén lái jièshào. <span class="english">Now let’s look: here there are three people (auntie, coworker, classmate), please choose the word and let one person introduce.</span></div>
+<div class="chineseChars">那你介绍你的猫！</div>|<div class="answer">nà nǐ jièshào nǐ de māo! <span class="english">Then introduce your cat!</span></div>
+<div class="chineseChars">继续</div>|<div class="answer">jìxù <span class="english">continue</span></div>
+<div class="chineseChars">那我们继续</div>|<div class="answer">nà wǒmen jìxù <span class="english">then let’s continue</span></div>
+<div class="chineseChars">大家明白了吗？</div>|<div class="answer">dàjiā míngbái le ma? <span class="english">Does everyone understand?</span></div>
+<div class="chineseChars">明白</div>|<div class="answer">míngbái <span class="english">understand</span></div>
+<div class="chineseChars">同意吗？</div>|<div class="answer">tóngyì ma? <span class="english">Do you agree?</span></div>
+<div class="chineseChars">谁结婚了？</div>|<div class="answer">shéi jiéhūn le? <span class="english">Who got married?</span></div>
+<div class="chineseChars">你结婚结得早吗？</div>|<div class="answer">nǐ jiéhūn jié de zǎo ma? <span class="english">Did you get married early?</span></div>
+<div class="chineseChars">我是一个宝宝</div>|<div class="answer">wǒ shì yígè bǎobao <span class="english">I am a baby</span></div>
+<div class="chineseChars">我搬过大概5次家。</div>|<div class="answer">wǒ bān guò dàgài wǔ cì jiā. <span class="english">I’ve moved about five times.</span></div>
+<div class="chineseChars">你最好的朋友结婚了吗？</div>|<div class="answer">nǐ zuì hǎo de péngyou jiéhūn le ma? <span class="english">Did your best friend get married?</span></div>
+<div class="chineseChars">你最好的朋友和谁结婚了？</div>|<div class="answer">nǐ zuì hǎo de péngyou hé shéi jiéhūn le? <span class="english">Who did your best friend marry?</span></div>
+<div class="chineseChars">我想再搬家</div>|<div class="answer">wǒ xiǎng zài bānjiā <span class="english">I want to move again</span></div>
+<div class="chineseChars">因为中国非常棒</div>|<div class="answer">yīnwèi Zhōngguó fēicháng bàng <span class="english">because China is amazing</span></div>
