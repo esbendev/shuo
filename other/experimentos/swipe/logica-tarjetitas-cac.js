@@ -2,7 +2,6 @@ const container = document.getElementById('cardContainer');
 let currentIndex = 0;
 let startY = 0;
 let endY = 0;
-let touchStartTime = 0;
 
 let currentAudio = null;
 let currentStatusIndicator = null;
@@ -13,15 +12,12 @@ function setViewportHeightVar() {
 
 setViewportHeightVar();
 
-function setAudioStatus(indicator, isPlaying, sourceLabel = 'Audio') {
+function setAudioStatus(indicator, isPlaying, sourceLabel) {
     if (!indicator) {
         return;
     }
 
     const text = indicator.querySelector('.status-text');
-    if (!text) {
-        return;
-    }
 
     if (isPlaying) {
         indicator.classList.add('playing');
@@ -33,7 +29,24 @@ function setAudioStatus(indicator, isPlaying, sourceLabel = 'Audio') {
     text.textContent = 'Stopped';
 }
 
+function resolveMediaUrl(rawUrl) {
+    if (!rawUrl) {
+        return '';
+    }
+
+    if (/^(https?:)?\/\//i.test(rawUrl) || rawUrl.startsWith('blob:') || rawUrl.startsWith('data:') || rawUrl.startsWith('file:')) {
+        return rawUrl;
+    }
+
+    const cleaned = rawUrl.replace(/^\.\//, '').replace(/^(\.\.\/)+/, '');
+    return new URL(`../../../${cleaned}`, window.location.href).href;
+}
+
 function playAudio(src, sourceLabel, indicator) {
+    if (!src) {
+        return;
+    }
+
     if (currentStatusIndicator && currentStatusIndicator !== indicator) {
         setAudioStatus(currentStatusIndicator, false);
     }
@@ -43,7 +56,8 @@ function playAudio(src, sourceLabel, indicator) {
         currentAudio.currentTime = 0;
     }
 
-    currentAudio = new Audio(src);
+    const absoluteSrc = resolveMediaUrl(src);
+    currentAudio = new Audio(absoluteSrc);
     currentStatusIndicator = indicator;
 
     setAudioStatus(indicator, true, sourceLabel);
@@ -67,210 +81,131 @@ function playAudio(src, sourceLabel, indicator) {
     });
 }
 
-function formatAudioLabel(filename) {
-    const withoutExtension = filename.replace(/\.[^/.]+$/, '');
-    const normalized = withoutExtension
-        .replace(/[-_]+/g, ' ')
-        .replace(/\s+/g, ' ')
-        .trim();
+const urlParams = new URLSearchParams(window.location.search);
+const requestedFile = urlParams.get('file') || 'week-1a';
+const normalizedFilename = requestedFile.replace(/\.json$/i, '');
+const filePath = new URL(`../../../contenido/preguntas/cac/1/${normalizedFilename}.json`, window.location.href).href;
 
-    return normalized || 'Audio';
-}
+fetch(filePath)
+    .then(response => response.json())
+    .then(data => {
+        const container = document.getElementById('cardContainer');
+        const totalCards = data.preguntas.length;
 
-function buildCard(audioUrl, index, total) {
-    const card = document.createElement('div');
-    card.className = 'card';
-    card.style.setProperty('--card-index', String(index));
+        data.preguntas.forEach((pregunta, index) => {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.style.setProperty('--card-index', pregunta.id); // Use id from JSON
 
-    const cardInner = document.createElement('div');
-    cardInner.className = 'card-inner';
+            const cardInner = document.createElement('div');
+            cardInner.className = 'card-inner';
 
-    const cardCounter = document.createElement('p');
-    cardCounter.className = 'card-counter';
-    cardCounter.textContent = `${index + 1} of ${total}`;
-    cardInner.appendChild(cardCounter);
+            const cardCounter = document.createElement('p');
+            cardCounter.className = 'card-counter';
+            cardCounter.textContent = `${index + 1} of ${totalCards}`;
+            cardInner.appendChild(cardCounter);
 
-    const contentStack = document.createElement('div');
-    contentStack.className = 'content-stack';
+            const contentStack = document.createElement('div');
+            contentStack.className = 'content-stack';
 
-    const audioLabel = document.createElement('p');
-    audioLabel.className = 'text-slot-label';
-    audioLabel.textContent = 'Audio';
-    contentStack.appendChild(audioLabel);
+            const chineseLabel = document.createElement('p');
+            chineseLabel.className = 'text-slot-label';
+            chineseLabel.textContent = 'Chinese';
+            contentStack.appendChild(chineseLabel);
 
-    const audioSlot = document.createElement('div');
-    audioSlot.className = 'text-slot zh';
+            const chineseSlot = document.createElement('div');
+            chineseSlot.className = 'text-slot zh';
 
-    const audioText = document.createElement('p');
-    audioText.className = 'card-text zh revealed';
-    audioText.textContent = formatAudioLabel(audioUrl.split('/').pop());
-    audioSlot.appendChild(audioText);
-    contentStack.appendChild(audioSlot);
+            const chineseText = document.createElement('p');
+            chineseText.className = 'card-text zh';
+            chineseText.textContent = pregunta.respuesta_correcta[0]; // Use the first respuesta_correcta
+            chineseSlot.appendChild(chineseText);
+            contentStack.appendChild(chineseSlot);
 
-    cardInner.appendChild(contentStack);
+            const englishLabel = document.createElement('p');
+            englishLabel.className = 'text-slot-label';
+            englishLabel.textContent = 'English';
+            contentStack.appendChild(englishLabel);
 
-    const buttonContainer = document.createElement('div');
-    buttonContainer.className = 'controls';
+            const englishSlot = document.createElement('div');
+            englishSlot.className = 'text-slot en';
 
-    const audioStatus = document.createElement('div');
-    audioStatus.className = 'audio-status';
+            const englishText = document.createElement('p');
+            englishText.className = 'card-text en';
+            englishText.textContent = pregunta.texto_en_ingles || '';
+            englishSlot.appendChild(englishText);
+            contentStack.appendChild(englishSlot);
 
-    const statusDot = document.createElement('span');
-    statusDot.className = 'status-dot';
-    audioStatus.appendChild(statusDot);
+            cardInner.appendChild(contentStack);
 
-    const statusText = document.createElement('span');
-    statusText.className = 'status-text';
-    statusText.textContent = 'Stopped';
-    audioStatus.appendChild(statusText);
+            const showTextButton = document.createElement('button');
+            showTextButton.className = 'button toggle-text-button';
+            showTextButton.textContent = 'Show Chinese';
+            showTextButton.addEventListener('click', () => {
+                const isShown = chineseText.classList.toggle('revealed');
+                showTextButton.textContent = isShown ? 'Hide Chinese' : 'Show Chinese';
+            });
 
-    buttonContainer.appendChild(audioStatus);
+            const showEnglishButton = document.createElement('button');
+            showEnglishButton.className = 'button toggle-text-button';
+            showEnglishButton.textContent = 'Show English';
+            const hasEnglishText = Boolean((pregunta.texto_en_ingles || '').trim());
+            showEnglishButton.disabled = !hasEnglishText;
+            showEnglishButton.addEventListener('click', () => {
+                const isShown = englishText.classList.toggle('revealed');
+                showEnglishButton.textContent = isShown ? 'Hide English' : 'Show English';
+            });
 
-    const playButton = document.createElement('button');
-    playButton.type = 'button';
-    playButton.className = 'button audio-button';
-    playButton.dataset.audioButton = 'true';
-    playButton.textContent = 'Play audio';
-    playButton.addEventListener('click', () => {
-        playAudio(audioUrl, 'Audio', audioStatus);
-    });
-    buttonContainer.appendChild(playButton);
+            const buttonContainer = document.createElement('div');
+            buttonContainer.className = 'controls';
 
-    // const replayButton = document.createElement('button');
-    // replayButton.type = 'button';
-    // replayButton.className = 'button toggle-text-button';
-    // replayButton.textContent = 'Replay';
-    // replayButton.addEventListener('click', () => {
-    //     playAudio(audioUrl, 'Audio', audioStatus);
-    // });
-    // buttonContainer.appendChild(replayButton);
+            const audioStatus = document.createElement('div');
+            audioStatus.className = 'audio-status';
 
-    cardInner.appendChild(buttonContainer);
-    card.appendChild(cardInner);
-    return card;
-}
+            const statusDot = document.createElement('span');
+            statusDot.className = 'status-dot';
+            audioStatus.appendChild(statusDot);
 
-function sortAudioUrls(audioUrls) {
-    return [...new Set(audioUrls)].sort((a, b) => {
-        const getFileNumber = (url) => {
-            const fileName = decodeURIComponent((url.split('/').pop() || '')).replace(/\.[^/.]+$/, '');
-            const match = fileName.match(/(\d+)/);
-            return match ? Number(match[1]) : Number.MAX_SAFE_INTEGER;
-        };
+            const statusText = document.createElement('span');
+            statusText.className = 'status-text';
+            statusText.textContent = 'Stopped';
+            audioStatus.appendChild(statusText);
 
-        const aNum = getFileNumber(a);
-        const bNum = getFileNumber(b);
+            buttonContainer.appendChild(audioStatus);
 
-        if (aNum !== bNum) {
-            return aNum - bNum;
-        }
+            buttonContainer.appendChild(showTextButton);
+            buttonContainer.appendChild(showEnglishButton);
 
-        return a.localeCompare(b);
-    });
-}
+            const audioSources = Array.isArray(pregunta.archivo_audio)
+                ? pregunta.archivo_audio.filter(Boolean)
+                : [];
+            const primaryAudio = audioSources[0] || '';
+            const secondaryAudio = audioSources[1] || primaryAudio;
 
-function parseAudioUrlsFromHtml(htmlText, folderUrl) {
-    const doc = new DOMParser().parseFromString(htmlText, 'text/html');
-    return Array.from(doc.querySelectorAll('a[href]'))
-        .map((link) => link.getAttribute('href'))
-        .filter((href) => href && /\.(mp3|wav|m4a|ogg)$/i.test(href))
-        .map((href) => new URL(href, folderUrl).href);
-}
+            const buttonFast = document.createElement('button');
+            buttonFast.className = 'button audio-button';
+            buttonFast.id = 'audio-button-fast';
+            buttonFast.textContent = 'Play';
+            buttonFast.addEventListener('click', () => {
+                playAudio(primaryAudio, 'Audio', audioStatus);
+            });
+            buttonContainer.appendChild(buttonFast);
 
-function parseAudioUrlsFromManifest(manifest, folderUrl) {
-    if (!manifest) {
-        return [];
-    }
+            const buttonSlow = document.createElement('button');
+            buttonSlow.className = 'button audio-button';
+            buttonSlow.id = 'audio-button-slow';
+            buttonSlow.textContent = 'Replay';
+            buttonSlow.addEventListener('click', () => {
+                playAudio(secondaryAudio, 'Audio', audioStatus);
+            });
+            buttonContainer.appendChild(buttonSlow);
 
-    const rawFiles = Array.isArray(manifest.files)
-        ? manifest.files
-        : Array.isArray(manifest)
-            ? manifest
-            : [];
-
-    return rawFiles
-        .map((entry) => {
-            if (typeof entry === 'string') {
-                return new URL(entry, folderUrl).href;
-            }
-
-            if (entry && typeof entry.href === 'string') {
-                return new URL(entry.href, folderUrl).href;
-            }
-
-            if (entry && typeof entry.url === 'string') {
-                return new URL(entry.url, folderUrl).href;
-            }
-
-            return null;
-        })
-        .filter((url) => typeof url === 'string' && /\.(mp3|wav|m4a|ogg)$/i.test(url));
-}
-
-function renderCards(audioUrls) {
-    const sortedUrls = sortAudioUrls(audioUrls);
-
-    if (!sortedUrls.length) {
-        const fallbackText = document.createElement('div');
-        fallbackText.className = 'card';
-        fallbackText.style.setProperty('--card-index', '1');
-
-        const inner = document.createElement('div');
-        inner.className = 'card-inner intro';
-        inner.textContent = 'No audio files found';
-        fallbackText.appendChild(inner);
-        container.appendChild(fallbackText);
-        return;
-    }
-
-    sortedUrls.forEach((audioUrl, index) => {
-        const card = buildCard(audioUrl, index + 1, sortedUrls.length);
-        container.appendChild(card);
-    });
-}
-
-function buildCardsForDir(dirName) {
-    const folderUrl = new URL(`../../../contenido/audio/cac/1/${dirName}/`, window.location.href).href;
-    const manifestUrl = new URL('manifest.json', folderUrl).href;
-
-    fetch(manifestUrl)
-        .then((response) => {
-            if (!response.ok) {
-                throw new Error(`Manifest missing:${response.status}`);
-            }
-            return response.json();
-        })
-        .then((manifest) => {
-            const audioUrls = parseAudioUrlsFromManifest(manifest, folderUrl);
-            renderCards(audioUrls);
-        })
-        .catch(() => {
-            fetch(folderUrl)
-                .then((response) => {
-                    if (!response.ok) {
-                        throw new Error(`Could not load folder:${response.status}`);
-                    }
-                    return response.text();
-                })
-                .then((htmlText) => {
-                    const audioUrls = parseAudioUrlsFromHtml(htmlText, folderUrl);
-                    renderCards(audioUrls);
-                })
-                .catch((error) => {
-                    console.error('Error loading CAC audio files:', error);
-
-                    const fallback = document.createElement('div');
-                    fallback.className = 'card';
-                    fallback.style.setProperty('--card-index', '1');
-
-                    const inner = document.createElement('div');
-                    inner.className = 'card-inner intro';
-                    inner.textContent = 'Could not load audio folder';
-                    fallback.appendChild(inner);
-                    container.appendChild(fallback);
-                });
+            cardInner.appendChild(buttonContainer);
+            card.appendChild(cardInner);
+            container.appendChild(card);
         });
-}
+    })
+    .catch(error => console.error('Error fetching JSON:', error));
 
 function updateCardPosition() {
     const totalCards = container.children.length;
@@ -278,7 +213,7 @@ function updateCardPosition() {
     container.style.transform = `translateY(-${currentIndex * window.innerHeight}px)`;
 }
 
-function loadNewCard(nextIndex) {
+function loadNewCard(currentIndex) {
     if (currentAudio) {
         currentAudio.pause();
         currentAudio.currentTime = 0;
@@ -288,29 +223,27 @@ function loadNewCard(nextIndex) {
 
     updateCardPosition();
 
-    const newCard = container.children[nextIndex];
-    if (!newCard) {
-        return;
-    }
+    const newCard = container.children[currentIndex];
 
-    if (nextIndex === 0) {
-        return;
-    }
-
-    const audioButton = newCard.querySelector('[data-audio-button="true"]');
-    if (audioButton) {
-        audioButton.click();
+    if (newCard) {
+        const fastAudioButton = newCard.querySelector('#audio-button-fast');
+        if (fastAudioButton) {
+            fastAudioButton.click();
+        } else {
+            console.log('fastAudioButton not found');
+        }
+    } else {
+        console.log('newCard not found');
     }
 }
 
 function handleSwipe(event) {
-    if (!event || typeof event.deltaY === 'undefined') {
-        return;
-    }
 
     const direction = event.deltaY > 0 ? 1 : -1;
+
     currentIndex += direction;
     loadNewCard(currentIndex);
+
 }
 
 function preventScroll(event) {
@@ -319,7 +252,7 @@ function preventScroll(event) {
 
 function handleTouchStart(event) {
     startY = event.touches[0].clientY;
-    touchStartTime = Date.now();
+    this.touchStartTime = Date.now(); // Record the time when the touch starts
 }
 
 function handleTouchMove(event) {
@@ -328,97 +261,62 @@ function handleTouchMove(event) {
 }
 
 function handleTouchEnd(event) {
-    const end = event.changedTouches[0];
-    endY = end.clientY;
-
-    const swipeThreshold = 30;
+    endY = event.changedTouches[0].clientY; // Use `changedTouches` for the end position
+    const swipeThreshold = 30; // Minimum movement in pixels to qualify as a swipe
     const movement = Math.abs(startY - endY);
-    const touchDuration = Date.now() - touchStartTime;
+    const touchDuration = Date.now() - this.touchStartTime; // Calculate touch duration
+    // console.log('Touch start time:', this.touchStartTime);
+    // console.log('Swipe movement:', movement, 'Touch duration:', touchDuration);
 
+    // Ignore taps (short duration and small movement)
     if (movement <= swipeThreshold || touchDuration < 10) {
+        // console.log('Ignored as a tap');
         return;
     }
 
+    // Process swipe
     const direction = startY - endY > 0 ? 1 : -1;
     currentIndex += direction;
+    // console.log('Swipe direction:', direction);
     loadNewCard(currentIndex);
 }
 
 function handleKeyDown(event) {
-    if (event.key === 'ArrowDown' || event.key === 'ArrowRight') {
-        currentIndex += 1;
-        loadNewCard(currentIndex);
+    const currentCard = container.children[currentIndex];
+
+    if (event.key === 'ArrowLeft') {
+        event.preventDefault();
+        currentCard?.querySelector('#audio-button-fast')?.click();
+        return;
     }
 
-    if (event.key === 'ArrowUp' || event.key === 'ArrowLeft') {
+    if (event.key === 'ArrowRight') {
+        event.preventDefault();
+        currentCard?.querySelector('#audio-button-slow')?.click();
+        return;
+    }
+
+    if (event.key === 'ArrowUp') {
+        event.preventDefault();
         currentIndex -= 1;
-        loadNewCard(currentIndex);
+    } else if (event.key === 'ArrowDown') {
+        event.preventDefault();
+        currentIndex += 1;
+    } else {
+        return;
     }
+
+    loadNewCard(currentIndex);
 }
 
-function init() {
-    const params = new URLSearchParams(window.location.search);
-    const dir = params.get('dir') || 'week-1a';
-    buildCardsForDir(dir);
+// Allow default scrolling behavior, but handle swipe gestures
+container.addEventListener('touchstart', handleTouchStart, { passive: false });
+container.addEventListener('touchmove', handleTouchMove, { passive: false });
+container.addEventListener('touchend', handleTouchEnd, { passive: false });
 
-    window.addEventListener('resize', setViewportHeightVar);
-    window.addEventListener('touchstart', handleTouchStart, { passive: true });
-    window.addEventListener('touchmove', preventScroll, { passive: false });
-    window.addEventListener('touchend', handleTouchEnd, { passive: true });
-    window.addEventListener('keydown', handleKeyDown);
-
-    const gamepadMapping = {
-        0: 'ArrowUp',
-        1: 'ArrowRight',
-        2: 'ArrowLeft',
-        3: 'ArrowDown',
-    };
-
-    let controllerIndex = null;
-    let prevStates = [];
-    let pollInterval = null;
-
-    window.addEventListener('gamepadconnected', (event) => {
-        controllerIndex = event.gamepad.index;
-        prevStates = new Array(event.gamepad.buttons.length).fill(false);
-
-        if (!pollInterval) {
-            pollInterval = setInterval(() => {
-                if (controllerIndex === null) {
-                    return;
-                }
-
-                const gp = navigator.getGamepads()[controllerIndex];
-                if (!gp) {
-                    return;
-                }
-
-                gp.buttons.forEach((button, index) => {
-                    const isPressed = button.pressed;
-                    const wasPressed = prevStates[index];
-                    const targetKey = gamepadMapping[index];
-
-                    if (isPressed && !wasPressed && targetKey) {
-                        const keyEvent = new KeyboardEvent('keydown', {
-                            key: targetKey,
-                            code: targetKey,
-                            bubbles: true,
-                            cancelable: true,
-                        });
-                        window.dispatchEvent(keyEvent);
-                    }
-
-                    prevStates[index] = isPressed;
-                });
-            }, 1000 / 60);
-        }
-    });
-
-    window.addEventListener('gamepaddisconnected', () => {
-        controllerIndex = null;
-        clearInterval(pollInterval);
-        pollInterval = null;
-    });
-}
-
-init();
+window.addEventListener('wheel', handleSwipe, { passive: true });
+window.addEventListener('keydown', handleKeyDown);
+window.addEventListener('resize', () => {
+    setViewportHeightVar();
+    updateCardPosition();
+});

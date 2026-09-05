@@ -1,0 +1,476 @@
+{
+  "titulo": "CAC Week 1A Audio",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/1.mp3"
+      ],
+      "respuesta_correcta": ["西瓜"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "watermelon"
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/2.mp3"
+      ],
+      "respuesta_correcta": ["这个西瓜又大又甜。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This watermelon is big and sweet."
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/3.mp3"
+      ],
+      "respuesta_correcta": ["你想吃西瓜吗？"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Do you want to eat watermelon?"
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/4.mp3"
+      ],
+      "respuesta_correcta": ["蛋糕"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "cake"
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/5.mp3"
+      ],
+      "respuesta_correcta": ["别吃太多蛋糕了！"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Don't eat too much cake!"
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/6.mp3"
+      ],
+      "respuesta_correcta": ["我给你买了一个生日蛋糕。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I bought you a birthday cake."
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/7.mp3"
+      ],
+      "respuesta_correcta": ["票"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "ticket"
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/8.mp3"
+      ],
+      "respuesta_correcta": ["我在网上买电影票吧。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Let me buy movie tickets online."
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/9.mp3"
+      ],
+      "respuesta_correcta": ["请问我要去哪里买车票？"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Excuse me, where can I buy a bus ticket?"
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/10.mp3"
+      ],
+      "respuesta_correcta": ["阿姨"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "aunt"
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/11.mp3"
+      ],
+      "respuesta_correcta": ["他的阿姨是工程师。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "His aunt is an engineer."
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/12.mp3"
+      ],
+      "respuesta_correcta": ["你阿姨叫你。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Your aunt is calling you."
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/13.mp3"
+      ],
+      "respuesta_correcta": ["同事"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "colleague"
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/14.mp3"
+      ],
+      "respuesta_correcta": ["我的同事不都是中国人。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Not all my colleagues are Chinese."
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/15.mp3"
+      ],
+      "respuesta_correcta": ["我不太喜欢和同事聊天。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I don't like chatting with colleagues much."
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/16.mp3"
+      ],
+      "respuesta_correcta": ["同学"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "classmate"
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/17.mp3"
+      ],
+      "respuesta_correcta": ["我们班有两个新同学。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "We have two new classmates in our class."
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/18.mp3"
+      ],
+      "respuesta_correcta": ["我们班只有一个女同学。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "We only have one female classmate in our class."
+    },
+    {
+      "id": 19,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/19.mp3"
+      ],
+      "respuesta_correcta": ["结婚"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to marry"
+    },
+    {
+      "id": 20,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/20.mp3"
+      ],
+      "respuesta_correcta": ["他跟一个律师结婚了。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He married a lawyer."
+    },
+    {
+      "id": 21,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/21.mp3"
+      ],
+      "respuesta_correcta": ["小王去年刚结婚。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Xiao Wang just got married last year."
+    },
+    {
+      "id": 22,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/22.mp3"
+      ],
+      "respuesta_correcta": ["报名"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to sign up"
+    },
+    {
+      "id": 23,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/23.mp3"
+      ],
+      "respuesta_correcta": ["我报名了老师的课。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I signed up for the teacher's class."
+    },
+    {
+      "id": 24,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/24.mp3"
+      ],
+      "respuesta_correcta": ["我们一起去报名吧。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Let's go sign up together."
+    },
+    {
+      "id": 25,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/25.mp3"
+      ],
+      "respuesta_correcta": ["搬家"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to move"
+    },
+    {
+      "id": 26,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/26.mp3"
+      ],
+      "respuesta_correcta": ["我不常搬家。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I don't move often."
+    },
+    {
+      "id": 27,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/27.mp3"
+      ],
+      "respuesta_correcta": ["他从北京搬到了上海。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He moved from Beijing to Shanghai."
+    },
+    {
+      "id": 28,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/28.mp3"
+      ],
+      "respuesta_correcta": ["开始"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to begin"
+    },
+    {
+      "id": 29,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/29.mp3"
+      ],
+      "respuesta_correcta": ["电影什么时候开始？"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "When does the movie start?"
+    },
+    {
+      "id": 30,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/30.mp3"
+      ],
+      "respuesta_correcta": ["我每天早上八点开始工作。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I start work at 8 AM every day."
+    },
+    {
+      "id": 31,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/31.mp3"
+      ],
+      "respuesta_correcta": ["北方"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "northern part"
+    },
+    {
+      "id": 32,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/32.mp3"
+      ],
+      "respuesta_correcta": ["南方"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "southern part"
+    },
+    {
+      "id": 33,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/33.mp3"
+      ],
+      "respuesta_correcta": ["我家在中国北方。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "My home is in northern China."
+    },
+    {
+      "id": 34,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/34.mp3"
+      ],
+      "respuesta_correcta": ["北方人说'一点儿'，南方人说'一点'。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Northern people say 'yìdiǎnr', southern people say 'yìdiǎn'."
+    },
+    {
+      "id": 35,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/35.mp3"
+      ],
+      "respuesta_correcta": ["东部"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "eastern part"
+    },
+    {
+      "id": 36,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/36.mp3"
+      ],
+      "respuesta_correcta": ["西部"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "western part"
+    },
+    {
+      "id": 37,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/37.mp3"
+      ],
+      "respuesta_correcta": ["我没有去过中国西部。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I have not been to western China."
+    },
+    {
+      "id": 38,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/38.mp3"
+      ],
+      "respuesta_correcta": ["现在是美国东部时间下午五点。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Now it’s 5 PM Eastern Time in the USA."
+    },
+    {
+      "id": 39,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/39.mp3"
+      ],
+      "respuesta_correcta": ["遍"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "time; repetition"
+    },
+    {
+      "id": 40,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/40.mp3"
+      ],
+      "respuesta_correcta": ["你可以再说一遍吗？"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Can you say it again?"
+    },
+    {
+      "id": 41,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/41.mp3"
+      ],
+      "respuesta_correcta": ["这本是非常好看，我看了两遍。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This book is very interesting; I've read it twice!"
+    },
+    {
+      "id": 42,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/42.mp3"
+      ],
+      "respuesta_correcta": ["讲"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to talk / to explain"
+    },
+    {
+      "id": 43,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/43.mp3"
+      ],
+      "respuesta_correcta": ["老师，请你讲一讲怎么用'遍'。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Teacher, please explain how to use 'biàn'."
+    },
+    {
+      "id": 44,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/44.mp3"
+      ],
+      "respuesta_correcta": ["我不会讲上海话。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I can't speak Shanghainese."
+    },
+    {
+      "id": 45,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/45.mp3"
+      ],
+      "respuesta_correcta": ["故事"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "story"
+    },
+    {
+      "id": 46,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/46.mp3"
+      ],
+      "respuesta_correcta": ["这个孩子想再听一遍'西瓜的故事'。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This child wants to hear the 'watermelon story' again."
+    },
+    {
+      "id": 47,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-1a/47.mp3"
+      ],
+      "respuesta_correcta": ["我给你讲一个故事吧。"],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Let me tell you a story."
+    }
+  ]
+}
