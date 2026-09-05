@@ -23,7 +23,7 @@
 <div class="chineseChars">父母</div>|<div class="answer">fùmǔ <span class="english">father and mother; parents</span></div>
 <div class="chineseChars">分</div>|<div class="answer">fēn <span class="english">point / points</span></div>
 <div class="chineseChars">请你读</div>|<div class="answer">Qǐng nǐ dú <span class="english">please read</span></div>
-<div class="chineseChars">很中国人一样的</div>|<div class="answer">hěn Zhōngguó rén yíyàng de <span class="english">just like a Chinese person</span></div>
+<div class="chineseChars">和中国人一样的</div>|<div class="answer">hé Zhōngguó rén yíyàng de <span class="english">just like a Chinese person</span></div>
 <div class="chineseChars">上面</div>|<div class="answer">shàngmiàn <span class="english">up / above</span></div>
 <div class="chineseChars">下面</div>|<div class="answer">xiàmiàn <span class="english">down / below</span></div>
 <div class="chineseChars">前面</div>|<div class="answer">qiánmiàn <span class="english">front / in front</span></div>

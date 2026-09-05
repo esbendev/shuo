@@ -1,0 +1,403 @@
+You are an expert Chinese language teacher specializing in creating comprehensible input for language learners. 
+
+Your task is to write a short, interesting narrative story or dialogue in Simplified Chinese based on my personal vocabulary list. 
+
+STRICT CONSTRAINTS (Failure to follow these rules will ruin my reading practice): 
+
+1. VOCABULARY LIMIT: All content words (nouns, verbs, adjectives, adverbs) MUST come directly from the vocabulary list provided below.
+2. GRAMMAR WHITELIST: You are allowed to freely use basic structural words, particles, pronouns, and numbers to make the sentences grammatically correct. This includes words like: 是, 有, 在, 去, 要, 想, 喜欢, 会, 不, 没, 了, 呢, 吧, 吗, 这, 那, 个, 和, 一, 二, 三, 四, 五, 六, 七, 八, 九, 十.
+3. OUTSIDE WORDS: If you absolutely must use a content word outside of my vocabulary list or the grammar whitelist to make the plot make sense, you MUST wrap it in brackets like this: [陌生词]. You must provide its Pinyin and English translation in a "New Words" footnote list at the very bottom. Keep these to an absolute minimum.
+4. STRUCTURE: Keep the grammar and sentence structure incredibly simple. Write short, punchy sentences. Do not use complex clause structures or advanced grammar patterns.
+5. FORMATTING: Use only Simplified Chinese characters for the story. Do not provide a full English translation of the story. Only provide the footnote list for bracketed outside words.
+
+CRITICAL EVALUATION STEP: Before you output the final text, pause and review your draft character-by-character. If you find any word that is not in my vocabulary list and not on the grammar whitelist, you must either delete it, replace it, or wrap it in brackets. 
+
+Here is my vocabulary list:
+
+* 唱歌 (chànggē) - To sing
+* 电话 (diànhuà) - Telephone, phone call
+* 电影 (diànyǐng) - Movie
+* 打篮球 (dǎ lánqiú) - To play basketball
+* 打游戏 (dǎ yóuxì) - To play video games
+* 画画 (huàhuà) - To draw, to paint
+* 开车 (kāi chē) - To drive a car
+* 聊天 (liáo tiān) - To chat
+* 朋友圈 (péngyǒuquān) - Friend circle/ WeChat moments
+* 跑步 (pǎobù) - To run, to jog
+* 起床 (qǐ chuáng) - To get up
+* 睡觉 (shuì jiào) - To sleep
+* 刷牙 (shuā yá) - To brush teeth
+* 上网 (shàngwǎng) - To go online
+* 视频 (shìpín) - Video
+* 跳舞 (tiàowǔ) - To dance
+* 踢足球 (tī zúqiú) - To play soccer
+* 听音乐 (tīng yīnyuè) - To listen to music
+* 玩 (wán) - To play
+* 玩手机 (wán shǒu jī) - To play on the phone
+* 微信 (wēixìn) - WeChat
+* 洗脸 (xǐ liǎn) - To wash face
+* 洗澡 (xǐ zǎo) - To take a shower/bath
+* 邮件 (yóujiàn) - Email
+* 游泳 (yóuyǒng) - To swim
+* 运动 (yùn dòng) - To exercise
+* 音乐 (yīnyuè) - Music
+* 爱好 (àihào) - Hobby
+* 白菜 (báicài) - Chinese cabbage
+* 包子 (bāo zi) - Steamed bun
+* 吃饭 (chī fàn) - To eat meals
+* 吃晚饭 (chī wǎn fàn) - To eat dinner
+* 吃早饭 (chī zǎo fàn) - To eat breakfast
+* 菜 (cài) - Dish / cuisine
+* 点菜 (diǎncài) - To order food
+* 豆腐 (dòufu) - Tofu
+* 火鸡 (huǒjī) - Turkey
+* 喝 (hē) - To drink
+* 喝咖啡 (hē kā fēi) - To drink coffee
+* 喝酒 (hējiǔ) - To drink alcohol
+* 饺子 (jiǎo zi) - Dumpling
+* 鸡肉 (jī ròu) - Chicken
+* 牛肉 (niú ròu) - Beef
+* 碗 (wǎn) - Bowl
+* 虾 (xiā) - Shrimp
+* 鱼 (yú) - Fish
+* 粥 (zhōu) - Congee
+* 猪肉 (zhū ròu) - Pork
+* 爸爸 (bàba) - Dad/father
+* 弟弟 (dìdi) - Younger brother
+* 翻译 (fānyì) - Translator
+* 哥哥 (gēge) - Older brother
+* 工程师 (gōngchéngshī) - Engineer
+* 孩子 (háizi) - Child
+* 家庭主妇 (jiātíng zhǔfù) - Housewife
+* 姐姐 (jiějie) - Older sister
+* 客户 (kèhù) - Client
+* 老板 (lǎobǎn) - Boss
+* 老公 (lǎogōng) - Husband
+* 老婆 (lǎopó) - Wife
+* 老师 (lǎoshī) - Teacher
+* 老外 (lǎowài) - Foreigner (informal)
+* 律师 (lǜshī) - Lawyer
+* 妹妹 (mèimei) - Younger sister
+* 妈妈 (māma) - Mom/mother
+* 母语者 (mǔyǔzhě) - Native speaker
+* 男朋友 (nán péngyǒu) - Boyfriend
+* 您 (nín) - You (polite)
+* 你 (nǐ) - You
+* 你们 (nǐmen) - You (plural)
+* 女朋友 (nǚ péngyǒu) - Girlfriend
+* 女儿 (nǚ'ér) - Daughter
+* 朋友 (péngyǒu) - Friend
+* 妻子 (qīzi) - Wife
+* 帅哥 (shuàigē) - Handsome guy
+* 商人 (shāngrén) - Businessman
+* 师傅 (shīfu) - Master worker/driver
+* 太太 (tàitai) - Mrs.; wife (formal)
+* 同事 (tóngshì) - Co-worker
+* 他 (tā) - He, him
+* 她 (tā) - She, her
+* 外国人 (wàiguórén) - Foreigner
+* 我 (wǒ) - I, me
+* 我们 (wǒmen) - We, us
+* 先生 (xiānsheng) - Mr.; husband (formal)
+* 学生 (xuésheng) - Student
+* 医生 (yīshēng) - Doctor
+* 职员 (zhíyuán) - Employee
+* 儿子 (érzi) - Son
+* 半 (bàn) - Half
+* 差 (chà) - To lack, be short of
+* 次 (cì) - Time/occasion
+* 点 (diǎn) - O'clock
+* 大概 (dài gài) - Approximately, about
+* 第二天 (dì'èr tiān) - The next day
+* 分 (fēn) - Minute
+* 分钟 (fēnzhōng) - Minute
+* 国庆节 (guóqìngjié) - National Day
+* 号 (hào) - Date, day of month (casual)
+* 假期 (jiàqī) - Holiday, vacation
+* 今年 (jīnnián) - This year
+* 今天 (jīntiān) - Today
+* 零 (líng) - Zero
+* 明年 (míngnián) - Next year
+* 明天 (míngtiān) - Tomorrow
+* 每天 (měi tiān) - Every day
+* 年 (nián) - Year
+* 去年 (qùnián) - Last year
+* 日 (rì) - Date, day of month (formal)
+* 上个星期 (shànggè xīngqī) - Last week
+* 上个月 (shànggè yuè) - Last month
+* 生日 (shēngrì) - Birthday
+* 下个星期 (xiàgè xīngqī) - Next week
+* 现在 (xiànzài) - Now
+* 小时 (xiǎoshí) - Hour
+* 星期 (xīngqī) - Week/day of the week
+* 月 (yuè) - Month
+* 一刻 (yí kè) - A quarter of an hour
+* 以后 (yǐhòu) - After, in the future
+* 以前 (yǐqián) - Before, previously
+* 周末 (zhōumò) - Weekend
+* 最近 (zuìjìn) - Recently
+* 昨天 (zuótiān) - Yesterday
+* 下个月 (下个月) - Next month
+* 德国 (Déguó) - Germany
+* 法国 (Fǎguó) - France
+* 美国 (Měiguó) - America
+* 日本 (Rìběn) - Japan
+* 西班牙 (Xībānyá) - Spain
+* 英国 (Yīngguó) - United Kingdom
+* 长城 (chángchéng) - Great Wall
+* 城市 (chéngshì) - City
+* 出租车 (chūzūchē) - Taxi
+* 厕所 (cèsuǒ) - Toilet, restroom
+* 地铁 (dìtiě) - Subway
+* 地图 (dìtú) - Map
+* 东西 (dōng xi) - Things, stuff
+* 打的 (dǎdí) - To take a taxi
+* 打折 (dǎzhé) - Discount
+* 饭店 (fàndiàn) - Restaurant, hotel
+* 房子 (fángzi) - House, apartment
+* 附近 (fùjìn) - Nearby area
+* 飞机 (fēijī) - Airplane
+* 公司 (gōngsī) - Company
+* 后 (hòu) - Back / behind
+* 家 (jiā) - Home, family
+* 咖啡店 (kāfēidiàn) - Coffee shop
+* 路 (lù) - Road
+* 礼物 (lǐwù) - Gift, present
+* 旅行 (lǚxíng) - To travel
+* 旅游 (lǚyóu) - Travel
+* 美元 (měi yuán) - US dollar
+* 买 (mǎi) - To buy
+* 买东西 (mǎi dōng xī) - Buy things
+* 曼谷 (mǎngǔ) - Bangkok
+* 钱 (qián) - Money
+* 前 (qián) - Front / in front
+* 上厕所 (shàng cè suǒ) - Go to the bathroom
+* 商场 (shāngchǎng) - Mall, shopping center
+* 商店 (shāngdiàn) - Shop, store
+* 书店 (shūdiàn) - Bookstore
+* 淘宝 (táobǎo) - Taobao (online shopping platform)
+* 往 (wǎng) - Towards
+* 五角钱 (wǔ jiǎo qián) - Fifty cents
+* 五块五 (wǔ kuài wǔ) - Five yuan fifty
+* 学生证 (xuéshēngzhèng) - Student ID
+* 学校 (xuéxiào) - School
+* 意大利 (yìdàlì) - Italy
+* 右 (yòu) - Right
+* 右边 (yòu biān) - Right side
+* 一块钱 (yī kuài qián) - One yuan
+* 转 (zhuǎn) - Turn
+* 中国城 (zhōngguó chéng) - Chinatown
+* 坐 (zuò) - Sit
+* 左 (zuǒ) - Left
+* 左边 (zuǒ biān) - Left side
+* 走 (zǒu) - Go, walk
+* 澳大利亚 (àodàlìyà) - Australia
+* 白色 (báisè) - White
+* 饱 (bǎo) - Full (from eating)
+* 比较 (bǐjiào) - Relatively, comparatively
+* 多 (duō) - Many, much
+* 大 (dà) - Big
+* 方便 (fāngbiàn) - Convenient
+* 贵 (guì) - Expensive
+* 干净 (gānjìng) - Clean
+* 高 (gāo) - Tall, high
+* 高兴 (gāoxìng) - Happy, glad
+* 黄色 (huángsè) - Yellow
+* 红色 (hóngsè) - Red
+* 黑色 (hēisè) - Black
+* 很 (hěn) - Very
+* 好吃 (hǎochī) - Delicious
+* 好看 (hǎokàn) - Good-looking, good to watch
+* 好听 (hǎotīng) - Pleasant to hear
+* 好玩 (hǎowán) - Fun, amusing
+* 假 (jiǎ) - Fake
+* 近 (jìn) - Near
+* 快 (kuài) - Fast, quick
+* 空 (kòng) - Free time, available
+* 可爱 (kě'ài) - Cute
+* 苦 (kǔ) - Bitter
+* 辣 (là) - Spicy
+* 蓝色 (lánsè) - Blue
+* 冷 (lěng) - Cold
+* 绿色 (lǜsè) - Green
+* 慢 (màn) - Slow
+* 忙 (máng) - Busy
+* 漂亮 (piàoliang) - Beautiful, pretty
+* 便宜 (piányi) - Cheap
+* 胖 (pàng) - Fat
+* 热 (rè) - Hot
+* 瘦 (shòu) - Thin, slim
+* 少 (shǎo) - Few, little, less
+* 酸 (suān) - Sour
+* 甜 (tián) - Sweet
+* 特别 (tèbié) - Especially, special
+* 象 (xiàng) - Elephant
+* 显瘦 (xiǎnshòu) - Look slim
+* 小 (xiǎo) - Small
+* 新 (xīn) - New
+* 颜色 (yánsè) - Color
+* 真 (zhēn) - Really, truly
+* 真的 (zhēnde) - Really, truly
+* 棕色 (zōngsè) - Brown
+* 饿 (è) - Hungry
+* 矮 (ǎi) - Short (height)
+* 鼻子 (bízi) - Nose
+* 穿 (chuān) - To wear (clothes)
+* 个子 (gèzi) - Height, stature
+* 脑 (nǎo) - Brain
+* 裙子 (qúnzi) - Skirt, dress
+* 手 (shǒu) - Hand
+* 头发 (tóufa) - Hair
+* 胸 (xiōng) - Chest
+* 衣服 (yīfu) - Clothes
+* 眼睛 (yǎnjing) - Eyes
+* 嘴巴 (zuǐba) - Mouth
+* 耳朵 (ěrduo) - Ears
+* 啊 (a) - Exclamation particle
+* 吧 (ba) - Suggestion particle / sweetener at the end
+* 别 (bié) - Don't
+* 不但...而且... (búdàn...érqiě...) - Not only...but also...
+* 本 (běn) - Measure word for books
+* 差不多 (chàbuduō) - About, almost, similar
+* 常常 (chángcháng) - Often
+* 从 (cóng) - From
+* 猜 (cāi) - To guess
+* 的 (de) - Possessive or descriptive particle
+* 的时候 (de shíhòu) - When... / during...
+* 对不起 (duìbuqǐ) - Sorry
+* 对了 (duìle) - Oh right! / By the way
+* 但是 (dànshì) - But
+* 到 (dào) - To arrive, to (as in from...to...)
+* 等一下 (děng yīxià) - Wait a moment
+* 都 (dōu) - All, both
+* 打算 (dǎsuàn) - To plan / plan
+* 发 (fā) - To send, post
+* 过 (guò) - Indicates past experience
+* 告诉 (gàosu) - To tell
+* 个 (gè) - General measure word
+* 刚 (gāng) - Just, just now
+* 换 (huàn) - To change, exchange
+* 会 (huì) - Can, to be able to
+* 回 (huí) - To return
+* 或者 (huòzhě) - Or (in statements)
+* 汉字 (hànzì) - Chinese character
+* 还是 (háishì) - Or (in questions)
+* 哈哈 (hāhā) - Haha
+* 件 (jiàn) - Measure word for clothing / matters
+* 介绍 (jièshào) - To introduce
+* 加 (jiā) - To add, plus
+* 教 (jiāo) - To teach
+* 记得 (jìde) - To remember
+* 看 (kàn) - To read, see, watch, look at
+* 看书 (kàn shū) - To read books
+* 口语 (kǒuyǔ) - Spoken language, speaking
+* 辆 (liàng) - Measure word for vehicles
+* 练习 (liànxí) - To practice / practice
+* 来 (lái) - To come
+* 描述 (miáoshù) - To describe / description
+* 没关系 (méi guānxi) - It doesn't matter, it's ok
+* 没有 (méiyǒu) - Do not have / didn't
+* 呢 (ne) - Question particle (e.g. what about you?)
+* 哪里 (nǎlǐ) - Where
+* 骗 (piàn) - To deceive, lie, cheat
+* 去 (qù) - To go
+* 请客 (qǐngkè) - To treat (someone to a meal)
+* 请问 (qǐngwèn) - May I ask...?
+* 让 (ràng) - To let, allow, make, ask
+* 然后 (ránhòu) - And then, after that
+* 是 (shì) - To be (am, is, are)
+* 试 (shì) - To try
+* 试着 (shìzhe) - Try to do sth.
+* 虽然 (suīrán) - Although
+* 条 (tiáo) - Measure word for pants, skirts, long thin things
+* 台 (tái) - Measure word for machines (computers, TVs)
+* 听 (tīng) - To listen
+* 听说 (tīngshuō) - To be told, hear of
+* 忘 (wàng) - To forget
+* 网上 (wǎngshang) - Online
+* 网站 (wǎngzhàn) - Website
+* 谢谢 (xièxie) - Thank you
+* 写 (xiě) - To write
+* 喜欢 (xǐhuān) - To like
+* 约 (yuē) - To make an appointment / ask someone out
+* 一起 (yìqǐ) - Together
+* 咦 (yí) - Expressing surprise, puzzle
+* 一定 (yídìng) - Definitely, certainly
+* 一共 (yígòng) - In total, altogether
+* 用 (yòng) - To use
+* 一样 (yīyàng) - Same
+* 有 (yǒu) - To have
+* 这样吧 (zhèyàng ba) - How about this / how about...
+* 张 (zhāng) - Measure word for flat objects (beds, paper)
+* 只 (zhī) - Measure word for small animals
+* 支 (zhī) - Measure word for long, thin objects (pens)
+* 做 (zuò) - To do, to make
+* 在 (zài) - At, in, on
+* 再 (zài) - Again
+* 字 (zì) - Character
+* 自己 (zìjǐ) - Oneself, self
+* 怎么 (zěnme) - How
+* 怎么了 (zěnmele) - What's wrong / what happened
+* 西瓜 (xīguā) - Watermelon
+* 蛋糕 (dàngāo) - Cake
+* 票 (piào) - Ticket
+* 阿姨 (āyí) - Aunt
+* 同事 (tóngshì) - Colleague
+* 同学 (tóngxué) - Classmate
+* 结婚 (jiéhūn) - To get married
+* 报名 (bàomíng) - To sign up, to register
+* 搬家 (bānjiā) - To move
+* 开始 (kāishǐ) - To begin
+* 北方 (běifāng) - Northern part
+* 南方 (nánfāng) - Southern part
+* 东部 (dōngbù) - Eastern part
+* 西部 (xībù) - Western part
+* 遍 (biàn) - Time (used for repetition, measure word)
+* 讲 (jiǎng) - To talk, to explain
+* 故事 (gùshi) - Story
+* 南瓜 (nánguā) - Pumpkin
+* 冬瓜 (dōngguā) - Winter melon
+* 黄瓜 (huángguā) - Cucumber
+* 名词 (míngcí) - Noun
+* 蛋 (dàn) - Egg
+* 糕 (gāo) - Pastry / cake
+* 样 (yàng) - Kind / type / way
+* 听说过 (tīngshuōguò) - Have heard of / heard about
+* 继续 (jìxù) - Continue
+* 明白 (míngbái) - Understand
+* 分享 (fēnxiǎng) - To share
+* 屏幕 (píngmù) - Screen
+* 看见 (kànjiàn) - To see
+* 加州 (Jiāzhōu) - California
+* 纽约 (Niǔyuē) - New York
+* 商学 (shāngxué) - Business studies / business
+* 墨西哥 (Mòxīgē) - Mexico
+* 一般般 (yìbānbān) - So-so (más o menos)
+* 旧金山 (Jiùjīnshān) - San Francisco
+* 俄勒冈州 (Èlègāngzhōu) - Oregon
+* 遛狗 (liùgǒu) - Walking the dog
+* 词汇 (cíhuì) - Vocabulary
+* 听力 (tīnglì) - Listening comprehension
+* 发音 (fāyīn) - Pronunciation
+* 语法 (yǔfǎ) - Grammar
+* 读一下 (dúyíxià) - Read this
+* 选择 (xuǎnzé) - To choose
+* 容易 (róngyì) - Easy
+* 父母 (fùmǔ) - Father and mother; parents
+* 分 (fēn) - Point / points
+* 上面 (shàngmiàn) - Up / above
+* 下面 (xiàmiàn) - Down / below
+* 前面 (qiánmiàn) - Front / in front
+* 后面 (hòumiàn) - Back / behind
+* 左边 (zuǒbiān) - Left side
+* 右边 (yòubiān) - Right side
+* 里面 (lǐmiàn) - Inside
+* 外面 (wàimiàn) - Outside
+* 句子 (jùzi) - Sentence
+* 弹钢琴 (tán gāngqín) - Play piano
+* 这些 (zhèxiē) - These
+* 一定要 (yídìng yào) - Absolutely / mandatory
+* 地方 (dìfang) - Place
+* 来猜 (lái cāi) - Take a guess
+* 接电话 (jiē diànhuà) - To answer the phone
+* 听不懂 (tīng bù dǒng) - Can't understand
