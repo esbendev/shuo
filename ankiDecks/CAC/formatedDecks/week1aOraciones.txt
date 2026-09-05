@@ -1,0 +1,30 @@
+<div class="chineseChars">这个西瓜又大又甜。</div>|<div class="answer">zhè ge xīguā yòu dà yòu tián <span class="english">This watermelon is big and sweet.</span></div>
+<div class="chineseChars">你想吃西瓜吗？</div>|<div class="answer">nǐ xiǎng chī xīguā ma? <span class="english">Do you want to eat watermelon?</span></div>
+<div class="chineseChars">别吃太多蛋糕了！</div>|<div class="answer">bié chī tàiduō dàngāo le! <span class="english">Don't eat too much cake!</span></div>
+<div class="chineseChars">我给你买了一个生日蛋糕。</div>|<div class="answer">wǒ gěi nǐ mǎi le yí ge shēngrì dàngāo <span class="english">I bought you a birthday cake.</span></div>
+<div class="chineseChars">我在网上买电影票吧。</div>|<div class="answer">wǒ zài wǎngshàng mǎi diànyǐng piào ba. <span class="english">Let me buy movie tickets online.</span></div>
+<div class="chineseChars">请问我要去哪里买车票？</div>|<div class="answer">qǐngwèn wǒ yào qù nǎli mǎi chēpiào? <span class="english">Excuse me, where can I buy a bus ticket?</span></div>
+<div class="chineseChars">她的阿姨是工程师。</div>|<div class="answer">tā de āyí shì gōngchéngshī. <span class="english">Her aunt is an engineer.</span></div>
+<div class="chineseChars">你阿姨叫你。</div>|<div class="answer">nǐ āyí jiào nǐ. <span class="english">Your aunt is asking for you.</span></div>
+<div class="chineseChars">我的同事不都是中国人。</div>|<div class="answer">wǒ de tóngshì bù dōu shì zhōngguó rén. <span class="english">Not all my colleagues are Chinese.</span></div>
+<div class="chineseChars">我不太喜欢和同事聊天。</div>|<div class="answer">wǒ bú tài xǐhuan hé tóngshì liáotiān. <span class="english">I don't like chatting with colleagues much.</span></div>
+<div class="chineseChars">我们班有两个新同学。</div>|<div class="answer">wǒmen bān yǒu liǎng ge xīn tóngxué. <span class="english">We have two new classmates in our class.</span></div>
+<div class="chineseChars">我们班只有一个女同学。</div>|<div class="answer">wǒmen bān zhǐ yǒu yí ge nǚ tóngxué. <span class="english">We only have one female classmate in our class.</span></div>
+<div class="chineseChars">他跟一个律师结婚了。</div>|<div class="answer">tā gēn yí ge lǜshī jiéhūn le. <span class="english">He married a lawyer.</span></div>
+<div class="chineseChars">小王去年刚结婚。</div>|<div class="answer">xiǎo wáng qùnián gāng jiéhūn. <span class="english">Xiao Wang just got married last year.</span></div>
+<div class="chineseChars">我报名了老师的课。</div>|<div class="answer">wǒ bàomíng le lǎoshī de kè. <span class="english">I signed up for the teacher's class.</span></div>
+<div class="chineseChars">我们一起去报名吧。</div>|<div class="answer">wǒmen yīqǐ qù bàomíng ba. <span class="english">Let's go sign up together.</span></div>
+<div class="chineseChars">我不常搬家。</div>|<div class="answer">wǒ bù cháng bānjiā. <span class="english">I don't move often.</span></div>
+<div class="chineseChars">他从北京搬到了上海。</div>|<div class="answer">tā cóng běijīng bāndào le shànghǎi. <span class="english">He moved from Beijing to Shanghai.</span></div>
+<div class="chineseChars">电影什么时候开始？</div>|<div class="answer">diànyǐng shénme shíhòu kāishǐ? <span class="english">When does the movie start?</span></div>
+<div class="chineseChars">我每天早上八点开始工作。</div>|<div class="answer">wǒ měitiān zǎoshàng bā diǎn kāishǐ gōngzuò. <span class="english">I start working at 8 AM every day.</span></div>
+<div class="chineseChars">我家在中国北方。</div>|<div class="answer">wǒ jiā zài zhōngguó běifāng. <span class="english">My home is in northern China.</span></div>
+<div class="chineseChars">北方人说“一点儿”，南方人说“一点”。</div>|<div class="answer">běifāng rén shuō "yīdiǎn er", nánfāng rén shuō "yīdiǎn". <span class="english">Northern people say “a little(r),” southern people say “a little.”</span></div>
+<div class="chineseChars">我没有去过中国西部。</div>|<div class="answer">wǒ méiyou qùguo zhōngguó xībù. <span class="english">I have not been to western China.</span></div>
+<div class="chineseChars">现在是美国东部时间下午五点。</div>|<div class="answer">xiànzài shì měiguó dōngbù shíjiān xiàwǔ wǔ diǎn. <span class="english">Now it's 5 PM Eastern Time in the USA.</span></div>
+<div class="chineseChars">你可以再说一遍吗？</div>|<div class="answer">nǐ kěyǐ zài shuō yī biàn ma? <span class="english">Can you say it again?</span></div>
+<div class="chineseChars">这本书非常好看，我看了两遍！</div>|<div class="answer">zhè běn shū fēicháng hǎokàn, wǒ kàn le liǎng biàn! <span class="english">This book is very interesting; I've read it twice!</span></div>
+<div class="chineseChars">老师，请你讲一讲怎么用“遍”。</div>|<div class="answer">lǎoshī, qǐng nǐ jiǎng yī jiǎng zěnme yòng "biàn". <span class="english">Teacher, please explain how to use “biàn.”</span></div>
+<div class="chineseChars">我不会讲上海话。</div>|<div class="answer">wǒ bú huì jiǎng shànghǎi huà. <span class="english">I can't speak Shanghainese.</span></div>
+<div class="chineseChars">这个孩子想再听一遍“西瓜的故事”。</div>|<div class="answer">zhège háizi xiǎng zài tīng yī biàn "xīguā de gùshi". <span class="english">This child wants to hear the “watermelon story” again.</span></div>
+<div class="chineseChars">我给你讲一个故事吧。</div>|<div class="answer">wǒ gěi nǐ jiǎng yí ge gùshi ba. <span class="english">Let me tell you a story.</span></div>
