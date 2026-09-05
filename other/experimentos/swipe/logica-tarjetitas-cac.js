@@ -182,23 +182,14 @@ fetch(filePath)
             const primaryAudio = audioSources[0] || '';
             const secondaryAudio = audioSources[1] || primaryAudio;
 
-            const buttonFast = document.createElement('button');
-            buttonFast.className = 'button audio-button';
-            buttonFast.id = 'audio-button-fast';
-            buttonFast.textContent = 'Play';
-            buttonFast.addEventListener('click', () => {
-                playAudio(primaryAudio, 'Audio', audioStatus);
+            const primaryButton = document.createElement('button');
+            primaryButton.className = 'button audio-button';
+            primaryButton.id = 'audio-button-primary';
+            primaryButton.textContent = 'Play';
+            primaryButton.addEventListener('click', () => {
+                playAudio(primaryAudio || secondaryAudio, 'Audio', audioStatus);
             });
-            buttonContainer.appendChild(buttonFast);
-
-            const buttonSlow = document.createElement('button');
-            buttonSlow.className = 'button audio-button';
-            buttonSlow.id = 'audio-button-slow';
-            buttonSlow.textContent = 'Replay';
-            buttonSlow.addEventListener('click', () => {
-                playAudio(secondaryAudio, 'Audio', audioStatus);
-            });
-            buttonContainer.appendChild(buttonSlow);
+            buttonContainer.appendChild(primaryButton);
 
             cardInner.appendChild(buttonContainer);
             card.appendChild(cardInner);
@@ -226,11 +217,11 @@ function loadNewCard(currentIndex) {
     const newCard = container.children[currentIndex];
 
     if (newCard) {
-        const fastAudioButton = newCard.querySelector('#audio-button-fast');
-        if (fastAudioButton) {
-            fastAudioButton.click();
+        const primaryAudioButton = newCard.querySelector('#audio-button-primary');
+        if (primaryAudioButton) {
+            primaryAudioButton.click();
         } else {
-            console.log('fastAudioButton not found');
+            console.log('primaryAudioButton not found');
         }
     } else {
         console.log('newCard not found');
@@ -284,15 +275,9 @@ function handleTouchEnd(event) {
 function handleKeyDown(event) {
     const currentCard = container.children[currentIndex];
 
-    if (event.key === 'ArrowLeft') {
+    if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
         event.preventDefault();
-        currentCard?.querySelector('#audio-button-fast')?.click();
-        return;
-    }
-
-    if (event.key === 'ArrowRight') {
-        event.preventDefault();
-        currentCard?.querySelector('#audio-button-slow')?.click();
+        currentCard?.querySelector('#audio-button-primary')?.click();
         return;
     }
 
