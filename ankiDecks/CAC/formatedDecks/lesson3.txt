@@ -1,0 +1,6 @@
+<div class="chineseChars">几</div>|<div class="answer">jǐ <span class="english">used when the number is expected to be small, usually under 10</span></div>
+<div class="chineseChars">多</div>|<div class="answer">duō <span class="english">when a number is slightly over a whole number, it must be a full unit (like years, cups, hours, etc.)</span></div>
+<div class="chineseChars">几十</div>|<div class="answer">jǐshí <span class="english">several tens</span></div>
+<div class="chineseChars">几百</div>|<div class="answer">jǐbǎi <span class="english">several hundreds</span></div>
+<div class="chineseChars">多/几</div>|<div class="answer">duō / jǐ <span class="english">used after round numbers (10, 20, 30, ...) to mean “more than” or “over”</span></div>
+<div class="chineseChars">已经...了</div>|<div class="answer">yǐjīng...le <span class="english">to emphasize that something has already happened</span></div>

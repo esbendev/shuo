@@ -1,0 +1,14 @@
+<div class="chineseChars">这个孩子三岁多了。</div>|<div class="answer">zhège háizi sān suì duō le. <span class="english">This child is a little over three years old.</span></div>
+<div class="chineseChars">他等了两个多小时。</div>|<div class="answer">tā děng le liǎng gè duō xiǎoshí. <span class="english">He waited for more than two hours.</span></div>
+<div class="chineseChars">我有几个中国同事。</div>|<div class="answer">wǒ yǒu jǐ gè Zhōngguó tóngshì. <span class="english">I have a few Chinese colleagues.</span></div>
+<div class="chineseChars">他想买几个蛋糕。</div>|<div class="answer">tā xiǎng mǎi jǐ gè dàngāo. <span class="english">He wants to buy a few cakes.</span></div>
+<div class="chineseChars">这本书要几百块钱。</div>|<div class="answer">zhè běn shū yào jǐ bǎi kuài qián. <span class="english">This book costs several hundred yuan.</span></div>
+<div class="chineseChars">他们买了几十张票。</div>|<div class="answer">tāmen mǎi le jǐ shí zhāng piào. <span class="english">They bought a few dozen tickets.</span></div>
+<div class="chineseChars">他三十多岁。</div>|<div class="answer">tā sānshí duō suì. <span class="english">He is over 30 years old.</span></div>
+<div class="chineseChars">他三十几岁。</div>|<div class="answer">tā sānshí jǐ suì. <span class="english">He is over 30 years old.</span></div>
+<div class="chineseChars">我听了二十多遍这个故事。</div>|<div class="answer">wǒ tīng le èrshí duō biàn zhège gùshi. <span class="english">I’ve heard this story more than 20 times.</span></div>
+<div class="chineseChars">我听了二十几遍这个故事。</div>|<div class="answer">wǒ tīng le èrshí jǐ biàn zhège gùshi. <span class="english">I’ve heard this story more than 20 times.</span></div>
+<div class="chineseChars">我已经吃饭了。</div>|<div class="answer">wǒ yǐjīng chīfàn le. <span class="english">I have already eaten.</span></div>
+<div class="chineseChars">她已经回家了。</div>|<div class="answer">tā yǐjīng huíjiā le. <span class="english">She has already gone home.</span></div>
+<div class="chineseChars">她已经结婚了。</div>|<div class="answer">tā yǐjīng jiéhūn le. <span class="english">She’s already married.</span></div>
+<div class="chineseChars">他学习中文已经三年了。</div>|<div class="answer">tā xuéxí Zhōngwén yǐjīng sān nián le. <span class="english">He has been studying Chinese for three years already.</span></div>
