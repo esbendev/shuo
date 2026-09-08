@@ -1,0 +1,17 @@
+<div class="chineseChars">火车站</div>|<div class="answer">huǒchēzhàn - train station</div>
+<div class="chineseChars">自行车</div>|<div class="answer">zìxíngchē - bicycle</div>
+<div class="chineseChars">船</div>|<div class="answer">chuán - boat, ship</div>
+<div class="chineseChars">公共汽车</div>|<div class="answer">gōnggòng qìchē - bus</div>
+<div class="chineseChars">高铁</div>|<div class="answer">gāotiě - high-speed rail</div>
+<div class="chineseChars">下雪</div>|<div class="answer">xiàxuě - to snow</div>
+<div class="chineseChars">下雨</div>|<div class="answer">xiàyǔ - to rain</div>
+<div class="chineseChars">晴天</div>|<div class="answer">qíngtiān - sunny day</div>
+<div class="chineseChars">阴天</div>|<div class="answer">yīntiān - cloudy day</div>
+<div class="chineseChars">冷</div>|<div class="answer">lěng - cold</div>
+<div class="chineseChars">热</div>|<div class="answer">rè - hot</div>
+<div class="chineseChars">准备</div>|<div class="answer">zhǔnbèi - to prepare</div>
+<div class="chineseChars">希望</div>|<div class="answer">xīwàng - to hope</div>
+<div class="chineseChars">考试</div>|<div class="answer">kǎoshì - exam</div>
+<div class="chineseChars">容易</div>|<div class="answer">róngyì - easy</div>
+<div class="chineseChars">难</div>|<div class="answer">nán - difficult</div>
+<div class="chineseChars">快乐</div>|<div class="answer">kuàilè - happy</div>

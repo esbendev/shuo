@@ -1,0 +1,17 @@
+火车站	huǒchēzhàn - train station
+自行车	zìxíngchē - bicycle
+船	chuán - boat, ship
+公共汽车	gōnggòng qìchē - bus
+高铁	gāotiě - high-speed rail
+下雪	xiàxuě - to snow
+下雨	xiàyǔ - to rain
+晴天	qíngtiān - sunny day
+阴天	yīntiān - cloudy day
+冷	lěng - cold
+热	rè - hot
+准备	zhǔnbèi - to prepare
+希望	xīwàng - to hope
+考试	kǎoshì - exam
+容易	róngyì - easy
+难	nán - difficult
+快乐	kuàilè - happy
