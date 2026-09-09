@@ -1,0 +1,618 @@
+{
+  "titulo": "CAC Week 2A Audio",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/1.mp3"
+      ],
+      "respuesta_correcta": [
+        "火车站"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "train station"
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/2.mp3"
+      ],
+      "respuesta_correcta": [
+        "请问, 火车站怎么去?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Excuse me, how do I get to the train station?"
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/3.mp3"
+      ],
+      "respuesta_correcta": [
+        "火车站和我的家不太远。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "The train station is not too far from my home."
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/4.mp3"
+      ],
+      "respuesta_correcta": [
+        "自行车"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "bicycle"
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/5.mp3"
+      ],
+      "respuesta_correcta": [
+        "我每天骑自行车去工作。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I ride a bicycle to work every day."
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/6.mp3"
+      ],
+      "respuesta_correcta": [
+        "这个城市有很多人骑自行车。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "There are many people riding bicycles in this city."
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/7.mp3"
+      ],
+      "respuesta_correcta": [
+        "船"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "boat, ship"
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/8.mp3"
+      ],
+      "respuesta_correcta": [
+        "我没有坐过船。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I have never taken a boat."
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/9.mp3"
+      ],
+      "respuesta_correcta": [
+        "在曼谷, 有的人每天坐船去公司。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "In Bangkok, some people take a boat to work every day."
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/10.mp3"
+      ],
+      "respuesta_correcta": [
+        "公共汽车"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "bus"
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/11.mp3"
+      ],
+      "respuesta_correcta": [
+        "中国的公共汽车又便宜又方便。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Chinese buses are both cheap and convenient."
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/12.mp3"
+      ],
+      "respuesta_correcta": [
+        "我不常坐公共汽车。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I don’t often take the bus."
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/13.mp3"
+      ],
+      "respuesta_correcta": [
+        "高铁"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "high-speed rail"
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/14.mp3"
+      ],
+      "respuesta_correcta": [
+        "我很想试一试中国的高铁。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I really want to try China’s high-speed rail."
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/15.mp3"
+      ],
+      "respuesta_correcta": [
+        "请你告诉我怎么买高铁票?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Please tell me how to buy a high-speed rail ticket."
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/16.mp3"
+      ],
+      "respuesta_correcta": [
+        "下雪"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to snow"
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/17.mp3"
+      ],
+      "respuesta_correcta": [
+        "昨天下雪了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It snowed yesterday."
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/18.mp3"
+      ],
+      "respuesta_correcta": [
+        "我住的城市从来不下雪。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "The city where I live never snows."
+    },
+    {
+      "id": 19,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/19.mp3"
+      ],
+      "respuesta_correcta": [
+        "下雨"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to rain"
+    },
+    {
+      "id": 20,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/20.mp3"
+      ],
+      "respuesta_correcta": [
+        "下雨了, 你等一下再出去吧。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It’s raining. Wait a moment before going out."
+    },
+    {
+      "id": 21,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/21.mp3"
+      ],
+      "respuesta_correcta": [
+        "已经下了三天雨了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It has already been raining for three days."
+    },
+    {
+      "id": 22,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/22.mp3"
+      ],
+      "respuesta_correcta": [
+        "晴天"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "sunny day"
+    },
+    {
+      "id": 23,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/23.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天是晴天, 所以很多人出去玩。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Today is a sunny day, so many people are going out to have fun."
+    },
+    {
+      "id": 24,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/24.mp3"
+      ],
+      "respuesta_correcta": [
+        "他们结婚的时候是一个大晴天。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It was a bright sunny day when they got married."
+    },
+    {
+      "id": 25,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/25.mp3"
+      ],
+      "respuesta_correcta": [
+        "阴天"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "cloudy day"
+    },
+    {
+      "id": 26,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/26.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天是阴天, 但是没有下雨。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Today is a cloudy day, but it didn’t rain."
+    },
+    {
+      "id": 27,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/27.mp3"
+      ],
+      "respuesta_correcta": [
+        "他最喜欢阴天, 我真不知道为什么!"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He likes cloudy days the most. I really don’t know why!"
+    },
+    {
+      "id": 28,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/28.mp3"
+      ],
+      "respuesta_correcta": [
+        "冷"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "cold"
+    },
+    {
+      "id": 29,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/29.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天特别冷!"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Today is especially cold!"
+    },
+    {
+      "id": 30,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/30.mp3"
+      ],
+      "respuesta_correcta": [
+        "我不喜欢冷的天气。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I don’t like cold weather."
+    },
+    {
+      "id": 31,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/31.mp3"
+      ],
+      "respuesta_correcta": [
+        "热"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "hot"
+    },
+    {
+      "id": 32,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/32.mp3"
+      ],
+      "respuesta_correcta": [
+        "泰国每天都很热。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Thailand is hot every day."
+    },
+    {
+      "id": 33,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/33.mp3"
+      ],
+      "respuesta_correcta": [
+        "热死了!"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It’s insanely hot!"
+    },
+    {
+      "id": 34,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/34.mp3"
+      ],
+      "respuesta_correcta": [
+        "准备"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to prepare"
+    },
+    {
+      "id": 35,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/35.mp3"
+      ],
+      "respuesta_correcta": [
+        "我准备回家了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I’m getting ready to go home."
+    },
+    {
+      "id": 36,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/36.mp3"
+      ],
+      "respuesta_correcta": [
+        "我们明天开始上课, 你准备好了吗?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "We start class tomorrow. Are you ready?"
+    },
+    {
+      "id": 37,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/37.mp3"
+      ],
+      "respuesta_correcta": [
+        "希望"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to hope, to wish"
+    },
+    {
+      "id": 38,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/38.mp3"
+      ],
+      "respuesta_correcta": [
+        "我下个星期搬家, 希望不会下雨!"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I’m moving next week. I hope it won’t rain!"
+    },
+    {
+      "id": 39,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/39.mp3"
+      ],
+      "respuesta_correcta": [
+        "我希望三十多岁的时候可以有自己的公司。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I hope to have my own company when I am in my thirties."
+    },
+    {
+      "id": 40,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/40.mp3"
+      ],
+      "respuesta_correcta": [
+        "考试"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "exam, test"
+    },
+    {
+      "id": 41,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/41.mp3"
+      ],
+      "respuesta_correcta": [
+        "他还没有准备考试。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He hasn’t prepared for the exam yet."
+    },
+    {
+      "id": 42,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/42.mp3"
+      ],
+      "respuesta_correcta": [
+        "我没有考过汉语考试。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I have never taken a Chinese exam."
+    },
+    {
+      "id": 43,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/43.mp3"
+      ],
+      "respuesta_correcta": [
+        "容易"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "easy"
+    },
+    {
+      "id": 44,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/44.mp3"
+      ],
+      "respuesta_correcta": [
+        "我觉得汉字很容易。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I think Chinese characters are very easy."
+    },
+    {
+      "id": 45,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/45.mp3"
+      ],
+      "respuesta_correcta": [
+        "从北方搬到南方不是一件容易的事!"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Moving from the north to the south is not an easy thing!"
+    },
+    {
+      "id": 46,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/46.mp3"
+      ],
+      "respuesta_correcta": [
+        "难"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "difficult, hard"
+    },
+    {
+      "id": 47,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/47.mp3"
+      ],
+      "respuesta_correcta": [
+        "我觉得骑自行车很难!"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I think riding a bicycle is very difficult!"
+    },
+    {
+      "id": 48,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/48.mp3"
+      ],
+      "respuesta_correcta": [
+        "这次考试不太难。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This exam is not too difficult."
+    },
+    {
+      "id": 49,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/49.mp3"
+      ],
+      "respuesta_correcta": [
+        "快乐"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "happy, joyful"
+    },
+    {
+      "id": 50,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/50.mp3"
+      ],
+      "respuesta_correcta": [
+        "如果你快乐, 我就快乐。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "If you’re happy, then I’m happy."
+    },
+    {
+      "id": 51,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-2a/51.mp3"
+      ],
+      "respuesta_correcta": [
+        "我希望我的女儿每天都快乐。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I hope my daughter is happy every day."
+    }
+  ]
+}

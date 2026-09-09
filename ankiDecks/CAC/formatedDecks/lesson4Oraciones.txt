@@ -1,0 +1,34 @@
+<div class="chineseChars">请问，火车站怎么去？</div>|<div class="answer">qǐngwèn, huǒchēzhàn zěnme qù? <span class="english">Excuse me, how do I get to the train station?</span></div>
+<div class="chineseChars">火车站和我的家不太远。</div>|<div class="answer">huǒchēzhàn hé wǒ de jiā bú tài yuǎn. <span class="english">The train station is not too far from my home.</span></div>
+<div class="chineseChars">我每天骑自行车去工作。</div>|<div class="answer">wǒ měitiān qí zìxíngchē qù gōngzuò. <span class="english">I ride a bicycle to work every day.</span></div>
+<div class="chineseChars">这个城市有很多人骑自行车。</div>|<div class="answer">zhège chéngshì yǒu hěn duō rén qí zìxíngchē. <span class="english">There are many people riding bicycles in this city.</span></div>
+<div class="chineseChars">我没有坐过船。</div>|<div class="answer">wǒ méiyǒu zuò guò chuán. <span class="english">I have never taken a boat.</span></div>
+<div class="chineseChars">在曼谷，有的人每天坐船去公司。</div>|<div class="answer">zài màngǔ, yǒu de rén měitiān zuò chuán qù gōngsī. <span class="english">In Bangkok, some people take a boat to work every day.</span></div>
+<div class="chineseChars">中国的公共汽车又便宜又方便。</div>|<div class="answer">zhōngguó de gōnggòng qìchē yòu piányi yòu fāngbiàn. <span class="english">Chinese buses are both cheap and convenient.</span></div>
+<div class="chineseChars">我不常坐公共汽车。</div>|<div class="answer">wǒ bù cháng zuò gōnggòng qìchē. <span class="english">I don’t often take the bus.</span></div>
+<div class="chineseChars">我很想试一试中国的高铁。</div>|<div class="answer">wǒ hěn xiǎng shì yī shì zhōngguó de gāotiě. <span class="english">I really want to try China’s high-speed rail.</span></div>
+<div class="chineseChars">请你告诉我怎么买高铁票？</div>|<div class="answer">qǐng nǐ gàosu wǒ zěnme mǎi gāotiě piào? <span class="english">Please tell me how to buy a high-speed rail ticket?</span></div>
+<div class="chineseChars">昨天下雪了。</div>|<div class="answer">zuótiān xiàxuě le. <span class="english">It snowed yesterday.</span></div>
+<div class="chineseChars">我住的城市从来不下雪。</div>|<div class="answer">wǒ zhù de chéngshì cónglái bú xiàxuě. <span class="english">The city where I live never snows.</span></div>
+<div class="chineseChars">下雨了，你等一下再出去吧。</div>|<div class="answer">xiàyǔ le, nǐ děng yīxià zài chūqù ba. <span class="english">It’s raining. Wait a moment before going out.</span></div>
+<div class="chineseChars">已经下了三天雨了。</div>|<div class="answer">yǐjīng xià le sān tiān yǔ le. <span class="english">It has already been raining for three days.</span></div>
+<div class="chineseChars">今天是晴天，所以很多人出去玩。</div>|<div class="answer">jīntiān shì qíngtiān, suǒyǐ hěn duō rén chūqù wán. <span class="english">Today is a sunny day, so many people are going out to have fun.</span></div>
+<div class="chineseChars">他们结婚的时候是一个大晴天。</div>|<div class="answer">tāmen jiéhūn de shíhou shì yī gè dà qíngtiān. <span class="english">It was a bright sunny day when they got married.</span></div>
+<div class="chineseChars">今天是阴天，但是没有下雨。</div>|<div class="answer">jīntiān shì yīntiān, dànshì méiyǒu xiàyǔ. <span class="english">Today is a cloudy day, but it didn’t rain.</span></div>
+<div class="chineseChars">他最喜欢阴天，我真不知道为什么！</div>|<div class="answer">tā zuì xǐhuān yīntiān, wǒ zhēn bù zhīdào wèishéme! <span class="english">He likes cloudy days the most. I really don’t know why!</span></div>
+<div class="chineseChars">今天特别冷！</div>|<div class="answer">jīntiān tèbié lěng! <span class="english">Today is especially cold!</span></div>
+<div class="chineseChars">我不喜欢冷的天气。</div>|<div class="answer">wǒ bù xǐhuān lěng de tiānqì. <span class="english">I don’t like cold weather.</span></div>
+<div class="chineseChars">泰国每天都很热。</div>|<div class="answer">tàiguó měitiān dōu hěn rè. <span class="english">Thailand is hot every day.</span></div>
+<div class="chineseChars">热死了！</div>|<div class="answer">rè sǐ le! <span class="english">It’s insanely hot!</span></div>
+<div class="chineseChars">我准备回家了。</div>|<div class="answer">wǒ zhǔnbèi huíjiā le. <span class="english">I’m getting ready to go home.</span></div>
+<div class="chineseChars">我们明天开始上课，你准备好了吗？</div>|<div class="answer">wǒmen míngtiān kāishǐ shàngkè, nǐ zhǔnbèi hǎo le ma? <span class="english">We start class tomorrow. Are you ready?</span></div>
+<div class="chineseChars">我下个星期搬家，希望不会下雨！</div>|<div class="answer">wǒ xià gè xīngqī bānjiā, xīwàng bú huì xiàyǔ! <span class="english">I’m moving next week. I hope it won’t rain!</span></div>
+<div class="chineseChars">我希望三十多岁的时候可以有自己的公司。</div>|<div class="answer">wǒ xīwàng sānshí duō suì de shíhou kěyǐ yǒu zìjǐ de gōngsī. <span class="english">I hope to have my own company when I am in my thirties.</span></div>
+<div class="chineseChars">他还没有准备考试。</div>|<div class="answer">tā hái méiyǒu zhǔnbèi kǎoshì. <span class="english">He hasn’t prepared for the exam yet.</span></div>
+<div class="chineseChars">我没有考过汉语考试。</div>|<div class="answer">wǒ méiyǒu kǎo guo hànyǔ kǎoshì. <span class="english">I have never taken a Chinese exam.</span></div>
+<div class="chineseChars">我觉得汉字很容易。</div>|<div class="answer">wǒ juéde hànzì hěn róngyì. <span class="english">I think Chinese characters are very easy.</span></div>
+<div class="chineseChars">从北方搬到南方不是一件容易的事！</div>|<div class="answer">cóng běifāng bāndào nánfāng bú shì yí jiàn róngyì de shì! <span class="english">Moving from the north to the south is not an easy thing!</span></div>
+<div class="chineseChars">我觉得骑自行车很难！</div>|<div class="answer">wǒ juéde qí zìxíngchē hěn nán! <span class="english">I think riding a bicycle is very difficult!</span></div>
+<div class="chineseChars">这次考试不太难。</div>|<div class="answer">zhè cì kǎoshì bú tài nán. <span class="english">This exam is not too difficult.</span></div>
+<div class="chineseChars">如果你快乐，我就快乐。</div>|<div class="answer">rúguǒ nǐ kuàilè, wǒ jiù kuàilè. <span class="english">If you’re happy, then I’m happy.</span></div>
+<div class="chineseChars">我希望我的女儿每天都快乐。</div>|<div class="answer">wǒ xīwàng wǒ de nǚ’ér měitiān dōu kuàilè. <span class="english">I hope my daughter is happy every day.</span></div>
