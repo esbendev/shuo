@@ -1,0 +1,30 @@
+<div class="chineseChars">瓶</div>|<div class="answer">píng <span class="english">MW for bottle</span></div>
+<div class="chineseChars">两瓶多</div>|<div class="answer">liǎng píng duō <span class="english">more than two bottles</span></div>
+<div class="chineseChars">五岁多</div>|<div class="answer">wǔ suì duō <span class="english">more than five years old</span></div>
+<div class="chineseChars">八年多</div>|<div class="answer">bā nián duō <span class="english">more than eight years</span></div>
+<div class="chineseChars">二十多个人</div>|<div class="answer">èrshí duō gè rén <span class="english">more than twenty people</span></div>
+<div class="chineseChars">几百块钱</div>|<div class="answer">jǐ bǎi kuài qián <span class="english">a few hundred yuan</span></div>
+<div class="chineseChars">找一找这些词的图片。</div>|<div class="answer">zhǎo yì zhǎo zhèxiē cí de túpiàn. <span class="english">Look for pictures of these words.</span></div>
+<div class="chineseChars">第一张图片是火车。</div>|<div class="answer">dì yī zhāng túpiàn shì huǒchē. <span class="english">The first picture is a train.</span></div>
+<div class="chineseChars">速度</div>|<div class="answer">sùdù <span class="english">speed</span></div>
+<div class="chineseChars">火</div>|<div class="answer">huǒ <span class="english">fire</span></div>
+<div class="chineseChars">公共</div>|<div class="answer">gōnggòng <span class="english">public</span></div>
+<div class="chineseChars">公共厕所</div>|<div class="answer">gōnggòng cèsuǒ <span class="english">public restroom</span></div>
+<div class="chineseChars">公共电话</div>|<div class="answer">gōnggòng diànhuà <span class="english">public phone</span></div>
+<div class="chineseChars">公园</div>|<div class="answer">gōngyuán <span class="english">park</span></div>
+<div class="chineseChars">公交车</div>|<div class="answer">gōngjiāochē <span class="english">bus</span></div>
+<div class="chineseChars">自</div>|<div class="answer">zì <span class="english">self / oneself</span></div>
+<div class="chineseChars">行</div>|<div class="answer">xíng <span class="english">to walk / travel</span></div>
+<div class="chineseChars">紫色</div>|<div class="answer">zǐsè <span class="english">purple</span></div>
+<div class="chineseChars">一辆自行车。</div>|<div class="answer">yì liàng zìxíngchē. <span class="english">one bicycle</span></div>
+<div class="chineseChars">一辆火车</div>|<div class="answer">yì liàng huǒchē <span class="english">one train</span></div>
+<div class="chineseChars">一辆公共汽车</div>|<div class="answer">yì liàng gōnggòng qìchē <span class="english">one bus</span></div>
+<div class="chineseChars">一辆高铁</div>|<div class="answer">yì liàng gāotiě <span class="english">one high-speed train</span></div>
+<div class="chineseChars">重要</div>|<div class="answer">zhòngyào <span class="english">important</span></div>
+<div class="chineseChars">太阳</div>|<div class="answer">tàiyáng <span class="english">sun</span></div>
+<div class="chineseChars">图片</div>|<div class="answer">túpiàn <span class="english">picture</span></div>
+<div class="chineseChars">气</div>|<div class="answer">qì <span class="english">air, temper</span></div>
+<div class="chineseChars">生气</div>|<div class="answer">shēngqì <span class="english">angry / to get angry</span></div>
+<div class="chineseChars">从来不</div>|<div class="answer">cónglái bù <span class="english">never</span></div>
+<div class="chineseChars">从不</div>|<div class="answer">cóng bù <span class="english">never</span></div>
+<div class="chineseChars">希望你快乐今明每</div>|<div class="answer">xīwàng nǐ kuàilè jīn míng měi <span class="english">I hope you are happy every day</span></div>
