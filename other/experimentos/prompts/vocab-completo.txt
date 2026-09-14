@@ -1,0 +1,585 @@
+- 唱歌 (chànggē) - To sing
+- 电话 (diànhuà) - Telephone, phone call
+- 电影 (diànyǐng) - Movie
+- 打篮球 (dǎ lánqiú) - To play basketball
+- 打游戏 (dǎ yóuxì) - To play video games
+- 画画 (huàhuà) - To draw, to paint
+- 开车 (kāi chē) - To drive a car
+- 聊天 (liáo tiān) - To chat
+- 朋友圈 (péngyǒuquān) - Friend circle / WeChat moments
+- 跑步 (pǎobù) - To run, to jog
+- 起床 (qǐ chuáng) - To get up
+- 睡觉 (shuì jiào) - To sleep
+- 刷牙 (shuā yá) - To brush teeth
+- 上网 (shàngwǎng) - To go online
+- 视频 (shìpín) - Video
+- 跳舞 (tiàowǔ) - To dance
+- 踢足球 (tī zúqiú) - To play soccer
+- 听音乐 (tīng yīnyuè) - To listen to music
+- 玩 (wán) - To play
+- 玩手机 (wán shǒu jī) - To play on the phone
+- 微信 (wēixìn) - WeChat
+- 洗脸 (xǐ liǎn) - To wash face
+- 洗澡 (xǐ zǎo) - To take a shower/bath
+- 邮件 (yóujiàn) - Email
+- 游泳 (yóuyǒng) - To swim
+- 运动 (yùn dòng) - To exercise
+- 音乐 (yīnyuè) - Music
+- 爱好 (àihào) - Hobby
+- 白菜 (báicài) - Chinese cabbage
+- 包子 (bāo zi) - Steamed bun
+- 吃饭 (chī fàn) - To eat meals
+- 吃晚饭 (chī wǎn fàn) - To eat dinner
+- 吃早饭 (chī zǎo fàn) - To eat breakfast
+- 菜 (cài) - Dish / cuisine
+- 点菜 (diǎncài) - To order food
+- 豆腐 (dòufu) - Tofu
+- 火鸡 (huǒjī) - Turkey
+- 喝 (hē) - To drink
+- 喝咖啡 (hē kā fēi) - To drink coffee
+- 喝酒 (hējiǔ) - To drink alcohol
+- 饺子 (jiǎo zi) - Dumpling
+- 鸡肉 (jī ròu) - Chicken
+- 牛肉 (niú ròu) - Beef
+- 碗 (wǎn) - Bowl
+- 虾 (xiā) - Shrimp
+- 鱼 (yú) - Fish
+- 粥 (zhōu) - Congee
+- 猪肉 (zhū ròu) - Pork
+- 爸爸 (bàba) - Dad/father
+- 弟弟 (dìdi) - Younger brother
+- 翻译 (fānyì) - Translator
+- 哥哥 (gēge) - Older brother
+- 工程师 (gōngchéngshī) - Engineer
+- 孩子 (háizi) - Child
+- 家庭主妇 (jiātíng zhǔfù) - Housewife
+- 姐姐 (jiějie) - Older sister
+- 客户 (kèhù) - Client
+- 老板 (lǎobǎn) - Boss
+- 老公 (lǎogōng) - Husband
+- 老婆 (lǎopó) - Wife
+- 老师 (lǎoshī) - Teacher
+- 老外 (lǎowài) - Foreigner (informal)
+- 律师 (lǜshī) - Lawyer
+- 妹妹 (mèimei) - Younger sister
+- 妈妈 (māma) - Mom/mother
+- 母语者 (mǔyǔzhě) - Native speaker
+- 男朋友 (nán péngyǒu) - Boyfriend
+- 您 (nín) - You (polite)
+- 你 (nǐ) - You
+- 你们 (nǐmen) - You (plural)
+- 女朋友 (nǚ péngyǒu) - Girlfriend
+- 女儿 (nǚ'ér) - Daughter
+- 朋友 (péngyǒu) - Friend
+- 妻子 (qīzi) - Wife
+- 帅哥 (shuàigē) - Handsome guy
+- 商人 (shāngrén) - Businessman
+- 师傅 (shīfu) - Master worker/driver
+- 太太 (tàitai) - Mrs.; wife (formal)
+- 同事 (tóngshì) - Co-worker
+- 他 (tā) - He, him
+- 她 (tā) - She, her
+- 外国人 (wàiguórén) - Foreigner
+- 我 (wǒ) - I, me
+- 我们 (wǒmen) - We, us
+- 先生 (xiānsheng) - Mr.; husband (formal)
+- 学生 (xuésheng) - Student
+- 医生 (yīshēng) - Doctor
+- 职员 (zhíyuán) - Employee
+- 儿子 (érzi) - Son
+- 半 (bàn) - Half
+- 差 (chà) - To lack, be short of
+- 次 (cì) - Time/occasion
+- 点 (diǎn) - O'clock
+- 大概 (dài gài) - Approximately, about
+- 第二天 (dì'èr tiān) - The next day
+- 分 (fēn) - Minute
+- 国庆节 (guóqìngjié) - National Day
+- 号 (hào) - Date, day of month (casual)
+- 假期 (jiàqī) - Holiday, vacation
+- 今年 (jīnnián) - This year
+- 今天 (jīntiān) - Today
+- 零 (líng) - Zero
+- 明年 (míngnián) - Next year
+- 明天 (míngtiān) - Tomorrow
+- 每天 (měi tiān) - Every day
+- 年 (nián) - Year
+- 去年 (qùnián) - Last year
+- 日 (rì) - Date, day of month (formal)
+- 上个星期 (shànggè xīngqī) - Last week
+- 上个月 (shànggè yuè) - Last month
+- 生日 (shēngrì) - Birthday
+- 下个星期 (xiàgè xīngqī) - Next week
+- 现在 (xiànzài) - Now
+- 小时 (xiǎoshí) - Hour
+- 星期 (xīngqī) - Week/day of the week
+- 月 (yuè) - Month
+- 一刻 (yí kè) - A quarter of an hour
+- 以后 (yǐhòu) - After, in the future
+- 以前 (yǐqián) - Before, previously
+- 周末 (zhōumò) - Weekend
+- 最近 (zuìjìn) - Recently
+- 昨天 (zuótiān) - Yesterday
+- 下个月 (下个月) - Next month
+- 德国 (Déguó) - Germany
+- 法国 (Fǎguó) - France
+- 美国 (Měiguó) - America
+- 日本 (Rìběn) - Japan
+- 西班牙 (Xībānyá) - Spain
+- 英国 (Yīngguó) - United Kingdom
+- 长城 (chángchéng) - Great Wall
+- 城市 (chéngshì) - City
+- 出租车 (chūzūchē) - Taxi
+- 厕所 (cèsuǒ) - Toilet, restroom
+- 地铁 (dìtiě) - Subway
+- 地图 (dìtú) - Map
+- 东西 (dōng xi) - Things, stuff
+- 打的 (dǎdí) - To take a taxi
+- 打折 (dǎzhé) - Discount
+- 饭店 (fàndiàn) - Restaurant, hotel
+- 房子 (fángzi) - House, apartment
+- 附近 (fùjìn) - Nearby area
+- 飞机 (fēijī) - Airplane
+- 公司 (gōngsī) - Company
+- 后 (hòu) - Back / behind
+- 家 (jiā) - Home, family
+- 咖啡店 (kāfēidiàn) - Coffee shop
+- 路 (lù) - Road
+- 礼物 (lǐwù) - Gift, present
+- 旅行 (lǚxíng) - To travel
+- 旅游 (lǚyóu) - Travel
+- 美元 (měi yuán) - US dollar
+- 买 (mǎi) - To buy
+- 买东西 (mǎi dōng xī) - Buy things
+- 曼谷 (mǎngǔ) - Bangkok
+- 钱 (qián) - Money
+- 前 (qián) - Front / in front
+- 上厕所 (shàng cè suǒ) - Go to the bathroom
+- 商场 (shāngchǎng) - Mall, shopping center
+- 商店 (shāngdiàn) - Shop, store
+- 书店 (shūdiàn) - Bookstore
+- 淘宝 (táobǎo) - Taobao (online shopping platform)
+- 往 (wǎng) - Towards
+- 五角钱 (wǔ jiǎo qián) - Fifty cents
+- 五块五 (wǔ kuài wǔ) - Five yuan fifty
+- 学生证 (xuéshēngzhèng) - Student ID
+- 学校 (xuéxiào) - School
+- 意大利 (yìdàlì) - Italy
+- 右 (yòu) - Right
+- 右边 (yòu biān) - Right side
+- 一块钱 (yī kuài qián) - One yuan
+- 转 (zhuǎn) - Turn
+- 中国城 (zhōngguó chéng) - Chinatown
+- 坐 (zuò) - Sit
+- 左 (zuǒ) - Left
+- 左边 (zuǒ biān) - Left side
+- 走 (zǒu) - Go, walk
+- 澳大利亚 (àodàlìyà) - Australia
+- 白色 (báisè) - White
+- 饱 (bǎo) - Full (from eating)
+- 比较 (bǐjiào) - Relatively, comparatively
+- 多 (duō) - Many, much
+- 大 (dà) - Big
+- 方便 (fāngbiàn) - Convenient
+- 贵 (guì) - Expensive
+- 干净 (gānjìng) - Clean
+- 高 (gāo) - Tall, high
+- 高兴 (gāoxìng) - Happy, glad
+- 黄色 (huángsè) - Yellow
+- 红色 (hóngsè) - Red
+- 黑色 (hēisè) - Black
+- 很 (hěn) - Very
+- 好吃 (hǎochī) - Delicious
+- 好看 (hǎokàn) - Good-looking, good to watch
+- 好听 (hǎotīng) - Pleasant to hear
+- 好玩 (hǎowán) - Fun, amusing
+- 假 (jiǎ) - Fake
+- 近 (jìn) - Near
+- 快 (kuài) - Fast, quick
+- 空 (kòng) - Free time, available
+- 可爱 (kě'ài) - Cute
+- 苦 (kǔ) - Bitter
+- 辣 (là) - Spicy
+- 蓝色 (lánsè) - Blue
+- 冷 (lěng) - Cold
+- 绿色 (lǜsè) - Green
+- 慢 (màn) - Slow
+- 忙 (máng) - Busy
+- 漂亮 (piàoliang) - Beautiful, pretty
+- 便宜 (piányi) - Cheap
+- 胖 (pàng) - Fat
+- 热 (rè) - Hot
+- 瘦 (shòu) - Thin, slim
+- 少 (shǎo) - Few, little, less
+- 酸 (suān) - Sour
+- 甜 (tián) - Sweet
+- 特别 (tèbié) - Especially, special
+- 象 (xiàng) - Elephant
+- 显瘦 (xiǎnshòu) - Look slim
+- 小 (xiǎo) - Small
+- 新 (xīn) - New
+- 颜色 (yánsè) - Color
+- 真 (zhēn) - Really, truly
+- 真的 (zhēnde) - Really, truly
+- 棕色 (zōngsè) - Brown
+- 饿 (è) - Hungry
+- 矮 (ǎi) - Short (height)
+- 鼻子 (bízi) - Nose
+- 穿 (chuān) - To wear (clothes)
+- 个子 (gèzi) - Height, stature
+- 脑 (nǎo) - Brain
+- 裙子 (qúnzi) - Skirt, dress
+- 手 (shǒu) - Hand
+- 头发 (tóufa) - Hair
+- 胸 (xiōng) - Chest
+- 衣服 (yīfu) - Clothes
+- 眼睛 (yǎnjing) - Eyes
+- 嘴巴 (zuǐba) - Mouth
+- 耳朵 (ěrduo) - Ears
+- 啊 (a) - Exclamation particle
+- 吧 (ba) - Suggestion particle / sweetener at the end
+- 别 (bié) - Don't
+- 不但...而且... (búdàn...érqiě...) - Not only...but also...
+- 本 (běn) - Measure word for books
+- 差不多 (chàbuduō) - About, almost, similar
+- 常常 (chángcháng) - Often
+- 从 (cóng) - From
+- 猜 (cāi) - To guess
+- 的 (de) - Possessive or descriptive particle
+- 的时候 (de shíhòu) - When... / during...
+- 对不起 (duìbuqǐ) - Sorry
+- 对了 (duìle) - Oh right! / By the way
+- 但是 (dànshì) - But
+- 到 (dào) - To arrive, to (as in from...to...)
+- 等一下 (děng yīxià) - Wait a moment
+- 都 (dōu) - All, both
+- 打算 (dǎsuàn) - To plan / plan
+- 发 (fā) - To send, post
+- 过 (guò) - Indicates past experience
+- 告诉 (gàosu) - To tell
+- 个 (gè) - General measure word
+- 刚 (gāng) - Just, just now
+- 换 (huàn) - To change, exchange
+- 会 (huì) - Can, to be able to
+- 回 (huí) - To return
+- 或者 (huòzhě) - Or (in statements)
+- 汉字 (hànzì) - Chinese character
+- 还是 (háishì) - Or (in questions)
+- 哈哈 (hāhā) - Haha
+- 件 (jiàn) - Measure word for clothing / matters
+- 介绍 (jièshào) - To introduce
+- 加 (jiā) - To add, plus
+- 教 (jiāo) - To teach
+- 记得 (jìde) - To remember
+- 看 (kàn) - To read, see, watch, look at
+- 看书 (kàn shū) - To read books
+- 口语 (kǒuyǔ) - Spoken language, speaking
+- 辆 (liàng) - Measure word for vehicles
+- 练习 (liànxí) - To practice / practice
+- 来 (lái) - To come
+- 描述 (miáoshù) - To describe / description
+- 没关系 (méi guānxi) - It doesn't matter, it's ok
+- 没有 (méiyǒu) - Do not have / didn't
+- 呢 (ne) - Question particle
+- 哪里 (nǎlǐ) - Where
+- 骗 (piàn) - To deceive, lie, cheat
+- 去 (qù) - To go
+- 请客 (qǐngkè) - To treat (someone to a meal)
+- 请问 (qǐngwèn) - May I ask...?
+- 让 (ràng) - To let, allow, make, ask
+- 然后 (ránhòu) - And then, after that
+- 是 (shì) - To be (am, is, are)
+- 试 (shì) - To try
+- 试着 (shìzhe) - Try to do sth.
+- 虽然 (suīrán) - Although
+- 条 (tiáo) - Measure word for pants, skirts, long thin things
+- 台 (tái) - Measure word for machines
+- 听 (tīng) - To listen
+- 听说 (tīngshuō) - To be told, hear of
+- 忘 (wàng) - To forget
+- 网上 (wǎngshang) - Online
+- 网站 (wǎngzhàn) - Website
+- 谢谢 (xièxie) - Thank you
+- 写 (xiě) - To write
+- 喜欢 (xǐhuān) - To like
+- 约 (yuē) - To make an appointment / ask someone out
+- 一起 (yìqǐ) - Together
+- 咦 (yí) - Expressing surprise, puzzle
+- 一定 (yídìng) - Definitely, certainly
+- 一共 (yígòng) - In total, altogether
+- 用 (yòng) - To use
+- 一样 (yīyàng) - Same
+- 有 (yǒu) - To have
+- 这样吧 (zhèyàng ba) - How about this / how about...
+- 张 (zhāng) - Measure word for flat objects
+- 只 (zhī) - Measure word for small animals
+- 支 (zhī) - Measure word for long, thin objects
+- 做 (zuò) - To do, to make
+- 在 (zài) - At, in, on
+- 再 (zài) - Again
+- 字 (zì) - Character
+- 自己 (zìjǐ) - Oneself, self
+- 怎么 (zěnme) - How
+- 怎么了 (zěnmele) - What's wrong / what happened
+- 西瓜 (xīguā) - Watermelon
+- 蛋糕 (dàngāo) - Cake
+- 票 (piào) - Ticket
+- 阿姨 (āyí) - Aunt
+- 同学 (tóngxué) - Classmate
+- 结婚 (jiéhūn) - To get married
+- 报名 (bàomíng) - To sign up, to register
+- 搬家 (bānjiā) - To move
+- 开始 (kāishǐ) - To begin
+- 北方 (běifāng) - Northern part
+- 南方 (nánfāng) - Southern part
+- 东部 (dōngbù) - Eastern part
+- 西部 (xībù) - Western part
+- 遍 (biàn) - Time, repetition measure word
+- 讲 (jiǎng) - To talk, to explain
+- 故事 (gùshi) - Story
+- 南瓜 (nánguā) - Pumpkin
+- 冬瓜 (dōngguā) - Winter melon
+- 黄瓜 (huángguā) - Cucumber
+- 名词 (míngcí) - Noun
+- 蛋 (dàn) - Egg
+- 糕 (gāo) - Pastry / cake
+- 样 (yàng) - Kind / type / way
+- 听说过 (tīngshuōguò) - Have heard of / heard about
+- 继续 (jìxù) - Continue
+- 明白 (míngbái) - Understand
+- 分享 (fēnxiǎng) - To share
+- 屏幕 (píngmù) - Screen
+- 看见 (kànjiàn) - To see
+- 加州 (Jiāzhōu) - California
+- 纽约 (Niǔyuē) - New York
+- 商学 (shāngxué) - Business studies / business
+- 墨西哥 (Mòxīgē) - Mexico
+- 一般般 (yìbānbān) - So-so
+- 旧金山 (Jiùjīnshān) - San Francisco
+- 俄勒冈州 (Èlègāngzhōu) - Oregon
+- 遛狗 (liùgǒu) - Walking the dog
+- 词汇 (cíhuì) - Vocabulary
+- 听力 (tīnglì) - Listening comprehension
+- 发音 (fāyīn) - Pronunciation
+- 语法 (yǔfǎ) - Grammar
+- 读一下 (dúyíxià) - Read this
+- 选择 (xuǎnzé) - To choose
+- 容易 (róngyì) - Easy
+- 父母 (fùmǔ) - Father and mother; parents
+- 上面 (shàngmiàn) - Up / above
+- 下面 (xiàmiàn) - Down / below
+- 前面 (qiánmiàn) - Front / in front
+- 后面 (hòumiàn) - Back / behind
+- 里面 (lǐmiàn) - Inside
+- 外面 (wàimiàn) - Outside
+- 句子 (jùzi) - Sentence
+- 弹钢琴 (tán gāngqín) - Play piano
+- 这些 (zhèxiē) - These
+- 一定要 (yídìng yào) - Absolutely / mandatory
+- 地方 (dìfang) - Place
+- 来猜 (lái cāi) - Take a guess
+- 接电话 (jiē diànhuà) - To answer the phone
+- 听不懂 (tīng bù dǒng) - Can't understand
+- 几 (jǐ) - Used when the number is expected to be small
+- 多 (duō) - When a number is slightly over a whole number
+- 几十 (jǐshí) - Several tens
+- 几百 (jǐbǎi) - Several hundreds
+- 已经...了 (yǐjīng…le) - To emphasize that something has already happened
+- 火车站 - train station
+- 自行车 - bicycle
+- 船 - boat, ship
+- 公共汽车 - bus
+- 高铁 - high-speed rail
+- 下雪 - to snow
+- 下雨 - to rain
+- 晴天 - sunny day
+- 阴天 - cloudy day
+- 冷 - cold
+- 热 - hot
+- 准备 - to prepare
+- 希望 - to hope
+- 考试 - exam
+- 快乐 - happy
+- 正在 - in the process of / currently
+- 丈夫 - husband
+- 一首歌 - a song
+- 几百个汉字 - a few hundred Chinese characters
+- 速度 - speed
+- 公共 - public
+- 公共厕所 - public restroom
+- 公共电话 - public phone
+- 公园 - park
+- 公交车 - bus
+- 自 - self / oneself
+- 行 - to walk / travel
+- 紫色 - purple
+- 一辆自行车 - one bicycle
+- 一辆火车 - one train
+- 一辆公共汽车 - one bus
+- 一辆高铁 - one high-speed train
+- 重要 - important
+- 太阳 - sun
+- 图片 - picture
+- 气 - air, temper
+- 生气 - angry / to get angry
+- 从来不 / 从不 - never
+- 祝你快乐 - I hope you are happy every day
+- 这本书要几百块钱。 - This book costs several hundred yuan.
+- 他们买了几十张票。 - They bought a few dozen tickets.
+- 他三十多岁。 - He is over 30 years old.
+- 他三十几岁。 - He is over 30 years old.
+- 我听了二十多遍这个故事。 - I’ve heard this story more than 20 times.
+- 我听了二十几遍这个故事。 - I’ve heard this story more than 20 times.
+- 我已经吃饭了。 - I have already eaten.
+- 她已经回家了。 - She has already gone home.
+- 她已经结婚了。 - She’s already married.
+- 他学习中文已经三年了。 - He has been studying Chinese for three years already.
+- 几百个汉字 - A few hundred Chinese characters
+- 别吃太多蛋糕了！ - Don’t eat too much cake!
+- 现在我给大家分享我的屏幕。 - Now I am going to share my screen with everyone.
+- 你要选哪？ - Which one are you going to choose?
+- 请你选择一个。 - Please choose one.
+- 你怎么看？ - What do you think?
+- 请你读。 - Please read.
+- 和中国人一样的。 - Just like a Chinese person.
+- 我可以第一个。 - I can be the first.
+- 读这些词。 - Read these words.
+- 两个人刚认识。 - Two people just met each other.
+- 谁想试一试说一个句子？ - Who wants to try saying a sentence?
+- 大家知道吗？ - Does everyone know?
+- 如果是这样的蛋糕…… - If it’s this kind of cake…
+- 你们觉得蛋糕太甜了吗？ - Do you think the cake is too sweet?
+- 你有没有买票？ - Did you buy a ticket?
+- 请大家用中文说一说谁是阿姨？ - Please everyone say in Chinese who the auntie is.
+- 请一个同学用中文说一说同事是谁？ - Please ask a classmate to say in Chinese who a coworker is.
+- 那你介绍你的猫！ - Then introduce your cat!
+- 大家明白了吗？ - Does everyone understand?
+- 同意吗？ - Do you agree?
+- 谁结婚了？ - Who got married?
+- 你结婚结得早吗？ - Did you get married early?
+- 我是一个宝宝。 - I am a baby.
+- 我搬过大概5次家。 - I’ve moved about five times.
+- 你最好的朋友结婚了吗？ - Did your best friend get married?
+- 你最好的朋友和谁结婚了？ - Who did your best friend marry?
+- 我想再搬家。 - I want to move again.
+- 因为中国非常棒。 - Because China is amazing.
+- 我回家的时候，我的丈夫正在准备晚饭。 - When I get home, my husband is preparing dinner.
+- 高铁比火车快。 - A high-speed train is faster than a regular train.
+- 高铁比火车更快。 - A high-speed train is faster than a regular train.
+- 飞机比火车快得多。 - An airplane is much faster than a train.
+- 今天比昨天热一点儿。 - Today is a bit hotter than yesterday.
+- 虾比牛肉贵四块钱。 - Shrimp is 4 yuan more expensive than beef.
+- 大人没有孩子快乐。 - Adults are not as happy as kids.
+- 这个西瓜又大又甜。 - This watermelon is big and sweet.
+- 你想吃西瓜吗？ - Do you want to eat watermelon?
+- 我给你买了一个生日蛋糕。 - I bought you a birthday cake.
+- 我在网上买电影票吧。 - Let me buy movie tickets online.
+- 请问我要去哪里买车票？ - Excuse me, where can I buy a bus ticket?
+- 她的阿姨是工程师。 - Her aunt is an engineer.
+- 你阿姨叫你。 - Your aunt is asking for you.
+- 我的同事不都是中国人。 - Not all my colleagues are Chinese.
+- 我不太喜欢和同事聊天。 - I don’t like chatting with colleagues much.
+- 我们班有两个新同学。 - We have two new classmates in our class.
+- 我们班只有一个女同学。 - We only have one female classmate in our class.
+- 他跟一个律师结婚了。 - He married a lawyer.
+- 小王去年刚结婚。 - Xiao Wang just got married last year.
+- 我报名了老师的课。 - I signed up for the teacher’s class.
+- 我们一起去报名吧。 - Let’s go sign up together.
+- 我不常搬家。 - I don’t move often.
+- 他从北京搬到了上海。 - He moved from Beijing to Shanghai.
+- 电影什么时候开始？ - When does the movie start?
+- 我每天早上八点开始工作。 - I start working at 8 AM every day.
+- 我家在中国北方。 - My home is in northern China.
+- 北方人说“一点儿”，南方人说“一点”。 - Northern people say “a little(r),” southern people say “a little.”
+- 我没有去过中国西部。 - I have not been to western China.
+- 现在是美国东部时间下午五点。 - Now it’s 5 PM Eastern Time in the USA.
+- 你可以再说一遍吗？ - Can you say it again?
+- 这本书非常好看，我看了两遍！ - This book is very interesting; I’ve read it twice!
+- 老师，请你讲一讲怎么用“遍”。 - Teacher, please explain how to use “biàn.”
+- 我不会讲上海话。 - I can’t speak Shanghainese.
+- 这个孩子想再听一遍“西瓜的故事”。 - This child wants to hear the “watermelon story” again.
+- 我给你讲一个故事吧。 - Let me tell you a story.
+- 西瓜 - watermelon
+- 蛋糕 - cake
+- 票 - ticket
+- 阿姨 - aunt
+- 同事 - colleague
+- 同学 - classmate
+- 结婚 - to get married
+- 报名 - to sign up, to register
+- 搬家 - to move
+- 开始 - to begin
+- 北方 - northern part
+- 南方 - southern part
+- 东部 - eastern part
+- 西部 - western part
+- 遍 - time / repetition measure word
+- 讲 - to talk, to explain
+- 故事 - story
+- 分享 - to share
+- 屏幕 - screen
+- 看见 - to see
+- 加州 - California
+- 纽约 - New York
+- 商学 - business studies / business
+- 墨西哥 - Mexico
+- 一般般 - so-so
+- 旧金山 - San Francisco
+- 俄勒冈州 - Oregon
+- 遛狗 - walking the dog
+- 词汇 - vocabulary
+- 听力 - listening comprehension
+- 发音 - pronunciation
+- 语法 - grammar
+- 读一下 - read this
+- 选择 - to choose
+- 容易 - easy
+- 父母 - father and mother; parents
+- 分 - point / points
+- 上面 - up / above
+- 下面 - down / below
+- 前面 - front / in front
+- 后面 - back / behind
+- 里面 - inside
+- 外面 - outside
+- 句子 - sentence
+- 弹钢琴 - play piano
+- 这些 - these
+- 一定要 - absolutely / mandatory
+- 地方 - place
+- 来猜 - take a guess
+- 听不懂 - can’t understand
+- 火车站怎么去？ - Excuse me, how do I get to the train station?
+- 火车站和我的家不太远。 - The train station is not too far from my home.
+- 我每天骑自行车去工作。 - I ride a bicycle to work every day.
+- 这个城市有很多人骑自行车。 - There are many people riding bicycles in this city.
+- 我没有坐过船。 - I have never taken a boat.
+- 在曼谷，有的人每天坐船去公司。 - In Bangkok, some people take a boat to work every day.
+- 中国的公共汽车又便宜又方便。 - Chinese buses are both cheap and convenient.
+- 我不常坐公共汽车。 - I don’t often take the bus.
+- 我很想试一试中国的高铁。 - I really want to try China’s high-speed rail.
+- 请你告诉我怎么买高铁票？ - Please tell me how to buy a high-speed rail ticket?
+- 昨天下雪了。 - It snowed yesterday.
+- 我住的城市从来不下雪。 - The city where I live never snows.
+- 下雨了，你等一下再出去吧。 - It’s raining. Wait a moment before going out.
+- 已经下了三天雨了。 - It has already been raining for three days.
+- 今天是晴天，所以很多人出去玩。 - Today is a sunny day, so many people are going out to have fun.
+- 他们结婚的时候是一个大晴天。 - It was a bright sunny day when they got married.
+- 今天是阴天，但是没有下雨。 - Today is a cloudy day, but it didn’t rain.
+- 他最喜欢阴天，我真不知道为什么！ - He likes cloudy days the most. I really don’t know why!
+- 今天特别冷！ - Today is especially cold!
+- 我不喜欢冷的天气。 - I don’t like cold weather.
+- 泰国每天都很热。 - Thailand is hot every day.
+- 热死了！ - It’s insanely hot!
+- 我准备回家了。 - I’m getting ready to go home.
+- 我们明天开始上课，你准备好了吗？ - We start class tomorrow. Are you ready?
+- 我下个星期搬家，希望不会下雨！ - I’m moving next week. I hope it won’t rain!
+- 我希望三十多岁的时候可以有自己的公司。 - I hope to have my own company when I am in my thirties.
+- 他还没有准备考试。 - He hasn’t prepared for the exam yet.
+- 我没有考过汉语考试。 - I have never taken a Chinese exam.
+- 我觉得汉字很容易。 - I think Chinese characters are very easy.
+- 从北方搬到南方不是一件容易的事！ - Moving from the north to the south is not an easy thing!
+- 我觉得骑自行车很难！ - I think riding a bicycle is very difficult!
+- 这次考试不太难。 - This exam is not too difficult.
+- 如果你快乐，我就快乐。 - If you’re happy, then I’m happy.
+- 我希望我的女儿每天都快乐。 - I hope my daughter is happy every day.

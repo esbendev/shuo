@@ -1,0 +1,8 @@
+<div class="chineseChars">对我来说</div>|<div class="answer">duì wǒ lái shuō <span class="english">for me / as far as I'm concerned</span></div>
+<div class="chineseChars">中部</div>|<div class="answer">zhōng bù <span class="english">middle / central part</span></div>
+<div class="chineseChars">海鲜</div>|<div class="answer">hǎixiān <span class="english">seafood</span></div>
+<div class="chineseChars">随便你</div>|<div class="answer">suíbiàn nǐ <span class="english">it's up to you / do as you wish</span></div>
+<div class="chineseChars">冬天</div>|<div class="answer">dōngtiān <span class="english">winter</span></div>
+<div class="chineseChars">首</div>|<div class="answer">shǒu <span class="english">measure word for songs, poems, etc.</span></div>
+<div class="chineseChars">一首歌</div>|<div class="answer">yì shǒu gē <span class="english">a song</span></div>
+<div class="chineseChars">几百个汉字</div>|<div class="answer">jǐ bǎi gè Hàn zì <span class="english">a few hundred Chinese characters</span></div>

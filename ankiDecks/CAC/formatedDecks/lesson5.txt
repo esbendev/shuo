@@ -1,0 +1,12 @@
+<div class="chineseChars">正在</div>|<div class="answer">zhèngzài <span class="english">in the process of / currently</span></div>
+<div class="chineseChars">我回家的时候,我的丈夫正在准备晚饭</div>|<div class="answer">wǒ huíjiā de shíhou, wǒ de zhàngfu zhèngzài zhǔnbèi wǎnfàn <span class="english">When I get home, my husband is preparing dinner.</span></div>
+<div class="chineseChars">丈夫</div>|<div class="answer">zhàngfu <span class="english">husband</span></div>
+<div class="chineseChars">高铁比火车快。</div>|<div class="answer">gāotiě bǐ huǒchē kuài. <span class="english">A high-speed train is faster than a regular train.</span></div>
+<div class="chineseChars">高铁比火车更快。</div>|<div class="answer">gāotiě bǐ huǒchē gèng kuài. <span class="english">A high-speed train is faster than a regular train.</span></div>
+<div class="chineseChars">高铁比火车快,飞机比高铁更快。</div>|<div class="answer">gāotiě bǐ huǒchē kuài, fēijī bǐ gāotiě gèng kuài. <span class="english">A high-speed train is faster than a regular train, an airplane is even faster than a high-speed train.</span></div>
+<div class="chineseChars">飞机比火车快得多。</div>|<div class="answer">fēijī bǐ huǒchē kuài dé duō. <span class="english">An airplane is much faster than a train.</span></div>
+<div class="chineseChars">飞机比火车快多了。</div>|<div class="answer">fēijī bǐ huǒchē kuài duō le. <span class="english">An airplane is much faster than a train.</span></div>
+<div class="chineseChars">今天比昨天热一点儿。</div>|<div class="answer">jīntiān bǐ zuótiān rè yìdiǎnr. <span class="english">Today is a bit hotter than yesterday.</span></div>
+<div class="chineseChars">虾比牛肉贵四块钱。</div>|<div class="answer">xiā bǐ niúròu guì sì kuài qián. <span class="english">Shrimp is 4 yuan more expensive than beef.</span></div>
+<div class="chineseChars">大人没有孩子快乐。</div>|<div class="answer">dàrén méiyǒu háizi kuàilè. <span class="english">Adults are not as happy as kids.</span></div>
+<div class="chineseChars">昨天没有今天热。</div>|<div class="answer">zuótiān méiyǒu jīntiān rè. <span class="english">Yesterday was not as hot as today.</span></div>
