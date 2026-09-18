@@ -1,0 +1,16 @@
+<div class="chineseChars">她在附近吗？</div>|<div class="answer">tā zài fùjìn ma? <span class="english">Is she nearby?</span></div>
+<div class="chineseChars">你为什么戴眼镜？</div>|<div class="answer">nǐ wèishéme dài yǎnjìng? <span class="english">Why are you wearing glasses?</span></div>
+<div class="chineseChars">你学了多长时间中文了？</div>|<div class="answer">nǐ xué le duō cháng shíjiān zhōngwén le? <span class="english">How long have you been studying Chinese?</span></div>
+<div class="chineseChars">我不喜欢中文，我讨厌。</div>|<div class="answer">wǒ bù xǐhuān zhōngwén, wǒ tǎoyàn. <span class="english">I don't like Chinese, I hate it.</span></div>
+<div class="chineseChars">你穿了多长时间了？</div>|<div class="answer">nǐ chuān le duō cháng shíjiān le? <span class="english">How long have you been wearing this?</span></div>
+<div class="chineseChars">微洛穿了里眼睑衣服。</div>|<div class="answer">Wéi Luò chuān le lǐ yǎn jiǎn yīfu. <span class="english">Wei Luo wore the clothes on the eyelids.</span></div>
+<div class="chineseChars">23度</div>|<div class="answer">23 dù <span class="english">23 degrees</span></div>
+<div class="chineseChars">怕</div>|<div class="answer">pà <span class="english">be afraid / fear</span></div>
+<div class="chineseChars">应该</div>|<div class="answer">yīnggāi <span class="english">should / ought to</span></div>
+<div class="chineseChars">如果你要坐飞机，你应该很早到机场。</div>|<div class="answer">rúguǒ nǐ yào zuò fēijī, nǐ yīnggāi hěn zǎo dào jīchǎng. <span class="english">If you are taking a plane, you should get to the airport very early.</span></div>
+<div class="chineseChars">飞机又比高铁便宜，又比高铁快。</div>|<div class="answer">fēijī yòu bǐ gāotiě piányí, yòu bǐ gāotiě kuài. <span class="english">The plane is both cheaper and faster than the high-speed train.</span></div>
+<div class="chineseChars">我不同意我的同学。</div>|<div class="answer">wǒ bù tóngyì wǒ de tóngxué. <span class="english">I disagree with my classmate.</span></div>
+<div class="chineseChars">她想去别的中文的地方。</div>|<div class="answer">tā xiǎng qù bié de zhōngwén de dìfāng. <span class="english">She wants to go to other Chinese-speaking places.</span></div>
+<div class="chineseChars">讲故事比听故事更累。</div>|<div class="answer">jiǎng gùshì bǐ tīng gùshì gèng lèi. <span class="english">Telling stories is more tiring than listening to stories.</span></div>
+<div class="chineseChars">猫没有狗让人快乐。</div>|<div class="answer">māo méiyǒu gǒu ràng rén kuàilè. <span class="english">Cats are not as fun as dogs for people.</span></div>
+<div class="chineseChars">咖啡比茶味道好。</div>|<div class="answer">kāfēi bǐ chá wèidào hǎo. <span class="english">Coffee tastes better than tea.</span></div>
