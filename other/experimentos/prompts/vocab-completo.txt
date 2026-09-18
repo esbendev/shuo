@@ -380,6 +380,47 @@
 - 来猜 (lái cāi) - Take a guess
 - 接电话 (jiē diànhuà) - To answer the phone
 - 听不懂 (tīng bù dǒng) - Can't understand
+- 眼镜 (yǎnjìng) - glasses
+- 为什么 (wèishéme) - why
+- 讨厌 (tǎoyàn) - to dislike / hate
+- 23度 (èr shí sān dù) - 23 degrees
+- 怕 (pà) - to fear / be afraid
+- 应该 (yīnggāi) - should / ought to
+- 机场 (jīchǎng) - airport
+- 不同意 (bù tóngyì) - to disagree
+- 猫 (māo) - cat
+- 狗 (gǒu) - dog
+- 快乐 (kuàilè) - happy
+- 茶 (chá) - tea
+- 味道 (wèidào) - taste, flavor
+- 医院 (yīyuàn) - hospital
+- 饭馆 (fànguǎn) - restaurant
+- 办公室 (bàngōngshì) - office
+- 厨房 (chúfáng) - kitchen
+- 卧室 (wòshì) - bedroom
+- 生病 (shēngbìng) - to get sick
+- 抽烟 (chōuyān) - to smoke
+- 上班/下班 (shàngbān/xiàbān) - go to work / get off work
+- 送 (sòng) - to give as a gift; to see someone off
+- 药 (yào) - medicine
+- 一般 (yìbān) - generally; so-so
+- 别的 (biéde) - other
+- 别人 (biéren) - other people
+- 高铁 (gāotiě) - high-speed rail
+- 火车站 (huǒchēzhàn) - train station
+- 自行车 (zìxíngchē) - bicycle
+- 公共汽车 (gōnggòng qìchē) - bus
+- 公交车 (gōngjiāochē) - bus
+- 公园 (gōngyuán) - park
+- 考试 (kǎoshì) - exam
+- 希望 (xīwàng) - to hope
+- 速度 (sùdù) - speed
+- 重要 (zhòngyào) - important
+- 太阳 (tàiyáng) - sun
+- 图片 (túpiàn) - picture
+- 生气 (shēngqì) - angry
+- 从不 / 从来不 (cóngbù / cónglái bù) - never
+- 紫色 (zǐsè) - purple
 - 几 (jǐ) - Used when the number is expected to be small
 - 多 (duō) - When a number is slightly over a whole number
 - 几十 (jǐshí) - Several tens
@@ -434,6 +475,56 @@
 - 气 - air, temper
 - 生气 - angry / to get angry
 - 从来不 / 从不 - never
+- 西瓜 - watermelon
+- 蛋糕 - cake
+- 票 - ticket
+- 阿姨 - aunt
+- 同事 - colleague
+- 同学 - classmate
+- 结婚 - to get married
+- 报名 - to sign up, to register
+- 搬家 - to move
+- 开始 - to begin
+- 北方 - northern part
+- 南方 - southern part
+- 东部 - eastern part
+- 西部 - western part
+- 遍 - time / repetition measure word
+- 讲 - to talk, to explain
+- 故事 - story
+- 分享 - to share
+- 屏幕 - screen
+- 看见 - to see
+- 加州 - California
+- 纽约 - New York
+- 商学 - business studies / business
+- 墨西哥 - Mexico
+- 一般般 - so-so
+- 旧金山 - San Francisco
+- 俄勒冈州 - Oregon
+- 遛狗 - walking the dog
+- 词汇 - vocabulary
+- 听力 - listening comprehension
+- 发音 - pronunciation
+- 语法 - grammar
+- 读一下 - read this
+- 选择 - to choose
+- 容易 - easy
+- 父母 - father and mother; parents
+- 分 - point / points
+- 上面 - up / above
+- 下面 - down / below
+- 前面 - front / in front
+- 后面 - back / behind
+- 里面 - inside
+- 外面 - outside
+- 句子 - sentence
+- 弹钢琴 - play piano
+- 这些 - these
+- 一定要 - absolutely / mandatory
+- 地方 - place
+- 来猜 - take a guess
+- 听不懂 - can’t understand
 
 CLASSROOM EXAMPLE SENTENCES
 - 祝你快乐 - I hope you are happy every day
@@ -524,56 +615,6 @@ CLASSROOM EXAMPLE SENTENCES
 - 我不会讲上海话。 - I can’t speak Shanghainese.
 - 这个孩子想再听一遍“西瓜的故事”。 - This child wants to hear the “watermelon story” again.
 - 我给你讲一个故事吧。 - Let me tell you a story.
-- 西瓜 - watermelon
-- 蛋糕 - cake
-- 票 - ticket
-- 阿姨 - aunt
-- 同事 - colleague
-- 同学 - classmate
-- 结婚 - to get married
-- 报名 - to sign up, to register
-- 搬家 - to move
-- 开始 - to begin
-- 北方 - northern part
-- 南方 - southern part
-- 东部 - eastern part
-- 西部 - western part
-- 遍 - time / repetition measure word
-- 讲 - to talk, to explain
-- 故事 - story
-- 分享 - to share
-- 屏幕 - screen
-- 看见 - to see
-- 加州 - California
-- 纽约 - New York
-- 商学 - business studies / business
-- 墨西哥 - Mexico
-- 一般般 - so-so
-- 旧金山 - San Francisco
-- 俄勒冈州 - Oregon
-- 遛狗 - walking the dog
-- 词汇 - vocabulary
-- 听力 - listening comprehension
-- 发音 - pronunciation
-- 语法 - grammar
-- 读一下 - read this
-- 选择 - to choose
-- 容易 - easy
-- 父母 - father and mother; parents
-- 分 - point / points
-- 上面 - up / above
-- 下面 - down / below
-- 前面 - front / in front
-- 后面 - back / behind
-- 里面 - inside
-- 外面 - outside
-- 句子 - sentence
-- 弹钢琴 - play piano
-- 这些 - these
-- 一定要 - absolutely / mandatory
-- 地方 - place
-- 来猜 - take a guess
-- 听不懂 - can’t understand
 - 火车站怎么去？ - Excuse me, how do I get to the train station?
 - 火车站和我的家不太远。 - The train station is not too far from my home.
 - 我每天骑自行车去工作。 - I ride a bicycle to work every day.
@@ -608,3 +649,43 @@ CLASSROOM EXAMPLE SENTENCES
 - 这次考试不太难。 - This exam is not too difficult.
 - 如果你快乐，我就快乐。 - If you’re happy, then I’m happy.
 - 我希望我的女儿每天都快乐。 - I hope my daughter is happy every day.
+- 她在附近吗？ (tā zài fùjìn ma?) - Is she nearby?
+- 你为什么戴眼镜？ (nǐ wèishéme dài yǎnjìng?) - Why are you wearing glasses?
+- 你学了多长时间中文了？ (nǐ xué le duō cháng shíjiān zhōngwén le?) - How long have you been studying Chinese?
+- 我不喜欢中文，我讨厌。 (wǒ bù xǐhuān zhōngwén, wǒ tǎoyàn.) - I don’t like Chinese, I hate it.
+- 你穿了多长时间了？ (nǐ chuān le duō cháng shíjiān le?) - How long have you been wearing this?
+- 如果你要坐飞机，你应该很早到机场。 (rúguǒ nǐ yào zuò fēijī, nǐ yīnggāi hěn zǎo dào jīchǎng.) - If you are taking a plane, you should get to the airport very early.
+- 飞机又比高铁便宜，又比高铁快。 (fēijī yòu bǐ gāotiě piányí, yòu bǐ gāotiě kuài.) - The plane is both cheaper and faster than the high-speed train.
+- 我不同意我的同学。 (wǒ bù tóngyì wǒ de tóngxué.) - I disagree with my classmate.
+- 她想去别的中文的地方。 (tā xiǎng qù bié de zhōngwén de dìfāng.) - She wants to go to other Chinese-speaking places.
+- 讲故事比听故事更累。 (jiǎng gùshì bǐ tīng gùshì gèng lèi.) - Telling stories is more tiring than listening to stories.
+- 猫没有狗让人快乐。 (māo méiyǒu gǒu ràng rén kuàilè.) - Cats are not as fun as dogs for people.
+- 咖啡比茶味道好。 (kāfēi bǐ chá wèidào hǎo.) - Coffee tastes better than tea.
+- 请问，最近的医院在哪里？ (qǐngwèn, zuìjìn de yīyuàn zài nǎlǐ?) - Excuse me, where is the nearest hospital?
+- 他以前在医院工作。 (tā yǐqián zài yīyuàn gōngzuò.) - He used to work at the hospital.
+- 这里有好几家四川饭馆。 (zhèlǐ yǒu hǎo jǐ jiā Sìchuān fànguǎn.) - There are quite a few Sichuan restaurants here.
+- 我好饿啊，我们找个饭馆吃饭吧。 (wǒ hǎo è a, wǒmen zhǎo gè fànguǎn chīfàn ba.) - I am so hungry, let’s find a restaurant to eat.
+- 老板办公室在前边。 (lǎobǎn bàngōngshì zài qiánbian.) - The boss’s office is ahead.
+- 我们的办公室又大又漂亮。 (wǒmen de bàngōngshì yòu dà yòu piàoliang.) - Our office is big and beautiful.
+- 他正在厨房准备晚饭呢。 (tā zhèngzài chúfáng zhǔnbèi wǎnfàn ne.) - He is currently preparing dinner in the kitchen.
+- 厨房里有一个冰箱。 (chúfáng lǐ yǒu yī gè bīngxiāng.) - There is a refrigerator in the kitchen.
+- 这个卧室比那个小一点儿。 (zhège wòshì bǐ nàgè xiǎo yīdiǎnr.) - This bedroom is a little smaller than that one.
+- 我的新家只有一个卧室。 (wǒ de xīnjiā zhǐ yǒu yī gè wòshì.) - My new house only has one bedroom.
+- 我生病了。 (wǒ shēngbìng le.) - I am sick.
+- 他生病了，昨天没有来办公室。 (tā shēngbìng le, zuótiān méiyǒu lái bàngōngshì.) - He got sick and didn’t come to the office yesterday.
+- 我太累了，想休息几天。 (wǒ tài lèi le, xiǎng xiūxi jǐ tiān.) - I am too tired, I want to rest for a few days.
+- 现在我们先休息五分钟。 (xiànzài wǒmen xiān xiūxi wǔ fēnzhōng.) - Now let’s rest for five minutes.
+- 在中国，很多人抽烟。 (zài Zhōngguó, hěn duō rén chōu yān.) - In China, many people smoke.
+- 在高铁上不可以抽烟。 (zài gāotiě shàng bù kěyǐ chōu yān.) - You cannot smoke on the high-speed train.
+- 他骑自行车去上班。 (tā qí zìxíngchē qù shàngbān.) - He rides his bike to work.
+- 你什么时候下班？ (nǐ shénme shíhòu xiàbān?) - When do you get off work?
+- 明天是她的生日，你想送她什么？ (míngtiān shì tā de shēngrì, nǐ xiǎng sòng tā shénme?) - Tomorrow is her birthday, what would you like to give her?
+- 谢谢你送我回家。 (xièxiè nǐ sòng wǒ huí jiā.) - Thank you for sending me home.
+- 别忘了吃药。 (bié wàngle chī yào.) - Don’t forget to take the medicine.
+- 吃药以前要先吃饭。 (chī yào yǐqián yào xiān chī fàn.) - You must eat food before taking the medicine.
+- 中国的公共汽车一般都很便宜。 (zhōngguó de gōnggòng qìchē yībān dōu hěn piányi.) - Public buses in China are generally very cheap.
+- 这个城市一般不下雪。 (zhège chéngshì yībān bú xià xuě.) - It generally doesn’t snow in this city.
+- 我们去别的地方看看吧。 (wǒmen qù biéde dìfang kàn kan ba.) - Let’s go to another place and take a look.
+- 大家还有别的问题吗？ (dàjiā hái yǒu biéde de wèntí ma?) - Does anyone have any other questions?
+- 我告诉你，你别告诉别人！ (wǒ gàosu nǐ, nǐ bié gàosu biéren!) - I’ll tell you, don’t tell other people!
+- 今天我没空，你找别人吧。 (jīntiān wǒ méi kòng, nǐ zhǎo biéren ba.) - I don’t have time today, you can find someone else.
