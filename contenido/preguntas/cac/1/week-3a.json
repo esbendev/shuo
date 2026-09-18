@@ -1,0 +1,570 @@
+{
+  "titulo": "CAC Week 3A Audio",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/1.mp3"
+      ],
+      "respuesta_correcta": [
+        "医院"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "hospital"
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/2.mp3"
+      ],
+      "respuesta_correcta": [
+        "请问,最近的医院在哪里?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Excuse me, where is the nearest hospital?"
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/3.mp3"
+      ],
+      "respuesta_correcta": [
+        "他以前在医院工作。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He used to work at the hospital."
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/4.mp3"
+      ],
+      "respuesta_correcta": [
+        "饭馆"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "restaurant"
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/5.mp3"
+      ],
+      "respuesta_correcta": [
+        "这里有好几家四川饭馆。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "There are quite a few Sichuan restaurants here."
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/6.mp3"
+      ],
+      "respuesta_correcta": [
+        "我好饿啊,我们找个饭馆吃饭吧。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I am so hungry, let’s find a restaurant to eat."
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/7.mp3"
+      ],
+      "respuesta_correcta": [
+        "办公室"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "office"
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/8.mp3"
+      ],
+      "respuesta_correcta": [
+        "老板办公室在前边。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "The boss’s office is ahead."
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/9.mp3"
+      ],
+      "respuesta_correcta": [
+        "我们的办公室又大又漂亮。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Our office is big and beautiful."
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/10.mp3"
+      ],
+      "respuesta_correcta": [
+        "厨房"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "kitchen"
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/11.mp3"
+      ],
+      "respuesta_correcta": [
+        "他正在厨房准备晚饭呢。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He is currently preparing dinner in the kitchen."
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/12.mp3"
+      ],
+      "respuesta_correcta": [
+        "厨房里有一个冰箱。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "There is a refrigerator in the kitchen."
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/13.mp3"
+      ],
+      "respuesta_correcta": [
+        "卧室"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "bedroom"
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/14.mp3"
+      ],
+      "respuesta_correcta": [
+        "这个卧室比那个小一点儿。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This bedroom is a little smaller than that one."
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/15.mp3"
+      ],
+      "respuesta_correcta": [
+        "我的新家只有一个卧室。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "My new house only has one bedroom."
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/16.mp3"
+      ],
+      "respuesta_correcta": [
+        "纽约"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "New York"
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/17.mp3"
+      ],
+      "respuesta_correcta": [
+        "纽约在美国东北部。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "New York is in the northeastern part of the United States."
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/18.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天纽约是阴天。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It is overcast in New York today."
+    },
+    {
+      "id": 19,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/19.mp3"
+      ],
+      "respuesta_correcta": [
+        "生病"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to get sick"
+    },
+    {
+      "id": 20,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/20.mp3"
+      ],
+      "respuesta_correcta": [
+        "我生病了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I am sick."
+    },
+    {
+      "id": 21,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/21.mp3"
+      ],
+      "respuesta_correcta": [
+        "他生病了,昨天没有来办公室。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He got sick and didn’t come to the office yesterday."
+    },
+    {
+      "id": 22,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/22.mp3"
+      ],
+      "respuesta_correcta": [
+        "休息"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to rest"
+    },
+    {
+      "id": 23,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/23.mp3"
+      ],
+      "respuesta_correcta": [
+        "我太累了,想休息几天。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I am too tired, I want to rest for a few days."
+    },
+    {
+      "id": 24,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/24.mp3"
+      ],
+      "respuesta_correcta": [
+        "现在我们先休息五分钟。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Now let’s rest for five minutes."
+    },
+    {
+      "id": 25,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/25.mp3"
+      ],
+      "respuesta_correcta": [
+        "抽烟"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to smoke"
+    },
+    {
+      "id": 26,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/26.mp3"
+      ],
+      "respuesta_correcta": [
+        "在中国,很多人抽烟。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "In China, many people smoke."
+    },
+    {
+      "id": 27,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/27.mp3"
+      ],
+      "respuesta_correcta": [
+        "在高铁上不可以抽烟。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "You cannot smoke on the high-speed train."
+    },
+    {
+      "id": 28,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/28.mp3"
+      ],
+      "respuesta_correcta": [
+        "上班/下班"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to go to work / to get off work"
+    },
+    {
+      "id": 29,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/29.mp3"
+      ],
+      "respuesta_correcta": [
+        "他骑自行车去上班。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He rides his bike to work."
+    },
+    {
+      "id": 30,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/30.mp3"
+      ],
+      "respuesta_correcta": [
+        "你什么时候下班?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "When do you get off work?"
+    },
+    {
+      "id": 31,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/31.mp3"
+      ],
+      "respuesta_correcta": [
+        "送"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to give as a gift; to see someone off"
+    },
+    {
+      "id": 32,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/32.mp3"
+      ],
+      "respuesta_correcta": [
+        "明天是她的生日,你想送她什么?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Tomorrow is her birthday, what would you like to give her?"
+    },
+    {
+      "id": 33,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/33.mp3"
+      ],
+      "respuesta_correcta": [
+        "谢谢你送我回家。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Thank you for sending me home."
+    },
+    {
+      "id": 34,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/34.mp3"
+      ],
+      "respuesta_correcta": [
+        "药"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "medicine"
+    },
+    {
+      "id": 35,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/35.mp3"
+      ],
+      "respuesta_correcta": [
+        "别忘了吃药。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Don’t forget to take the medicine."
+    },
+    {
+      "id": 36,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/36.mp3"
+      ],
+      "respuesta_correcta": [
+        "吃药以前要先吃饭。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "You must eat food before taking the medicine."
+    },
+    {
+      "id": 37,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/37.mp3"
+      ],
+      "respuesta_correcta": [
+        "一般"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "generally; so-so"
+    },
+    {
+      "id": 38,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/38.mp3"
+      ],
+      "respuesta_correcta": [
+        "这个电影好看吗?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Is this movie good?"
+    },
+    {
+      "id": 39,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/39.mp3"
+      ],
+      "respuesta_correcta": [
+        "一般"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It’s so-so."
+    },
+    {
+      "id": 40,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/40.mp3"
+      ],
+      "respuesta_correcta": [
+        "中国的公共汽车一般都很便宜。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Public buses in China are generally very cheap."
+    },
+    {
+      "id": 41,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/41.mp3"
+      ],
+      "respuesta_correcta": [
+        "这个城市一般不下雪。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It generally doesn’t snow in this city."
+    },
+    {
+      "id": 42,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/42.mp3"
+      ],
+      "respuesta_correcta": [
+        "别的"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "other"
+    },
+    {
+      "id": 43,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/43.mp3"
+      ],
+      "respuesta_correcta": [
+        "我们去别的地方看看吧。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Let’s go to another place and take a look."
+    },
+    {
+      "id": 44,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/44.mp3"
+      ],
+      "respuesta_correcta": [
+        "大家还有别的问题吗?"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Does anyone have any other questions?"
+    },
+    {
+      "id": 45,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/45.mp3"
+      ],
+      "respuesta_correcta": [
+        "别人"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "other people"
+    },
+    {
+      "id": 46,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/46.mp3"
+      ],
+      "respuesta_correcta": [
+        "我告诉你,你别告诉别人!"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I’ll tell you, don’t tell other people!"
+    },
+    {
+      "id": 47,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/week-3a/47.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天我没空,你找别人吧。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I don’t have time today, you can find someone else."
+    }
+  ]
+}

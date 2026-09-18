@@ -396,6 +396,17 @@
 - 阴天 - cloudy day
 - 冷 - cold
 - 热 - hot
+- 加班 (jiābān) - work overtime
+- 沙拉 (shālā) - salad
+- 下班 (xiàbān) - get off work
+- 上班 (shàngbān) - go to work
+- 健身房 (jiànshēnfáng) - gym / fitness room
+- 锻炼 (duànliàn) - to exercise / work out
+- 流利 (liúlì) - fluent
+- 休息 (xiūxi) - rest
+- 后悔 (hòuhuǐ) - regret
+- 需要 (xūyào) - need / require
+- 舒服 (shūfu) - comfortable / feel good
 - 准备 - to prepare
 - 希望 - to hope
 - 考试 - exam
@@ -423,6 +434,8 @@
 - 气 - air, temper
 - 生气 - angry / to get angry
 - 从来不 / 从不 - never
+
+CLASSROOM EXAMPLE SENTENCES
 - 祝你快乐 - I hope you are happy every day
 - 这本书要几百块钱。 - This book costs several hundred yuan.
 - 他们买了几十张票。 - They bought a few dozen tickets.
@@ -464,12 +477,24 @@
 - 我想再搬家。 - I want to move again.
 - 因为中国非常棒。 - Because China is amazing.
 - 我回家的时候，我的丈夫正在准备晚饭。 - When I get home, my husband is preparing dinner.
+- 你准备好了吗？ - Are you ready?
+- 准备好了。 - Ready / I am ready.
+- 我希望说中文说得很流利。 - I hope to speak Chinese very fluently.
+- 我小的时候，希望是运动员，但是现在我不是。 - When I was little, I wanted to be an athlete, but now I’m not.
 - 高铁比火车快。 - A high-speed train is faster than a regular train.
 - 高铁比火车更快。 - A high-speed train is faster than a regular train.
+- 高铁比火车快,飞机比高铁更快。 - A high-speed train is faster than a regular train, an airplane is even faster than a high-speed train.
 - 飞机比火车快得多。 - An airplane is much faster than a train.
+- 飞机比火车快多了。 - An airplane is much faster than a train.
 - 今天比昨天热一点儿。 - Today is a bit hotter than yesterday.
+- 昨天没有今天热。 - Yesterday was not as hot as today.
 - 虾比牛肉贵四块钱。 - Shrimp is 4 yuan more expensive than beef.
 - 大人没有孩子快乐。 - Adults are not as happy as kids.
+- 蓝色的衣服比黑色的衣服贵得多。 - The blue clothes are much more expensive than the black clothes.
+- 蓝色的衣服比黑色的衣服小一点儿。 - The blue clothes are a bit smaller than the black clothes.
+- 蓝色的衣服比黑色的衣服更有名。 - The blue clothes are more famous than the black clothes.
+- 蓝色的衣服没有黑色的衣服容易洗。 - The blue clothes are not as easy to wash as the black clothes.
+- 我想买黑色的衣服因为蓝色的衣服比黑色的衣服便宜一点儿。 - I want to buy the black clothes because the blue clothes are a little cheaper than the black clothes.
 - 这个西瓜又大又甜。 - This watermelon is big and sweet.
 - 你想吃西瓜吗？ - Do you want to eat watermelon?
 - 我给你买了一个生日蛋糕。 - I bought you a birthday cake.

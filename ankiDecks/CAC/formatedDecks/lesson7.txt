@@ -1,0 +1,15 @@
+<div class="chineseChars">医院</div>|<div class="answer">yīyuàn <span class="english">hospital</span></div>
+<div class="chineseChars">饭馆</div>|<div class="answer">fànguǎn <span class="english">restaurant</span></div>
+<div class="chineseChars">办公室</div>|<div class="answer">bàngōngshì <span class="english">office</span></div>
+<div class="chineseChars">厨房</div>|<div class="answer">chúfáng <span class="english">kitchen</span></div>
+<div class="chineseChars">卧室</div>|<div class="answer">wòshì <span class="english">bedroom</span></div>
+<div class="chineseChars">纽约</div>|<div class="answer">Niǔyuē <span class="english">New York</span></div>
+<div class="chineseChars">生病</div>|<div class="answer">shēngbìng <span class="english">to get sick</span></div>
+<div class="chineseChars">休息</div>|<div class="answer">xiūxi <span class="english">to rest</span></div>
+<div class="chineseChars">抽烟</div>|<div class="answer">chōuyān <span class="english">to smoke</span></div>
+<div class="chineseChars">上班/下班</div>|<div class="answer">shàngbān/xiàbān <span class="english">to go to work / to get off work</span></div>
+<div class="chineseChars">送</div>|<div class="answer">sòng <span class="english">to give as a gift; to see someone off</span></div>
+<div class="chineseChars">药</div>|<div class="answer">yào <span class="english">medicine</span></div>
+<div class="chineseChars">一般</div>|<div class="answer">yìbān <span class="english">generally; so-so</span></div>
+<div class="chineseChars">别的</div>|<div class="answer">biéde <span class="english">other</span></div>
+<div class="chineseChars">别人</div>|<div class="answer">biéren <span class="english">other people</span></div>

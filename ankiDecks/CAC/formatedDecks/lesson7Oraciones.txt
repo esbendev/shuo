@@ -1,0 +1,31 @@
+<div class="chineseChars">请问,最近的医院在哪里?</div>|<div class="answer">qǐngwèn, zuìjìn de yīyuàn zài nǎlǐ? <span class="english">Excuse me, where is the nearest hospital?</span></div>
+<div class="chineseChars">他以前在医院工作。</div>|<div class="answer">tā yǐqián zài yīyuàn gōngzuò. <span class="english">He used to work at the hospital.</span></div>
+<div class="chineseChars">这里有好几家四川饭馆。</div>|<div class="answer">zhèlǐ yǒu hǎo jǐ jiā Sìchuān fànguǎn. <span class="english">There are quite a few Sichuan restaurants here.</span></div>
+<div class="chineseChars">我好饿啊,我们找个饭馆吃饭吧。</div>|<div class="answer">wǒ hǎo è a, wǒmen zhǎo gè fànguǎn chīfàn ba. <span class="english">I am so hungry, let’s find a restaurant to eat.</span></div>
+<div class="chineseChars">老板办公室在前边。</div>|<div class="answer">lǎobǎn bàngōngshì zài qiánbian. <span class="english">The boss’s office is ahead.</span></div>
+<div class="chineseChars">我们的办公室又大又漂亮。</div>|<div class="answer">wǒmen de bàngōngshì yòu dà yòu piàoliang. <span class="english">Our office is big and beautiful.</span></div>
+<div class="chineseChars">他正在厨房准备晚饭呢。</div>|<div class="answer">tā zhèngzài chúfáng zhǔnbèi wǎnfàn ne. <span class="english">He is currently preparing dinner in the kitchen.</span></div>
+<div class="chineseChars">厨房里有一个冰箱。</div>|<div class="answer">chúfáng lǐ yǒu yī gè bīngxiāng. <span class="english">There is a refrigerator in the kitchen.</span></div>
+<div class="chineseChars">这个卧室比那个小一点儿。</div>|<div class="answer">zhège wòshì bǐ nàgè xiǎo yīdiǎnr. <span class="english">This bedroom is a little smaller than that one.</span></div>
+<div class="chineseChars">我的新家只有一个卧室。</div>|<div class="answer">wǒ de xīnjiā zhǐ yǒu yī gè wòshì. <span class="english">My new house only has one bedroom.</span></div>
+<div class="chineseChars">纽约在美国东北部。</div>|<div class="answer">Niǔyuē zài Měiguó dōngběibù. <span class="english">New York is in the northeastern part of the United States.</span></div>
+<div class="chineseChars">今天纽约是阴天。</div>|<div class="answer">jīntiān Niǔyuē shì yīn tiān. <span class="english">It is overcast in New York today.</span></div>
+<div class="chineseChars">我生病了。</div>|<div class="answer">wǒ shēngbìng le. <span class="english">I am sick.</span></div>
+<div class="chineseChars">他生病了,昨天没有来办公室。</div>|<div class="answer">tā shēngbìng le, zuótiān méiyǒu lái bàngōngshì. <span class="english">He got sick and didn’t come to the office yesterday.</span></div>
+<div class="chineseChars">我太累了,想休息几天。</div>|<div class="answer">wǒ tài lèi le, xiǎng xiūxi jǐ tiān. <span class="english">I am too tired, I want to rest for a few days.</span></div>
+<div class="chineseChars">现在我们先休息五分钟。</div>|<div class="answer">xiànzài wǒmen xiān xiūxi wǔ fēnzhōng. <span class="english">Now let’s rest for five minutes.</span></div>
+<div class="chineseChars">在中国,很多人抽烟。</div>|<div class="answer">zài Zhōngguó, hěn duō rén chōu yān. <span class="english">In China, many people smoke.</span></div>
+<div class="chineseChars">在高铁上不可以抽烟。</div>|<div class="answer">zài gāotiě shàng bù kěyǐ chōu yān. <span class="english">You cannot smoke on the high-speed train.</span></div>
+<div class="chineseChars">他骑自行车去上班。</div>|<div class="answer">tā qí zìxíngchē qù shàngbān. <span class="english">He rides his bike to work.</span></div>
+<div class="chineseChars">你什么时候下班?</div>|<div class="answer">nǐ shénme shíhòu xiàbān? <span class="english">When do you get off work?</span></div>
+<div class="chineseChars">明天是她的生日,你想送她什么?</div>|<div class="answer">míngtiān shì tā de shēngrì, nǐ xiǎng sòng tā shénme? <span class="english">Tomorrow is her birthday, what would you like to give her?</span></div>
+<div class="chineseChars">谢谢你送我回家。</div>|<div class="answer">xièxiè nǐ sòng wǒ huí jiā. <span class="english">Thank you for sending me home.</span></div>
+<div class="chineseChars">别忘了吃药。</div>|<div class="answer">bié wàngle chī yào. <span class="english">Don’t forget to take the medicine.</span></div>
+<div class="chineseChars">吃药以前要先吃饭。</div>|<div class="answer">chī yào yǐqián yào xiān chī fàn. <span class="english">You must eat food before taking the medicine.</span></div>
+<div class="chineseChars">A: 这个电影好看吗? B: 一般。</div>|<div class="answer">A: zhège diànyǐng hǎokàn ma? B: yībān.<span class="english">A: Is this movie good? B: It’s so-so.</span></div>
+<div class="chineseChars">中国的公共汽车一般都很便宜。</div>|<div class="answer">zhōngguó de gōnggòng qìchē yībān dōu hěn piányi. <span class="english">Public buses in China are generally very cheap.</span></div>
+<div class="chineseChars">这个城市一般不下雪。</div>|<div class="answer">zhège chéngshì yībān bú xià xuě. <span class="english">It generally doesn’t snow in this city.</span></div>
+<div class="chineseChars">我们去别的地方看看吧。</div>|<div class="answer">wǒmen qù biéde dìfang kàn kan ba. <span class="english">Let’s go to another place and take a look.</span></div>
+<div class="chineseChars">大家还有别的问题吗?</div>|<div class="answer">dàjiā hái yǒu biéde de wèntí ma? <span class="english">Does anyone have any other questions?</span></div>
+<div class="chineseChars">我告诉你,你别告诉别人!</div>|<div class="answer">wǒ gàosu nǐ, nǐ bié gàosu biéren! <span class="english">I’ll tell you, don’t tell other people!</span></div>
+<div class="chineseChars">今天我没空,你找别人吧。</div>|<div class="answer">jīntiān wǒ méi kòng, nǐ zhǎo biéren ba. <span class="english">I don’t have time today, you can find someone else.</span></div>

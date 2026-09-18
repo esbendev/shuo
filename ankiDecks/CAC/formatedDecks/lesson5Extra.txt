@@ -1,0 +1,21 @@
+<div class="chineseChars">加班</div>|<div class="answer">jiābān <span class="english">work overtime</span></div>
+<div class="chineseChars">沙拉</div>|<div class="answer">shālā <span class="english">salad</span></div>
+<div class="chineseChars">下班</div>|<div class="answer">xiàbān <span class="english">get off work</span></div>
+<div class="chineseChars">上班</div>|<div class="answer">shàngbān <span class="english">go to work</span></div>
+<div class="chineseChars">健身房</div>|<div class="answer">jiànshēnfáng <span class="english">gym / fitness room</span></div>
+<div class="chineseChars">准备</div>|<div class="answer">zhǔnbèi <span class="english">prepare / get ready</span></div>
+<div class="chineseChars">你准备好了吗？</div>|<div class="answer">nǐ zhǔnbèi hǎo le ma? <span class="english">Are you ready?</span></div>
+<div class="chineseChars">准备好了。</div>|<div class="answer">zhǔnbèi hǎo le. <span class="english">Ready / I am ready.</span></div>
+<div class="chineseChars">锻炼</div>|<div class="answer">duànliàn <span class="english">to exercise / work out</span></div>
+<div class="chineseChars">流利</div>|<div class="answer">liúlì <span class="english">fluent</span></div>
+<div class="chineseChars">我希望说中文说得很流利。</div>|<div class="answer">wǒ xīwàng shuō zhōngwén shuō de hěn liúlì. <span class="english">I hope to speak Chinese very fluently.</span></div>
+<div class="chineseChars">休息</div>|<div class="answer">xiūxi <span class="english">rest</span></div>
+<div class="chineseChars">我小的时候，希望是运动员，但是现在我不是。</div>|<div class="answer">wǒ xiǎo de shíhou, xīwàng shì yùndòngyuán, dànshì xiànzài wǒ bú shì. <span class="english">When I was little, I wanted to be an athlete, but now I’m not.</span></div>
+<div class="chineseChars">后悔</div>|<div class="answer">hòuhuǐ <span class="english">regret</span></div>
+<div class="chineseChars">需要</div>|<div class="answer">xūyào <span class="english">need / require</span></div>
+<div class="chineseChars">蓝色的衣服比黑色的衣服贵得多。</div>|<div class="answer">lán sè de yīfu bǐ hēi sè de yīfu guì de duō. <span class="english">The blue clothes are much more expensive than the black clothes.</span></div>
+<div class="chineseChars">蓝色的衣服比黑色的衣服小一点儿。</div>|<div class="answer">lán sè de yīfu bǐ hēi sè de yīfu xiǎo yìdiǎnr. <span class="english">The blue clothes are a bit smaller than the black clothes.</span></div>
+<div class="chineseChars">蓝色的衣服比黑色的衣服更有名。</div>|<div class="answer">lán sè de yīfu bǐ hēi sè de yīfu gèng yǒumíng. <span class="english">The blue clothes are more famous than the black clothes.</span></div>
+<div class="chineseChars">蓝色的衣服没有黑色的衣服容易洗。</div>|<div class="answer">lán sè de yīfu méi yǒu hēi sè de yīfu róngyì xǐ. <span class="english">The blue clothes are not as easy to wash as the black clothes.</span></div>
+<div class="chineseChars">舒服</div>|<div class="answer">shūfu <span class="english">comfortable / feel good</span></div>
+<div class="chineseChars">我想买黑色的衣服因为蓝色的衣服比黑色的衣服便宜一点儿。</div>|<div class="answer">wǒ xiǎng mǎi hēi sè de yīfu yīnwèi lán sè de yīfu bǐ hēi sè de yīfu piányí yìdiǎnr. <span class="english">I want to buy the black clothes because the blue clothes are a little cheaper than the black clothes.</span></div>
