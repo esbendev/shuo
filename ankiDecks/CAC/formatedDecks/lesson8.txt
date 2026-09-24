@@ -1,0 +1,40 @@
+<div class="chineseChars">离</div>|<div class="answer">lí <span class="english">to be away from; distance</span></div>
+<div class="chineseChars">火车站</div>|<div class="answer">huǒchēzhàn <span class="english">train station</span></div>
+<div class="chineseChars">厨房</div>|<div class="answer">chúfáng <span class="english">kitchen</span></div>
+<div class="chineseChars">卧室</div>|<div class="answer">wòshì <span class="english">bedroom</span></div>
+<div class="chineseChars">纽约</div>|<div class="answer">Niǔyuē <span class="english">New York</span></div>
+<div class="chineseChars">新年</div>|<div class="answer">xīnnián <span class="english">New Year</span></div>
+<div class="chineseChars">考试</div>|<div class="answer">kǎoshì <span class="english">exam</span></div>
+<div class="chineseChars">普通话</div>|<div class="answer">pǔtōnghuà <span class="english">Mandarin</span></div>
+<div class="chineseChars">自行车</div>|<div class="answer">zìxíngchē <span class="english">bicycle</span></div>
+<div class="chineseChars">别人</div>|<div class="answer">biérén <span class="english">other people</span></div>
+<div class="chineseChars">公里</div>|<div class="answer">gōnglǐ <span class="english">kilometer</span></div>
+<div class="chineseChars">啤酒</div>|<div class="answer">píjiǔ <span class="english">beer</span></div>
+<div class="chineseChars">雨</div>|<div class="answer">yǔ <span class="english">rain</span></div>
+<div class="chineseChars">课</div>|<div class="answer">kè <span class="english">class, lesson</span></div>
+<div class="chineseChars">药</div>|<div class="answer">yào <span class="english">medicine</span></div>
+<div class="chineseChars">会</div>|<div class="answer">huì <span class="english">to know how to; learned skill</span></div>
+<div class="chineseChars">能</div>|<div class="answer">néng <span class="english">ability; possibility; permission</span></div>
+<div class="chineseChars">可以</div>|<div class="answer">kěyǐ <span class="english">can; may; permission</span></div>
+<div class="chineseChars">衣服</div>|<div class="answer">yīfu <span class="english">clothes</span></div>
+<div class="chineseChars">一般</div>|<div class="answer">yībān <span class="english">usually; generally</span></div>
+<div class="chineseChars">换</div>|<div class="answer">huàn <span class="english">to exchange; to change</span></div>
+<div class="chineseChars">火车站离医院很近。</div>|<div class="answer">huǒchēzhàn lí yīyuàn hěn jìn. <span class="english">The train station is close to the hospital.</span></div>
+<div class="chineseChars">我的厨房离卧室有点儿远。</div>|<div class="answer">wǒ de chúfáng lí wòshì yǒudiǎnr yuǎn. <span class="english">My kitchen is a bit far from my bedroom.</span></div>
+<div class="chineseChars">我的家离纽约不远。</div>|<div class="answer">wǒ de jiā lí Niǔyuē bù yuǎn. <span class="english">My home is not far from New York.</span></div>
+<div class="chineseChars">这儿离最近的饭馆大概三百米。</div>|<div class="answer">zhèr lí zuìjìn de fànguǎn dàgài sān bǎi mǐ. <span class="english">This place is about 300 meters from the nearest restaurant.</span></div>
+<div class="chineseChars">离新年还有一个多月。</div>|<div class="answer">lí xīnnián hái yǒu yīgè duō yuè. <span class="english">There is still more than a month until the New Year.</span></div>
+<div class="chineseChars">离考试只有三天了！</div>|<div class="answer">lí kǎoshì zhǐ yǒu sān tiān le! <span class="english">There are only three days left until the exam!</span></div>
+<div class="chineseChars">我还没开始准备。</div>|<div class="answer">wǒ hái méi kāishǐ zhǔnbèi. <span class="english">I haven’t started preparing yet.</span></div>
+<div class="chineseChars">我会讲普通话。</div>|<div class="answer">wǒ huì jiǎng pǔtōnghuà. <span class="english">I can speak Mandarin.</span></div>
+<div class="chineseChars">我会骑自行车。</div>|<div class="answer">wǒ huì qí zìxíngchē. <span class="english">I can ride a bicycle.</span></div>
+<div class="chineseChars">别人都会，为什么你不会？</div>|<div class="answer">biérén dōu huì, wèishéme nǐ bú huì? <span class="english">Everyone else knows how to do it, why don’t you know?</span></div>
+<div class="chineseChars">我能跑十公里。</div>|<div class="answer">wǒ néng pǎo shí gōnglǐ. <span class="english">I can run 10 kilometers.</span></div>
+<div class="chineseChars">我能喝十瓶啤酒。</div>|<div class="answer">wǒ néng hē shí píng píjiǔ. <span class="english">I can drink 10 bottles of beer.</span></div>
+<div class="chineseChars">外面下大雨了，我们不能出去。</div>|<div class="answer">wàimiàn xià dà yǔ le, wǒmen bùnéng chūqù. <span class="english">It’s raining heavily, so we can’t go out.</span></div>
+<div class="chineseChars">我生病了，不能去上课。</div>|<div class="answer">wǒ shēngbìng le, bùnéng qù shàngkè. <span class="english">I’m sick, so I can’t go to class.</span></div>
+<div class="chineseChars">这里不能抽烟。</div>|<div class="answer">zhèlǐ bùnéng chōu yān. <span class="english">Smoking is not allowed here.</span></div>
+<div class="chineseChars">喝酒以后不能吃这个药。</div>|<div class="answer">hējiǔ yǐhòu bùnéng chī zhège yào. <span class="english">You can’t take this medicine after drinking alcohol.</span></div>
+<div class="chineseChars">你可以送我回家吗？</div>|<div class="answer">nǐ kěyǐ sòng wǒ huí jiā ma? <span class="english">Can you take me home?</span></div>
+<div class="chineseChars">我在上班，我不可以接电话。</div>|<div class="answer">wǒ zài shàngbān, wǒ bù kěyǐ jiē diànhuà. <span class="english">I’m at work, so I can’t take calls.</span></div>
+<div class="chineseChars">我们店的衣服一般不可以换。</div>|<div class="answer">wǒmen diàn de yīfu yībān bù kěyǐ huàn. <span class="english">Clothes in our store usually can’t be exchanged.</span></div>

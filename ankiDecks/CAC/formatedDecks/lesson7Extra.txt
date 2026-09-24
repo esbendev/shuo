@@ -1,0 +1,42 @@
+<div class="chineseChars">医</div>|<div class="answer">yī <span class="english">to cure; doctor</span></div>
+<div class="chineseChars">生</div>|<div class="answer">shēng <span class="english">life; to be born</span></div>
+<div class="chineseChars">院</div>|<div class="answer">yuàn <span class="english">courtyard; institution; place</span></div>
+<div class="chineseChars">我陪妈妈去医院。</div>|<div class="answer">wǒ péi māma qù yīyuàn. <span class="english">I’m taking my mom to the hospital.</span></div>
+<div class="chineseChars">陪</div>|<div class="answer">péi <span class="english">to accompany; go with someone</span></div>
+<div class="chineseChars">饭馆比饭店小。</div>|<div class="answer">fànguǎn bǐ fàndiàn xiǎo. <span class="english">Restaurants are smaller than hotels.</span></div>
+<div class="chineseChars">馆</div>|<div class="answer">guǎn <span class="english">hall; building; place</span></div>
+<div class="chineseChars">图书馆</div>|<div class="answer">túshūguǎn <span class="english">library</span></div>
+<div class="chineseChars">咖啡馆</div>|<div class="answer">kāfēiguǎn <span class="english">café</span></div>
+<div class="chineseChars">宾馆</div>|<div class="answer">bīnguǎn <span class="english">hotel</span></div>
+<div class="chineseChars">茶馆</div>|<div class="answer">cháguǎn <span class="english">teahouse</span></div>
+<div class="chineseChars">博物馆</div>|<div class="answer">bówùguǎn <span class="english">museum</span></div>
+<div class="chineseChars">我家的附近有一个包子的饭馆。</div>|<div class="answer">wǒ jiā de fùjìn yǒu yīgè bāozi de fànguǎn. <span class="english">Near my home there is a steamed-bun restaurant.</span></div>
+<div class="chineseChars">办</div>|<div class="answer">bàn <span class="english">to do; handle; deal with</span></div>
+<div class="chineseChars">怎么办？</div>|<div class="answer">zěnme bàn? <span class="english">What should I do?</span></div>
+<div class="chineseChars">公</div>|<div class="answer">gōng <span class="english">public; official</span></div>
+<div class="chineseChars">室</div>|<div class="answer">shì <span class="english">room</span></div>
+<div class="chineseChars">厨</div>|<div class="answer">chū <span class="english">kitchen; cook</span></div>
+<div class="chineseChars">房</div>|<div class="answer">fáng <span class="english">room; house</span></div>
+<div class="chineseChars">厨师</div>|<div class="answer">chūshī <span class="english">chef</span></div>
+<div class="chineseChars">健</div>|<div class="answer">jiàn <span class="english">healthy; strong</span></div>
+<div class="chineseChars">身</div>|<div class="answer">shēn <span class="english">body</span></div>
+<div class="chineseChars">卧</div>|<div class="answer">wò <span class="english">to lie down; recline</span></div>
+<div class="chineseChars">你的卧室是什么颜色的？</div>|<div class="answer">nǐ de wòshì shì shénme yánsè de? <span class="english">What color is your bedroom?</span></div>
+<div class="chineseChars">脏</div>|<div class="answer">zāng <span class="english">dirty</span></div>
+<div class="chineseChars">生</div>|<div class="answer">shēng <span class="english">life; birth; to give birth / be born</span></div>
+<div class="chineseChars">出生</div>|<div class="answer">chūshēng <span class="english">to be born</span></div>
+<div class="chineseChars">你生了什么病？</div>|<div class="answer">nǐ shēng le shénme bìng? <span class="english">What illness did you get?</span></div>
+<div class="chineseChars">病人</div>|<div class="answer">bìngrén <span class="english">patient</span></div>
+<div class="chineseChars">生日</div>|<div class="answer">shēngrì <span class="english">birthday</span></div>
+<div class="chineseChars">耳机</div>|<div class="answer">ěrjī <span class="english">headphones</span></div>
+<div class="chineseChars">休息</div>|<div class="answer">xiūxi <span class="english">to rest</span></div>
+<div class="chineseChars">抽纸</div>|<div class="answer">chōuzhǐ <span class="english">tissue paper</span></div>
+<div class="chineseChars">抽</div>|<div class="answer">chōu <span class="english">to pull; draw out; smoke</span></div>
+<div class="chineseChars">烟</div>|<div class="answer">yān <span class="english">smoke; cigarette</span></div>
+<div class="chineseChars">抽时间</div>|<div class="answer">chōu shíjiān <span class="english">to make time / find time</span></div>
+<div class="chineseChars">二手烟</div>|<div class="answer">èrshǒuyān <span class="english">secondhand smoke</span></div>
+<div class="chineseChars">送外卖</div>|<div class="answer">sòng wàimài <span class="english">to deliver food; food delivery</span></div>
+<div class="chineseChars">百分之</div>|<div class="answer">bǎifēnzhī <span class="english">percent</span></div>
+<div class="chineseChars">百分之四十</div>|<div class="answer">bǎifēnzhī sìshí <span class="english">40 percent</span></div>
+<div class="chineseChars">师傅，麻烦你别抽烟。</div>|<div class="answer">shīfu, máfan nǐ bié chōu yān. <span class="english">Master / Uncle, please don’t smoke.</span></div>
+<div class="chineseChars">请假</div>|<div class="answer">qǐngjià <span class="english">to ask for leave; take time off</span></div>

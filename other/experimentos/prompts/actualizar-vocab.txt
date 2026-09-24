@@ -1,0 +1,1 @@
+taking into account the content of ankiDecks directory, update vocab-completo.txt to include any missing words and sentences. make sure words and vocab go first and sentences go after the line that says "CLASSROOM EXAMPLE SENTENCES" you may only edit vocab-completo.txt
