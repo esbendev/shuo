@@ -545,6 +545,37 @@
 - 路 (lù) - road
 - 地图 (dìtú) - map
 - 行 (xíng) - okay; all right
+- 上车 (shàng chē) - To get on / board
+- 下车 (xià chē) - To get off / get out
+- 早上 (zǎoshang) - Morning
+- 晚上 (wǎnshàng) - Evening / night
+- 事情 (shìqing) - Matter / thing
+- 多少 (duōshao) - How much / how many
+- 工作 (gōngzuò) - Work
+- 学习 (xuéxí) - To study
+- 电脑 (diànnǎo) - Computer
+- 电视 (diànshì) - Television
+- 词典 (cídiǎn) - Dictionary
+- 房间 (fángjiān) - Room
+- 图书馆 (túshūguǎn) - Library
+- 咖啡馆 (kāfēiguǎn) - Café
+- 宾馆 (bīnguǎn) - Hotel
+- 茶馆 (cháguǎn) - Tea house
+- 博物馆 (bówùguǎn) - Museum
+- 厨师 (chúshī) - Chef
+- 司机 (sījī) - Driver
+- 病人 (bìngrén) - Patient
+- 海鲜 (hǎixiān) - Seafood
+- 面包 (miànbāo) - Bread
+- 面条 (miàntiáo) - Noodles
+- 米饭 (mǐfàn) - Cooked rice
+- 旁边 (pángbiān) - Beside / nearby
+- 请假 (qǐngjià) - To ask for leave
+- 同意 (tóngyì) - To agree
+- 健康 (jiànkāng) - Healthy / health
+- 东方 (dōngfāng) - East
+- 西方 (xīfāng) - West
+- 中部 (zhōngbù) - Central part
 
 CLASSROOM EXAMPLE SENTENCES
 - 老师是中国人。 - The teacher is Chinese.
@@ -724,3 +755,9 @@ CLASSROOM EXAMPLE SENTENCES
 - 大家还有别的问题吗？ (dàjiā hái yǒu biéde de wèntí ma?) - Does anyone have any other questions?
 - 我告诉你，你别告诉别人！ (wǒ gàosu nǐ, nǐ bié gàosu biéren!) - I’ll tell you, don’t tell other people!
 - 今天我没空，你找别人吧。 (jīntiān wǒ méi kòng, nǐ zhǎo biéren ba.) - I don’t have time today, you can find someone else.
+- 纽约在美国东北部。 - New York is in the northeastern United States.
+- 今天纽约是阴天。 - It is overcast in New York today.
+- 他想买几个蛋糕。 - He wants to buy a few cakes.
+- 你每天怎么去上班？ - How do you go to work every day?
+- 你生了什么病？ - What illness do you have?
+- 你在离明年的中国新年还有一个月，你可以剪头发。 - There is one month until next Chinese New Year, so you can get a haircut.
