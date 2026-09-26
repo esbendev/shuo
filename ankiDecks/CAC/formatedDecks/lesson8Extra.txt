@@ -1,0 +1,13 @@
+<div class="chineseChars">你每天什么去上班？</div>|<div class="answer">nǐ měitiān shénme qù shàngbān? <span class="english">What time do you go to work every day?</span></div>
+<div class="chineseChars">你抽过烟吗？</div>|<div class="answer">nǐ chōu guò yān ma? <span class="english">Have you ever smoked?</span></div>
+<div class="chineseChars">我从来没有抽过烟。</div>|<div class="answer">wǒ cónglái méiyǒu chōu guò yān. <span class="english">I have never smoked.</span></div>
+<div class="chineseChars">多风的</div>|<div class="answer">duō fēng de <span class="english">windy; very windy.</span></div>
+<div class="chineseChars">还要别的吗？</div>|<div class="answer">hái yào bié de ma? <span class="english">Anything else?</span></div>
+<div class="chineseChars">你最不喜欢你的太太的什么？</div>|<div class="answer">nǐ zuì bù xǐhuān nǐ de tàitai de shénme? <span class="english">What do you dislike most about your wife?</span></div>
+<div class="chineseChars">我结婚结得早。</div>|<div class="answer">wǒ jiéhūn jié de zǎo. <span class="english">I got married early.</span></div>
+<div class="chineseChars">现在离下课的时候八分钟。</div>|<div class="answer">xiànzài lí xiàkè de shíhòu bā fēnzhōng. <span class="english">It is eight minutes before class ends.</span></div>
+<div class="chineseChars">你的生日比我的生日早三个月。</div>|<div class="answer">nǐ de shēngrì bǐ wǒ de shēngrì zǎo sān gè yuè. <span class="english">Your birthday is three months earlier than mine.</span></div>
+<div class="chineseChars">我只学了三个月中文，就能和中国人聊天了。</div>|<div class="answer">wǒ zhǐ xué le sān gè yuè zhōngwén, jiù néng hé zhōngguó rén liáotiān le. <span class="english">I only studied Chinese for three months, and I was already able to chat with Chinese people.</span></div>
+<div class="chineseChars">上课的时候，不可以说英文。</div>|<div class="answer">shàngkè de shíhòu, bùkěyǐ shuō yīngwén. <span class="english">During class, you cannot speak English.</span></div>
+<div class="chineseChars">和比你大得多的人一起吃饭时，你不能比他先吃。</div>|<div class="answer">hé bǐ nǐ dà de duō de rén yìqǐ chīfàn shí, nǐ bùnéng bǐ tā xiān chī. <span class="english">When eating with someone much older than you, you cannot eat before him.</span></div>
+<div class="chineseChars">你在离明年的中国新年还有是一个月，你可以剪头发。</div>|<div class="answer">nǐ zài lí míngnián de zhōngguó xīnnián hái yǒu yīgè yuè, nǐ kěyǐ jiǎn tóufǎ. <span class="english">There is one month left before next year's Chinese New Year, so you can get a haircut.</span></div>

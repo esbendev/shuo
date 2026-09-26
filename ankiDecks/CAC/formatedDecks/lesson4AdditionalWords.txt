@@ -1,0 +1,24 @@
+<div class="chineseChars">前面</div>|<div class="answer">qiánmiàn - front, in front</div>
+<div class="chineseChars">后面</div>|<div class="answer">hòumiàn - back, behind</div>
+<div class="chineseChars">旁边</div>|<div class="answer">pángbiān - side</div>
+<div class="chineseChars">附近</div>|<div class="answer">fùjìn - nearby</div>
+<div class="chineseChars">事情</div>|<div class="answer">shìqing - matter, affair, thing</div>
+<div class="chineseChars">办法</div>|<div class="answer">bànfǎ - way, means, measure, method</div>
+<div class="chineseChars">身体</div>|<div class="answer">shēntǐ - body</div>
+<div class="chineseChars">健康</div>|<div class="answer">jiànkāng - health, healthy</div>
+<div class="chineseChars">太阳</div>|<div class="answer">tàiyang - sun</div>
+<div class="chineseChars">同意</div>|<div class="answer">tóngyì - to agree, to consent</div>
+<div class="chineseChars">图书馆</div>|<div class="answer">túshūguǎn - library</div>
+<div class="chineseChars">博物馆</div>|<div class="answer">bówùguǎn - museum</div>
+<div class="chineseChars">姓</div>|<div class="answer">xìng - surname, family name; to be surnamed</div>
+<div class="chineseChars">笑</div>|<div class="answer">xiào - to smile, to laugh; smile, laugh</div>
+<div class="chineseChars">哭</div>|<div class="answer">kū - to cry, to weep</div>
+<div class="chineseChars">千</div>|<div class="answer">qiān - thousand</div>
+<div class="chineseChars">公斤</div>|<div class="answer">gōngjīn - kilogram</div>
+<div class="chineseChars">东方</div>|<div class="answer">dōngfāng - the East</div>
+<div class="chineseChars">西方</div>|<div class="answer">xīfāng - the West</div>
+<div class="chineseChars">面包</div>|<div class="answer">miànbāo - bread</div>
+<div class="chineseChars">面条</div>|<div class="answer">miàntiáo - noodles</div>
+<div class="chineseChars">米饭</div>|<div class="answer">mǐfàn - (cooked) rice</div>
+<div class="chineseChars">其实</div>|<div class="answer">qíshí - actually, in fact</div>
+<div class="chineseChars">司机</div>|<div class="answer">sījī - driver</div>
