@@ -3,7 +3,6 @@
 <div class="chineseChars">你学了多长时间中文了？</div>|<div class="answer">nǐ xué le duō cháng shíjiān zhōngwén le? <span class="english">How long have you been studying Chinese?</span></div>
 <div class="chineseChars">我不喜欢中文，我讨厌。</div>|<div class="answer">wǒ bù xǐhuān zhōngwén, wǒ tǎoyàn. <span class="english">I don't like Chinese, I hate it.</span></div>
 <div class="chineseChars">你穿了多长时间了？</div>|<div class="answer">nǐ chuān le duō cháng shíjiān le? <span class="english">How long have you been wearing this?</span></div>
-<div class="chineseChars">微洛穿了里眼睑衣服。</div>|<div class="answer">Wéi Luò chuān le lǐ yǎn jiǎn yīfu. <span class="english">Wei Luo wore the clothes on the eyelids.</span></div>
 <div class="chineseChars">23度</div>|<div class="answer">23 dù <span class="english">23 degrees</span></div>
 <div class="chineseChars">怕</div>|<div class="answer">pà <span class="english">be afraid / fear</span></div>
 <div class="chineseChars">应该</div>|<div class="answer">yīnggāi <span class="english">should / ought to</span></div>
