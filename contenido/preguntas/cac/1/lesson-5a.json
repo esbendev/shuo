@@ -1,0 +1,558 @@
+{
+  "titulo": "CAC Lesson 5A Audio",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/1.mp3"
+      ],
+      "respuesta_correcta": [
+        "肚子疼"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "stomachache"
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/2.mp3"
+      ],
+      "respuesta_correcta": [
+        "我的肚子有点疼。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "My stomach hurts a little."
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/3.mp3"
+      ],
+      "respuesta_correcta": [
+        "哎呀，肚子疼死了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Oh no, my stomach hurts so much!"
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/4.mp3"
+      ],
+      "respuesta_correcta": [
+        "头疼"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "headache"
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/5.mp3"
+      ],
+      "respuesta_correcta": [
+        "我头疼了三天了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I've had a headache for three days."
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/6.mp3"
+      ],
+      "respuesta_correcta": [
+        "每次生病的时候，我都会头疼。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Every time I get sick, I have a headache."
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/7.mp3"
+      ],
+      "respuesta_correcta": [
+        "迟到"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to be late"
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/8.mp3"
+      ],
+      "respuesta_correcta": [
+        "明天别迟到。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Don’t be late tomorrow!"
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/9.mp3"
+      ],
+      "respuesta_correcta": [
+        "如果你再迟到，就不要来了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "If you’re late again, then just don’t come."
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/10.mp3"
+      ],
+      "respuesta_correcta": [
+        "关门"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to close the door; to close"
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/11.mp3"
+      ],
+      "respuesta_correcta": [
+        "这家店关门关得很早。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This shop closes very early."
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/12.mp3"
+      ],
+      "respuesta_correcta": [
+        "对了，今天你出来的时候，关门了吗！？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "By the way, did I close the door when I left today!?"
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/13.mp3"
+      ],
+      "respuesta_correcta": [
+        "开灯"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to turn on the light"
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/14.mp3"
+      ],
+      "respuesta_correcta": [
+        "阴天，在不开灯的房间。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "On a cloudy day, in a room without the lights on."
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/15.mp3"
+      ],
+      "respuesta_correcta": [
+        "你为什么一个人在这里，也不开灯？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Why are you here alone without turning on the light?"
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/16.mp3"
+      ],
+      "respuesta_correcta": [
+        "帮助"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to help, assistance"
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/17.mp3"
+      ],
+      "respuesta_correcta": [
+        "他常常帮助别人。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He often helps others."
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/18.mp3"
+      ],
+      "respuesta_correcta": [
+        "谢谢你的帮助。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Thank you for your help."
+    },
+    {
+      "id": 19,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/19.mp3"
+      ],
+      "respuesta_correcta": [
+        "帮"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to help"
+    },
+    {
+      "id": 20,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/20.mp3"
+      ],
+      "respuesta_correcta": [
+        "下个星期，你可以帮我搬家吗？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Can you help me move next week?"
+    },
+    {
+      "id": 21,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/21.mp3"
+      ],
+      "respuesta_correcta": [
+        "他帮我买了一张高铁票。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He helped me buy a high-speed rail ticket."
+    },
+    {
+      "id": 22,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/22.mp3"
+      ],
+      "respuesta_correcta": [
+        "果汁"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "juice"
+    },
+    {
+      "id": 23,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/23.mp3"
+      ],
+      "respuesta_correcta": [
+        "果汁很甜。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Juice is very sweet."
+    },
+    {
+      "id": 24,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/24.mp3"
+      ],
+      "respuesta_correcta": [
+        "他打算每天晚上不吃饭，只喝果汁。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He plans to not eat dinner every evening, only drinking juice."
+    },
+    {
+      "id": 25,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/25.mp3"
+      ],
+      "respuesta_correcta": [
+        "报纸"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "newspaper"
+    },
+    {
+      "id": 26,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/26.mp3"
+      ],
+      "respuesta_correcta": [
+        "现在已经没有人读报纸了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Nowadays, no one reads newspapers anymore."
+    },
+    {
+      "id": 27,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/27.mp3"
+      ],
+      "respuesta_correcta": [
+        "他喜欢吃早饭的时候看看报纸。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He likes to read the newspaper while eating breakfast."
+    },
+    {
+      "id": 28,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/28.mp3"
+      ],
+      "respuesta_correcta": [
+        "新闻"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "news"
+    },
+    {
+      "id": 29,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/29.mp3"
+      ],
+      "respuesta_correcta": [
+        "你看新闻了吗？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Did you watch the news?"
+    },
+    {
+      "id": 30,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/30.mp3"
+      ],
+      "respuesta_correcta": [
+        "现在有很多假新闻。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "There is a lot of fake news nowadays."
+    },
+    {
+      "id": 31,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/31.mp3"
+      ],
+      "respuesta_correcta": [
+        "错"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "wrong, mistake"
+    },
+    {
+      "id": 32,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/32.mp3"
+      ],
+      "respuesta_correcta": [
+        "对不起，我说错了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Sorry, I said it wrong."
+    },
+    {
+      "id": 33,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/33.mp3"
+      ],
+      "respuesta_correcta": [
+        "对不起，我错了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Sorry, I was wrong."
+    },
+    {
+      "id": 34,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/34.mp3"
+      ],
+      "respuesta_correcta": [
+        "都是他的错！"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It’s all his fault!"
+    },
+    {
+      "id": 35,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/35.mp3"
+      ],
+      "respuesta_correcta": [
+        "感觉"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "feeling, to feel"
+    },
+    {
+      "id": 36,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/36.mp3"
+      ],
+      "respuesta_correcta": [
+        "我感觉有点儿冷，你呢？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I feel a little cold, what about you?"
+    },
+    {
+      "id": 37,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/37.mp3"
+      ],
+      "respuesta_correcta": [
+        "和他在一起的感觉非常好。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It feels great to be with him."
+    },
+    {
+      "id": 38,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/38.mp3"
+      ],
+      "respuesta_correcta": [
+        "马上"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "immediately, right away"
+    },
+    {
+      "id": 39,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/39.mp3"
+      ],
+      "respuesta_correcta": [
+        "你马上来办公室！"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Come to the office immediately!"
+    },
+    {
+      "id": 40,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/40.mp3"
+      ],
+      "respuesta_correcta": [
+        "我吃了药，马上就好了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I took the medicine, and I will feel better soon."
+    },
+    {
+      "id": 41,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/41.mp3"
+      ],
+      "respuesta_correcta": [
+        "可能"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "possible, maybe"
+    },
+    {
+      "id": 42,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/42.mp3"
+      ],
+      "respuesta_correcta": [
+        "我家附近可能有博物馆，我找一下。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "There might be a museum near my house. I’ll check."
+    },
+    {
+      "id": 43,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/43.mp3"
+      ],
+      "respuesta_correcta": [
+        "其实，我觉得他不可能同意。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Actually, I think it’s impossible for him to agree."
+    },
+    {
+      "id": 44,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/44.mp3"
+      ],
+      "respuesta_correcta": [
+        "好像"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "seem, as if"
+    },
+    {
+      "id": 45,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/45.mp3"
+      ],
+      "respuesta_correcta": [
+        "他好像不太高兴。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He seems to be not very happy."
+    },
+    {
+      "id": 46,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/1/lesson-5a/46.mp3"
+      ],
+      "respuesta_correcta": [
+        "这个字好像是错的。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This character seems to be wrong."
+    }
+  ]
+}
