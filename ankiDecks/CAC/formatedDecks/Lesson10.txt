@@ -1,0 +1,15 @@
+<div class="chineseChars">肚子疼</div>|<div class="answer">dùzi téng; stomachache</div>
+<div class="chineseChars">头疼</div>|<div class="answer">tóuténg; headache</div>
+<div class="chineseChars">迟到</div>|<div class="answer">chídào; to be late</div>
+<div class="chineseChars">关门</div>|<div class="answer">guānmén; to close the door; to close</div>
+<div class="chineseChars">开灯</div>|<div class="answer">kāi dēng; to turn on the light</div>
+<div class="chineseChars">帮助</div>|<div class="answer">bāngzhù; to help, assistance</div>
+<div class="chineseChars">帮</div>|<div class="answer">bāng; to help</div>
+<div class="chineseChars">果汁</div>|<div class="answer">guǒzhī; juice</div>
+<div class="chineseChars">报纸</div>|<div class="answer">bàozhǐ; newspaper</div>
+<div class="chineseChars">新闻</div>|<div class="answer">xīnwén; news</div>
+<div class="chineseChars">错</div>|<div class="answer">cuò; wrong, mistake</div>
+<div class="chineseChars">感觉</div>|<div class="answer">gǎnjué; feeling, to feel</div>
+<div class="chineseChars">马上</div>|<div class="answer">mǎshàng; immediately, right away</div>
+<div class="chineseChars">可能</div>|<div class="answer">kěnéng; possible, maybe</div>
+<div class="chineseChars">好像</div>|<div class="answer">hǎoxiàng; seem, as if</div>
