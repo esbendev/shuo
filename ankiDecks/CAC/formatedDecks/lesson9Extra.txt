@@ -1,0 +1,7 @@
+<div class="chineseChars">公寓</div>|<div class="answer">gōng yù <span class="english">apartment</span></div>
+<div class="chineseChars">超市</div>|<div class="answer">chāo shì <span class="english">supermarket</span></div>
+<div class="chineseChars">机会</div>|<div class="answer">jī huì <span class="english">chance; opportunity</span></div>
+<div class="chineseChars">难过</div>|<div class="answer">nán guò <span class="english">sad; feeling down</span></div>
+<div class="chineseChars">浪漫</div>|<div class="answer">làng màn <span class="english">romantic; romance</span></div>
+<div class="chineseChars">影院</div>|<div class="answer">yǐng yuàn <span class="english">movie theater; cinema</span></div>
+<div class="chineseChars">看电影的时候，你喜欢坐在前面还是后面？</div>|<div class="answer">kàn diànyǐng de shíhòu, nǐ xǐhuān zuò zài qiánmiàn háishì hòumiàn? <span class="english">When watching a movie, do you like to sit in the front or in the back?</span></div>
