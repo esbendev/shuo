@@ -1,0 +1,26 @@
+<div class="chineseChars">肚子痛</div>|<div class="answer">dùzitòng; stomach ache</div>
+<div class="chineseChars">肚子</div>|<div class="answer">dùzi; belly; stomach</div>
+<div class="chineseChars">手疼</div>|<div class="answer">shǒuténg; hand hurts</div>
+<div class="chineseChars">脚疼</div>|<div class="answer">jiǎoténg; foot hurts</div>
+<div class="chineseChars">眼睛疼</div>|<div class="answer">yǎnjīngténg; eye hurts</div>
+<div class="chineseChars">耳朵疼</div>|<div class="answer">ěrduóténg; ear hurts</div>
+<div class="chineseChars">牙疼</div>|<div class="answer">yáténg; toothache</div>
+<div class="chineseChars">如果你吃太多甜的东西，你会牙疼。</div>|<div class="answer">rúguǒnǐchītàiduōtiándōngxī,nǐhuìyáténg; If you eat too many sweets, your teeth hurt.</div>
+<div class="chineseChars">如果你跑得太快了，你会脚疼。</div>|<div class="answer">rúguǒnǐpǎodétàikuàile,nǐhuìjiǎoténg; If you run too fast, your feet hurt.</div>
+<div class="chineseChars">如果你早上不喝咖啡，你的头会疼。</div>|<div class="answer">rúguǒnǐzǎoshangbùhēkāfēi,nǐdetóuhuìténg; If you don’t drink coffee in the morning, your head will hurt.</div>
+<div class="chineseChars">堵车</div>|<div class="answer">dǔchē; traffic jam; get stuck in traffic</div>
+<div class="chineseChars">因为今天下雨了堵车，所以我迟到了。</div>|<div class="answer">yīnweijīntiānxiàyǔledǔchē,suǒyǐwǒchídàole; Because it rained today and there was traffic, I was late.</div>
+<div class="chineseChars">开</div>|<div class="answer">kāi; open; turn on</div>
+<div class="chineseChars">关</div>|<div class="answer">guān; close; turn off</div>
+<div class="chineseChars">谢谢你的帮助。</div>|<div class="answer">xièxienǐdebāngzhù; Thank you for your help.</div>
+<div class="chineseChars">打扫</div>|<div class="answer">dǎsǎo; clean; tidy up; sweep</div>
+<div class="chineseChars">橙汁</div>|<div class="answer">chéngzhī; orange juice</div>
+<div class="chineseChars">榴莲</div>|<div class="answer">liúlián; durian</div>
+<div class="chineseChars">菠萝</div>|<div class="answer">bōluó; pineapple</div>
+<div class="chineseChars">冬瓜茶</div>|<div class="answer">dōngguāchá; winter melon tea</div>
+<div class="chineseChars">报</div>|<div class="answer">bào; report; inform</div>
+<div class="chineseChars">很少</div>|<div class="answer">hěnshǎo; rarely; seldom</div>
+<div class="chineseChars">有时候</div>|<div class="answer">yǒushíhòu; sometimes</div>
+<div class="chineseChars">你上次帮朋友做了什么？</div>|<div class="answer">nǐshàngcìbāngpéngyouzuòleshénme?; What did you do to help a friend last time?</div>
+<div class="chineseChars">我不讨厌</div>|<div class="answer">wǒbùtǎoyàn; I don’t dislike it; I don’t mind it</div>
+<div class="chineseChars">你最近看了什么新闻？</div>|<div class="answer">nǐzuìjìnkànleshénmexīnwén?; What news have you seen recently?</div>
