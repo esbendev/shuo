@@ -576,8 +576,492 @@
 - 东方 (dōngfāng) - East
 - 西方 (xīfāng) - West
 - 中部 (zhōngbù) - Central part
+- 公寓 (gōngyù) - Apartment
+- 超市 (chāoshì) - Supermarket
+- 机会 (jīhuì) - Opportunity
+- 身体 (shēntǐ) - Body / health
+- 时间 (shíjiān) - Time
+- 多长时间 (duō cháng shí jiān) - How long
+- 名字 (míngzi) - Name
+- 叫 (jiào) - To be called
+- 什么 (shénme) - What
+- 哪 (nǎ) - Which
+- 国 (guó) - Country
+- 岁 (suì) - Years old
+- 好 (hǎo) - Good
+- 早上 (zǎoshang) - Morning
+- 晚上 (wǎnshàng) - Evening / night
+- 事情 (shìqing) - Matter / thing
+- 还 (hái) - Still / also
+- 最 (zuì) - Most
+- 非常 (fēicháng) - Very, extremely
+- 当然 (dāngrán) - Of course
+- 肚子疼 (dùzi téng) - Stomachache
+- 头疼 (tóuténg) - Headache
+- 迟到 (chídào) - To be late
+- 关门 (guānmén) - To close the door; to close
+- 开灯 (kāi dēng) - To turn on the light
+- 帮助 (bāngzhù) - To help, assistance
+- 帮 (bāng) - To help
+- 果汁 (guǒzhī) - Juice
+- 报纸 (bàozhǐ) - Newspaper
+- 新闻 (xīnwén) - News
+- 错 (cuò) - Wrong, mistake
+- 感觉 (gǎnjué) - Feeling, to feel
+- 马上 (mǎshàng) - Immediately, right away
+- 可能 (kěnéng) - Possible, maybe
+- 好像 (hǎoxiàng) - To seem, as if
+- 休息 (xiūxi) - Rest
 
+- ……的时候 (...de) - shíhòu when ... during ...
+- ⺀ (diǎn) - dots, drizzle
+- ⺁ (hàn) - cliff, over
+- ⺈ (dāo) - knife (top)
+- ⺊ (bǔ) - divination
+- ⺍ (zhuǎ) - small, tiny
+- ⺙ (wù) - action hand
+- ⺧ (niú) - cow (top)
+- ⺮ (zhú) - bamboo - 笔 pen (bǐ), 简 simple (jiǎn)
+- ⻊ (zú) - foot - 踢 kick (tī), 跑 run (pǎo)
+- ⻌ (chuò) - / zouzhi walk, action, period of time - 進 enter (jìn), 远 far (yuǎn)
+- ⼈ (rén) - person, people
+- ⼤概 (dà) - gài approximately / about
+- ⼥朋友 (nǚ) - péngyǒu girlfriend
+- ⼯作 (gōng) - zuò work
+- ⼿ (shǒu) - hand
+- ⼿机 (shǒujī) - mobile phone
+- ⼿表 (shǒubiǎo) - watch
+- ⽀ (zhī) - measure word for long, thin objects (pens, sticks, etc.)
+- ⽇本 (Rìběn) - Japan
+- ⾥ (lǐ) - inside
+- ⾼兴 (gāoxìng) - happy
+- ㇆ (wāngōu) - curved hook
+- ㇇ (zhé) - bent stroke
+- ㇉ (tí) - rising stroke
+- ㇎ (xiégōu) - slant hook
+- ㇒ (nà) - pressing stroke
+- ㇖ (piědiǎn) - slant dot
+- ㇗ (shùgōu) - vertical hook
+- ㇙ (piězhé) - turning stroke
+- ㇠ (gōu) - hook stroke
+- 一 (yī) - one, horizontal stroke
+- 一个冬瓜 (yígè) - dōngguā one winter melon
+- 一个苹果 (yí) - ge píng guǒ An apple
+- 一个蛋糕 (yígè) - dàngāo one cake
+- 一个西瓜 (yígè) - xīguā one watermelon
+- 一个黄瓜 (yígè) - huángguā one cucumber
+- 一只狗 (yì) - zhī gǒu one dog
+- 一台电脑 (yì) - tái diàn nǎo a computer
+- 一块蛋糕 (yíkuài) - dàngāo one slice of cake
+- 一块西瓜 (yíkuài) - xīguā one slice of watermelon
+- 一张床 (Yì) - zhāng chuáng A Bed
+- 一张票 (yìzhāng) - piào one ticket
+- 一支笔 (yì) - zhī bǐ a pen几|jǐ how many
+- 一本书 (yì) - běn shū a book
+- 一直 (yìzhí) - continuously; always
+- 一辆车 (yí) - liàng chē A car
+- 三辆车 (sān) - liàng chē three cars
+- 上 (shàng) - on, above
+- 上楼梯 (shàng) - lóu tī go upstairs
+- 下 (xià) - under, below
+- 下一个词 (xià) - yígè cí next word
+- 不 (bù) - not, no
+- 两个人刚认识 (liǎng) - gè rén gāng rènshi two people just met each other
+- 两瓶多 (liǎng) - píng duō more than two bottles
+- 丨 (gǔn) - vertical stroke
+- 中学 (zhōngxué) - middle school
+- 中文 (Zhōngwén) - Chinese language
+- 丶 (zhǔ) - dot
+- 丷 (bā) - eight (top)
+- 丿 (piě) - slash
+- 乂 (yì) - govern, cut
+- 乚 (yǐ) - second (hidden)
+- 书 (shū) - book
+- 亅 (jué) - hook
+- 了 (le) - modal particle intensifying preceding clause / completed action marker
+- 二 (èr) - two
+- 二十多个人 (èrshí) - duō gè rén more than twenty people
+- 二手烟 (èrshǒuyān) - secondhand smoke
+- 五岁多 (wǔ) - suì duō more than five years old
+- 亠 (tóu) - lid, top
+- 人 (rén) - person
+- 亻 (rén) - person - 你 you (nǐ)
+- 从不 (cóng) - bù never
+- 从来不 (cónglái) - bù never
+- 付钱 (fù) - qián pay
+- 伸懒腰 (shēn) - lǎn yāo stretch oneself
+- 低 (dī) - low
+- 你怎么看 (nǐ) - zěnme kàn? what do you think? / what's your opinion?
+- 你要选哪 (nǐ) - yào xuǎn nǎ? which one are you going to choose?
+- 做早饭/做早餐 (zuò) - zǎo fàn / zuò zǎo cān make breakfast
+- 做饭 (zuò) - fàn cook
+- 健 (jiàn) - healthy; strong
+- 儿 (ér) - son, legs
+- 充电 (chōng) - diàn charge (device)
+- 八 (bā) - eight
+- 八年多 (bā) - nián duō more than eight years
+- 公 (gōng) - public; official
+- 公斤 (gōngjīn) - - kilogram
+- 公里 (gōnglǐ) - kilometer
+- 关 (guān;) - close; turn off
+- 关灯 (guān) - dēng turn off the light
+- 关电脑 (guān) - diàn nǎo turn off the computer
+- 关闹钟 (guān) - nào zhōng turn off the alarm
+- 其实 (qíshí) - - actually, in fact
+- 冂 (jiōng) - wide border
+- 冖 (mì) - cover
+- 冥想 (míng) - xiǎng meditate
+- 冫 (bīng) - ice - 冰 ice (bīng), 冻 freeze (dòng)
+- 冬天 (dōngtiān) - winter
+- 冬瓜茶 (dōngguāchá;) - winter melon tea
+- 冰箱 (bīngxiāng) - refrigerator
+- 几个人 (jǐ) - gè rén how many people
+- 几百块钱 (jǐ) - bǎi kuài qián a few hundred yuan
+- 凵 (kǎn) - receptacle
+- 出 (chū) - to go out (我出去了。)
+- 出生 (chūshēng) - to be born
+- 刀 (dāo) - knife
+- 刂 (dāo) - knife (side)
+- 分钟 (fēn) - zhōng minute (请等我五分钟)
+- 切菜 (qiē) - cài chop vegetables
+- 刷⽛ (shuā) - yá to brush teeth
+- 剪指甲 (jiǎn) - zhǐ jiǎ clip nails
+- 力 (lì) - strength, power, force - 助 help (zhù), 加 add (jiā)
+- 办 (bàn) - to do; handle; deal with
+- 办法 (bànfǎ) - - way, means, measure, method
+- 加热 (jiā) - rè heat up
+- 勹 (bāo) - wrap
+- 匕 (bǐ) - spoon
+- 化妆 (huà) - zhuāng put on makeup
+- 匚 (fāng) - box enclosure
+- 匸 (xì) - hiding enclosure
+- 医 (yī) - to cure; doctor
+- 十 (shí) - ten, cross
+- 千 (qiān) - - thousand
+- 华为 (huáwéi) - Huawei
+- 卜 (bǔ) - divine
+- 卧 (wò) - to lie down; recline
+- 卯 (mǎo) - 4th earthly branch
+- 卸妆 (xiè) - zhuāng remove makeup
+- 厂 (hàn) - factory, yard - 厅 hall (tīng), 厂 factory (chǎng)
+- 厨 (chū) - kitchen; cook
+- 厶 (sī) - private
+- 又 (yòu) - again, right hand
+- 口 (kǒu) - mouth, opening - 唱 sing (chàng), 和 and (hé)
+- 听播客 (tīng) - bō kè listen to a podcast
+- 和 (hé) - and; with
+- 和中国人一样的 (hé) - Zhōngguó rén yíyàng de just like a Chinese person
+- 品 (pǐn) - products, goods
+- 哥 (gē) - elder brother
+- 哪⾥ (nǎli) - where
+- 哪支笔 (nǎ) - zhī bǐ which pen
+- 哭 (kū) - - to cry, to weep
+- 啤酒 (píjiǔ) - beer
+- 喝水 (hē) - shuǐ drink water
+- 囗 (wéi) - boundary, enclosure - 国 country (guó), 园 garden (yuán)
+- 因为中国非常棒 (yīnwèi) - Zhōngguó fēicháng bàng because China is amazing
+- 土 (tǔ) - earth, soil - 地 ground (dì), 場 field (chǎng)
+- 坐电梯 (zuò) - diàn tī take the elevator
+- 堵车 (dǔchē;) - traffic jam; get stuck in traffic
+- 士 (shì) - scholar, man
+- 夂 (zhǐ) - go slowly
+- 夕 (xī) - evening
+- 外 (wài) - outside
+- 外公 (wàigōng) - maternal grandfather
+- 外国 (wàiguó) - foreign country
+- 外婆 (wàipó) - maternal grandmother
+- 外语 (wàiyǔ) - foreign language
+- 多/几 (duō) - / jǐ used after round numbers (10, 20, 30, ...) to mean “more than” or “over”
+- 多风的 (duō) - fēng de windy; very windy.
+- 大学 (dàxué) - university
+- 太好了 (tài) - hǎo le that's great (你来了，太好了!)
+- 女 (nǚ) - female个|gè general measure word
+- 奶奶 (nǎinai) - paternal grandmother
+- 姓 (xìng) - - surname, family name; to be surnamed
+- 子 (zǐ) - child - 孩 child (hái), 孙 grandchild (sūn)
+- 孩⼦ (háizi) - child
+- 宀 (mián) - roof - 家 home/family (jiā), 室 room (shì)
+- 完 (wán) - complete, to finish
+- 室 (shì) - room
+- 寸 (cùn) - inch
+- 对我来说 (duì) - wǒ lái shuō for me / as far as I'm concerned
+- 小学 (xiǎoxué) - primary school
+- 小睡 (xiǎo) - shuì snooze
+- 尢 (yóu) - lame
+- 就 (jiù) - then / right away
+- 尸 (shī) - corpse
+- 山 (shān) - mountain
+- 工 (gōng) - work
+- 己 (jǐ) - self
+- 巳 (sì) - 6th earthly branch
+- 巾 (jīn) - towel, cloth
+- 希望你快乐今明每 (xīwàng) - nǐ kuàilè jīn míng měi I hope you are happy every day
+- 干 (gān) - dry, shield
+- 广 (yǎn) - wide, shelter - 店 shop (diàn), 府 mansion (fǔ)
+- 床 (chuáng) - bed
+- 廴 (yǐn) - long stride
+- 廾 (gǒng) - two hands
+- 开 (kāi;) - open; turn on
+- 开微波炉 (kāi) - wēi bō lú open microwave
+- 开电扇 (kāi) - diàn shàn turn on the fan
+- 开电脑 (kāi) - diàn nǎo turn on the computer
+- 开空调 (kāi) - kōng tiáo turn on the air conditioner
+- 开窗帘 (kāi) - chuāng lián open the curtains
+- 开门 (kāi) - mén open the door
+- 弓 (gōng) - bow
+- 弹吉他 (tán) - jí tā play guitar
+- 彐 (jì) - snout
+- 彡 (shān) - bristles, ornament
+- 影院 (yǐng) - yuàn movie theater; cinema
+- 彳 (chì) - road, walking - 街 street (jiē), 往 toward (wǎng)
+- 很好 (hěn) - hǎo very good
+- 很少 (hěnshǎo;) - rarely; seldom
+- 心 (xīn) - heart - 想 want (xiǎng), 忘 forget (wàng)
+- 忄 (xīn) - feeling, mental activities - 情 emotion (qíng), 忙 busy (máng)
+- 戈 (gē) - halberd
+- 戋 (jiān) - small, narrow
+- 我不讨厌 (wǒbùtǎoyàn;) - I don’t dislike it; I don’t mind it
+- 我可以第一个 (wǒ) - kěyǐ dì yīgè I can be the first
+- 我想再搬家 (wǒ) - xiǎng zài bānjiā I want to move again
+- 我是一个宝宝 (wǒ) - shì yígè bǎobao I am a baby
+- 戴口罩 (dài) - kǒu zhào put on a mask
+- 戴帽子 (dài) - mào zi put on a hat
+- 戴眼镜 (dài) - yǎn jìng put on glasses
+- 戶 (hù) - door, household
+- 户 (hù) - door, household
+- 房 (fáng) - room; house
+- 手疼 (shǒuténg;) - hand hurts
+- 扌 (shǒu) - hand - 推 push (tuī), 拉 pull (lā)
+- 打哈欠 (dǎ) - hā qiàn yawn
+- 打扫 (dǎsǎo;) - clean; tidy up; sweep
+- 扔垃圾 (rēng) - lā jī take out the trash
+- 找 (zhǎo) - to look for; to give the change
+- 报 (bào;) - report; inform
+- 抽 (chōu) - to pull; draw out; smoke
+- 抽时间 (chōu) - shíjiān to make time / find time
+- 抽纸 (chōuzhǐ) - tissue paper
+- 拿外卖 (ná) - wài mài pick up takeout
+- 挂电话 (guà) - diàn huà hang up the phone
+- 按电梯 (àn) - diàn tī press elevator button
+- 摘口罩 (zhāi) - kǒu zhào take off mask
+- 摘帽子 (zhāi) - mào zi take off hat
+- 摘眼镜 (zhāi) - yǎn jìng take off glasses
+- 摘耳环 (zhāi) - ěr huán take off earrings
+- 擦头发 (cā) - tóu fā dry hair
+- 教中文 (jiāo) - zhōng wén teach Chinese
+- 整理 (zhěng) - lǐ tidy up
+- 文 (wén) - script, culture
+- 斤 (jīn) - axe
+- 新年 (xīnnián) - New Year
+- 方 (fāng) - square, direction
+- 旡 (jì) - lack, not
+- 普通话 (pǔtōnghuà) - Mandarin
+- 曰 (yuē) - say
+- 有时候 (yǒushíhòu;) - sometimes
+- 有点儿 (yǒudiǎnr) - somewhat; a bit
+- 朋 (péng) - friend
+- 木 (mù) - tree, wood - 林 forest (lín), 树 tree (shù)
+- 本⼦ (běnzi) - notebook
+- 杯⼦ (bēizi) - cup; glass
+- 桌⼦ (zhuōzi) - table, desk
+- 梳头发 (shū) - tóu fā comb hair
+- 椅⼦ (yǐzi) - chair
+- 榴莲 (liúlián;) - durian
+- 橙汁 (chéngzhī;) - orange juice
+- 欠 (qiàn) - lack, yawn
+- 殳 (shū) - weapon, club
+- 母 (mǔ) - mother
+- 毛 (máo) - hair, fur
+- 氏 (shì) - clan, surname
+- 水 (shuǐ) - water
+- 氵 (shuǐ) - water - 河 river (hé), 洗 wash (xǐ)
+- 洗碗 (xǐ) - wǎn wash dishes
+- 洗衣服 (xǐ) - yī fú do laundry
+- 浪漫 (làng) - màn romantic; romance
+- 火 (huǒ) - fire
+- 灬 (huǒ) - fire / fire from below - 蒸 steam (zhēng), 热 hot (rè)
+- 点外卖 (diǎn) - wài mài order takeout
+- 烟 (yān) - smoke; cigarette
+- 烧水 (shāo) - shuǐ boil water
+- 爫 (zhǎo) - claw (top)
+- 爱 (ài) - to love
+- 父 (fù) - father
+- 爷爷 (yéye) - paternal grandfather
+- 牙疼 (yáténg;) - toothache
+- 牛 (niú) - cow
+- 犬 (quǎn) - dog
+- 犭 (quǎn) - dog (side)
+- 玉 (yù) - jade
+- 王 (wáng) - king, jade
+- 玨 (jué) - two jades
+- 玩⼿机 (wán) - shǒu jī to play on the phone
+- 瓶 (píng) - MW for bottle
+- 甘 (gān) - sweet
+- 生 (shēng) - life; to be born
+- 生意 (shēngyì) - business
+- 田 (tián) - field
+- 电 (diàn) - electricity
+- 男 (nán) - male
+- 疋 (pǐ) - bolt of cloth
+- 疒 (nè) - sickness - 病 disease (bìng), 痛 pain (tòng)
+- 白 (bái) - white
+- 百分之 (bǎifēnzhī) - percent
+- 百分之四十 (bǎifēnzhī) - sìshí 40 percent
+- 皮 (pí) - skin
+- 目 (mù) - eye
+- 看电视 (kàn) - diàn shì watch TV
+- 眼睛疼 (yǎnjīngténg;) - eye hurts
+- 睡不着 (shuì) - bù zháo can't sleep
+- 矢 (shǐ) - arrow
+- 礻 (shì) - spirit (side)
+- 离 (lí) - to be away from; distance
+- 禾 (hé) - grain, cereal
+- 租 (zū) - to rent (我租了一个公寓。)
+- 称体重 (chēng) - tǐ zhòng weigh oneself
+- 穴 (xué) - cave
+- 穿衣服 (chuān) - yī fú get dressed
+- 穿鞋子 (chuān) - xié zi put on shoes
+- 立 (lì) - stand
+- 笑 (xiào) - - to smile, to laugh; smile, laugh
+- 笔 (bǐ) - pen
+- 纟 (sī) - silk (side)
+- 纟(糹) (mì) - silk, thread, string - 线 thread (xiàn), 丝 silk (sī)
+- 纸 (zhǐ) - paper
+- 给 (gěi) - to give
+- 网 (wǎng) - net, internet (我在网上学习。)
+- 羊 (yáng) - sheep
+- 羽 (yǔ) - feather
+- 翻书 (fān) - shū turn the page
+- 老 (lǎo) - old
+- 耂 (lǎo) - old (top)
+- 耳 (ěr) - ear
+- 耳朵疼 (ěrduóténg;) - ear hurts
+- 耳机 (ěrjī) - headphones
+- 聿 (yù) - brush
+- 肉 (ròu) - meat
+- 肚子 (dùzi;) - belly; stomach
+- 肚子痛 (dùzitòng;) - stomach ache
+- 脏 (zāng) - dirty
+- 脚疼 (jiǎoténg;) - foot hurts
+- 脱衣服 (tuō) - yī fú take off clothes
+- 脱鞋 (tuō) - xié take off shoes
+- 艮 (gèn) - stopping
+- 艹 (cǎo) - grass - 花 flower (huā), 菜 vegetable (cài)
+- 英文 (Yīngwén) - English
+- 苹果 (píngguǒ) - apple
+- 菠萝 (bōluó;) - pineapple
+- 虫 (chóng) - insect
+- 衤 (yī) - clothes - 裙 skirt (qún), 衫 shirt (shān)
+- 西 (xī) - west
+- 西班⽛ (Xībānyá) - Spain
+- 覀 (xī) - west (top)
+- 要 (yào) - to be going to
+- 见 (jiàn) - see
+- 解冻 (jiě) - dòng thaw
+- 讠 (yán) - speech (side)
+- 讠(訁) (yán) - word, language, speech - 说 say (shuō), 语 language (yǔ)
+- 话 (huà) - word; speech
+- 请 (qǐng) - please
+- 请你读 (Qǐng) - nǐ dú please read
+- 请你选择一个 (Qǐng) - nǐ xuǎnzé yīgè please choose one
+- 读书 (dúshū) - to study; to read books
+- 读这些词 (dú) - zhèxiē cí read these words
+- 课 (kè) - class, lesson
+- 谁 (shéi/shuí) - who
+- 豕 (shǐ) - pig
+- 贝 (bèi) - shell, money
+- 走路 (zǒu) - lù walk
+- 跟家人视频 (gēn) - jiā rén shì pín video call with family
+- 身 (shēn) - body
+- 躲雨 (duǒ) - yǔ take shelter from the rain
+- 车 (chē) - car
+- 车 (車) (chē) - car, vehicle, cart - 车 car (chē), 軌 rail/track (guǐ)
+- 辶 (chuò) - walk, movement (side)
+- 过马路 (guò) - mǎ lù cross the street
+- 这 (zhè) - this
+- 这么/那么 (zhème) - / nàme so (expensive, far, etc.)
+- 这只狗 (zhè) - zhī gǒu this dog
+- 送外卖 (sòng) - wàimài to deliver food; food delivery
+- 那 (nà) - that
+- 那我们继续 (nà) - wǒmen jìxù then let’s continue
+- 那本书 (nà) - běn shū that book
+- 酉 (yǒu) - wine, 10th branch
+- 酒吧 (jiǔ) - bā bar, pub
+- 醒来 (xǐng) - lái wake up
+- 釆 (biàn) - distinguish, divide
+- 钅 (jīn) - metal (side)
+- 钅(釒) (jīn) - metal - 银 silver (yín), 铁 iron (tiě)
+- 长 (cháng) - long
+- 门 (mén) - door
+- 门 (門) (mén) - door - 间 room (jiān), 闭 shut (bì)
+- 问题 (wèn) - tí question, problem
+- 阝 (yì) - terrain, hill, city, town - 部 department/section (bù), 都 both (bōu)
+- 院 (yuàn) - courtyard; institution; place
+- 陪 (péi) - to accompany; go with someone
+- 随便 (suí) - biàn casual, careless, to do as one pleases
+- 随便你 (suíbiàn) - nǐ it's up to you / do as you wish
+- 隹 (zhuī) - short-tailed bird
+- 难 (nán) - - difficult
+- 难过 (nán) - guò sad; feeling down
+- 雨 (yǔ) - rain
+- 青 (qīng) - blue-green
+- 非 (fēi) - wrong, not
+- 音 (yīn) - sound
+- 页 (yè) - page, head
+- 饣 (shí) - food (side)
+- 饣(飠) (shí) - food, eat - 饭 rice/meal (fàn), 饮 drink (yǐn)
+- 馆 (guǎn) - hall; building; place
+- 首 (shǒu) - measure word for songs, poems, etc.
+- 马 (mǎ) - horse
+- 鱼 (魚) (yú) - fish - 鲜 fresh (xiān), 鮑 abalone (bào)
+- 鸟 (niǎo) - bird
+- 鸡 (jī) - chicken
+- 鸡蛋 (jīdàn) - egg
+- 龰 (zú) - foot (bottom)
+- 龴 (xíng) - go (component)
+- 龵 (shǒu) - hand (top)
+- 龶 (lèi) - grain sprout
+- 𠂇 (piě) - person-like
+- 𢛳 (xīn) - heart (variant)
 CLASSROOM EXAMPLE SENTENCES
+- 上课的时候，不可以说英文。 - During class, you cannot speak English.
+- 你最近看了什么新闻？ - What news have you read recently?
+- 你可以送我回家吗？ - Can you take me home?
+- 你抽过烟吗？ - Have you ever smoked?
+- 我会骑自行车。 - I can ride a bike.
+- 我能跑十公里。 - I can run ten kilometers.
+- 火车站离医院很近。 - The train station is very close to the hospital.
+- 我陪妈妈去医院。 - I accompanied my mother to the hospital.
+- 你学了多长时间中文了？ - How long have you been studying Chinese?
+- 你叫什么名字？ - What is your name?
+- 他是我的老师。 - He is my teacher.
+- 我认识他。 - I know him.
+- 你今天几点上班？ - What time do you go to work today?
+- 我还在学习。 - I am still studying.
+- 这件事很重要。 - This matter is very important.
+- 你现在怎么样？ - How are you doing now?
+- 我想先吃饭，然后再去。 - I want to eat first, then go.
+- 回去以后我还要打电话。 - After I go back, I still need to make a phone call.
+- 谁想试一试说一个句子？ - Who wants to try saying a sentence?
+- 这个孩子三岁多了。 - This child is a little over three years old.
+- 他等了两个多小时。 - He waited for more than two hours.
+- 我有几个中国同事。 - I have a few Chinese colleagues.
+- 她在附近吗？ - Is she nearby?
+- 你为什么戴眼镜？ - Why are you wearing glasses?
+- 你学了多长时间中文了？ - How long have you been studying Chinese?
+- 我不喜欢中文，我讨厌。 - I don't like Chinese, I hate it.
+- 你穿了多长时间了？ - How long have you been wearing this?
+- 如果你要坐飞机，你应该很早到机场。 - If you are taking a plane, you should get to the airport very early.
+- 我不同意我的同学。 - I disagree with my classmate.
+- 他以前在医院工作。 - He used to work at the hospital.
+- 这里有好几家四川饭馆。 - There are quite a few Sichuan restaurants here.
+- 我好饿啊，我们找个饭馆吃饭吧。 - I am so hungry, let’s find a restaurant to eat.
+- 我生病了。 - I am sick.
+- 我太累了，想休息几天。 - I am too tired, I want to rest for a few days.
+- 他骑自行车去上班。 - He rides his bike to work.
+- 明天是她的生日，你想送她什么？ - Tomorrow is her birthday, what would you like to give her?
+- 这本书要几百块钱。 - This book costs several hundred yuan.
+- 他想买几个蛋糕。 - He wants to buy a few cakes.
 - 老师是中国人。 - The teacher is Chinese.
 - 现在我在公司。 - I am at the company now.
 - 我的姐姐有两个孩子。 - My older sister has two children.
@@ -760,4 +1244,82 @@ CLASSROOM EXAMPLE SENTENCES
 - 他想买几个蛋糕。 - He wants to buy a few cakes.
 - 你每天怎么去上班？ - How do you go to work every day?
 - 你生了什么病？ - What illness do you have?
-- 你在离明年的中国新年还有一个月，你可以剪头发。 - There is one month until next Chinese New Year, so you can get a haircut.
+- 你在离明年的中国新年还有一个月，你可以剪头发。 - There is one month until next Chinese New Year, so you can get a haircut.- A: 这个电影好看吗? B: 一般。 - A: Is this movie good? B: It’s so-so.
+- 一辆自行车。 - one bicycle
+- 不但...而且... - not only...but also...
+- 中国的公共汽车一般都很便宜。 - Public buses in China are generally very cheap.
+- 今天我没空,你找别人吧。 - I don’t have time today, you can find someone else.
+- 他正在厨房准备晚饭呢。 - He is currently preparing dinner in the kitchen.
+- 他生病了,昨天没有来办公室。 - He got sick and didn’t come to the office yesterday.
+- 你上次帮朋友做了什么？ - What did you do to help a friend last time?
+- 你什么时候下班? - When do you get off work?
+- 你在离明年的中国新年还有是一个月，你可以剪头发。 - There is one month left before next year's Chinese New Year, so you can get a haircut.
+- 你最不喜欢你的太太的什么？ - What do you dislike most about your wife?
+- 你每天什么去上班？ - What time do you go to work every day?
+- 你的卧室是什么颜色的？ - What color is your bedroom?
+- 你的生日比我的生日早三个月。 - Your birthday is three months earlier than mine.
+- 别人都会，为什么你不会？ - Everyone else knows how to do it, why don’t you know?
+- 别忘了吃药。 - Don’t forget to take the medicine.
+- 厨房里有一个冰箱。 - There is a refrigerator in the kitchen.
+- 又...又... - ... as well as ... (又便宜又好吃。)
+- 吃药以前要先吃饭。 - You must eat food before taking the medicine.
+- 和比你大得多的人一起吃饭时，你不能比他先吃。 - When eating with someone much older than you, you cannot eat before him.
+- 咖啡比茶味道好。 - Coffee tastes better than tea.
+- 喝酒以后不能吃这个药。 - You can’t take this medicine after drinking alcohol.
+- 因为今天下雨了堵车，所以我迟到了。 - Because it rained today and there was traffic, I was late.
+- 在中国,很多人抽烟。 - In China, many people smoke.
+- 在高铁上不可以抽烟。 - You cannot smoke on the high-speed train.
+- 外面下大雨了，我们不能出去。 - It’s raining heavily, so we can’t go out.
+- 大家还有别的问题吗? - Does anyone have any other questions?
+- 她想去别的中文的地方。 - She wants to go to other Chinese-speaking places.
+- 如果你吃太多甜的东西，你会牙疼。 - If you eat too many sweets, your teeth hurt.
+- 如果你早上不喝咖啡，你的头会疼。 - If you don’t drink coffee in the morning, your head will hurt.
+- 如果你跑得太快了，你会脚疼。 - If you run too fast, your feet hurt.
+- 如果是这样的蛋糕... - If it’s this kind of cake...
+- 已经...了 - to emphasize that something has already happened
+- 师傅，麻烦你别抽烟。 - Master / Uncle, please don’t smoke.
+- 怎么办？ - What should I do?
+- 我从来没有抽过烟。 - I have never smoked.
+- 我们去别的地方看看吧。 - Let’s go to another place and take a look.
+- 我们店的衣服一般不可以换。 - Clothes in our store usually can’t be exchanged.
+- 我们的办公室又大又漂亮。 - Our office is big and beautiful.
+- 我会讲普通话。 - I can speak Mandarin.
+- 我只学了三个月中文，就能和中国人聊天了。 - I only studied Chinese for three months, and I was already able to chat with Chinese people.
+- 我告诉你,你别告诉别人! - I’ll tell you, don’t tell other people!
+- 我回家的时候,我的丈夫正在准备晚饭 - When I get home, my husband is preparing dinner.
+- 我在上班，我不可以接电话。 - I’m at work, so I can’t take calls.
+- 我太累了,想休息几天。 - I am too tired, I want to rest for a few days.
+- 我好饿啊,我们找个饭馆吃饭吧。 - I am so hungry, let’s find a restaurant to eat.
+- 我家的附近有一个包子的饭馆。 - Near my home there is a steamed-bun restaurant.
+- 我生病了，不能去上课。 - I’m sick, so I can’t go to class.
+- 我的厨房离卧室有点儿远。 - My kitchen is a bit far from my bedroom.
+- 我的家离纽约不远。 - My home is not far from New York.
+- 我的新家只有一个卧室。 - My new house only has one bedroom.
+- 我结婚结得早。 - I got married early.
+- 我能喝十瓶啤酒。 - I can drink 10 bottles of beer.
+- 我还没开始准备。 - I haven’t started preparing yet.
+- 找一找这些词的图片。 - Look for pictures of these words.
+- 明天是她的生日,你想送她什么? - Tomorrow is her birthday, what would you like to give her?
+- 猫没有狗让人快乐。 - Cats are not as fun as dogs for people.
+- 现在我们先休息五分钟。 - Now let’s rest for five minutes.
+- 现在我们看一看这里有三个人（阿姨，同事，同学），请你选词，一个人来介绍。 - Now let’s look: here there are three people (auntie, coworker, classmate), please choose the word and let one person introduce.
+- 现在离下课的时候八分钟。 - It is eight minutes before class ends.
+- 看电影的时候，你喜欢坐在前面还是后面？ - When watching a movie, do you like to sit in the front or in the back?
+- 离新年还有一个多月。 - There is still more than a month until the New Year.
+- 离考试只有三天了！ - There are only three days left until the exam!
+- 第一张图片是火车。 - The first picture is a train.
+- 老板办公室在前边。 - The boss’s office is ahead.
+- 讲故事比听故事更累。 - Telling stories is more tiring than listening to stories.
+- 请问,最近的医院在哪里? - Excuse me, where is the nearest hospital?
+- 请问，火车站怎么去？ - Excuse me, how do I get to the train station?
+- 谁想试一试说一个句子? - Who wants to try saying a sentence?
+- 谢谢你的帮助。 - Thank you for your help.
+- 谢谢你送我回家。 - Thank you for sending me home.
+- 还要别的吗？ - Anything else?
+- 这个卧室比那个小一点儿。 - This bedroom is a little smaller than that one.
+- 这个城市一般不下雪。 - It generally doesn’t snow in this city.
+- 这儿离最近的饭馆大概三百米。 - This place is about 300 meters from the nearest restaurant.
+- 这里不能抽烟。 - Smoking is not allowed here.
+- 那现在我想请一个同学用蛋糕问一个问题。 - So now I want to ask a classmate to ask a question using cake.
+- 飞机又比高铁便宜，又比高铁快。 - The plane is both cheaper and faster than the high-speed train.
+- 饭馆比饭店小。 - Restaurants are smaller than hotels.
