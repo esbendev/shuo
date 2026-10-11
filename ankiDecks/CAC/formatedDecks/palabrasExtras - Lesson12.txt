@@ -1,0 +1,18 @@
+<div class="chineseChars">如果你难过你就做什么？</div>|<div class="answer">rúguǒnǐnánguònǐjiùzuòshénme?; What do you do when you're sad?</div>
+<div class="chineseChars">我不知道你们知道不知道。</div>|<div class="answer">wǒbùzhīdàonǐmenzhīdàobùzhīdào; I don't know if you know or not.</div>
+<div class="chineseChars">我不知道他来不来。</div>|<div class="answer">wǒbùzhīdàotālāibùlái; I don't know if he'll come.</div>
+<div class="chineseChars">你的城市的天气怎么样？</div>|<div class="answer">nǐdechéngshìdetiānqìzěnmeyàng?; What's the weather like in your city?</div>
+<div class="chineseChars">你可以再做一次吗？我没有看见。</div>|<div class="answer">nǐkěyǐzàizuòyícìma?wǒméiyǒukànjiàn; Can you do it again? I didn't see it.</div>
+<div class="chineseChars">我可以先说。</div>|<div class="answer">wǒkěyǐxiānshuō; I can say it first.</div>
+<div class="chineseChars">我和太太在准备宝宝来的时候要用的东西。</div>|<div class="answer">wǒhétàitāizàizhǔnbèibǎobǎoláideshíhòuyàoyòngdedōngxi; The things my wife and I are preparing for when the baby comes.</div>
+<div class="chineseChars">难看</div>|<div class="answer">nánkàn; ugly</div>
+<div class="chineseChars">难吃</div>|<div class="answer">nánchī; unpalatable; tastes bad</div>
+<div class="chineseChars">难听</div>|<div class="answer">nántīng; unpleasant to hear; unpleasant sounding</div>
+<div class="chineseChars">你妹妹多高？</div>|<div class="answer">nǐmèimèiduōgāo?; How tall is your younger sister?</div>
+<div class="chineseChars">在学中文的时候，什么让你感觉最快乐？</div>|<div class="answer">zàixuézhōngwéndeshíhòu,shénmeràngnǐgǎnjuézuìkuàilè?; When studying Chinese, what makes you feel the happiest?</div>
+<div class="chineseChars">不好意思</div>|<div class="answer">bùhǎoyìsi; embarrassed; sorry</div>
+<div class="chineseChars">吵</div>|<div class="answer">chǎo; noisy</div>
+<div class="chineseChars">这是一个睡觉的房间。</div>|<div class="answer">zhèshìyígèshuìjiàodefángjiān; This is a bedroom.</div>
+<div class="chineseChars">我学习中文一年了，所以我想做一件事情。我想知道我的中文好不好所以我去报名这个东西。</div>|<div class="answer">wǒxuéxízhōngwényìniánle,suǒyǐwǒxiǎngzuòyìjiànshìqing.wǒxiǎngzhīdàowǒdezhōngwénhǎobùhǎosuǒyǐwǒqùbàomíngzhègédōngxi; I’ve studied Chinese for a year, so I wanted to do something. I wanted to know whether my Chinese is good or not, so I signed up for this.</div>
+<div class="chineseChars">现在我可以吃很多的东西，我可以睡觉睡得很好，我可以跑步，什么都可以做因为我的身体很。。。</div>|<div class="answer">xiànzàiwǒkěyǐchīhěnduōdedōngxi,wǒkěyǐshuìjiàoshuìdéhěnhǎo,wǒkěyǐpǎobù,shénmedōukěyǐzuòyīnwèiwǒdeshēntǐhěn...; Now I can eat a lot, I can sleep very well, I can run, I can do anything because my body is very...</div>
+<div class="chineseChars">现在我做了以前事情可能会让我的身体不健康。</div>|<div class="answer">xiànzàiwǒzuòleyǐqiánshìqíngkěnénghuìràngwǒdeshēntǐbùjiànkāng; Now the things I did before may have made my body unhealthy.</div>
