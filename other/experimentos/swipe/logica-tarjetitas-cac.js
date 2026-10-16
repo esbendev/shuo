@@ -83,11 +83,68 @@ function playAudio(src, sourceLabel, indicator) {
 
 const urlParams = new URLSearchParams(window.location.search);
 const requestedFile = urlParams.get('file') || 'week-1a';
+const requestedDir = (urlParams.get('dir') || urlParams.get('folder') || '').replace(/^\/+|\/+$/g, '');
 const normalizedFilename = requestedFile.replace(/\.json$/i, '');
-const filePath = new URL(`../../../contenido/preguntas/cac/1/${normalizedFilename}.json`, window.location.href).href;
 
-fetch(filePath)
-    .then(response => response.json())
+async function resolveQuestionFilePath() {
+    const directoryCandidates = [];
+
+    const normalizeDirectory = (value) => {
+        if (!value) return '';
+        const cleaned = value.replace(/^\/+|\/+$/g, '').replace(/^.*?contenido\/preguntas\//, '').replace(/^\/+/, '');
+        if (!cleaned) return '';
+        if (/^cac\//i.test(cleaned)) return cleaned;
+        if (/^[12]$/i.test(cleaned)) return `cac/${cleaned}`;
+        return `cac/${cleaned.replace(/^cac\//i, '')}`;
+    };
+
+    const requestedDirectory = normalizeDirectory(requestedDir);
+    if (requestedDirectory) {
+        directoryCandidates.push(requestedDirectory);
+    } else {
+        directoryCandidates.push('cac/1', 'cac/2');
+    }
+
+    const fileName = `${normalizedFilename}.json`;
+    const filePathCandidates = [];
+    for (const directory of directoryCandidates) {
+        filePathCandidates.push(`../../../contenido/preguntas/${directory}/${fileName}`);
+    }
+
+    for (const candidatePath of filePathCandidates) {
+        const candidate = new URL(candidatePath, window.location.href).href;
+        try {
+            const response = await fetch(candidate, { method: 'HEAD' });
+            if (response.ok) {
+                return candidate;
+            }
+        } catch (error) {
+            // Try the next candidate.
+        }
+
+        try {
+            const response = await fetch(candidate);
+            if (response.ok) {
+                return candidate;
+            }
+        } catch (error) {
+            // Try the next candidate.
+        }
+    }
+
+    return new URL(`../../../contenido/preguntas/cac/1/${fileName}`, window.location.href).href;
+}
+
+async function loadQuestions() {
+    const filePath = await resolveQuestionFilePath();
+    const response = await fetch(filePath);
+    if (!response.ok) {
+        throw new Error(`Failed to load questions from ${filePath}`);
+    }
+    return response.json();
+}
+
+loadQuestions()
     .then(data => {
         const container = document.getElementById('cardContainer');
         const totalCards = data.preguntas.length;

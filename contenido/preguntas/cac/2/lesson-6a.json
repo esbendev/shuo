@@ -60,7 +60,7 @@
         "我家附近可能有博物馆，我找一下。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": "There might be a museum near my house. I'll check."
+      "texto_en_ingles": "There might be a museum near my house. I’ll check."
     },
     {
       "id": 6,
@@ -72,7 +72,7 @@
         "其实，我觉得他不可能同意。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": "Actually, I think it's impossible for him to agree."
+      "texto_en_ingles": "Actually, I think it’s impossible for him to agree."
     },
     {
       "id": 7,
@@ -144,7 +144,7 @@
         "他没发现自己已经生病了。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": "He didn't realize that he was already sick."
+      "texto_en_ingles": "He didn’t realize that he was already sick."
     },
     {
       "id": 13,
@@ -180,7 +180,7 @@
         "如果你不努力，那没有人可以帮助你。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": "If you don't work hard, then no one can help you."
+      "texto_en_ingles": "If you don’t work hard, then no one can help you."
     },
     {
       "id": 16,
@@ -204,7 +204,7 @@
         "今天下雪，我们早一点儿出发吧。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": "It's snowing today, let's set off a bit earlier."
+      "texto_en_ingles": "It’s snowing today, let’s set off a bit earlier."
     },
     {
       "id": 18,
@@ -216,7 +216,7 @@
         "我准备出发了。"
       ],
       "input_chars_aceptados": [],
-      "texto_en_ingles": "I'm ready to leave."
+      "texto_en_ingles": "I’m ready to leave."
     }
   ]
 }
