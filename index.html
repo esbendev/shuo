@@ -148,8 +148,22 @@
     </footer>
     <script>
         if ("serviceWorker" in navigator) {
-            navigator.serviceWorker.register("./sw.js").then(() => {
+            const serviceWorkerUrl = `./sw.js?v=${Date.now()}`;
+
+            navigator.serviceWorker.register(serviceWorkerUrl).then((registration) => {
                 console.log("Service Worker registered successfully.");
+
+                registration.addEventListener("updatefound", () => {
+                    const newWorker = registration.installing;
+                    if (!newWorker) return;
+
+                    newWorker.addEventListener("statechange", () => {
+                        if (newWorker.state === "installed" && navigator.serviceWorker.controller) {
+                            newWorker.postMessage({ type: "SKIP_WAITING" });
+                            window.location.reload();
+                        }
+                    });
+                });
             }).catch((error) => {
                 console.error("Service Worker registration failed:", error);
             });

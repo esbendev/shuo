@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v261016-2";
+const CACHE_NAME = "esbendev-shuo-v261016-3";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -144,6 +144,12 @@ self.addEventListener("install", (event) => {
             return cache.addAll(urlsToCache);
         })
     );
+});
+
+self.addEventListener("message", (event) => {
+    if (event.data && event.data.type === "SKIP_WAITING") {
+        self.skipWaiting();
+    }
 });
 
 self.addEventListener("fetch", (event) => {
