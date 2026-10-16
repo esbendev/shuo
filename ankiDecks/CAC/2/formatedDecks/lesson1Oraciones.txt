@@ -1,0 +1,12 @@
+<div class="chineseChars">我发现我很喜欢学习语言。</div>|<div class="answer">Wǒ fāxiàn wǒ hěn xǐhuān xuéxí yǔyán. <span class="english">I discovered that I really like learning languages.</span></div>
+<div class="chineseChars">他没发现自己已经生病了。</div>|<div class="answer">Tā méi fāxiàn zìjǐ yǐjīng shēngbìng le. <span class="english">He didn't realize that he was already sick.</span></div>
+<div class="chineseChars">他们都非常努力。</div>|<div class="answer">Tāmen dōu fēicháng nǔlì. <span class="english">They all work very hard.</span></div>
+<div class="chineseChars">如果你不努力，那没有人可以帮助你。</div>|<div class="answer">Rúguǒ nǐ bù nǔlì, nà méiyǒu rén kěyǐ bāngzhù nǐ. <span class="english">If you don't work hard, then no one can help you.</span></div>
+<div class="chineseChars">今天下雪，我们早一点儿出发吧。</div>|<div class="answer">Jīntiān xiàxuě, wǒmen zǎo yìdiǎnr chūfā ba. <span class="english">It's snowing today, let's set off a bit earlier.</span></div>
+<div class="chineseChars">我准备出发了。</div>|<div class="answer">Wǒ zhǔnbèi chūfā le. <span class="english">I'm about to leave.</span></div>
+<div class="chineseChars">你马上来办公室！</div>|<div class="answer">Nǐ mǎshàng lái bàngōngshì! <span class="english">Come to the office immediately!</span></div>
+<div class="chineseChars">我吃了药，马上就好了。</div>|<div class="answer">Wǒ chī le yào, mǎshàng jiù hǎo le. <span class="english">I took the medicine, and I will feel better soon.</span></div>
+<div class="chineseChars">我家附近可能有博物馆，我找一下。</div>|<div class="answer">Wǒ jiā fùjìn kěnéng yǒu bówùguǎn, wǒ zhǎo yíxià. <span class="english">There might be a museum near my house. I'll check.</span></div>
+<div class="chineseChars">其实，我觉得他不可能同意。</div>|<div class="answer">Qíshí, wǒ juédé tā bù kěnéng tóngyì. <span class="english">Actually, I think it's impossible for him to agree.</span></div>
+<div class="chineseChars">他好像不太高兴。</div>|<div class="answer">Tā hǎoxiàng bú tài gāoxìng. <span class="english">He seems to be not very happy.</span></div>
+<div class="chineseChars">这个字好像是错的。</div>|<div class="answer">Zhè ge zì hǎoxiàng shì cuò de. <span class="english">This character seems to be wrong.</span></div>

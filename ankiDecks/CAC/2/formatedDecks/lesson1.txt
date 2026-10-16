@@ -1,0 +1,6 @@
+<div class="chineseChars">马上</div>|<div class="answer">mǎ shàng - immediately</div>
+<div class="chineseChars">好像</div>|<div class="answer">hǎoxiàng<br>to seem; to be like</div>
+<div class="chineseChars">可能</div>|<div class="answer">kě néng - possible, maybe</div>
+<div class="chineseChars">发现</div>|<div class="answer">fā xiàn - to find, discover</div>
+<div class="chineseChars">努力</div>|<div class="answer">nǔ lì - hardworking, to work hard</div>
+<div class="chineseChars">出发</div>|<div class="answer">chū fā to start out; to set off</div>
