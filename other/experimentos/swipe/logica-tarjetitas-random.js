@@ -214,16 +214,25 @@ async function gatherFilesFromManifests() {
     return Array.from(new Set(ids));
 }
 
+const CAC_FILE_PATHS = [
+    '../../../contenido/preguntas/cac/1/lesson-5a.json',
+    '../../../contenido/preguntas/cac/1/week-1a.json',
+    '../../../contenido/preguntas/cac/1/week-2a.json',
+    '../../../contenido/preguntas/cac/1/week-3a.json',
+    '../../../contenido/preguntas/cac/2/lesson-6a.json'
+];
+
 async function buildRandomPool(amount) {
     const ids = await gatherFilesFromManifests();
-    const filePaths = ids.map(id => {
+    const tubhFilePaths = ids.map(id => {
         if (String(id).startsWith('tubh1_')) return `../../../contenido/preguntas/tubh/1/${id}.json`;
         if (String(id).startsWith('tubh2_')) return `../../../contenido/preguntas/tubh/2/${id}.json`;
         return null;
     }).filter(Boolean)
       .filter(path => path.endsWith('_rapidos.json'));
-    // Ensure we pick from distinct files: choose up to `amount` different files,
-    // then pick one random question from each selected file.
+
+    const filePaths = [...tubhFilePaths, ...CAC_FILE_PATHS];
+
     if (filePaths.length === 0) return [];
 
     shuffle(filePaths);
@@ -232,18 +241,26 @@ async function buildRandomPool(amount) {
     const pickCount = Math.min(target > 0 ? target : maxFiles, maxFiles);
 
     const selectedPreguntas = [];
+    const attemptedFiles = new Set();
+
     for (let i = 0; i < filePaths.length && selectedPreguntas.length < pickCount; i++) {
+        const filePath = filePaths[i];
+        if (attemptedFiles.has(filePath)) continue;
+        attemptedFiles.add(filePath);
+
         try {
-            const res = await fetch(filePaths[i]);
+            const res = await fetch(filePath);
             if (!res.ok) continue;
             const json = await res.json();
             if (!json || !Array.isArray(json.preguntas) || json.preguntas.length === 0) continue;
+
             const pidx = Math.floor(Math.random() * json.preguntas.length);
             selectedPreguntas.push(json.preguntas[pidx]);
         } catch (e) {
             // ignore and continue
         }
     }
+
     console.log('Selected preguntas:', selectedPreguntas);
     return selectedPreguntas;
 }

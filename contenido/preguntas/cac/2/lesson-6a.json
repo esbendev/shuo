@@ -1,0 +1,222 @@
+{
+  "titulo": "CAC Lesson 6A Audio",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/1.mp3"
+      ],
+      "respuesta_correcta": [
+        "马上"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "immediately, right away"
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/2.mp3"
+      ],
+      "respuesta_correcta": [
+        "你马上来办公室！"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Come to the office immediately!"
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/3.mp3"
+      ],
+      "respuesta_correcta": [
+        "我吃了药，马上就好了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I took the medicine, and I will feel better soon."
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/4.mp3"
+      ],
+      "respuesta_correcta": [
+        "可能"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "possible, maybe"
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/5.mp3"
+      ],
+      "respuesta_correcta": [
+        "我家附近可能有博物馆，我找一下。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "There might be a museum near my house. I'll check."
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/6.mp3"
+      ],
+      "respuesta_correcta": [
+        "其实，我觉得他不可能同意。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Actually, I think it's impossible for him to agree."
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/7.mp3"
+      ],
+      "respuesta_correcta": [
+        "好像"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "seem, as if"
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/8.mp3"
+      ],
+      "respuesta_correcta": [
+        "他好像不太高兴。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He seems to be not very happy."
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/9.mp3"
+      ],
+      "respuesta_correcta": [
+        "这个字好像是错的。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This character seems to be wrong."
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/10.mp3"
+      ],
+      "respuesta_correcta": [
+        "发现"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to discover, to realize"
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/11.mp3"
+      ],
+      "respuesta_correcta": [
+        "我发现我很喜欢学习语言。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I discovered that I really like learning languages."
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/12.mp3"
+      ],
+      "respuesta_correcta": [
+        "他没发现自己已经生病了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He didn't realize that he was already sick."
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/13.mp3"
+      ],
+      "respuesta_correcta": [
+        "努力"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to work hard"
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/14.mp3"
+      ],
+      "respuesta_correcta": [
+        "他们都非常努力。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "They all work very hard."
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/15.mp3"
+      ],
+      "respuesta_correcta": [
+        "如果你不努力，那没有人可以帮助你。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "If you don't work hard, then no one can help you."
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/16.mp3"
+      ],
+      "respuesta_correcta": [
+        "出发"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to set out, to depart"
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/17.mp3"
+      ],
+      "respuesta_correcta": [
+        "今天下雪，我们早一点儿出发吧。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It's snowing today, let's set off a bit earlier."
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-6a/18.mp3"
+      ],
+      "respuesta_correcta": [
+        "我准备出发了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I'm ready to leave."
+    }
+  ]
+}
