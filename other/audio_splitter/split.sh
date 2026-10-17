@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-INPUT_FILE="$1"
-OUT_DIR="./result"
+INPUT_FILE="${1:-}"
+OUT_DIR="${2:-}"
 
 # Match your exact Audacity settings:
 SILENCE_DB="-30dB"
@@ -10,12 +10,21 @@ PAD_LEAD="0.2"
 PAD_TRAIL="0.2"
 
 if [ -z "$INPUT_FILE" ] || [ ! -f "$INPUT_FILE" ]; then
-    echo "Usage: $0 <audio_file>"
+    echo "Usage: $0 <audio_file> <output_directory_full_path>"
     exit 1
 fi
 
-# Ensure the result directory exists
+if [ -z "$OUT_DIR" ]; then
+    echo "Usage: $0 <audio_file> <output_directory_full_path>"
+    exit 1
+fi
+
+# Force a full path for the destination and create it if needed.
+if [[ "$OUT_DIR" != /* ]]; then
+    OUT_DIR="$(pwd)/$OUT_DIR"
+fi
 mkdir -p "$OUT_DIR"
+OUT_DIR="$(cd "$OUT_DIR" && pwd)"
 
 # Target output format to fix M4A cutting issues perfectly
 EXT="mp3"
@@ -77,8 +86,11 @@ for FILE in "$TMP_DIR"/*."$EXT"; do
         
         case "$CHOICE" in
             [Yy]* )
-                # Save into the targeted result directory
-                NEW_NAME=$(printf "saved_chunk_%03d.$EXT" "$KEEP_COUNTER")
+                # Save into the targeted result directory using plain numeric names.
+                while [[ -e "$OUT_DIR/$KEEP_COUNTER.$EXT" ]]; do
+                    ((KEEP_COUNTER++))
+                done
+                NEW_NAME="$KEEP_COUNTER.$EXT"
                 mv "$FILE" "$OUT_DIR/$NEW_NAME"
                 echo "--> Kept! Saved to $OUT_DIR/$NEW_NAME"
                 ((KEEP_COUNTER++))
@@ -105,6 +117,33 @@ done
 
 # Cleanup temporary folder
 rm -rf "$TMP_DIR"
+
+# Normalize the saved files before the final playback pass.
+echo "--------------------------------------------------------"
+echo "Normalizing saved MP3 files..."
+(
+    cd "$OUT_DIR"
+    find . -type f -name "*.mp3" -exec ffmpeg-normalize {} -c:a libmp3lame -b:a 192k -t -16 -o {} -f \;
+)
+
+echo "--------------------------------------------------------"
+# Review the saved mp3s in numeric order, one file at a time.
+PLAYLIST_FILE=$(mktemp)
+find "$OUT_DIR" -maxdepth 1 -type f -name '*.mp3' -printf '%p\n' | sort -V > "$PLAYLIST_FILE"
+if [ -s "$PLAYLIST_FILE" ]; then
+    MPV_INPUT_CONF=$(mktemp)
+    cat > "$MPV_INPUT_CONF" <<'EOF'
+SPACE playlist-next
+n playlist-next
+N playlist-prev
+EOF
+    echo "--------------------------------------------------------"
+    echo "Reviewing saved files in numeric order (1, 2, 3, 10, 11, ...)."
+    echo "Press n or Space in mpv to advance to the next file."
+    mpv --no-video --quiet --playlist="$PLAYLIST_FILE" --input-conf="$MPV_INPUT_CONF"
+    rm -f "$MPV_INPUT_CONF"
+fi
+rm -f "$PLAYLIST_FILE"
 
 echo "--------------------------------------------------------"
 echo "Done! Kept $((KEEP_COUNTER-1)) chunks inside '$OUT_DIR/'."
