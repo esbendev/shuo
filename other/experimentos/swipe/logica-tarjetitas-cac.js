@@ -81,6 +81,8 @@ function playAudio(src, sourceLabel, indicator) {
     });
 }
 
+window.TEST_AUTO_REVEAL_TEXT = false;
+
 const urlParams = new URLSearchParams(window.location.search);
 const requestedFile = urlParams.get('file') || 'week-1a';
 const requestedDir = (urlParams.get('dir') || urlParams.get('folder') || '').replace(/^\/+|\/+$/g, '');
@@ -212,6 +214,16 @@ loadQuestions()
                 const isShown = englishText.classList.toggle('revealed');
                 showEnglishButton.textContent = isShown ? 'Hide English' : 'Show English';
             });
+
+            if (window.TEST_AUTO_REVEAL_TEXT) {
+                chineseText.classList.add('revealed');
+                showTextButton.textContent = 'Hide Chinese';
+
+                if (hasEnglishText) {
+                    englishText.classList.add('revealed');
+                    showEnglishButton.textContent = 'Hide English';
+                }
+            }
 
             const buttonContainer = document.createElement('div');
             buttonContainer.className = 'controls';

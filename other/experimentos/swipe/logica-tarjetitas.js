@@ -60,6 +60,9 @@ function playAudio(src, sourceLabel, indicator) {
     currentAudio.play();
 }
 
+// Toggle this in the console during testing to reveal both answer texts automatically.
+window.TEST_AUTO_REVEAL_TEXT = false;
+
 // por ahora hardcodeamos esto
 // const filePath = "../../../contenido/preguntas/tubh/1/tubh1_rapidos.json";
 const urlParams = new URLSearchParams(window.location.search);
@@ -137,6 +140,16 @@ fetch(filePath)
                 const isShown = englishText.classList.toggle('revealed');
                 showEnglishButton.textContent = isShown ? 'Hide English' : 'Show English';
             });
+
+            if (window.TEST_AUTO_REVEAL_TEXT) {
+                chineseText.classList.add('revealed');
+                showTextButton.textContent = 'Hide Chinese';
+
+                if (hasEnglishText) {
+                    englishText.classList.add('revealed');
+                    showEnglishButton.textContent = 'Hide English';
+                }
+            }
 
             const buttonContainer = document.createElement('div');
             buttonContainer.className = 'controls';
