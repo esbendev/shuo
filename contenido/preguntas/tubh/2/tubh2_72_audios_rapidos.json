@@ -6,8 +6,8 @@
       "id": 1,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/1-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/1-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/1-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/1-slow.mp3"
       ],
       "respuesta_correcta": [
         "他的汉语说得不错。"
@@ -19,8 +19,8 @@
       "id": 2,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/2-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/2-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/2-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/2-slow.mp3"
       ],
       "respuesta_correcta": [
         "昨天我睡得太晚了！"
@@ -32,8 +32,8 @@
       "id": 3,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/3-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/3-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/3-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/3-slow.mp3"
       ],
       "respuesta_correcta": [
         "你刚刚说什么？我没听见。"
@@ -45,8 +45,8 @@
       "id": 4,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/4-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/4-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/4-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/4-slow.mp3"
       ],
       "respuesta_correcta": [
         "我饿死了！什么时候吃饭啊？"
@@ -58,8 +58,8 @@
       "id": 5,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/5-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/5-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/5-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/5-slow.mp3"
       ],
       "respuesta_correcta": [
         "谢谢，我真的吃饱了！"
@@ -71,8 +71,8 @@
       "id": 6,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/6-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/6-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/6-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/6-slow.mp3"
       ],
       "respuesta_correcta": [
         "他跑得好快哦！"
@@ -84,8 +84,8 @@
       "id": 7,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/7-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/7-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/7-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/7-slow.mp3"
       ],
       "respuesta_correcta": [
         "他开车开得太快了。"
@@ -97,8 +97,8 @@
       "id": 8,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/8-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/8-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/8-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/8-slow.mp3"
       ],
       "respuesta_correcta": [
         "你点菜把，我吃什么都可以。"
@@ -110,8 +110,8 @@
       "id": 9,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/2/9-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/2/9-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/2/9-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/2/9-slow.mp3"
       ],
       "respuesta_correcta": [
         "麻烦给我一下菜单。"
@@ -123,8 +123,8 @@
       "id": 10,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/3/1-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/3/1-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/3/1-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/3/1-slow.mp3"
       ],
       "respuesta_correcta": [
         "你刚在和谁说话？"
@@ -136,8 +136,8 @@
       "id": 11,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/3/2-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/3/2-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/3/2-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/3/2-slow.mp3"
       ],
       "respuesta_correcta": [
         "他们又唱又跳，特别高兴。"
@@ -149,8 +149,8 @@
       "id": 12,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/3/3-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/3/3-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/3/3-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/3/3-slow.mp3"
       ],
       "respuesta_correcta": [
         "我没有什么爱好。"
@@ -162,8 +162,8 @@
       "id": 13,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/3/4-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/3/4-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/3/4-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/3/4-slow.mp3"
       ],
       "respuesta_correcta": [
         "你画画画得怎么样？"
@@ -175,8 +175,8 @@
       "id": 14,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/3/5-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/3/5-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/3/5-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/3/5-slow.mp3"
       ],
       "respuesta_correcta": [
         "他打游戏打得很好。"
@@ -188,8 +188,8 @@
       "id": 15,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/3/6-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/3/6-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/3/6-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/3/6-slow.mp3"
       ],
       "respuesta_correcta": [
         "我小的时候，特别喜欢吃这个。"
@@ -201,8 +201,8 @@
       "id": 16,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/3/7-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/3/7-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/3/7-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/3/7-slow.mp3"
       ],
       "respuesta_correcta": [
         "我回家的时候，他还在睡觉呢。"
@@ -214,8 +214,8 @@
       "id": 17,
       "instrucciones": "Listen to the audio and write what you hear.",
       "archivo_audio": [
-        "../contenido/audio/tubh/2/day-65/3/8-fast.mp3",
-        "../contenido/audio/tubh/2/day-65/3/8-slow.mp3"
+        "../contenido/audio/tubh/2/day-72/3/8-fast.mp3",
+        "../contenido/audio/tubh/2/day-72/3/8-slow.mp3"
       ],
       "respuesta_correcta": [
         "很多中国人都不会游泳。"
