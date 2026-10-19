@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Daily News Decks</title>
+    <style>
+        :root {
+            --bg: #f3f1ec;
+            --panel: #fffdf8;
+            --text: #1f2426;
+            --muted: #5b676d;
+            --line: #d4d9d6;
+            --accent: #1f6b68;
+            --accent-strong: #0f4f4c;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: "Avenir Next", "Segoe UI", Tahoma, sans-serif;
+            color: var(--text);
+            background: radial-gradient(circle at top right, #e8f0eb, var(--bg) 42%);
+            min-height: 100vh;
+        }
+
+        .wrap {
+            max-width: 760px;
+            margin: 0 auto;
+            padding: 24px 16px 36px;
+        }
+
+        h1 {
+            font-size: clamp(1.7rem, 5vw, 2.2rem);
+            margin: 0;
+            color: #17373a;
+        }
+
+        .subtitle {
+            margin: 8px 0 20px;
+            color: var(--muted);
+            font-size: 1rem;
+            line-height: 1.45;
+        }
+
+        .panel {
+            background: var(--panel);
+            border: 1px solid var(--line);
+            border-radius: 12px;
+            padding: 14px;
+        }
+
+        h2 {
+            font-size: 1.05rem;
+            margin: 6px 0 10px;
+            color: #2a3f46;
+            letter-spacing: 0.02em;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: grid;
+            gap: 10px;
+        }
+
+        li {
+            margin: 0;
+        }
+
+        a {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+            width: 100%;
+            border: 1px solid var(--line);
+            border-radius: 10px;
+            padding: 12px 14px;
+            text-decoration: none;
+            color: var(--text);
+            background: #f9faf8;
+            font-weight: 600;
+            line-height: 1.35;
+        }
+
+        a:hover,
+        a:focus-visible {
+            border-color: #b6cac4;
+            outline: none;
+            background: #f1f6f3;
+        }
+
+        .jump {
+            color: var(--accent);
+            font-size: 0.9rem;
+            font-weight: 700;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+
+<body>
+    <main class="wrap">
+        <h1>Daily News Decks</h1>
+        <p class="subtitle">Choose a deck and pass it via the file query parameter.</p>
+
+        <section class="panel">
+            <ul>
+                <li>
+                    <a href="./daily-news.html?file=daily-news-20261019"><span>daily-news-20261019</span><span class="jump">Open</span></a>
+                </li>
+            </ul>
+        </section>
+    </main>
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "slug": "波特兰与俄勒冈州",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/1_波特兰与俄勒冈州.mp3"
+  },
+  {
+    "id": 2,
+    "slug": "最近在俄勒冈州发生了一件非常重要的事情",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/2_最近在俄勒冈州发生了一件非常重要的事情.mp3"
+  },
+  {
+    "id": 3,
+    "slug": "警察在调查一起学校的事情_新闻也报道了很多细节",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/3_警察在调查一起学校的事情_新闻也报道了很多细节.mp3"
+  },
+  {
+    "id": 4,
+    "slug": "很多居民觉得大家需要互相帮助_希望城市可以越来越安全",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/4_很多居民觉得大家需要互相帮助_希望城市可以越来越安全.mp3"
+  },
+  {
+    "id": 5,
+    "slug": "在危地马拉_最近的新闻报道了一件严肃的事情",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/5_在危地马拉_最近的新闻报道了一件严肃的事情.mp3"
+  },
+  {
+    "id": 6,
+    "slug": "一位著名的律师遇到了袭击",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/6_一位著名的律师遇到了袭击.mp3"
+  },
+  {
+    "id": 7,
+    "slug": "警察马上开始调查这起案件_很多人希望政府可以帮助维护社会的安全",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/7_警察马上开始调查这起案件_很多人希望政府可以帮助维护社会的安全.mp3"
+  },
+  {
+    "id": 8,
+    "slug": "在阿根廷_最近布宜诺斯艾利斯有很多人在路上参加游行",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/8_在阿根廷_最近布宜诺斯艾利斯有很多人在路上参加游行.mp3"
+  },
+  {
+    "id": 9,
+    "slug": "因为大学的预算问题_很多学生和老师觉得现在的情况比较困难",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/9_因为大学的预算问题_很多学生和老师觉得现在的情况比较困难.mp3"
+  },
+  {
+    "id": 10,
+    "slug": "大家希望政府可以帮助解决经济问题",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261019/10_大家希望政府可以帮助解决经济问题.mp3"
+  }
+]

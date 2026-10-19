@@ -1,0 +1,332 @@
+const container = document.getElementById('cardContainer');
+let currentIndex = 0;
+let startY = 0;
+let endY = 0;
+let touchStartTime = 0;
+
+let currentAudio = null;
+let currentStatusIndicator = null;
+
+const urlParams = new URLSearchParams(window.location.search);
+const requestedFile = urlParams.get('file') || 'daily-news-20261019';
+const requestedDir = (urlParams.get('dir') || urlParams.get('folder') || 'daily-news').replace(/^\/+|\/+$/g, '');
+const normalizedFilename = requestedFile.replace(/\.json$/i, '');
+
+function setViewportHeightVar() {
+    document.documentElement.style.setProperty('--viewport-h', `${window.innerHeight}px`);
+}
+
+setViewportHeightVar();
+
+function setAudioStatus(indicator, isPlaying, sourceLabel) {
+    if (!indicator) {
+        return;
+    }
+
+    const text = indicator.querySelector('.status-text');
+    if (!text) {
+        return;
+    }
+
+    if (isPlaying) {
+        indicator.classList.add('playing');
+        text.textContent = `Playing (${sourceLabel})`;
+        return;
+    }
+
+    indicator.classList.remove('playing');
+    text.textContent = 'Stopped';
+}
+
+function resolveMediaUrl(rawUrl) {
+    if (!rawUrl) {
+        return '';
+    }
+
+    if (/^(https?:)?\/\//i.test(rawUrl) || rawUrl.startsWith('blob:') || rawUrl.startsWith('data:') || rawUrl.startsWith('file:')) {
+        return rawUrl;
+    }
+
+    if (rawUrl.startsWith('/')) {
+        return new URL(rawUrl, window.location.origin).href;
+    }
+
+    const cleaned = rawUrl.replace(/^\.\//, '').replace(/^(\.\.\/)+/, '');
+    return new URL(`/other/experimentos/${cleaned}`, window.location.origin).href;
+}
+
+function playAudio(src, sourceLabel, indicator) {
+    if (!src) {
+        return;
+    }
+
+    if (currentStatusIndicator && currentStatusIndicator !== indicator) {
+        setAudioStatus(currentStatusIndicator, false);
+    }
+
+    if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+    }
+
+    const absoluteSrc = resolveMediaUrl(src);
+    currentAudio = new Audio(absoluteSrc);
+    currentStatusIndicator = indicator;
+
+    setAudioStatus(indicator, true, sourceLabel);
+
+    currentAudio.addEventListener('ended', () => {
+        setAudioStatus(indicator, false);
+        if (currentAudio) {
+            currentAudio = null;
+        }
+    });
+
+    currentAudio.addEventListener('pause', () => {
+        if (currentAudio && currentAudio.currentTime < currentAudio.duration) {
+            setAudioStatus(indicator, false);
+        }
+    });
+
+    currentAudio.play().catch(() => {
+        setAudioStatus(indicator, false);
+        console.warn('Audio playback was blocked until the user interacts with the page.');
+    });
+}
+
+function updateCardPosition() {
+    const totalCards = container.children.length;
+    currentIndex = Math.min(Math.max(currentIndex, 0), totalCards - 1);
+    container.style.transform = `translateY(-${currentIndex * window.innerHeight}px)`;
+}
+
+function loadNewCard(nextIndex) {
+    if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+        setAudioStatus(currentStatusIndicator, false);
+        currentAudio = null;
+    }
+
+    const totalCards = container.children.length;
+    if (totalCards === 0) {
+        return;
+    }
+
+    currentIndex = Math.min(Math.max(nextIndex, 0), totalCards - 1);
+    updateCardPosition();
+
+    const newCard = container.children[currentIndex];
+    if (newCard) {
+        const primaryAudioButton = newCard.querySelector('#audio-button-primary');
+        if (primaryAudioButton) {
+            primaryAudioButton.click();
+        }
+    }
+}
+
+function handleSwipe(event) {
+    const direction = event.deltaY > 0 ? 1 : -1;
+    currentIndex += direction;
+    loadNewCard(currentIndex);
+}
+
+function handleTouchStart(event) {
+    startY = event.touches[0].clientY;
+    touchStartTime = Date.now();
+}
+
+function handleTouchMove(event) {
+    event.preventDefault();
+    endY = event.touches[0].clientY;
+}
+
+function handleTouchEnd(event) {
+    endY = event.changedTouches[0].clientY;
+    const swipeThreshold = 30;
+    const movement = Math.abs(startY - endY);
+    const touchDuration = Date.now() - touchStartTime;
+
+    if (movement <= swipeThreshold || touchDuration < 10) {
+        return;
+    }
+
+    const direction = startY - endY > 0 ? 1 : -1;
+    currentIndex += direction;
+    loadNewCard(currentIndex);
+}
+
+function handleKeyDown(event) {
+    const currentCard = container.children[currentIndex];
+
+    if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
+        event.preventDefault();
+        currentCard?.querySelector('#audio-button-primary')?.click();
+        return;
+    }
+
+    if (event.key === 'ArrowUp') {
+        event.preventDefault();
+        currentIndex -= 1;
+    } else if (event.key === 'ArrowDown') {
+        event.preventDefault();
+        currentIndex += 1;
+    } else {
+        return;
+    }
+
+    loadNewCard(currentIndex);
+}
+
+async function resolveDeckPath() {
+    const candidates = [
+        `./${requestedDir}/${normalizedFilename}.json`,
+        `./${requestedDir}/${requestedFile}.json`,
+        `./${normalizedFilename}.json`,
+        `./${requestedFile}.json`
+    ];
+
+    for (const candidate of candidates) {
+        try {
+            const response = await fetch(candidate, { method: 'HEAD' });
+            if (response.ok) {
+                return candidate;
+            }
+        } catch (error) {
+            // Try the next candidate.
+        }
+
+        try {
+            const response = await fetch(candidate);
+            if (response.ok) {
+                return candidate;
+            }
+        } catch (error) {
+            // Try the next candidate.
+        }
+    }
+
+    return `./${requestedDir}/${normalizedFilename}.json`;
+}
+
+resolveDeckPath()
+    .then((deckPath) => fetch(deckPath))
+    .then((response) => {
+        if (!response.ok) {
+            throw new Error(`Failed to load deck: ${response.status}`);
+        }
+        return response.json();
+    })
+    .then((data) => {
+        const totalCards = data.preguntas.length;
+
+        data.preguntas.forEach((pregunta, index) => {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.style.setProperty('--card-index', index);
+
+            const cardInner = document.createElement('div');
+            cardInner.className = 'card-inner';
+
+            const cardCounter = document.createElement('p');
+            cardCounter.className = 'card-counter';
+            cardCounter.textContent = `${index + 1} of ${totalCards}`;
+            cardInner.appendChild(cardCounter);
+
+            const topic = document.createElement('p');
+            topic.className = 'topic';
+            topic.textContent = pregunta.topic || 'Daily News';
+            cardInner.appendChild(topic);
+
+            const contentStack = document.createElement('div');
+            contentStack.className = 'content-stack';
+
+            const chineseLabel = document.createElement('p');
+            chineseLabel.className = 'text-slot-label';
+            chineseLabel.textContent = 'Chinese';
+            contentStack.appendChild(chineseLabel);
+
+            const chineseSlot = document.createElement('div');
+            chineseSlot.className = 'text-slot zh';
+
+            const chineseText = document.createElement('p');
+            chineseText.className = 'card-text zh';
+            chineseText.textContent = pregunta.respuesta_correcta[0];
+            chineseSlot.appendChild(chineseText);
+            contentStack.appendChild(chineseSlot);
+
+            const englishLabel = document.createElement('p');
+            englishLabel.className = 'text-slot-label';
+            englishLabel.textContent = 'English';
+            contentStack.appendChild(englishLabel);
+
+            const englishSlot = document.createElement('div');
+            englishSlot.className = 'text-slot en';
+
+            const englishText = document.createElement('p');
+            englishText.className = 'card-text en';
+            englishText.textContent = pregunta.texto_en_ingles || '';
+            englishSlot.appendChild(englishText);
+            contentStack.appendChild(englishSlot);
+
+            cardInner.appendChild(contentStack);
+
+            const showTextButton = document.createElement('button');
+            showTextButton.className = 'button toggle-text-button';
+            showTextButton.textContent = 'Show Chinese';
+            showTextButton.addEventListener('click', () => {
+                const isShown = chineseText.classList.toggle('revealed');
+                showTextButton.textContent = isShown ? 'Hide Chinese' : 'Show Chinese';
+            });
+
+            const showEnglishButton = document.createElement('button');
+            showEnglishButton.className = 'button toggle-text-button';
+            showEnglishButton.textContent = 'Show English';
+            const hasEnglishText = Boolean((pregunta.texto_en_ingles || '').trim());
+            showEnglishButton.disabled = !hasEnglishText;
+            showEnglishButton.addEventListener('click', () => {
+                const isShown = englishText.classList.toggle('revealed');
+                showEnglishButton.textContent = isShown ? 'Hide English' : 'Show English';
+            });
+
+            const buttonContainer = document.createElement('div');
+            buttonContainer.className = 'controls';
+
+            const audioStatus = document.createElement('div');
+            audioStatus.className = 'audio-status';
+            audioStatus.innerHTML = '<span class="status-dot"></span><span class="status-text">Stopped</span>';
+            buttonContainer.appendChild(audioStatus);
+
+            buttonContainer.appendChild(showTextButton);
+            buttonContainer.appendChild(showEnglishButton);
+
+            const primaryButton = document.createElement('button');
+            primaryButton.className = 'button audio-button';
+            primaryButton.id = 'audio-button-primary';
+            primaryButton.textContent = 'Play';
+            primaryButton.addEventListener('click', () => {
+                playAudio(pregunta.archivo_audio, pregunta.topic || 'Daily News', audioStatus);
+            });
+            buttonContainer.appendChild(primaryButton);
+
+            cardInner.appendChild(buttonContainer);
+            card.appendChild(cardInner);
+            container.appendChild(card);
+        });
+
+        updateCardPosition();
+    })
+    .catch((error) => {
+        console.error('Error loading deck:', error);
+        container.innerHTML = '<div style="display:flex;align-items:center;justify-content:center;height:100vh;color:#333;font-size:1.1rem;">Could not load deck: ' + requestedFile + '</div>';
+    });
+
+container.addEventListener('touchstart', handleTouchStart, { passive: false });
+container.addEventListener('touchmove', handleTouchMove, { passive: false });
+container.addEventListener('touchend', handleTouchEnd, { passive: false });
+window.addEventListener('wheel', handleSwipe, { passive: true });
+window.addEventListener('keydown', handleKeyDown);
+window.addEventListener('resize', () => {
+    setViewportHeightVar();
+    updateCardPosition();
+});

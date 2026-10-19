@@ -1,0 +1,96 @@
+{
+  "titulo": "Daily News 20261019",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "topic": "波特兰与俄勒冈州",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/1_波特兰与俄勒冈州.mp3",
+      "respuesta_correcta": [
+        "波特兰与俄勒冈州"
+      ],
+      "texto_en_ingles": "Portland and Oregon"
+    },
+    {
+      "id": 2,
+      "topic": "俄勒冈州",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/2_最近在俄勒冈州发生了一件非常重要的事情.mp3",
+      "respuesta_correcta": [
+        "最近在俄勒冈州发生了一件非常重要的事情。"
+      ],
+      "texto_en_ingles": "Something very important happened recently in Oregon."
+    },
+    {
+      "id": 3,
+      "topic": "俄勒冈州",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/3_警察在调查一起学校的事情_新闻也报道了很多细节.mp3",
+      "respuesta_correcta": [
+        "警察在调查一起学校的事情，新闻也报道了很多细节。"
+      ],
+      "texto_en_ingles": "Police are investigating a school case, and the news reported many details."
+    },
+    {
+      "id": 4,
+      "topic": "俄勒冈州",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/4_很多居民觉得大家需要互相帮助_希望城市可以越来越安全.mp3",
+      "respuesta_correcta": [
+        "很多居民觉得大家需要互相帮助，希望城市可以越来越安全。"
+      ],
+      "texto_en_ingles": "Many residents feel the community needs to help one another and hope the city becomes safer."
+    },
+    {
+      "id": 5,
+      "topic": "危地马拉",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/5_在危地马拉_最近的新闻报道了一件严肃的事情.mp3",
+      "respuesta_correcta": [
+        "在危地马拉，最近的新闻报道了一件严肃的事情。"
+      ],
+      "texto_en_ingles": "In Guatemala, recent news reported a serious incident."
+    },
+    {
+      "id": 6,
+      "topic": "危地马拉",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/6_一位著名的律师遇到了袭击.mp3",
+      "respuesta_correcta": [
+        "一位著名的律师遇到了袭击。"
+      ],
+      "texto_en_ingles": "A well-known lawyer was attacked."
+    },
+    {
+      "id": 7,
+      "topic": "危地马拉",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/7_警察马上开始调查这起案件_很多人希望政府可以帮助维护社会的安全.mp3",
+      "respuesta_correcta": [
+        "警察马上开始调查这起案件，很多人希望政府可以帮助维护社会的安全。"
+      ],
+      "texto_en_ingles": "Police immediately began investigating the case, and many people hope the government will help maintain public safety."
+    },
+    {
+      "id": 8,
+      "topic": "阿根廷",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/8_在阿根廷_最近布宜诺斯艾利斯有很多人在路上参加游行.mp3",
+      "respuesta_correcta": [
+        "在阿根廷，最近布宜诺斯艾利斯有很多人在路上参加游行。"
+      ],
+      "texto_en_ingles": "In Argentina, many people recently took part in a march in Buenos Aires."
+    },
+    {
+      "id": 9,
+      "topic": "阿根廷",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/9_因为大学的预算问题_很多学生和老师觉得现在的情况比较困难.mp3",
+      "respuesta_correcta": [
+        "因为大学的预算问题，很多学生和老师觉得现在的情况比较困难。"
+      ],
+      "texto_en_ingles": "Because of budget problems at the university, many students and teachers feel the situation is difficult."
+    },
+    {
+      "id": 10,
+      "topic": "阿根廷",
+      "archivo_audio": "/other/experimentos/voiceGen/audioFiles/daily-news/20261019/10_大家希望政府可以帮助解决经济问题.mp3",
+      "respuesta_correcta": [
+        "大家希望政府可以帮助解决经济问题。"
+      ],
+      "texto_en_ingles": "People hope the government can help solve the economic problems."
+    }
+  ]
+}
