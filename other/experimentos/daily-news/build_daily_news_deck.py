@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
 import json
+import os
 from pathlib import Path
 
 base = Path(__file__).resolve().parent
 source = base / 'news' / '20261019.txt'
-manifest_path = Path('/home/esbendev/esbendev/repos/shuo/other/experimentos/voiceGen/audioFiles/daily-news/manifest.json')
+manifest_path = Path('/home/esbendev/esbendev/repos/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261019/manifest.json')
 out_dir = Path('/home/esbendev/esbendev/repos/shuo/other/experimentos/swipe/daily-news')
 out_dir.mkdir(parents=True, exist_ok=True)
+base_path = os.environ.get('SITE_BASE_PATH', '/shuo').strip()
+if not base_path or base_path == '/':
+    base_path = ''
 
 text = source.read_text(encoding='utf-8')
 lines = [line.strip() for line in text.splitlines()]
@@ -28,8 +32,14 @@ questions = []
 repo_root = Path('/home/esbendev/esbendev/repos/shuo')
 for idx, item in enumerate(manifest, start=1):
     slug = item['slug']
-    audio = str(Path(item['audio']).relative_to(repo_root)).replace('\\', '/')
-    audio = '/' + audio
+    audio_path = Path(item['audio'])
+    if not audio_path.is_absolute():
+        audio_path = (repo_root / audio_path).resolve()
+    audio = str(audio_path.relative_to(repo_root.resolve())).replace('\\', '/')
+    if base_path:
+        audio = f"{base_path.rstrip('/')}/{audio}"
+    else:
+        audio = '/' + audio
     if slug == '波特兰与俄勒冈州':
         topic = '波特兰与俄勒冈州'
         chinese = '波特兰与俄勒冈州'

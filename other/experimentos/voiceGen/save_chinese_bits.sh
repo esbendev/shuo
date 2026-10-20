@@ -149,6 +149,7 @@ PY
 
 python3 - "$INPUT_FILE" "$OUTPUT_DIR" "$SCRIPT_DIR" <<'PY'
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -156,6 +157,9 @@ source_file = Path(sys.argv[1]).resolve()
 output_dir = Path(sys.argv[2]).resolve()
 script_dir = Path(sys.argv[3]).resolve()
 repo_root = script_dir.parents[2]
+base_path = os.environ.get('SITE_BASE_PATH', '/shuo').strip()
+if not base_path or base_path == '/':
+    base_path = ''
 manifest_path = output_dir / 'manifest.json'
 if not manifest_path.exists():
     raise SystemExit(f'Manifest not found: {manifest_path}')
@@ -174,7 +178,7 @@ for index, item in enumerate(manifest, start=1):
     else:
         audio_abs = audio_abs.resolve()
     relative_audio = audio_abs.relative_to(repo_root.resolve())
-    audio_url = '/' + relative_audio.as_posix()
+    audio_url = f"{base_path.rstrip('/')}/{relative_audio.as_posix()}" if base_path else '/' + relative_audio.as_posix()
 
     topic = 'Daily News'
     chinese = slug_to_text(slug)
