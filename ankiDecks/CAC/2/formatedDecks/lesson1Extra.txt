@@ -1,0 +1,23 @@
+<div class="chineseChars">电视剧</div>|<div class="answer">diànshìjù; TV series; drama</div>
+<div class="chineseChars">漫画</div>|<div class="answer">mànhuà; comics; manga</div>
+<div class="chineseChars">可怕的电影</div>|<div class="answer">kěpàdediànyǐng; scary movie</div>
+<div class="chineseChars">可是</div>|<div class="answer">kěshì; but; however</div>
+<div class="chineseChars">不能用</div>|<div class="answer">bùnéngyòng; unable to use; cannot use</div>
+<div class="chineseChars">不需要用</div>|<div class="answer">bùxūyàoyòng; don't need to use</div>
+<div class="chineseChars">马上有钱</div>|<div class="answer">mǎshàngyǒuqián; get rich quickly; have money soon</div>
+<div class="chineseChars">比赛</div>|<div class="answer">bǐsài; competition; match</div>
+<div class="chineseChars">突然</div>|<div class="answer">tūrán; suddenly</div>
+<div class="chineseChars">零食</div>|<div class="answer">língshí; snacks; junk food</div>
+<div class="chineseChars">外网</div>|<div class="answer">wàiwǎng; external network; foreign internet</div>
+<div class="chineseChars">打麻将</div>|<div class="answer">dǎmájiàng; play mahjong</div>
+<div class="chineseChars">他好像常常哭。</div>|<div class="answer">tāhǎoxiàngchángchángkū.; He seems to cry often.</div>
+<div class="chineseChars">你去你的朋友家找他，他的家没有开门，也没有开灯。</div>|<div class="answer">nǐqùnǐdepéngyoujiāzhǎotā,tādejīaméiyǒukāimén,yěméiyǒukāidēng.; You went to your friend's house to look for him, but his home had no lights on and the door was shut.</div>
+<div class="chineseChars">你的朋友结婚以后，就没有笑过了。</div>|<div class="answer">nǐdepéngyoujiéhūnyǐhòu,jiùméiyǒuxiàoguòle.; Since your friend got married, they haven't smiled again.</div>
+<div class="chineseChars">最近常常下雨。</div>|<div class="answer">zuìjìnchángchángxiàyǔ.; It has been raining a lot recently.</div>
+<div class="chineseChars">今天早上起床，你感觉自己的头很疼。</div>|<div class="answer">jīntiānzǎoshangqǐchuáng,nǐgǎnjuézìjǐdetóuhěnténg.; This morning when you woke up, you felt your head hurt badly.</div>
+<div class="chineseChars">好像昨天的抽烟抽得太多了。</div>|<div class="answer">hǎoxiàngzuótiāndechōuyānchōudetàiduōle.; It seems you smoked too much yesterday.</div>
+<div class="chineseChars">你跟一个中国人说中文，他的脸是这样。</div>|<div class="answer">nǐgēn yígèzhōngguórénshuōzhōngwén,tādeliǎnshìzhèyàng.; When you spoke Chinese with a Chinese person, his face looked like this.</div>
+<div class="chineseChars">说话</div>|<div class="answer">shuōhuà; speak; talk</div>
+<div class="chineseChars">什么事情都有可能。</div>|<div class="answer">shénmeshìqingdōuyǒukěnéng.; Anything could happen.</div>
+<div class="chineseChars">我不可能说比两个语言更多的语言。</div>|<div class="answer">wǒbùkěnéngshuōbǐliǎnggèyǔyángèngduōdeyǔyán.; I can't possibly speak more than two languages.</div>
+<div class="chineseChars">可怕</div>|<div class="answer">kěpà; scary; frightening</div>

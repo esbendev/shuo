@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "slug": "今天早上_波特兰附近发生了小型地震",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/1_今天早上_波特兰附近发生了小型地震.mp3"
+  },
+  {
+    "id": 2,
+    "slug": "很多人觉得天气变冷了_大家准备过冬",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/2_很多人觉得天气变冷了_大家准备过冬.mp3"
+  },
+  {
+    "id": 3,
+    "slug": "社区里的人们经常在公园散步_关注最近的公共安全问题_也已经开始准备参加本周末的体育活动",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/3_社区里的人们经常在公园散步_关注最近的公共安全问题_也已经开始准备参加本周末的体育活动.mp3"
+  },
+  {
+    "id": 4,
+    "slug": "危地马拉今天有新的法律新闻",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/4_危地马拉今天有新的法律新闻.mp3"
+  },
+  {
+    "id": 5,
+    "slug": "法院对一些旧问题做出了决定_许多市民认为政府应该更加努力保护安全",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/5_法院对一些旧问题做出了决定_许多市民认为政府应该更加努力保护安全.mp3"
+  },
+  {
+    "id": 6,
+    "slug": "大家感觉社会正在发生变化_也发现了更多关于司法和人权问题的讨论",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/6_大家感觉社会正在发生变化_也发现了更多关于司法和人权问题的讨论.mp3"
+  },
+  {
+    "id": 7,
+    "slug": "阿根廷和附近的边界地区今天下大雨_河水上涨很多",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/7_阿根廷和附近的边界地区今天下大雨_河水上涨很多.mp3"
+  },
+  {
+    "id": 8,
+    "slug": "很多人发现自然的力量很强大",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/8_很多人发现自然的力量很强大.mp3"
+  },
+  {
+    "id": 9,
+    "slug": "同时_政府代表已经开始与国际伙伴合作_准备推动新的数字网络建设",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/9_同时_政府代表已经开始与国际伙伴合作_准备推动新的数字网络建设.mp3"
+  },
+  {
+    "id": 10,
+    "slug": "大家好像对未来的发展很关注",
+    "audio": "other/experimentos/voiceGen/audioFiles/daily-news/20261022/10_大家好像对未来的发展很关注.mp3"
+  }
+]

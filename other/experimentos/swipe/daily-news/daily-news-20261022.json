@@ -1,0 +1,96 @@
+{
+  "titulo": "Daily News 2026-10-22",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "topic": "波特兰",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/1_今天早上_波特兰附近发生了小型地震.mp3",
+      "respuesta_correcta": [
+        "今天早上，波特兰附近发生了小型地震。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 2,
+      "topic": "波特兰",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/2_很多人觉得天气变冷了_大家准备过冬.mp3",
+      "respuesta_correcta": [
+        "很多人觉得天气变冷了，大家准备过冬。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 3,
+      "topic": "波特兰",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/3_社区里的人们经常在公园散步_关注最近的公共安全问题_也已经开始准备参加本周末的体育活动.mp3",
+      "respuesta_correcta": [
+        "社区里的人们经常在公园散步，关注最近的公共安全问题，也已经开始准备参加本周末的体育活动。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 4,
+      "topic": "危地马拉",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/4_危地马拉今天有新的法律新闻.mp3",
+      "respuesta_correcta": [
+        "危地马拉今天有新的法律新闻。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 5,
+      "topic": "危地马拉",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/5_法院对一些旧问题做出了决定_许多市民认为政府应该更加努力保护安全.mp3",
+      "respuesta_correcta": [
+        "法院对一些旧问题做出了决定，许多市民认为政府应该更加努力保护安全。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 6,
+      "topic": "危地马拉",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/6_大家感觉社会正在发生变化_也发现了更多关于司法和人权问题的讨论.mp3",
+      "respuesta_correcta": [
+        "大家感觉社会正在发生变化，也发现了更多关于司法和人权问题的讨论。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 7,
+      "topic": "阿根廷",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/7_阿根廷和附近的边界地区今天下大雨_河水上涨很多.mp3",
+      "respuesta_correcta": [
+        "阿根廷和附近的边界地区今天下大雨，河水上涨很多。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 8,
+      "topic": "阿根廷",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/8_很多人发现自然的力量很强大.mp3",
+      "respuesta_correcta": [
+        "很多人发现自然的力量很强大。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 9,
+      "topic": "阿根廷",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/9_同时_政府代表已经开始与国际伙伴合作_准备推动新的数字网络建设.mp3",
+      "respuesta_correcta": [
+        "同时，政府代表已经开始与国际伙伴合作，准备推动新的数字网络建设。"
+      ],
+      "texto_en_ingles": ""
+    },
+    {
+      "id": 10,
+      "topic": "阿根廷",
+      "archivo_audio": "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/10_大家好像对未来的发展很关注.mp3",
+      "respuesta_correcta": [
+        "大家好像对未来的发展很关注。"
+      ],
+      "texto_en_ingles": ""
+    }
+  ]
+}
