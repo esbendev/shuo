@@ -1,0 +1,12 @@
+<div class="chineseChars">羊肉</div>|<div class="answer">yángròu - lamb</div>
+<div class="chineseChars">消息</div>|<div class="answer">xiāoxi - news, information</div>
+<div class="chineseChars">难过</div>|<div class="answer">nánguò - sad</div>
+<div class="chineseChars">面试</div>|<div class="answer">miànshì - interview</div>
+<div class="chineseChars">衬衫</div>|<div class="answer">chènshān - shirt</div>
+<div class="chineseChars">关心</div>|<div class="answer">guānxīn - to care about</div>
+<div class="chineseChars">花钱</div>|<div class="answer">huā qián - to spend money</div>
+<div class="chineseChars">花时间</div>|<div class="answer">huā shíjiān - to spend time</div>
+<div class="chineseChars">年轻</div>|<div class="answer">niánqīng - young</div>
+<div class="chineseChars">应该</div>|<div class="answer">yīnggāi - should</div>
+<div class="chineseChars">成功</div>|<div class="answer">chénggōng - success; to succeed; successful</div>
+<div class="chineseChars">安静</div>|<div class="answer">ānjìng - quiet</div>

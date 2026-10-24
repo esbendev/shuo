@@ -1,0 +1,24 @@
+<div class="chineseChars">我喜欢吃羊肉。</div>|<div class="answer">wǒ xǐhuan chī yángròu. <span class="english">I like eating lamb.</span></div>
+<div class="chineseChars">羊肉比牛肉更贵。</div>|<div class="answer">yángròu bǐ niúròu gèng guì. <span class="english">Lamb is more expensive than beef.</span></div>
+<div class="chineseChars">告诉你一个好消息。</div>|<div class="answer">gàosu nǐ yí ge hǎo xiāoxi. <span class="english">Let me tell you some good news.</span></div>
+<div class="chineseChars">你有他的消息了吗？</div>|<div class="answer">nǐ yǒu tā de xiāoxi le ma? <span class="english">Have you heard from him?</span></div>
+<div class="chineseChars">听到这个消息，我非常难过。</div>|<div class="answer">tīngdào zhège xiāoxi, wǒ fēicháng nánguò. <span class="english">I was very sad to hear this news.</span></div>
+<div class="chineseChars">别难过了，我们出去走走吧。</div>|<div class="answer">bié nánguò le, wǒmen chūqù zǒuzǒu ba. <span class="english">Don't be sad. Let's go out for a walk.</span></div>
+<div class="chineseChars">明天我有一个面试。</div>|<div class="answer">míngtiān wǒ yǒu yí ge miànshì. <span class="english">I have an interview tomorrow.</span></div>
+<div class="chineseChars">你的面试怎么样，有消息了吗？</div>|<div class="answer">nǐ de miànshì zěnmeyàng, yǒu xiāoxi le ma? <span class="english">How was your interview? Have you heard back?</span></div>
+<div class="chineseChars">这件衬衫有点儿大。</div>|<div class="answer">zhè jiàn chènshān yǒudiǎnr dà. <span class="english">This shirt is a bit big.</span></div>
+<div class="chineseChars">我一般穿黑色的衬衫。</div>|<div class="answer">wǒ yìbān chuān hēisè de chènshān. <span class="english">I usually wear black shirts.</span></div>
+<div class="chineseChars">大家都很关心你。</div>|<div class="answer">dàjiā dōu hěn guānxīn nǐ. <span class="english">Everyone cares about you.</span></div>
+<div class="chineseChars">这就是我最关心的问题。</div>|<div class="answer">zhè jiù shì wǒ zuì guānxīn de wèntí. <span class="english">This is the question I care about the most.</span></div>
+<div class="chineseChars">我每天只花十块钱。</div>|<div class="answer">wǒ měitiān zhǐ huā shí kuài qián. <span class="english">I only spend ten yuan a day.</span></div>
+<div class="chineseChars">你又想住好的酒店，又不想花钱，那怎么可能呢？</div>|<div class="answer">nǐ yòu xiǎng zhù hǎo de jiǔdiàn, yòu bù xiǎng huā qián, nà zěnme kěnéng ne? <span class="english">You want to stay at a nice hotel but don't want to spend money — how is that possible?</span></div>
+<div class="chineseChars">他花很多时间和他的孩子在一起。</div>|<div class="answer">tā huā hěn duō shíjiān hé tā de háizi zài yìqǐ. <span class="english">He spends a lot of time with his child.</span></div>
+<div class="chineseChars">我每天花半个小时学习中文。</div>|<div class="answer">wǒ měitiān huā bàn ge xiǎoshí xuéxí zhōngwén. <span class="english">I spend half an hour a day studying Chinese.</span></div>
+<div class="chineseChars">我已经不年轻了。</div>|<div class="answer">wǒ yǐjīng bù niánqīng le. <span class="english">I'm not young anymore.</span></div>
+<div class="chineseChars">你还年轻，还有希望。</div>|<div class="answer">nǐ hái niánqīng, hái yǒu xīwàng. <span class="english">You're still young, there's still hope.</span></div>
+<div class="chineseChars">你应该更努力。</div>|<div class="answer">nǐ yīnggāi gèng nǔlì. <span class="english">You should work harder.</span></div>
+<div class="chineseChars">他真的不应该这么说。</div>|<div class="answer">tā zhēn de bù yīnggāi zhème shuō. <span class="english">He really shouldn't have said that.</span></div>
+<div class="chineseChars">你要非常努力，才会成功。</div>|<div class="answer">nǐ yào fēicháng nǔlì, cái huì chénggōng. <span class="english">You need to work very hard to succeed.</span></div>
+<div class="chineseChars">我不关心你成功不成功，我只关心你开心不开心。</div>|<div class="answer">wǒ bù guānxīn nǐ chénggōng bù chénggōng, wǒ zhǐ guānxīn nǐ kāixīn bù kāixīn. <span class="english">I don't care if you succeed, I just care if you're happy.</span></div>
+<div class="chineseChars">他的家附近很安静。</div>|<div class="answer">tā de jiā fùjìn hěn ānjìng. <span class="english">It's very quiet near his home.</span></div>
+<div class="chineseChars">为什么今天办公室这么安静？</div>|<div class="answer">wèishénme jīntiān bàngōngshì zhème ānjìng? <span class="english">Why is the office so quiet today?</span></div>

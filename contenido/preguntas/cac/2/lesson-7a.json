@@ -1,0 +1,438 @@
+{
+  "titulo": "CAC Lesson 7A Audio",
+  "showHelp": true,
+  "preguntas": [
+    {
+      "id": 1,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/1.mp3"
+      ],
+      "respuesta_correcta": [
+        "羊肉"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "lamb"
+    },
+    {
+      "id": 2,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/2.mp3"
+      ],
+      "respuesta_correcta": [
+        "我喜欢吃羊肉。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I like eating lamb."
+    },
+    {
+      "id": 3,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/3.mp3"
+      ],
+      "respuesta_correcta": [
+        "羊肉比牛肉更贵。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Lamb is more expensive than beef."
+    },
+    {
+      "id": 4,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/4.mp3"
+      ],
+      "respuesta_correcta": [
+        "消息"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "news"
+    },
+    {
+      "id": 5,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/5.mp3"
+      ],
+      "respuesta_correcta": [
+        "告诉你一个好消息。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Let me tell you some good news."
+    },
+    {
+      "id": 6,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/6.mp3"
+      ],
+      "respuesta_correcta": [
+        "你有他的消息了吗？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Have you heard from him?"
+    },
+    {
+      "id": 7,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/7.mp3"
+      ],
+      "respuesta_correcta": [
+        "难过"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "sad"
+    },
+    {
+      "id": 8,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/8.mp3"
+      ],
+      "respuesta_correcta": [
+        "听到这个消息，我非常难过。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I was very sad to hear this news."
+    },
+    {
+      "id": 9,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/9.mp3"
+      ],
+      "respuesta_correcta": [
+        "别难过了，我们出去走走吧。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Don’t be sad. Let’s go out for a walk."
+    },
+    {
+      "id": 10,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/10.mp3"
+      ],
+      "respuesta_correcta": [
+        "面试"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "interview"
+    },
+    {
+      "id": 11,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/11.mp3"
+      ],
+      "respuesta_correcta": [
+        "明天我有一个面试。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I have an interview tomorrow."
+    },
+    {
+      "id": 12,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/12.mp3"
+      ],
+      "respuesta_correcta": [
+        "你的面试怎么样，有消息了吗？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "How was your interview? Have you heard back?"
+    },
+    {
+      "id": 13,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/13.mp3"
+      ],
+      "respuesta_correcta": [
+        "衬衫"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "shirt"
+    },
+    {
+      "id": 14,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/14.mp3"
+      ],
+      "respuesta_correcta": [
+        "这件衬衫有点儿大。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This shirt is a bit big."
+    },
+    {
+      "id": 15,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/15.mp3"
+      ],
+      "respuesta_correcta": [
+        "我一般穿黑色的衬衫。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I usually wear black shirts."
+    },
+    {
+      "id": 16,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/16.mp3"
+      ],
+      "respuesta_correcta": [
+        "关心"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to care about"
+    },
+    {
+      "id": 17,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/17.mp3"
+      ],
+      "respuesta_correcta": [
+        "大家都很关心你。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Everyone cares about you."
+    },
+    {
+      "id": 18,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/18.mp3"
+      ],
+      "respuesta_correcta": [
+        "这就是我最关心的问题。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "This is the question I care about the most."
+    },
+    {
+      "id": 19,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/19.mp3"
+      ],
+      "respuesta_correcta": [
+        "花钱"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to spend money"
+    },
+    {
+      "id": 20,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/20.mp3"
+      ],
+      "respuesta_correcta": [
+        "我每天只花十块钱。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I only spend ten yuan a day."
+    },
+    {
+      "id": 21,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/21.mp3"
+      ],
+      "respuesta_correcta": [
+        "你又想住好的酒店，又不想花钱，那怎么可能呢？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "You want to stay at a nice hotel but don’t want to spend money — how is that possible?"
+    },
+    {
+      "id": 22,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/22.mp3"
+      ],
+      "respuesta_correcta": [
+        "花时间"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "to spend time"
+    },
+    {
+      "id": 23,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/23.mp3"
+      ],
+      "respuesta_correcta": [
+        "他花很多时间和他的孩子在一起。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He spends a lot of time with his child."
+    },
+    {
+      "id": 24,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/24.mp3"
+      ],
+      "respuesta_correcta": [
+        "我每天花半个小时学习中文。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I spend half an hour a day studying Chinese."
+    },
+    {
+      "id": 25,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/25.mp3"
+      ],
+      "respuesta_correcta": [
+        "年轻"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "young"
+    },
+    {
+      "id": 26,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/26.mp3"
+      ],
+      "respuesta_correcta": [
+        "我已经不年轻了。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I’m not young anymore."
+    },
+    {
+      "id": 27,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/27.mp3"
+      ],
+      "respuesta_correcta": [
+        "你还年轻，还有希望。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "You’re still young, there’s still hope."
+    },
+    {
+      "id": 28,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/28.mp3"
+      ],
+      "respuesta_correcta": [
+        "应该"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "should"
+    },
+    {
+      "id": 29,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/29.mp3"
+      ],
+      "respuesta_correcta": [
+        "你应该更努力。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "You should work harder."
+    },
+    {
+      "id": 30,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/30.mp3"
+      ],
+      "respuesta_correcta": [
+        "他真的不应该这么说。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "He really shouldn’t have said that."
+    },
+    {
+      "id": 31,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/31.mp3"
+      ],
+      "respuesta_correcta": [
+        "成功"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "success / to succeed / successful"
+    },
+    {
+      "id": 32,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/32.mp3"
+      ],
+      "respuesta_correcta": [
+        "你要非常努力，才会成功。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "You need to work very hard to succeed."
+    },
+    {
+      "id": 33,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/33.mp3"
+      ],
+      "respuesta_correcta": [
+        "我不关心你成功不成功，我只关心你开心不开心。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "I don’t care if you succeed, I just care if you’re happy."
+    },
+    {
+      "id": 34,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/34.mp3"
+      ],
+      "respuesta_correcta": [
+        "安静"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "quiet"
+    },
+    {
+      "id": 35,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/35.mp3"
+      ],
+      "respuesta_correcta": [
+        "他的家附近很安静。"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "It’s very quiet near his home."
+    },
+    {
+      "id": 36,
+      "instrucciones": "Listen to the audio and write what you hear.",
+      "archivo_audio": [
+        "../contenido/audio/cac/2/lesson-7a/36.mp3"
+      ],
+      "respuesta_correcta": [
+        "为什么今天办公室这么安静？"
+      ],
+      "input_chars_aceptados": [],
+      "texto_en_ingles": "Why is the office so quiet today?"
+    }
+  ]
+}
