@@ -1,0 +1,22 @@
+<div class="chineseChars">要...了</div>|<div class="answer">yào...le; Something is about to happen.</div>
+<div class="chineseChars">就要...了</div>|<div class="answer">jiùyào...le; Emphasizing immediacy.</div>
+<div class="chineseChars">快...了</div>|<div class="answer">kuài...le; Something is happening very soon.</div>
+<div class="chineseChars">就快...了</div>|<div class="answer">jiùkuài...le; Very, very soon.</div>
+<div class="chineseChars">才</div>|<div class="answer">cái; later than expected; not until; used to express a necessary condition.</div>
+<div class="chineseChars">你比一般的中国人努力吗？</div>|<div class="answer">nǐbǐyìbāndezhōngguórénnǔlìma?; Are you more hardworking than the average Chinese person?</div>
+<div class="chineseChars">懒</div>|<div class="answer">lǎn; lazy.</div>
+<div class="chineseChars">赚钱</div>|<div class="answer">zhuànqián; to make money; to earn money.</div>
+<div class="chineseChars">改变</div>|<div class="answer">gǎibiàn; to change; to alter.</div>
+<div class="chineseChars">我一接到你的电话，就出发。</div>|<div class="answer">wǒyìjiēdàonǐdediànhuà,jiùchūfā; As soon as I received your call, I left.</div>
+<div class="chineseChars">生活</div>|<div class="answer">shēnghuó; life; living.</div>
+<div class="chineseChars">表弟</div>|<div class="answer">biǎodì; younger male cousin.</div>
+<div class="chineseChars">他们在你的家住多长时间？</div>|<div class="answer">tāmenzàinǐdejāzhùduōchángshíjiān?; How long have they stayed at your house?</div>
+<div class="chineseChars">他20岁就结婚了。</div>|<div class="answer">tāèrshísuìjiùjiéhūnle; He got married at 20.</div>
+<div class="chineseChars">他60岁才结婚。</div>|<div class="answer">tāliùshísuìcáijiéhūn; He didn’t get married until he was 60.</div>
+<div class="chineseChars">醉了</div>|<div class="answer">zuìle; drunk; intoxicated.</div>
+<div class="chineseChars">他喝了七八杯酒，才醉。</div>|<div class="answer">tāhēleqībābēijiǔ,cáizuì; He drank seven or eight glasses of wine before getting drunk.</div>
+<div class="chineseChars">我叫了杨安薄两次，她才回答。</div>|<div class="answer">wǒjiàoleyángānbólìangcì,tācáihuídá; I called Yang Anbo twice before she answered.</div>
+<div class="chineseChars">回答</div>|<div class="answer">huídá; to answer; reply.</div>
+<div class="chineseChars">我叫了微洛一次，她就回答了。</div>|<div class="answer">wǒjiàolewēiluóyīcì,tājiùhuídále; I called Weiluo once and she answered right away.</div>
+<div class="chineseChars">上了高铁以后，他才发现，他坐了错的车。</div>|<div class="answer">shànglegāotiěyǐhòu,tācáifāxiàn,tāzuòlecuòdéchē; After getting on the high-speed train, he only then realized he had boarded the wrong train.</div>
+<div class="chineseChars">很快地告诉我们</div>|<div class="answer">hěnkuàidègàosùwǒmen; Tell us very quickly.</div>
