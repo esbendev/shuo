@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v261024-2";
+const CACHE_NAME = "esbendev-shuo-v261030-1";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -123,18 +123,19 @@ const urlsToCache = [
     "/shuo/other/experimentos/time.html",
     "/shuo/other/experimentos/dates.html",
     // nuevo experimento para practicar audios
-    "/shuo/other/experimentos/swipe/logica-tarjetitas.js",
+    "/shuo/other/experimentos/swipe/control.js",
     "/shuo/other/experimentos/swipe/index.html",
+    "/shuo/other/experimentos/swipe/swipe-core.js",
+    "/shuo/other/experimentos/swipe/swipe-app.js",
     "/shuo/other/experimentos/swipe/list.html",
     "/shuo/other/experimentos/swipe/daily-news.html",
-    "/shuo/other/experimentos/swipe/daily-news.js",
+    "/shuo/other/experimentos/swipe/random.html",
     "/shuo/other/experimentos/swipe/daily-news-list.html",
     "/shuo/other/experimentos/swipe/daily-news/daily-news-20261019.json",
     "/shuo/other/experimentos/swipe/daily-news/daily-news-20261022.json",
     "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261022/manifest.json",
     "/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261019/manifest.json",
     // cac
-    "/shuo/other/experimentos/swipe/logica-tarjetitas-cac.js",
     "/shuo/other/experimentos/swipe/index-cac.html",
     "/shuo/contenido/preguntas/cac/1/week-1a.json",
     "/shuo/contenido/preguntas/cac/1/week-2a.json",
