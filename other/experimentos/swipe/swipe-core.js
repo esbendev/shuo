@@ -1,4 +1,28 @@
 (function (globalScope) {
+  function getSiteRootPrefix() {
+    const location = globalScope.location;
+    const pathname = location && typeof location.pathname === 'string' ? location.pathname : '';
+    const href = location && typeof location.href === 'string' ? location.href : '';
+
+    if (pathname.startsWith('/shuo') || href.includes('/shuo/')) {
+      return '/shuo';
+    }
+
+    return '';
+  }
+
+  function normalizeSitePath(pathValue) {
+    if (!pathValue || typeof pathValue !== 'string') {
+      return '';
+    }
+
+    return pathValue
+      .trim()
+      .replace(/^\/+(?=\w)/, '/')
+      .replace(/^\/shuo(?=\/)/i, '')
+      .replace(/^\//, '');
+  }
+
   function resolveMediaUrl(rawUrl) {
     if (!rawUrl || typeof rawUrl !== 'string') {
       return '';
@@ -14,16 +38,17 @@
     }
 
     const origin = globalScope.location && globalScope.location.origin ? globalScope.location.origin : 'http://localhost';
+    const siteRootPrefix = getSiteRootPrefix();
 
     if (trimmed.startsWith('/')) {
-      const siteRelativePath = trimmed.replace(/^\/shuo(?=\/)/i, '');
-      return `${origin}${siteRelativePath}`;
+      const siteRelativePath = normalizeSitePath(trimmed);
+      return `${origin}${siteRootPrefix ? `${siteRootPrefix}/` : '/'}${siteRelativePath}`;
     }
 
     const normalizedProjectRelative = trimmed.replace(/^(?:\.\/|\.\.\/)+/, '');
     if (normalizedProjectRelative.startsWith('contenido/') || normalizedProjectRelative.startsWith('other/experimentos/') || normalizedProjectRelative.startsWith('shuo/')) {
-      const sitePath = normalizedProjectRelative.replace(/^shuo\//i, '');
-      return `${origin}/${sitePath}`;
+      const sitePath = normalizeSitePath(normalizedProjectRelative.startsWith('shuo/') ? normalizedProjectRelative : `/${normalizedProjectRelative}`);
+      return `${origin}${siteRootPrefix ? `${siteRootPrefix}/` : '/'}${sitePath}`;
     }
 
     if (/^(?:\.\.?\/|\w+[\/\\]|[^:]+\.[^/\\]+|[^:]+$)/.test(trimmed)) {
@@ -36,6 +61,7 @@
 
   function buildProjectRootUrl(...segments) {
     const origin = globalScope.location && globalScope.location.origin ? globalScope.location.origin : 'http://localhost';
+    const siteRootPrefix = getSiteRootPrefix();
     const cleaned = segments
       .filter((segment) => segment !== undefined && segment !== null && segment !== '')
       .flatMap((segment) => String(segment).split('/'))
@@ -43,11 +69,14 @@
       .filter(Boolean)
       .filter((segment) => segment !== '.');
 
-    if (!cleaned.length) {
-      return origin;
+    const normalizedSegments = cleaned.map((segment) => segment.replace(/^shuo$/i, ''))
+      .filter(Boolean);
+
+    if (!normalizedSegments.length) {
+      return `${origin}${siteRootPrefix || ''}`;
     }
 
-    const path = `/${cleaned.join('/')}`;
+    const path = `${siteRootPrefix || ''}/${normalizedSegments.join('/')}`;
     return `${origin}${path}`;
   }
 

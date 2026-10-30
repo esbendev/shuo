@@ -37,39 +37,60 @@ test('buildAudioButtonConfig supports legacy and modern payload shapes', () => {
 });
 
 test('buildProjectRootUrl resolves site-root content paths without relative drift', () => {
-  assert.equal(
-    SwipeCore.buildProjectRootUrl('contenido', 'preguntas', 'cac', '1', 'week-1a.json'),
-    'http://localhost/contenido/preguntas/cac/1/week-1a.json'
-  );
+  const previousLocation = globalThis.location;
+  globalThis.location = { origin: 'https://esbendev.com', href: 'https://esbendev.com/shuo/other/experimentos/swipe/index.html', pathname: '/shuo/other/experimentos/swipe/index.html' };
 
-  assert.equal(
-    SwipeCore.buildProjectRootUrl('/contenido/', 'preguntas/', '/cac/1/', 'week-1a.json'),
-    'http://localhost/contenido/preguntas/cac/1/week-1a.json'
-  );
+  try {
+    assert.equal(
+      SwipeCore.buildProjectRootUrl('contenido', 'preguntas', 'cac', '1', 'week-1a.json'),
+      'https://esbendev.com/shuo/contenido/preguntas/cac/1/week-1a.json'
+    );
+
+    assert.equal(
+      SwipeCore.buildProjectRootUrl('/contenido/', 'preguntas/', '/cac/1/', 'week-1a.json'),
+      'https://esbendev.com/shuo/contenido/preguntas/cac/1/week-1a.json'
+    );
+  } finally {
+    globalThis.location = previousLocation;
+  }
 });
 
 test('resolveMediaUrl normalizes repo-root absolute paths', () => {
-  assert.equal(
-    SwipeCore.resolveMediaUrl('/shuo/contenido/preguntas/cac/1/week-1a.json'),
-    'http://localhost/contenido/preguntas/cac/1/week-1a.json'
-  );
+  const previousLocation = globalThis.location;
+  globalThis.location = { origin: 'https://esbendev.com', href: 'https://esbendev.com/shuo/other/experimentos/swipe/index.html', pathname: '/shuo/other/experimentos/swipe/index.html' };
 
-  assert.equal(
-    SwipeCore.resolveMediaUrl('/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261019/1_波特兰与俄勒冈州.mp3'),
-    'http://localhost/other/experimentos/voiceGen/audioFiles/daily-news/20261019/1_波特兰与俄勒冈州.mp3'
-  );
+  try {
+    assert.equal(
+      SwipeCore.resolveMediaUrl('/shuo/contenido/preguntas/cac/1/week-1a.json'),
+      'https://esbendev.com/shuo/contenido/preguntas/cac/1/week-1a.json'
+    );
+
+    assert.equal(
+      SwipeCore.resolveMediaUrl('/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261019/1_波特兰与俄勒冈州.mp3'),
+      'https://esbendev.com/shuo/other/experimentos/voiceGen/audioFiles/daily-news/20261019/1_波特兰与俄勒冈州.mp3'
+    );
+  } finally {
+    globalThis.location = previousLocation;
+  }
 });
 
 test('resolveMediaUrl normalizes project-relative contenido paths', () => {
-  assert.equal(
-    SwipeCore.resolveMediaUrl('../contenido/audio/cac/2/lesson-6a/1.mp3'),
-    'http://localhost/contenido/audio/cac/2/lesson-6a/1.mp3'
-  );
+  const previousLocation = globalThis.location;
+  globalThis.location = { origin: 'https://esbendev.com', href: 'https://esbendev.com/shuo/other/experimentos/swipe/index.html', pathname: '/shuo/other/experimentos/swipe/index.html' };
 
-  assert.equal(
-    SwipeCore.resolveMediaUrl('./contenido/audio/cac/2/lesson-6a/1.mp3'),
-    'http://localhost/contenido/audio/cac/2/lesson-6a/1.mp3'
-  );
+  try {
+    assert.equal(
+      SwipeCore.resolveMediaUrl('../contenido/audio/cac/2/lesson-6a/1.mp3'),
+      'https://esbendev.com/shuo/contenido/audio/cac/2/lesson-6a/1.mp3'
+    );
+
+    assert.equal(
+      SwipeCore.resolveMediaUrl('./contenido/audio/cac/2/lesson-6a/1.mp3'),
+      'https://esbendev.com/shuo/contenido/audio/cac/2/lesson-6a/1.mp3'
+    );
+  } finally {
+    globalThis.location = previousLocation;
+  }
 });
 
 test('resolveMediaUrl preserves http and data URLs and resolves relative urls', () => {
