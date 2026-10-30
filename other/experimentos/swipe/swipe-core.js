@@ -116,18 +116,91 @@
   function applyAudioButtons({ rawAudio, buttonContainer, audioStatus, playAudio }) {
     const buttonConfig = buildAudioButtonConfig(rawAudio);
 
+    if (!buttonConfig.length) {
+      return buttonConfig;
+    }
+
+    if (buttonConfig.length === 1) {
+      const primaryButton = document.createElement('button');
+      primaryButton.type = 'button';
+      primaryButton.className = 'audio-toggle-button';
+      primaryButton.id = 'audio-button-primary';
+      primaryButton.textContent = '▶';
+      primaryButton.setAttribute('aria-label', 'Play audio');
+
+      const slider = document.createElement('input');
+      slider.type = 'range';
+      slider.className = 'audio-slider';
+      slider.min = '0';
+      slider.max = '100';
+      slider.value = '0';
+      slider.setAttribute('aria-label', 'Audio progress');
+
+      const primaryControl = document.createElement('div');
+      primaryControl.className = 'audio-primary-control';
+      primaryControl.appendChild(slider);
+      primaryControl.appendChild(primaryButton);
+      buttonContainer.appendChild(primaryControl);
+
+      primaryButton.addEventListener('click', () => {
+        if (playAudio) {
+          playAudio(buttonConfig[0].source, buttonConfig[0].label, audioStatus, { playButton: primaryButton, slider });
+        }
+      });
+
+      return buttonConfig;
+    }
+
+    const speedControls = document.createElement('div');
+    speedControls.className = 'audio-speed-controls';
+    speedControls.dataset.selectedSource = buttonConfig[0].source;
+    speedControls.dataset.selectedLabel = buttonConfig[0].label;
+
+    const primaryButton = document.createElement('button');
+    primaryButton.type = 'button';
+    primaryButton.className = 'audio-toggle-button';
+    primaryButton.id = 'audio-button-primary';
+    primaryButton.textContent = '▶';
+    primaryButton.setAttribute('aria-label', 'Play audio');
+
+    const slider = document.createElement('input');
+    slider.type = 'range';
+    slider.className = 'audio-slider';
+    slider.min = '0';
+    slider.max = '100';
+    slider.value = '0';
+    slider.setAttribute('aria-label', 'Audio progress');
+
+    const playerControls = document.createElement('div');
+    playerControls.className = 'audio-primary-control';
+    playerControls.appendChild(slider);
+    playerControls.appendChild(primaryButton);
+    buttonContainer.appendChild(playerControls);
+
     buttonConfig.forEach(({ key, label, source }) => {
       const button = document.createElement('button');
       button.type = 'button';
       button.className = 'button audio-button';
-      button.id = buttonConfig.length === 1 ? 'audio-button-primary' : `audio-button-${key}`;
+      button.id = `audio-button-${key}`;
       button.textContent = label;
       button.addEventListener('click', () => {
+        speedControls.dataset.selectedSource = source;
+        speedControls.dataset.selectedLabel = label;
         if (playAudio) {
-          playAudio(source, label, audioStatus);
+          playAudio(source, label, audioStatus, { playButton: primaryButton, slider, selectedSource: source, selectedLabel: label });
         }
       });
-      buttonContainer.appendChild(button);
+      speedControls.appendChild(button);
+    });
+
+    buttonContainer.appendChild(speedControls);
+
+    primaryButton.addEventListener('click', () => {
+      const selectedSource = speedControls.dataset.selectedSource || buttonConfig[0].source;
+      const selectedLabel = speedControls.dataset.selectedLabel || buttonConfig[0].label;
+      if (playAudio) {
+        playAudio(selectedSource, selectedLabel, audioStatus, { playButton: primaryButton, slider, selectedSource, selectedLabel });
+      }
     });
 
     return buttonConfig;

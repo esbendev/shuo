@@ -34,8 +34,72 @@
     text.textContent = 'Stopped';
   }
 
-  function playAudio(src, sourceLabel, indicator) {
+  function updateToggleButtonState(button, isPlaying) {
+    if (!button) {
+      return;
+    }
+
+    button.textContent = isPlaying ? '❚❚' : '▶';
+    button.classList.toggle('is-playing', isPlaying);
+    button.setAttribute('aria-label', isPlaying ? 'Pause audio' : 'Play audio');
+  }
+
+  function updateAudioSlider(slider, currentTime, duration) {
+    if (!slider) {
+      return;
+    }
+
+    const safeDuration = Number.isFinite(duration) && duration > 0 ? duration : 0;
+    const safeCurrentTime = Number.isFinite(currentTime) ? currentTime : 0;
+    const percentage = safeDuration > 0 ? (safeCurrentTime / safeDuration) * 100 : 0;
+    slider.value = String(Math.min(100, Math.max(0, percentage)));
+  }
+
+  function bindSeekSlider(slider) {
+    if (!slider || slider.dataset.seekBound === 'true') {
+      return;
+    }
+
+    slider.dataset.seekBound = 'true';
+    slider.addEventListener('input', (event) => {
+      const nextValue = Number(event.target.value || 0);
+      if (!currentAudio || !Number.isFinite(currentAudio.duration) || currentAudio.duration <= 0) {
+        return;
+      }
+      currentAudio.currentTime = (nextValue / 100) * currentAudio.duration;
+      updateAudioSlider(slider, currentAudio.currentTime, currentAudio.duration);
+    });
+  }
+
+  function installProgressMonitor(audio, slider) {
+    if (!audio || !slider) {
+      return;
+    }
+
+    if (slider.dataset.progressTimer) {
+      clearInterval(Number(slider.dataset.progressTimer));
+      delete slider.dataset.progressTimer;
+    }
+
+    const timerId = window.setInterval(() => {
+      if (!currentAudio || currentAudio !== audio) {
+        clearInterval(timerId);
+        delete slider.dataset.progressTimer;
+        return;
+      }
+      updateAudioSlider(slider, audio.currentTime, audio.duration);
+    }, 100);
+
+    slider.dataset.progressTimer = String(timerId);
+  }
+
+  function playAudio(src, sourceLabel, indicator, controlState = null) {
     if (!src) {
+      return;
+    }
+
+    const absoluteSrc = globalScope.SwipeCore.resolveMediaUrl(src);
+    if (!absoluteSrc) {
       return;
     }
 
@@ -43,32 +107,102 @@
       setAudioStatus(currentStatusIndicator, false);
     }
 
+    if (currentAudio && currentAudio.src === absoluteSrc) {
+      if (currentAudio.paused) {
+        currentAudio.play().catch(() => {
+          setAudioStatus(indicator, false);
+          updateToggleButtonState(controlState?.playButton, false);
+          console.warn('Audio playback was blocked until the user interacts with the page.');
+        });
+        setAudioStatus(indicator, true, sourceLabel || 'Audio');
+        updateToggleButtonState(controlState?.playButton, true);
+        if (controlState?.slider) {
+          installProgressMonitor(currentAudio, controlState.slider);
+        }
+        return;
+      }
+
+      currentAudio.pause();
+      setAudioStatus(indicator, false);
+      updateToggleButtonState(controlState?.playButton, false);
+      return;
+    }
+
     if (currentAudio) {
       currentAudio.pause();
       currentAudio.currentTime = 0;
     }
 
-    const absoluteSrc = globalScope.SwipeCore.resolveMediaUrl(src);
-    currentAudio = new Audio(absoluteSrc);
+    const audio = new Audio(absoluteSrc);
+    currentAudio = audio;
     currentStatusIndicator = indicator;
 
-    setAudioStatus(indicator, true, sourceLabel || 'Audio');
+    if (controlState?.slider) {
+      bindSeekSlider(controlState.slider);
+      updateAudioSlider(controlState.slider, 0, 0);
+      installProgressMonitor(audio, controlState.slider);
+    }
 
-    currentAudio.addEventListener('ended', () => {
+    audio.addEventListener('loadedmetadata', () => {
+      if (audio !== currentAudio || !currentAudio) {
+        return;
+      }
+      if (controlState?.slider) {
+        updateAudioSlider(controlState.slider, currentAudio.currentTime, currentAudio.duration);
+      }
+    });
+
+    audio.addEventListener('timeupdate', () => {
+      if (audio !== currentAudio || !currentAudio) {
+        return;
+      }
+      if (controlState?.slider) {
+        updateAudioSlider(controlState.slider, currentAudio.currentTime, currentAudio.duration);
+      }
+    });
+
+    audio.addEventListener('ended', () => {
+      if (audio !== currentAudio || !currentAudio) {
+        return;
+      }
       setAudioStatus(indicator, false);
-      if (currentAudio) {
-        currentAudio = null;
+      updateToggleButtonState(controlState?.playButton, false);
+      if (controlState?.slider && controlState.slider.dataset.progressTimer) {
+        clearInterval(Number(controlState.slider.dataset.progressTimer));
+        delete controlState.slider.dataset.progressTimer;
+      }
+      currentAudio = null;
+    });
+
+    audio.addEventListener('pause', () => {
+      if (audio !== currentAudio || !currentAudio || audio.ended) {
+        return;
+      }
+      setAudioStatus(indicator, false);
+      updateToggleButtonState(controlState?.playButton, false);
+      if (controlState?.slider && controlState.slider.dataset.progressTimer) {
+        clearInterval(Number(controlState.slider.dataset.progressTimer));
+        delete controlState.slider.dataset.progressTimer;
       }
     });
 
-    currentAudio.addEventListener('pause', () => {
-      if (currentAudio && currentAudio.currentTime < currentAudio.duration) {
-        setAudioStatus(indicator, false);
+    audio.addEventListener('play', () => {
+      if (audio !== currentAudio || !currentAudio) {
+        return;
+      }
+      setAudioStatus(indicator, true, sourceLabel || 'Audio');
+      updateToggleButtonState(controlState?.playButton, true);
+      if (controlState?.slider) {
+        installProgressMonitor(audio, controlState.slider);
       }
     });
+
+    setAudioStatus(indicator, true, sourceLabel || 'Audio');
+    updateToggleButtonState(controlState?.playButton, true);
 
     currentAudio.play().catch(() => {
       setAudioStatus(indicator, false);
+      updateToggleButtonState(controlState?.playButton, false);
       console.warn('Audio playback was blocked until the user interacts with the page.');
     });
   }
@@ -91,6 +225,45 @@
     return card?.querySelector('#audio-button-primary') || card?.querySelector('#audio-button-fast');
   }
 
+  function getCardAudioPlaybackState(card) {
+    if (!card) {
+      return null;
+    }
+
+    const indicator = card.querySelector('.audio-status');
+    const primaryButton = getPrimaryAudioButton(card);
+    const slider = card.querySelector('.audio-slider');
+    const speedControls = card.querySelector('.audio-speed-controls');
+    const selectedSource = speedControls?.dataset.selectedSource || card.dataset.primaryAudioSource || null;
+    const selectedLabel = speedControls?.dataset.selectedLabel || card.dataset.primaryAudioLabel || 'Play';
+
+    if (!indicator || !selectedSource) {
+      return null;
+    }
+
+    return {
+      indicator,
+      playButton: primaryButton,
+      slider,
+      selectedSource,
+      selectedLabel,
+    };
+  }
+
+  function autoplayCard(card) {
+    const playbackState = getCardAudioPlaybackState(card);
+    if (!playbackState) {
+      return;
+    }
+
+    playAudio(playbackState.selectedSource, playbackState.selectedLabel, playbackState.indicator, {
+      playButton: playbackState.playButton,
+      slider: playbackState.slider,
+      selectedSource: playbackState.selectedSource,
+      selectedLabel: playbackState.selectedLabel,
+    });
+  }
+
   function loadNewCard(nextIndex) {
     if (currentAudio) {
       currentAudio.pause();
@@ -111,8 +284,9 @@
     if (newCard) {
       const primaryAudioButton = getPrimaryAudioButton(newCard);
       if (primaryAudioButton) {
-        primaryAudioButton.click();
+        updateToggleButtonState(primaryAudioButton, false);
       }
+      autoplayCard(newCard);
     }
   }
 
@@ -152,10 +326,7 @@
 
     if (event.key === 'ArrowLeft' || event.key === 'ArrowRight') {
       event.preventDefault();
-      const choice = currentCard?.querySelector('#audio-button-primary') || currentCard?.querySelector('#audio-button-fast') || currentCard?.querySelector('#audio-button-slow');
-      if (choice) {
-        choice.click();
-      }
+      autoplayCard(currentCard);
       return;
     }
 
@@ -176,6 +347,12 @@
     const card = document.createElement('div');
     card.className = 'card';
     card.style.setProperty('--card-index', index);
+
+    const audioConfig = globalScope.SwipeCore.buildAudioButtonConfig(pregunta.archivo_audio);
+    if (audioConfig.length) {
+      card.dataset.primaryAudioSource = audioConfig[0].source;
+      card.dataset.primaryAudioLabel = audioConfig[0].label;
+    }
 
     const cardInner = document.createElement('div');
     cardInner.className = 'card-inner';
@@ -266,7 +443,7 @@
       rawAudio: pregunta.archivo_audio,
       buttonContainer,
       audioStatus,
-      playAudio: (source, label, indicator) => playAudio(source, label, indicator),
+      playAudio: (source, label, indicator, controlState) => playAudio(source, label, indicator, controlState),
     });
 
     cardInner.appendChild(buttonContainer);

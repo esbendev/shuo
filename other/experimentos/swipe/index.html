@@ -152,6 +152,61 @@
             gap: 10px;
         }
 
+        .audio-primary-control {
+            grid-column: 1 / -1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            width: 100%;
+        }
+
+        .audio-speed-controls {
+            grid-column: 1 / -1;
+            display: flex;
+            gap: 8px;
+            width: 100%;
+        }
+
+        .audio-speed-controls .audio-button {
+            flex: 1;
+        }
+
+        .audio-toggle-button {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: var(--accent);
+            color: #ffffff;
+            border: 1px solid var(--accent);
+            font-size: 1.1rem;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: opacity 0.2s ease, background-color 0.2s ease, transform 0.2s ease;
+            flex-shrink: 0;
+            margin: 0 auto;
+        }
+
+        .audio-toggle-button.is-playing {
+            background: #1d5a4d;
+            border-color: #1d5a4d;
+        }
+
+        .audio-toggle-button:active {
+            transform: scale(0.98);
+            opacity: 0.96;
+        }
+
+        .audio-slider {
+            flex: 1;
+            accent-color: var(--accent);
+            width: 100%;
+            min-width: 0;
+        }
+
         .audio-status {
             grid-column: 1 / -1;
             display: inline-flex;
