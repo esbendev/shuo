@@ -1,0 +1,23 @@
+<div class="chineseChars">播客</div>|<div class="answer">bōkè; podcast</div>
+<div class="chineseChars">你找到一个中文老师，才能学习中文。</div>|<div class="answer">nǐzhǎodàoyígèzhōngwénlǎoshī,cáinéngxuéxízhōngwén.; You can only learn Chinese once you find a Chinese teacher.</div>
+<div class="chineseChars">我没有生病了，我才会快乐。</div>|<div class="answer">wǒméiyǒushēngbìngle,wǒcáihuìkuàilè.; Only when I am not sick am I happy.</div>
+<div class="chineseChars">食品</div>|<div class="answer">shípǐn; food; food products</div>
+<div class="chineseChars">毕业</div>|<div class="answer">bìyè; graduation; to graduate</div>
+<div class="chineseChars">如果他对我很好，我才会想和他结婚。</div>|<div class="answer">rúguǒtāduìwǒhěnhǎo,wǒcáihuìxiǎnghétājiéhūn.; Only if he is really good to me will I think about marrying him.</div>
+<div class="chineseChars">如果他对我很好，我就会想和他结婚。</div>|<div class="answer">rúguǒtāduìwǒhěnhǎo,wǒjiùhuìxiǎnghétājiéhūn.; If he is really good to me, I’ll want to marry him.</div>
+<div class="chineseChars">好好学习</div>|<div class="answer">hǎohǎoxuéxí; study hard</div>
+<div class="chineseChars">好好吃饭</div>|<div class="answer">hǎohǎochīfàn; eat well; have a proper meal</div>
+<div class="chineseChars">只工作，不上班</div>|<div class="answer">zhǐgōngzuò,bùshàngbān; work only; don’t go to work</div>
+<div class="chineseChars">从我的家一分钟就到办公室了。</div>|<div class="answer">cóngwǒdejiāyīfēnzhōngjiùdàobàngōngshìle.; It took only one minute from my home to the office.</div>
+<div class="chineseChars">我学习中文十个月，我的水平就到HSK2-3了。</div>|<div class="answer">wǒxuéxízhōngwénshígèyuè,wǒdeshuǐpíngjiùdàoHSK2-3le.; After studying Chinese for ten months, my level reached HSK 2-3.</div>
+<div class="chineseChars">两年</div>|<div class="answer">liǎngnián; two years</div>
+<div class="chineseChars">我们十分钟以后就要出发了。</div>|<div class="answer">wǒmenshífēnzhōngyǐhòujiùyàochūfāle.; We’ll be leaving in ten minutes.</div>
+<div class="chineseChars">我要工作完才可以睡觉。</div>|<div class="answer">wǒyàogōngzuòwáncáikěyǐshuìjiào.; I won’t be able to sleep until I finish work.</div>
+<div class="chineseChars">他回家以后才发现手机不见了。</div>|<div class="answer">tāhuíjiāyǐhòucáifāxiànshǒujībújiànle.; Only after he got home did he realize his phone was missing.</div>
+<div class="chineseChars">博物馆就要关门了。</div>|<div class="answer">bówùguǎnjiùyàoguānménle.; The museum is about to close.</div>
+<div class="chineseChars">或者票只要是多块钱。</div>|<div class="answer">huòzhepiàozhǐyàoshìduōkuàiqián.; Or the ticket is only a few yuan more.</div>
+<div class="chineseChars">老师讲了三遍，我才懂。</div>|<div class="answer">lǎoshījiǎnglesānbiàn,wǒcáidǒng.; After the teacher explained it three times, I finally understood.</div>
+<div class="chineseChars">关系</div>|<div class="answer">guānxì; relationship; connection</div>
+<div class="chineseChars">如果你努力学习中文，你就可以成功。</div>|<div class="answer">rúguǒnǐnǔlìxuéxízhōngwén,nǐjiùkěyǐchénggōng.; If you study Chinese diligently, you can succeed.</div>
+<div class="chineseChars">叙事 (familiar?)</div>|<div class="answer">xùshì(familiar?); narrative (familiar?)</div>
+<div class="chineseChars">T恤</div>|<div class="answer">tìxù; T-shirt</div>
