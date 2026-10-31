@@ -119,6 +119,7 @@ function bumpCacheName(sourceText) {
 }
 
 function updateServiceWorker() {
+    const checkOnly = process.argv.includes("--check");
     const originalText = fs.readFileSync(swFilePath, "utf8");
     const entries = buildSwipeEntries();
     const generatedBlock = renderSwipeBlock(entries);
@@ -128,8 +129,19 @@ function updateServiceWorker() {
         throw new Error("Could not find swipe cache block markers in sw.js");
     }
 
-    let updatedText = originalText.replace(blockPattern, generatedBlock);
-    updatedText = bumpCacheName(updatedText);
+    const blockSyncedText = originalText.replace(blockPattern, generatedBlock);
+
+    if (checkOnly) {
+        if (blockSyncedText !== originalText) {
+            console.error("Swipe cache block is out of date in sw.js");
+            console.error("Run: node other/experimentos/swipe/update-sw-cache.js");
+            process.exit(1);
+        }
+        console.log("Swipe cache block is up to date in sw.js");
+        return;
+    }
+
+    const updatedText = bumpCacheName(blockSyncedText);
 
     fs.writeFileSync(swFilePath, updatedText, "utf8");
 

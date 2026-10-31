@@ -16,3 +16,11 @@ From repo root:
 ```bash
 node other/experimentos/swipe/update-sw-cache.js
 ```
+
+## Check only (for hooks/CI)
+
+This validates that the generated swipe cache block in [sw.js](../../../sw.js) is up to date, without writing changes:
+
+```bash
+node other/experimentos/swipe/update-sw-cache.js --check
+```
