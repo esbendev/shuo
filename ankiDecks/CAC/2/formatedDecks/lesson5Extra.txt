@@ -1,0 +1,12 @@
+<div class="chineseChars">我洗碗的时候，一点儿也不高兴。</div>|<div class="answer">wǒxǐwǎndeshíhou,yìdiǎneryěbùgāoxìng.; I was not happy at all while washing dishes.</div>
+<div class="chineseChars">坏</div>|<div class="answer">huài; bad; spoiled</div>
+<div class="chineseChars">我一点儿不喜欢换时间。</div>|<div class="answer">wǒyìdiǎnerbùxǐhuānhuànshíjiān.; I don't like changing time at all.</div>
+<div class="chineseChars">一个泰语的句子都不会说。</div>|<div class="answer">yígètàiyǔdejùzidōubúhuìshuō.; I can't say a single Thai sentence.</div>
+<div class="chineseChars">汽水</div>|<div class="answer">qìshuǐ; soda; carbonated drink</div>
+<div class="chineseChars">动物</div>|<div class="answer">dòngwù; animal</div>
+<div class="chineseChars">你去过西班牙几次。</div>|<div class="answer">nǐqùguòxībānyájǐcì.; How many times have you been to Spain?</div>
+<div class="chineseChars">我一点儿不喜欢挂衣服。</div>|<div class="answer">wǒyìdiǎnerbùxǐhuānguàyīfu.; I don't like hanging up clothes at all.</div>
+<div class="chineseChars">照顾</div>|<div class="answer">zhàogù; to take care of; to look after</div>
+<div class="chineseChars">抽一根烟。</div>|<div class="answer">chōuyìgēnyān.; Smoke a cigarette.</div>
+<div class="chineseChars">抽一支烟。</div>|<div class="answer">chōuyìzhīyān.; Smoke a cigarette.</div>
+<div class="chineseChars">推荐</div>|<div class="answer">tuījian; to recommend</div>
