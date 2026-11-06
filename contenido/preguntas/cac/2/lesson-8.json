@@ -1,0 +1,234 @@
+{
+    "titulo": "CAC Lesson 8 Audio",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/1.mp3"
+            ],
+            "respuesta_correcta": [
+                "世界"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "world"
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/2.mp3"
+            ],
+            "respuesta_correcta": [
+                "春天"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "spring"
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/3.mp3"
+            ],
+            "respuesta_correcta": [
+                "夏天"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "summer"
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/4.mp3"
+            ],
+            "respuesta_correcta": [
+                "秋天"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "autumn, fall"
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/5.mp3"
+            ],
+            "respuesta_correcta": [
+                "冬天"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "winter"
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/6.mp3"
+            ],
+            "respuesta_correcta": [
+                "季节"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "season"
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/7.mp3"
+            ],
+            "respuesta_correcta": [
+                "鸟"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "bird"
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/8.mp3"
+            ],
+            "respuesta_correcta": [
+                "种"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "kind, type"
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/9.mp3"
+            ],
+            "respuesta_correcta": [
+                "讨厌"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to dislike, annoying"
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/10.mp3"
+            ],
+            "respuesta_correcta": [
+                "选择"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to choose, choice"
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/11.mp3"
+            ],
+            "respuesta_correcta": [
+                "银行"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "bank"
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/12.mp3"
+            ],
+            "respuesta_correcta": [
+                "经常"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "often"
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/13.mp3"
+            ],
+            "respuesta_correcta": [
+                "水平"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "level, proficiency"
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/14.mp3"
+            ],
+            "respuesta_correcta": [
+                "有名"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "famous"
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/15.mp3"
+            ],
+            "respuesta_correcta": [
+                "熊猫"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "panda"
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/16.mp3"
+            ],
+            "respuesta_correcta": [
+                "忘记"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to forget"
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/17.mp3"
+            ],
+            "respuesta_correcta": [
+                "坏"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "bad, broken"
+        },
+        {
+            "id": 18,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/18.mp3"
+            ],
+            "respuesta_correcta": [
+                "渴"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "thirsty"
+        },
+        {
+            "id": 19,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-8/19.mp3"
+            ],
+            "respuesta_correcta": [
+                "花园"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "garden"
+        }
+    ]
+}

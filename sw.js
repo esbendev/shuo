@@ -1,4 +1,4 @@
-const CACHE_NAME = "esbendev-shuo-v261030-6";
+const CACHE_NAME = "esbendev-shuo-v261106-1";
 const urlsToCache = [
     // general
     "/shuo/",
@@ -146,6 +146,7 @@ const urlsToCache = [
     "/shuo/contenido/preguntas/cac/1/week-3a.json",
     "/shuo/contenido/preguntas/cac/2/lesson-6a.json",
     "/shuo/contenido/preguntas/cac/2/lesson-7a.json",
+    "/shuo/contenido/preguntas/cac/2/lesson-8.json",
     // swipe-cache:end
 
 ];
