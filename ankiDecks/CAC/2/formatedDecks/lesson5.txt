@@ -1,19 +1,19 @@
-<div class="chineseChars">世界</div>|<div class="answer">shijie; world</div>
-<div class="chineseChars">春天</div>|<div class="answer">chuntian; spring</div>
-<div class="chineseChars">夏天</div>|<div class="answer">xiatian; summer</div>
-<div class="chineseChars">秋天</div>|<div class="answer">qiutian; autumn; fall</div>
-<div class="chineseChars">冬天</div>|<div class="answer">dongtian; winter</div>
-<div class="chineseChars">季节</div>|<div class="answer">jijie; season</div>
-<div class="chineseChars">鸟</div>|<div class="answer">niao; bird</div>
-<div class="chineseChars">种</div>|<div class="answer">zhong; kind; type</div>
-<div class="chineseChars">讨厌</div>|<div class="answer">taoyan; to dislike; annoying</div>
-<div class="chineseChars">选择</div>|<div class="answer">xuanzé; to choose; choice</div>
-<div class="chineseChars">银行</div>|<div class="answer">yinhang; bank</div>
-<div class="chineseChars">经常</div>|<div class="answer">jingchang; often; frequently; 常常</div>
-<div class="chineseChars">水平</div>|<div class="answer">shuiping; level; proficiency</div>
-<div class="chineseChars">有名</div>|<div class="answer">youming; famous; well-known</div>
-<div class="chineseChars">熊猫</div>|<div class="answer">xiongmao; panda</div>
-<div class="chineseChars">忘记</div>|<div class="answer">wangji; to forget; 忘</div>
-<div class="chineseChars">坏</div>|<div class="answer">huai; bad; broken</div>
-<div class="chineseChars">渴</div>|<div class="answer">ke; thirsty</div>
-<div class="chineseChars">花园</div>|<div class="answer">huayuan; garden</div>
+<div class="chineseChars">世界</div>|<div class="answer">shìjiè; world</div>
+<div class="chineseChars">春天</div>|<div class="answer">chūntiān; spring</div>
+<div class="chineseChars">夏天</div>|<div class="answer">xiàtiān; summer</div>
+<div class="chineseChars">秋天</div>|<div class="answer">qiūtiān; autumn; fall</div>
+<div class="chineseChars">冬天</div>|<div class="answer">dōngtiān; winter</div>
+<div class="chineseChars">季节</div>|<div class="answer">jìjié; season</div>
+<div class="chineseChars">鸟</div>|<div class="answer">niǎo; bird</div>
+<div class="chineseChars">种</div>|<div class="answer">zhǒng; kind; type</div>
+<div class="chineseChars">讨厌</div>|<div class="answer">tǎoyàn; to dislike; annoying</div>
+<div class="chineseChars">选择</div>|<div class="answer">xuǎnzé; to choose; choice</div>
+<div class="chineseChars">银行</div>|<div class="answer">yínháng; bank</div>
+<div class="chineseChars">经常</div>|<div class="answer">jīngcháng; often; frequently; 常常</div>
+<div class="chineseChars">水平</div>|<div class="answer">shuǐpíng; level; proficiency</div>
+<div class="chineseChars">有名</div>|<div class="answer">yǒumíng; famous; well-known</div>
+<div class="chineseChars">熊猫</div>|<div class="answer">xióngmāo; panda</div>
+<div class="chineseChars">忘记</div>|<div class="answer">wàngjì; to forget; 忘</div>
+<div class="chineseChars">坏</div>|<div class="answer">huài; bad; broken</div>
+<div class="chineseChars">渴</div>|<div class="answer">kě; thirsty</div>
+<div class="chineseChars">花园</div>|<div class="answer">huāyuán; garden</div>
