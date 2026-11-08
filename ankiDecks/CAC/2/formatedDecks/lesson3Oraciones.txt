@@ -2,7 +2,7 @@
 <div class="chineseChars">羊肉比牛肉更贵。</div>|<div class="answer">yángròu bǐ niúròu gèng guì. <span class="english">Lamb is more expensive than beef.</span></div>
 <div class="chineseChars">告诉你一个好消息。</div>|<div class="answer">gàosu nǐ yí ge hǎo xiāoxi. <span class="english">Let me tell you some good news.</span></div>
 <div class="chineseChars">你有他的消息了吗？</div>|<div class="answer">nǐ yǒu tā de xiāoxi le ma? <span class="english">Have you heard from him?</span></div>
-<div class="chineseChars">听到这个消息，我非常难过。</div>|<div class="answer">tīngdào zhège xiāoxi, wǒ fēicháng nánguò. <span class="english">I was very sad to hear this news.</span></div>
+<div class="chineseChars">听到这个消息，我非常难过。</div>|<div class="answer">tīngdào zhè ge xiāoxi, wǒ fēicháng nánguò. <span class="english">I was very sad to hear this news.</span></div>
 <div class="chineseChars">别难过了，我们出去走走吧。</div>|<div class="answer">bié nánguò le, wǒmen chūqù zǒuzǒu ba. <span class="english">Don't be sad. Let's go out for a walk.</span></div>
 <div class="chineseChars">明天我有一个面试。</div>|<div class="answer">míngtiān wǒ yǒu yí ge miànshì. <span class="english">I have an interview tomorrow.</span></div>
 <div class="chineseChars">你的面试怎么样，有消息了吗？</div>|<div class="answer">nǐ de miànshì zěnmeyàng, yǒu xiāoxi le ma? <span class="english">How was your interview? Have you heard back?</span></div>

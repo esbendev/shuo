@@ -1,9 +1,9 @@
-<div class="chineseChars">你的优点和缺点是什么？</div>|<div class="answer">nǐdeyōudiǎnhéquēdiǎnshìshénme?; What are your strengths and weaknesses?</div>
-<div class="chineseChars">我很懒</div>|<div class="answer">wǒhěnlǎn; I am very lazy.</div>
-<div class="chineseChars">我喜欢花钱买钢笔和铅笔。</div>|<div class="answer">wǒxǐhuānhuāqiánmǎigāngbǐhéqiānbǐ.; I like spending money on pens and pencils.</div>
+<div class="chineseChars">你的优点和缺点是什么？</div>|<div class="answer">nǐ de yōudiǎn hé quēdiǎn shì shénme?; What are your strengths and weaknesses?</div>
+<div class="chineseChars">我很懒</div>|<div class="answer">wǒ hěn lǎn; I am very lazy.</div>
+<div class="chineseChars">我喜欢花钱买钢笔和铅笔。</div>|<div class="answer">wǒ xǐhuān huā qián mǎi gāngbǐ hé qiānbǐ.; I like spending money on pens and pencils.</div>
 <div class="chineseChars">日记</div>|<div class="answer">rìjì; diary; journal</div>
-<div class="chineseChars">我喜欢跟家人在一起。</div>|<div class="answer">wǒxǐhuāngēnjiārénzàiyìqǐ.; I like being with my family.</div>
-<div class="chineseChars">我花了很多时间学习中文。</div>|<div class="answer">wǒhuālehěnduōshíjiānxuéxízhōngwén.; I spent a lot of time studying Chinese.</div>
+<div class="chineseChars">我喜欢跟家人在一起。</div>|<div class="answer">wǒ xǐhuān gēn jiārén zài yìqǐ.; I like being with my family.</div>
+<div class="chineseChars">我花了很多时间学习中文。</div>|<div class="answer">wǒ huā le hěn duō shíjiān xuéxí zhōngwén.; I spent a lot of time studying Chinese.</div>
 <div class="chineseChars">赢</div>|<div class="answer">yíng; to win</div>
-<div class="chineseChars">昨天他们赢了。</div>|<div class="answer">zuótiāntāmenyíngle.; They won yesterday.</div>
-<div class="chineseChars">我的睡眠</div>|<div class="answer">wǒdeshuìmián; my sleep</div>
+<div class="chineseChars">昨天他们赢了。</div>|<div class="answer">zuótiān tāmen yíng le.; They won yesterday.</div>
+<div class="chineseChars">我的睡眠</div>|<div class="answer">wǒ de shuìmián; my sleep</div>
