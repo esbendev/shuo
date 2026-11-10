@@ -1,0 +1,13 @@
+<div class="chineseChars">动物</div>|<div class="answer">dòngwù - animal</div>
+<div class="chineseChars">拍照 / 照相</div>|<div class="answer">pāizhào / zhàoxiàng - to take photos</div>
+<div class="chineseChars">照相机</div>|<div class="answer">zhàoxiàngjī - camera</div>
+<div class="chineseChars">锻炼</div>|<div class="answer">duànliàn - to exercise (body, brain, ability...)</div>
+<div class="chineseChars">邻居</div>|<div class="answer">línjū - neighbor</div>
+<div class="chineseChars">小心</div>|<div class="answer">xiǎoxīn - to be careful</div>
+<div class="chineseChars">担心</div>|<div class="answer">dānxīn - to worry</div>
+<div class="chineseChars">放心</div>|<div class="answer">fàngxīn - to feel relieved; don't worry</div>
+<div class="chineseChars">对......满意</div>|<div class="answer">duì... mǎnyì - to be satisfied with...</div>
+<div class="chineseChars">对......感兴趣 / 有兴趣</div>|<div class="answer">duì... gǎn xìngqù / yǒu xìngqù - to be interested in...</div>
+<div class="chineseChars">对......热情</div>|<div class="answer">duì... rèqíng - to be warm/enthusiastic toward...</div>
+<div class="chineseChars">历史</div>|<div class="answer">lìshǐ - history</div>
+<div class="chineseChars">文化</div>|<div class="answer">wénhuà - culture</div>
