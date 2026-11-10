@@ -1,0 +1,486 @@
+{
+    "titulo": "CAC Lesson 9 Audio",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/1.mp3"
+            ],
+            "respuesta_correcta": [
+                "动物"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "animal"
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/2.mp3"
+            ],
+            "respuesta_correcta": [
+                "动物园里有很多动物。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "There are many animals in the zoo."
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/3.mp3"
+            ],
+            "respuesta_correcta": [
+                "这里的动物，我一个也不认识。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I don’t know any of the animals here."
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/4.mp3"
+            ],
+            "respuesta_correcta": [
+                "拍照"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to take a photo"
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/5.mp3"
+            ],
+            "respuesta_correcta": [
+                "照相机"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to take a photo"
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/6.mp3"
+            ],
+            "respuesta_correcta": [
+                "旅行的时候，我不喜欢拍照。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I don’t like taking pictures while traveling."
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/7.mp3"
+            ],
+            "respuesta_correcta": [
+                "他的工作是给别人拍照。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "His job is taking photos for others."
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/8.mp3"
+            ],
+            "respuesta_correcta": [
+                "照相机"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "camera"
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/9.mp3"
+            ],
+            "respuesta_correcta": [
+                "他买了一台新的照相机。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "He bought a new camera."
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/10.mp3"
+            ],
+            "respuesta_correcta": [
+                "锻炼"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to exercise"
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/11.mp3"
+            ],
+            "respuesta_correcta": [
+                "他每天都去公园锻炼身体。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "He goes to the park every day to exercise."
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/12.mp3"
+            ],
+            "respuesta_correcta": [
+                "一个人去外国，也是 一种锻炼。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Going abroad alone is also a kind of growth."
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/13.mp3"
+            ],
+            "respuesta_correcta": [
+                "邻居"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "neighbor"
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/14.mp3"
+            ],
+            "respuesta_correcta": [
+                "我的邻居是一个阿姨。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "My neighbor is an auntie."
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/15.mp3"
+            ],
+            "respuesta_correcta": [
+                "他的邻居有一个很大的花园。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "His neighbor has a big garden."
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/16.mp3"
+            ],
+            "respuesta_correcta": [
+                "小心"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to be careful"
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/17.mp3"
+            ],
+            "respuesta_correcta": [
+                "小心！有车来了！"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Be careful! A car is coming!"
+        },
+        {
+            "id": 18,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/18.mp3"
+            ],
+            "respuesta_correcta": [
+                "你要小心说话，别让他不高兴。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Be careful what you say, don’t make him upset."
+        },
+        {
+            "id": 19,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/19.mp3"
+            ],
+            "respuesta_correcta": [
+                "担心"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to worry"
+        },
+        {
+            "id": 20,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/20.mp3"
+            ],
+            "respuesta_correcta": [
+                "他妈妈很担心他。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "His mom is very worried about him."
+        },
+        {
+            "id": 21,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/21.mp3"
+            ],
+            "respuesta_correcta": [
+                "别担心，我一个人能行。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Don’t worry, I can manage on my own."
+        },
+        {
+            "id": 22,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/22.mp3"
+            ],
+            "respuesta_correcta": [
+                "放心"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to feel relieved"
+        },
+        {
+            "id": 23,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/23.mp3"
+            ],
+            "respuesta_correcta": [
+                "放心吧，我能做好！"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Don’t worry, I can do it well!"
+        },
+        {
+            "id": 24,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/24.mp3"
+            ],
+            "respuesta_correcta": [
+                "他一个人去，我有点儿不放心。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "He’s going alone, I feel a bit uneasy."
+        },
+        {
+            "id": 25,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/25.mp3"
+            ],
+            "respuesta_correcta": [
+                "对……满意"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to be satisfied with..."
+        },
+        {
+            "id": 26,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/26.mp3"
+            ],
+            "respuesta_correcta": [
+                "我对他的回答不满意。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I’m not satisfied with his answer."
+        },
+        {
+            "id": 27,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/27.mp3"
+            ],
+            "respuesta_correcta": [
+                "如果你对我不满意，就告诉我。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "If you’re not happy with me, just tell me."
+        },
+        {
+            "id": 28,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/28.mp3"
+            ],
+            "respuesta_correcta": [
+                "对……感兴趣"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to be interested in..."
+        },
+        {
+            "id": 29,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/29.mp3"
+            ],
+            "respuesta_correcta": [
+                "对……有兴趣"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to be interested in..."
+        },
+        {
+            "id": 30,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/30.mp3"
+            ],
+            "respuesta_correcta": [
+                "我对这件事情没有兴趣。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I’m not interested in this matter."
+        },
+        {
+            "id": 31,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/31.mp3"
+            ],
+            "respuesta_correcta": [
+                "我对音乐很感兴趣。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I’m very interested in music."
+        },
+        {
+            "id": 32,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/32.mp3"
+            ],
+            "respuesta_correcta": [
+                "对……热情"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to be warm towards..."
+        },
+        {
+            "id": 33,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/33.mp3"
+            ],
+            "respuesta_correcta": [
+                "中国人对人很热情。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Chinese people are very warm to others."
+        },
+        {
+            "id": 34,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/34.mp3"
+            ],
+            "respuesta_correcta": [
+                "他对每个人都很热情，就是对我不热情。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "He’s warm to everyone, except me."
+        },
+        {
+            "id": 35,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/35.mp3"
+            ],
+            "respuesta_correcta": [
+                "历史"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "history"
+        },
+        {
+            "id": 36,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/36.mp3"
+            ],
+            "respuesta_correcta": [
+                "中国有很长的历史。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "China has a long history."
+        },
+        {
+            "id": 37,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/37.mp3"
+            ],
+            "respuesta_correcta": [
+                "我对中国历史很感兴趣。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I’m very interested in Chinese history."
+        },
+        {
+            "id": 38,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/38.mp3"
+            ],
+            "respuesta_correcta": [
+                "文化"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "culture"
+        },
+        {
+            "id": 39,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/39.mp3"
+            ],
+            "respuesta_correcta": [
+                "我们不但要学习语言，而且要学习中国文化。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "We need to study not only the language but also Chinese culture."
+        },
+        {
+            "id": 40,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-9a/40.mp3"
+            ],
+            "respuesta_correcta": [
+                "我对中国文化特别感兴趣。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I’m especially interested in Chinese culture."
+        }
+    ]
+}
