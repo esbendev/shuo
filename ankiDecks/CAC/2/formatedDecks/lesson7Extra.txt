@@ -1,0 +1,18 @@
+<div class="chineseChars">老虎</div>|<div class="answer">lǎohǔ; tiger</div>
+<div class="chineseChars">大象</div>|<div class="answer">dàxiàng; elephant</div>
+<div class="chineseChars">猴子</div>|<div class="answer">hóuzi; monkey</div>
+<div class="chineseChars">狐狸</div>|<div class="answer">húli; fox</div>
+<div class="chineseChars">生物</div>|<div class="answer">shēngwù; creature; biology</div>
+<div class="chineseChars">物理</div>|<div class="answer">wùlǐ; physics</div>
+<div class="chineseChars">你去旅游的时候，应该拍很多照。</div>|<div class="answer">nǐ qù lǚyóu de shíhòu, yīnggāi pāi hěn duō zhào.; When you go traveling, you should take lots of photos.</div>
+<div class="chineseChars">自拍</div>|<div class="answer">zìpāi; selfie; to take a selfie</div>
+<div class="chineseChars">邻家女孩</div>|<div class="answer">línjiā nǚhái; girl next door</div>
+<div class="chineseChars">路上小型</div>|<div class="answer">lùshàng xiǎoxíng; small or compact on the road</div>
+<div class="chineseChars">借充电宝</div>|<div class="answer">jiè chōngdiànbǎo; borrow a power bank</div>
+<div class="chineseChars">我的猫生病了，我很担心。</div>|<div class="answer">wǒ de māo shēngbìng le, wǒ hěn dānxīn.; My cat is sick, and I am very worried.</div>
+<div class="chineseChars">雨季</div>|<div class="answer">yǔjì; rainy season</div>
+<div class="chineseChars">旱季</div>|<div class="answer">hànjì; dry season</div>
+<div class="chineseChars">自动车</div>|<div class="answer">zìdòngchē; car; automatic vehicle</div>
+<div class="chineseChars">我办事！你放心</div>|<div class="answer">wǒ bànshì! nǐ fàngxīn.; I'll take care of it! Relax / don't worry.</div>
+<div class="chineseChars">都有道理</div>|<div class="answer">dōu yǒu dàolǐ.; They all make sense; everyone has a point.</div>
+<div class="chineseChars">亚洲人</div>|<div class="answer">yàzhōu rén; Asian person</div>

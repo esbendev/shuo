@@ -1,0 +1,11 @@
+<div class="chineseChars">黑</div>|<div class="answer">hēi; dark</div>
+<div class="chineseChars">复习</div>|<div class="answer">fùxí; to review</div>
+<div class="chineseChars">你帮我的忙吗？</div>|<div class="answer">nǐ bāng wǒ de máng ma?; Can you help me?</div>
+<div class="chineseChars">时间到了</div>|<div class="answer">shíjiān dàole.; Time's up.</div>
+<div class="chineseChars">欧洲</div>|<div class="answer">ōuzhōu; Europe</div>
+<div class="chineseChars">四季酒店</div>|<div class="answer">sìjì jiǔdiàn; Four Seasons Hotel</div>
+<div class="chineseChars">芝加哥</div>|<div class="answer">zhījiāgē; Chicago</div>
+<div class="chineseChars">西雅图</div>|<div class="answer">xīyàtú; Seattle</div>
+<div class="chineseChars">海边</div>|<div class="answer">hǎibiān; seaside; seashore</div>
+<div class="chineseChars">想法</div>|<div class="answer">xiǎngfǎ; idea; thought</div>
+<div class="chineseChars">歌手</div>|<div class="answer">gēshǒu; singer</div>
