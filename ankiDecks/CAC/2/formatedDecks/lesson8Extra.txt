@@ -1,0 +1,5 @@
+<div class="chineseChars">兴趣</div>|<div class="answer">xìngqù; interest</div>
+<div class="chineseChars">故宫</div>|<div class="answer">gùgōng; the Forbidden City</div>
+<div class="chineseChars">好笑</div>|<div class="answer">hǎoxiào; funny; amusing</div>
+<div class="chineseChars">感觉有点儿好笑，“欢迎”的西班牙语写错了。但是我也感觉他们对新员工很热情。</div>|<div class="answer">gǎnjué yǒu diǎnr hǎoxiào, “huānyíng” de xībānyáyǔ xiěcuòle. dànshì wǒ yě gǎnjué tāmen duì xīnyuángōng hěn rèqing.; I found it a bit funny; the Spanish word “welcome” was misspelled. But I also felt they were very enthusiastic toward the new employees.</div>
+<div class="chineseChars">花心</div>|<div class="answer">huāxīn; flirtatious; fickle</div>
