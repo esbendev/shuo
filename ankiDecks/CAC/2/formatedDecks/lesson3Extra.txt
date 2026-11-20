@@ -19,5 +19,4 @@
 <div class="chineseChars">老师讲了三遍，我才懂。</div>|<div class="answer">lǎoshī jiǎng le sān biàn, wǒ cái dǒng.; After the teacher explained it three times, I finally understood.</div>
 <div class="chineseChars">关系</div>|<div class="answer">guānxì; relationship; connection</div>
 <div class="chineseChars">如果你努力学习中文，你就可以成功。</div>|<div class="answer">rúguǒ nǐ nǔlì xuéxí zhōngwén, nǐ jiù kěyǐ chénggōng.; If you study Chinese diligently, you can succeed.</div>
-<div class="chineseChars">叙事 (familiar?)</div>|<div class="answer">xùshì (familiar?); narrative (familiar?)</div>
 <div class="chineseChars">T恤</div>|<div class="answer">tìxù; T-shirt</div>
