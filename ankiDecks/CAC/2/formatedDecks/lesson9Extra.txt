@@ -1,0 +1,12 @@
+<div class="chineseChars">面对面</div>|<div class="answer">miàn duì miàn; face to face</div>
+<div class="chineseChars">点头</div>|<div class="answer">diǎn tóu; to nod</div>
+<div class="chineseChars">他对自己笑。</div>|<div class="answer">tā duì zìjǐ xiào.; He smiles at himself.</div>
+<div class="chineseChars">别人对他很满意。</div>|<div class="answer">biérén duì tā hěn mǎnyì.; Others are very satisfied with him.</div>
+<div class="chineseChars">我的句子一定要是一个问题吗？</div>|<div class="answer">wǒ de jùzi yídìng yào shì yīgè wèntí ma?; Does my sentence have to be a question?</div>
+<div class="chineseChars">面试对公司很重要。</div>|<div class="answer">miànshì duì gōngsī hěn zhòngyào.; Interviews are very important to the company.</div>
+<div class="chineseChars">要看</div>|<div class="answer">yào kàn; to depend</div>
+<div class="chineseChars">动物对我说： "啊，你没有毛。"</div>|<div class="answer">dòngwù duì wǒ shuō: "ā, nǐ méiyǒu máo."; The animal said to me, "Ah, you don't have fur."</div>
+<div class="chineseChars">无聊</div>|<div class="answer">wúliáo; boring; tedious</div>
+<div class="chineseChars">对一个坏人来说开车开得很快太酷了。</div>|<div class="answer">duì yīgè huàirén láishuō kāichē kāide hěn kuài tài kùle.; For a bad person, driving very fast is too cool.</div>
+<div class="chineseChars">杀人</div>|<div class="answer">shārén; to murder; to kill</div>
+<div class="chineseChars">对施本城来说，他的猫很可爱。</div>|<div class="answer">duì Shī Běnchéng láishuō, tā de māo hěn kě'ài.; To Shī Běnchéng, his cat is very cute.</div>
