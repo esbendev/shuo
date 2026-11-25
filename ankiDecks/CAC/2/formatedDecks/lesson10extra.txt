@@ -1,0 +1,14 @@
+<div class="chineseChars">我在想</div>|<div class="answer">wǒ zài xiǎng; to be thinking; to be considering</div>
+<div class="chineseChars">变成</div>|<div class="answer">biànchéng; to become; to turn into</div>
+<div class="chineseChars">我学习很多中文，但是现在都忘记了。</div>|<div class="answer">wǒ xuéxí hěn duō zhōngwén, dànshì xiànzài dōu wàngjì le; I studied a lot of Chinese, but now I've forgotten most of it.</div>
+<div class="chineseChars">你觉得什么对你的身体健康最有帮助？</div>|<div class="answer">nǐ juéde shénme duì nǐ de shēntǐ jiànkāng zuì yǒu bāngzhù?; What do you think is most helpful for your physical health?</div>
+<div class="chineseChars">你觉得什么对你的中文学习最有用？</div>|<div class="answer">nǐ juéde shénme duì nǐ de zhōngwén xuéxí zuì yǒu yòng?; What do you think is most useful for your Chinese studies?</div>
+<div class="chineseChars">如果一个不认识的人对你笑，你会怎么做？</div>|<div class="answer">rúguǒ yí ge bù rènshi de rén duì nǐ xiào, nǐ huì zěnme zuò?; If a stranger smiles at you, what will you do?</div>
+<div class="chineseChars">如果你的老师说：“我打算不教中文了。”你会对她说什么？</div>|<div class="answer">rúguǒ nǐ de lǎoshī shuō: “wǒ dǎsuàn bù jiào zhōngwén le.” nǐ huì duì tā shuō shénme?; If your teacher says, “I'm planning to stop teaching Chinese,” what would you say to her?</div>
+<div class="chineseChars">如果你的朋友的男朋友对她不好，你会怎么做？</div>|<div class="answer">rúguǒ nǐ de péngyou de nánpéngyou duì tā bù hǎo, nǐ huì zěnme zuò?; If your friend’s boyfriend treats her badly, what would you do?</div>
+<div class="chineseChars">对你来说，最棒的一天是怎么样的？</div>|<div class="answer">duì nǐ láishuō, zuì bàng de yìtiān shì zěnmeyàng de?; For you, what is an ideal day like?</div>
+<div class="chineseChars">我一定对她说：“我希望你开心，但是我们都会想你。”</div>|<div class="answer">wǒ yídìng duì tā shuō: “wǒ xīwàng nǐ kāixīn, dànshì wǒmen dōu huì xiǎng nǐ.”; I would definitely tell her, “I hope you are happy, but we will all miss you.”</div>
+<div class="chineseChars">化妆</div>|<div class="answer">huàzhuāng; to put on makeup</div>
+<div class="chineseChars">你觉得年轻的你会对现在的你满意吗？</div>|<div class="answer">nǐ juéde niánqīng de nǐ huì duì xiànzài de nǐ mǎnyì ma?; Do you think your younger self would be satisfied with you now?</div>
+<div class="chineseChars">精神</div>|<div class="answer">jīngshén; spirit; mental state; energy</div>
+<div class="chineseChars">你觉得老的时候最有意思的什么？</div>|<div class="answer">nǐ juéde lǎo de shíhou zuì yǒuyìsi de shénme?; What do you think is the most interesting thing about being old?</div>
