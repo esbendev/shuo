@@ -1,0 +1,12 @@
+<div class="chineseChars">打扫</div>|<div class="answer">to clean - dǎsǎo</div>
+<div class="chineseChars">播客</div>|<div class="answer">podcast - bōkè</div>
+<div class="chineseChars">打扫</div>|<div class="answer">to clean - dǎsǎo</div>
+<div class="chineseChars">播客</div>|<div class="answer">podcast - bōkè</div>
+<div class="chineseChars">重要</div>|<div class="answer">important - zhòngyào</div>
+<div class="chineseChars">行李箱</div>|<div class="answer">suitcase - xínglǐxiāng</div>
+<div class="chineseChars">干净</div>|<div class="answer">clean - gānjìng</div>
+<div class="chineseChars">毕业</div>|<div class="answer">to graduate - bìyè</div>
+<div class="chineseChars">机会</div>|<div class="answer">opportunity - jīhuì</div>
+<div class="chineseChars">专业</div>|<div class="answer">major - zhuānyè</div>
+<div class="chineseChars">奇怪</div>|<div class="answer">strange - qíguài</div>
+<div class="chineseChars">继续</div>|<div class="answer">to continue - jìxù</div>

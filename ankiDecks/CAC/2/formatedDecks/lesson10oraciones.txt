@@ -1,0 +1,20 @@
+<div class="chineseChars">每个周末，我都会打扫房间。</div>|<div class="answer">Měi gè zhōumò, wǒ dōu huì dǎsǎo fángjiān. <span class="english">I clean the room every weekend.</span></div>
+<div class="chineseChars">他讨厌打扫。</div>|<div class="answer">Tā tǎoyàn dǎsǎo. <span class="english">He hates cleaning.</span></div>
+<div class="chineseChars">听播客对学习中文有帮助。</div>|<div class="answer">Tīng bōkè duì xuéxí Zhōngwén yǒu bāngzhù. <span class="english">Listening to podcasts is helpful for learning Chinese.</span></div>
+<div class="chineseChars">这个播客对我来说太难了。</div>|<div class="answer">Zhège bōkè duì wǒ lái shuō tài nán le. <span class="english">This podcast is too difficult for me.</span></div>
+<div class="chineseChars">这件事特别重要。</div>|<div class="answer">Zhè jiàn shì tèbié zhòngyào. <span class="english">This matter is especially important.</span></div>
+<div class="chineseChars">对我来说，工作是最重要的。</div>|<div class="answer">Duì wǒ lái shuō, gōngzuò shì zuì zhòngyào de. <span class="english">To me, work is the most important.</span></div>
+<div class="chineseChars">我买了一个新的行李箱。</div>|<div class="answer">Wǒ mǎi le yí gè xīn de xínglǐxiāng. <span class="english">I bought a new suitcase.</span></div>
+<div class="chineseChars">你的行李箱里有什么？</div>|<div class="answer">Nǐ de xínglǐxiāng lǐ yǒu shénme? <span class="english">What's in your suitcase?</span></div>
+<div class="chineseChars">这件衬衫一点儿也不干净。</div>|<div class="answer">Zhè jiàn chènshān yì diǎnr yě bù gānjìng. <span class="english">This shirt isn't clean at all.</span></div>
+<div class="chineseChars">你的家好干净啊！你每天都打扫吗？</div>|<div class="answer">Nǐ de jiā hǎo gānjìng a! Nǐ měitiān dōu dǎsǎo ma? <span class="english">Your home is so clean! Do you clean every day?</span></div>
+<div class="chineseChars">他们打算毕业以后就结婚。</div>|<div class="answer">Tāmen dǎsuàn bìyè yǐhòu jiù jiéhūn. <span class="english">They plan to get married after graduation.</span></div>
+<div class="chineseChars">还有三年，我才能毕业。</div>|<div class="answer">Hái yǒu sān nián, wǒ cái néng bìyè. <span class="english">I can only graduate in three more years.</span></div>
+<div class="chineseChars">在我们公司，谁都有机会成功！</div>|<div class="answer">Zài wǒmen gōngsī, shéi dōu yǒu jīhuì chénggōng! <span class="english">In our company, everyone has the chance to succeed!</span></div>
+<div class="chineseChars">你放心吧，一定有好机会！</div>|<div class="answer">Nǐ fàngxīn ba, yídìng yǒu hǎo jīhuì! <span class="english">Don't worry, there will definitely be a good opportunity!</span></div>
+<div class="chineseChars">我想选择中文专业。</div>|<div class="answer">Wǒ xiǎng xuǎnzé Zhōngwén zhuānyè. <span class="english">I want to choose Chinese as my major.</span></div>
+<div class="chineseChars">你大学的专业是什么？</div>|<div class="answer">Nǐ dàxué de zhuānyè shì shénme? <span class="english">What's your college major?</span></div>
+<div class="chineseChars">我感觉我的邻居有点奇怪。</div>|<div class="answer">Wǒ gǎnjué wǒ de línjū yǒudiǎn qíguài. <span class="english">I feel like my neighbor is a little strange.</span></div>
+<div class="chineseChars">我发现了一件奇怪的事情。</div>|<div class="answer">Wǒ fāxiàn le yí jiàn qíguài de shìqing. <span class="english">I discovered something strange.</span></div>
+<div class="chineseChars">我在听，你继续说。</div>|<div class="answer">Wǒ zài tīng, nǐ jìxù shuō. <span class="english">I'm listening, go on.</span></div>
+<div class="chineseChars">毕业以后，我不想找工作，我还想继续学习。</div>|<div class="answer">Bìyè yǐhòu, wǒ bù xiǎng zhǎo gōngzuò, wǒ hái xiǎng jìxù xuéxí. <span class="english">After graduation, I don't want to find a job; I want to continue studying.</span></div>
