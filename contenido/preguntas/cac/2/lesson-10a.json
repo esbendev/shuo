@@ -1,0 +1,366 @@
+{
+    "titulo": "CAC Lesson 10 Audio",
+    "showHelp": true,
+    "preguntas": [
+        {
+            "id": 1,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/1.mp3"
+            ],
+            "respuesta_correcta": [
+                "打扫"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to clean"
+        },
+        {
+            "id": 2,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/2.mp3"
+            ],
+            "respuesta_correcta": [
+                "每个周末,我都会打扫房间。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I clean the room every weekend."
+        },
+        {
+            "id": 3,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/3.mp3"
+            ],
+            "respuesta_correcta": [
+                "他讨厌打扫。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "He hates cleaning."
+        },
+        {
+            "id": 4,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/4.mp3"
+            ],
+            "respuesta_correcta": [
+                "播客"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "podcast"
+        },
+        {
+            "id": 5,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/5.mp3"
+            ],
+            "respuesta_correcta": [
+                "听播客对学习中文有帮助。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Listening to podcasts is helpful for learning Chinese."
+        },
+        {
+            "id": 6,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/6.mp3"
+            ],
+            "respuesta_correcta": [
+                "这个播客对我来说太难了。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "This podcast is too difficult for me."
+        },
+        {
+            "id": 7,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/7.mp3"
+            ],
+            "respuesta_correcta": [
+                "重要"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "important"
+        },
+        {
+            "id": 8,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/8.mp3"
+            ],
+            "respuesta_correcta": [
+                "这件事特别重要。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "This matter is especially important."
+        },
+        {
+            "id": 9,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/9.mp3"
+            ],
+            "respuesta_correcta": [
+                "对我来说,工作是最重要的。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "To me, work is the most important."
+        },
+        {
+            "id": 10,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/10.mp3"
+            ],
+            "respuesta_correcta": [
+                "行李箱"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "suitcase"
+        },
+        {
+            "id": 11,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/11.mp3"
+            ],
+            "respuesta_correcta": [
+                "我买了一个新的行李箱。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I bought a new suitcase."
+        },
+        {
+            "id": 12,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/12.mp3"
+            ],
+            "respuesta_correcta": [
+                "你的行李箱里有什么?"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "What’s in your suitcase?"
+        },
+        {
+            "id": 13,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/13.mp3"
+            ],
+            "respuesta_correcta": [
+                "干净"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "clean"
+        },
+        {
+            "id": 14,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/14.mp3"
+            ],
+            "respuesta_correcta": [
+                "这件衬衫一点儿也不干净。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "This shirt isn’t clean at all."
+        },
+        {
+            "id": 15,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/15.mp3"
+            ],
+            "respuesta_correcta": [
+                "你的家好干净啊!你每天都打扫吗?"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Your home is so clean! Do you clean every day?"
+        },
+        {
+            "id": 16,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/16.mp3"
+            ],
+            "respuesta_correcta": [
+                "毕业"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to graduate"
+        },
+        {
+            "id": 17,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/17.mp3"
+            ],
+            "respuesta_correcta": [
+                "他们打算毕业以后就结婚。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "They plan to get married after graduation."
+        },
+        {
+            "id": 18,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/18.mp3"
+            ],
+            "respuesta_correcta": [
+                "还有三年,我才能毕业。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I can only graduate in three more years."
+        },
+        {
+            "id": 19,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/19.mp3"
+            ],
+            "respuesta_correcta": [
+                "机会"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "opportunity"
+        },
+        {
+            "id": 20,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/20.mp3"
+            ],
+            "respuesta_correcta": [
+                "在我们公司,谁都有机会成功!"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "In our company, everyone has the chance to succeed!"
+        },
+        {
+            "id": 21,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/21.mp3"
+            ],
+            "respuesta_correcta": [
+                "你放心吧,一定有好机会!"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "Don’t worry, there will definitely be a good opportunity!"
+        },
+        {
+            "id": 22,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/22.mp3"
+            ],
+            "respuesta_correcta": [
+                "专业"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "major (in school)"
+        },
+        {
+            "id": 23,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/23.mp3"
+            ],
+            "respuesta_correcta": [
+                "我想选择中文专业。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I want to choose Chinese as my major."
+        },
+        {
+            "id": 24,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/24.mp3"
+            ],
+            "respuesta_correcta": [
+                "你大学的专业是什么?"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "What’s your college major?"
+        },
+        {
+            "id": 25,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/25.mp3"
+            ],
+            "respuesta_correcta": [
+                "奇怪"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "strange"
+        },
+        {
+            "id": 26,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/26.mp3"
+            ],
+            "respuesta_correcta": [
+                "我感觉我的邻居有点奇怪。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I feel like my neighbor is a little strange."
+        },
+        {
+            "id": 27,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/27.mp3"
+            ],
+            "respuesta_correcta": [
+                "我发现了一件奇怪的事情。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I discovered something strange."
+        },
+        {
+            "id": 28,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/28.mp3"
+            ],
+            "respuesta_correcta": [
+                "继续"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "to continue"
+        },
+        {
+            "id": 29,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/29.mp3"
+            ],
+            "respuesta_correcta": [
+                "我在听,你继续说。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "I’m listening, go on."
+        },
+        {
+            "id": 30,
+            "instrucciones": "Listen to the audio and write what you hear.",
+            "archivo_audio": [
+                "../contenido/audio/cac/2/lesson-10a/30.mp3"
+            ],
+            "respuesta_correcta": [
+                "毕业以后,我不想找工作,我还想继续学习。"
+            ],
+            "input_chars_aceptados": [],
+            "texto_en_ingles": "After graduation, I don’t want to find a job; I want to continue studying."
+        }
+    ]
+}
